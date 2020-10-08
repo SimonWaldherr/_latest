@@ -57,4 +57,4 @@ urls = [
 """
 Scrape the news articles
 """
-scrape(urls, 'health')
+scrape(urls, 'latest')
