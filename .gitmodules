@@ -1,0 +1,4 @@
+[submodule "scraper"]
+	path = scraper
+	url = https://github.com/finescoop/scraper
+	branch = main
