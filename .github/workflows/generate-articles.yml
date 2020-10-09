@@ -9,6 +9,7 @@ jobs:
             -   uses: actions/checkout@v2
                 with:
                     submodules: true
+                    token: ${{ secrets.GH_PAT }}
             -   name: "Install setup tools"
                 run: "python3 -m pip install -U pip setuptools"
             -   name: "Install Requirements"

@@ -14,7 +14,6 @@ urls = [
     'http://bleacherreport.com/',
     'http://www.businessinsider.com/',
     'http://www.bbc.com/',
-    'http://www.cnet.com/',
     'http://www.theguardian.com/us',
     'http://www.msn.com/en-us/news',
     'http://www.npr.org/',
