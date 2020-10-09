@@ -1,0 +1,37 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static.independent.co.uk/2020/10/09/15/GettyImages-1278691114.jpg 
+title: > 
+  Wars and pandemics produce the same sort of lethal government bungling 
+description: > 
+  In all cases, arrogant assumptions of competence and strength were brutally exposed by complicated and dangerous realities on the ground.The spectacular ineptitude of Trump and Johnson masks the extent to which the decline of the Anglo-American political elite long predates their arrival in power.Trump’s comic opera boasts about “Making America Great Again” and Johnson’s puerile boosterism for “Global Britain” sounds more and more pathetic.Governments of all stripes see wars, natural disasters and, most recently, epidemics as an existential threat to themselves, but also as an opportunity.They underestimate their enemy, be it a human agency or a virus, and flounder when combating a real threat. 
+date: 1602276477.5679376 
+--- 
+The battle against Covid-19 is often compared to real war. The analogy encourages a “we are all in it together” solidarity and suggests that it is unpatriotic to criticise or oppose government decisions.
+
+Yet the comparison should not be entirely dismissed as self-serving bluster by political leaders because a war and a pandemic have many points in common. Both are matters of life and death for people who will not forgive those in charge that get them into a calamitous crisis or cannot get them out of it. Witness how Tony Blair was ultimately capsized by the Iraq War, and how President Donald Trump’s re-election chances are being hit by his grotesque mishandling of the pandemic.
+
+Watching the antics of Trump and the blunders of Boris Johnson in failing to cope with the virus, I have the same feeling I had repeatedly over the last 20 years when reporting on wars in Iraq, Afghanistan, Syria and Libya. In all cases, arrogant assumptions of competence and strength were brutally exposed by complicated and dangerous realities on the ground.
+
+The spectacular ineptitude of Trump and Johnson masks the extent to which the decline of the Anglo-American political elite long predates their arrival in power. The consequences of these long-term failings for the US and UK only became clear this year as the number of their citizens dying has soared above the figure for comparable powers. Trump’s comic opera boasts about “Making America Great Again” and Johnson’s puerile boosterism for “Global Britain” sounds more and more pathetic.
+
+Governments of all stripes see wars, natural disasters and, most recently, epidemics as an existential threat to themselves, but also as an opportunity. Get it wrong and they may put themselves out of business for good. Get it right and they could strengthen their grip on power for decades. Frequently, they come spectacularly unstuck because of an exaggerated idea of their own capabilities. They underestimate their enemy, be it a human agency or a virus, and flounder when combating a real threat.
+
+Most governments are good at producing plausible policies, but are alarmed and found wanting when these supposed strategies have to be implemented. Politicians are often poor at the complex business of “operationalising” policies and taken aback when they discover that the results of past mistakes cannot be put right on the night.
+
+The record of the Johnson government is a caricature of this approach. It conveys an air of baffled amateurism as successive lockdowns and quasi-lockdowns flounder and fail. It does not see that attempts to transform the well-established patterns of behaviour of millions of people cannot succeed by simply announcing new regulations and threatening heavy fines for those who do not obey them.
+
+For all the furore about new restrictions in the north of England, a more important question is how far people are complying with the old ones. There is strong evidence that pervasive non-adherence is the answer to Sir Keir Starmer’s question – unanswered by Johnson – this week about why 19 out of 20 areas subject to restrictions over the last two months are still showing a sharp rise in infections.
+
+A convincing reason for why lockdowns are not working comes in a little-remarked survey by King’s College, London, showing a vast disparity between the proportion of people who say they will quarantine and those who actually do so. A survey of 31,787 people living in the UK between March and August reveals that 70 per cent of people who had not experienced Covid-19 symptoms in the previous week said that they intended to self-isolate, if they did develop these key symptoms, and 50 per cent said they would request an antigen test.
+
+But the survey also shows that people mostly do not follow through on their good intentions. The crucial passage says that “of those that reported the key Covid-19 symptoms in the last week, 18.2 per cent reported that they had self-isolated and 11.9 per cent reported that they had requested an antigen test”. The reasons for the exceptionally low compliance with restrictions is that poor people find that they have to give priority to making a living and looking after children and other relatives. “While intention to carry out test, trace and isolate behaviours is high, our results show that adherence is low,” says Louise Smith, one of the authors of the report, which has still to be peer-reviewed.
+
+The study suggests improved communications with people to explain the nature and risks of coronavirus and better financial support for those who should be isolating. But I think that ship has sailed and the moment has passed when people were ready to comply with restrictions that might lose them their job or prevent them from looking after their children or parents. Compliance with the first big lockdown was probably less than it looked at the time and it cannot be repeated because those who made sacrifices then can see that it did not work. They can also see no reason to suppose that further restrictions will be any more successful.
+
+Confidence that the government knows what it is doing has plummeted since the first half of the year. Criticism has focused on the inadequacy of the government’s Heath Robinson “test, trace and isolate” system, but, even if this were to be radically improved, it will not work if a large part of the population simply cannot afford to follow the rules. The inequalities of British society mean that the virus will never lack for new hosts so lockdowns, however severe, will fail to suppress it.
+
+The Johnson government, while happy to use the rhetoric of war, has never understood that only mobilisation of resources on a wartime scale can really suppress the virus and allow a return to normal life. China, one of the few countries that is not an island to succeed in suppressing the infection, only did so by tremendous efforts. When a woman in Beijing tested positive in July, 29 contact tracers reportedly took 24 hours, using payment information and taxi-hailing orders, to find and isolate 204 people who might have been infected.
+
+The media’s total absorption in the pandemic ends up militating against understanding it because the 24/7 news cycle means that significant new information – like the KCL study on non-adherence to restrictions – gets submerged by a tidal wave of information. The greatest obstacle to knowing what is happening is not “fake facts”, as is often lamented, but the sheer quantity of facts that are available in the internet age.
