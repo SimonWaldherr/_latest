@@ -1,0 +1,23 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://media.npr.org/assets/img/2020/09/03/we-insist-a-timeline-of-protest-music-in-2020_wide-2a0a4c44d1eefbeac6b758ec7fc3049f52db9dd8.jpg?s=1400 
+title: > 
+  We Insist: A Timeline Of Protest Music In 2020 
+description: > 
+  "If we wouldn't stand for it," he pleads, "why would we expect another group of Americans to stand for it?YouTubeThe song "Long Violent History" plays out the internal argument that led Childers to make this explicit and remarkable stand in solidarity.Echoing a long line of labor and other protest songs, Childers asks how many "boys could they haul off this mountain" until their parents, their loved ones, would get out Papaw's pistol and fight back."Would that be the start of a long, violent history?"Perhaps he's finally offered a new song to sing, instead of"The Night They Drove Old Dixie Down." 
+date: 1602212078.063833 
+--- 
+YouTube
+
+Five minutes and 22 seconds into the striking video, above, that Tyler Childers posted to YouTube today – a spoken liner note that sets up the title track from his surprise new album, Long Violent History – the much-beloved singer-songwriter utters the words, "justice for Breonna Taylor, a Kentuckian like me." It's a grounding detail in a statement full of specifics, a clear and simple plea for empathy.
+
+Childers, who's emerged in recent years as the foremost roots-music representative of the white working and underclass of the mid-South, directly addresses those among his fan base who've been "taken aback" by what they perceive as the inexplicable violence of this summer's Black Lives Matter protest. Citing his own struggles to get sober and the general malaise coronavirus has brought, Childers holds his fans hands' metaphorically: "In the midst of our own daily struggles, it's often hard to share an understanding for what another person might be going through." Then he goes in, painting picture of what it would be like for white Southerners if "the smallest interaction with a public servant" led to being handcuffed, assaulted and possibly shot multiple times, as Louisville resident Taylor was by police who entered her apartment in a no-knock raid in March.
+
+Childers spins tales in his statement as he does in his songs – vividly, describing scenes in which white country folk might be killed by game wardens while fishing, or pulled from their cars while driving Grandma to the hospital. Citing the Battle of Blair Mountain, the labor uprising led by coal miners in 1921, he reckons that if they were in such danger, white Southerners (and others) would certainly react. "If we wouldn't stand for it," he pleads, "why would we expect another group of Americans to stand for it? Why would we stand silent, or worse, get in the way of it being rectified?"
+
+YouTube
+
+The song "Long Violent History" plays out the internal argument that led Childers to make this explicit and remarkable stand in solidarity. It's a lament grounded in bluegrass fiddle and that fundamental African import, the banjo. Presenting himself as a confused "white boy from Hickman" who once understood how the protests might feel like unnecessary trouble, Childers artfully bends perspective at the ballad's center, realizing that for all the times he'd belligerently questioned authority, he'd never felt like he might lose his life. Echoing a long line of labor and other protest songs, Childers asks how many "boys could they haul off this mountain" until their parents, their loved ones, would get out Papaw's pistol and fight back. "Would that be the start of a long, violent history?" he asks. The tune ends with a sonic invocation of the long, violent history of American white supremacy: a few lines of "My Old Kentucky Home," a minstrel ballad written by Stephen Foster, complete with racist depictions of enslaved people.
+
+Childers has taken a chance with this song – in the video, he explains that the eight instrumental songs that precede it on his new album were well-considered as stage-setters for this final, controversial act. He's joined other artists on the border of country and Americana music, like Margo Price and Chris Stapleton, by sharing his support for Black Lives Matter in unambiguous terms. And he's done something more: the psychic journey toward empathy that "Long, Violent History" represents, set to a plaintive and singable tune, offers fans of such music a place to consider America's past and present without nostalgia and its aftereffect, the false rationalization of present inequities. Perhaps he's finally offered a new song to sing, instead of"The Night They Drove Old Dixie Down."
