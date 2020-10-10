@@ -1,0 +1,23 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/women/2020/10/06/TELEMMGLPICT000241263904_trans_NvBQzQNjv4BqaRL1kC4G7DT9ZsZm6Pe3PehAFAI_f6ud569StXyOKH0.jpeg?impolicy=logo-overlay 
+title: > 
+  What is the point of saving lives if you lose all vestiges of humanity? 
+description: > 
+  To be brutally honest, it was probably just as well that the PM couldn’t give his speech live to the conference in Birmingham as planned.In the latest Conservative Home poll of party members, Boris Johnson got a net satisfaction rating of -10.3.Expert knowledge is limited knowledge and the unlimited ignorance of the plain man, who knows where it hurts, is a safer guide than any rigorous direction of a specialist.”How right Churchill was.I have had thousands of emails from the “plain man” (and woman) who know where it hurts.Sadly, my wife is incarcerated in a very expensive nursing home, paid for by our lifetime of careful saving. 
+date: 1602354538.4393554 
+--- 
+To be brutally honest, it was probably just as well that the PM couldn’t give his speech live to the conference in Birmingham as planned. Chilly silence would have been a more likely reception than rapturous applause. The Tory faithful are not just furious with their leader, they are positively adulterous – ready to run off with any Tom, Lawrence or Nigel in protest at farcical restrictions which even ministers fail to justify. In the latest Conservative Home poll of party members, Boris Johnson got a net satisfaction rating of -10.3. The PM came 24th out of 25 Cabinet members. Only Private Pike, our dunce of an Education Secretary, scored worse.
+
+From hero to less than zero in ten months. It’s the stuff of classical tragedy. Those unimaginably dire figures for one of our best-loved communicators give some sense of the anger caused by the fact that the Conservatives, traditionally the party of the family and business, are causing immense harm to both in pursuit of an ultimately futile zero-Covid strategy. For all his fluorescent follies, at least President Trump is bold enough to level with the American people, explaining that they need to keep Covid-19 in proportion. We must, as Trump says, learn to live with it.
+
+Far from echoing Chancellor Rishi Sunak’s recent injunction to “live without fear”, the PM used his keynote speech to tell the British people that their kettle will soon by powered by great gusts of offshore wind. Hardly our main concern as the tsunami of four million unemployed thunders towards us. How can Boris talk of “not contenting ourselves with a repair job” when the worst is yet to come? At such a time, we need our Prime Minister to be Alexander the Great, not Windy Miller.
+
+A personal hero of Boris’s once wrote: “Nothing would be more fatal than for the Government of States to get into the hands of experts. Expert knowledge is limited knowledge and the unlimited ignorance of the plain man, who knows where it hurts, is a safer guide than any rigorous direction of a specialist.”
+
+How right Churchill was. And how we wish the grand old man were still with us to stick Professor Neil Ferguson’s little model in his cigar cutter. I have had thousands of emails from the “plain man” (and woman) who know where it hurts.
+
+Grandparents like Sandy who is upset that he and his wife are instructed to wear masks to collect their grandchildren from school so the two little girls emerge to “a sea of zombies” (totally unnecessary when you can’t catch Covid outside.) And here’s Carolyn, a wedding organiser, who last year had a business turning over £600,000 but now, because she works in a region where three people are infected in every 100,000 (“that’s 27 people in our whole county”) is tearfully laying off staff who did so much to make things Covid-secure: “Boris Johnson wiped out four months’ work in a five-minute announcement.”
+
+I beg you to start listening to the plain man who knows where it hurts. Here’s Robert, Prime Minister, explaining what your life-saving measures mean for him and his wife: “Josephine and myself have recently celebrated our diamond anniversary, from teenage sweethearts to 83-year-old sweethearts. Sadly, my wife is incarcerated in a very expensive nursing home, paid for by our lifetime of careful saving. She is suffering from dementia, and the love of my life I have not been able to hold in my arms since March. As each day passes, our connection becomes more tenuous, as she fails to connect with me on FaceTime and I am no longer able to see her even in an outside location. I live alone and take great care to limit exposure to this virus and certainly pose a lot less risk to Josephine, compared to the staff who come and go every day.

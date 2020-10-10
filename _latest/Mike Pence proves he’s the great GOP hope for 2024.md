@@ -1,0 +1,25 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/mike-pence-3.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Mike Pence proves he’s the great GOP hope for 2024 
+description: > 
+  Wednesday night’s kickoff episode of the Mike and ’Mala show wasn’t just the soon-to-be-forgotten sole vice presidential debate of 2020.Whether Donald Trump wins or loses on Nov. 3, Pence is in a stronger position than anybody to be the GOP’s next batter up.He’s got name recognition, all the experience you could ask for, and he’s battle-tested.Harris shook her head when Pence said this but she didn’t rebut the charge because it’s true.Mike Pence proved this week he’s got what it takes to make history — by being the first candidate to beat an incumbent woman president. 
+date: 1602354532.8962476 
+--- 
+Wednesday night’s kickoff episode of the Mike and ’Mala show wasn’t just the soon-to-be-forgotten sole vice presidential debate of 2020. No, it was something far more important: the first exhibition game of Campaign 2024.
+
+Whether Donald Trump wins or loses on Nov. 3, Pence is in a stronger position than anybody to be the GOP’s next batter up. He’s got name recognition, all the experience you could ask for, and he’s battle-tested. He might be the only figure who can unite the Normies and the Trumpies —both the boring, staid suburbanites in khakis who vote GOP because they like normal stuff like low taxes, light regulation and cultural conservatism; and the in-your-face guys who ride Harleys with MAGA flags flying and love Trump mainly because he owns the libs and makes fun of Jim Acosta.
+
+As for Kamala Harris, I don’t know what the actuarial tables say but when I ask my Magic 8 Ball whether she will become president by 2024, it comes back with “Signs point to yes.” Even if Hidin’ Joe Biden somehow makes it to 2024 intact, he’ll be too tired to run for a second term. Hell, these days he’s too tired to make it to lunch: He typically calls a lid on the day at 9 a.m., and presumably spends the morning getting EKGs. So Harris-Pence isn’t just the undercard for 2020, it’s how the 2024 race is shaping up to be.
+
+And both sides are eager to make that happen. Harris, who was such a political superstar back in the forgotten era known as “2019” that when she dropped out of the race in December, 97 percent of Democrats wanted someone other than her to be the party nominee, is today the toast of DonkeyTown. She’s “historic”! She checks so many of the identity-politics boxes that Dems mistake for qualifications that the party has to pretend she’s a talented politician, when anyone who watched the Democratic debates just last year knows she’s one of those looks-better-on-paper candidates.
+
+As for Pence, he was such a marvelous debater on Wednesday, when he properly ignored all questions and instead calmly disassembled Harris like a biology student dissecting a frog, that he reminded everyone he used to argue with people for a living, back when he was a talk-radio guy. What might a GOP be like that was led by someone who could thoroughly, rationally articulate all of the party’s positions without rage-tweeting or getting his facts jumbled?
+
+Pence is the answer. And unlike Mitt Romney, he doesn’t carry the baggage of seeming like the consultant who just recommended your boss fire you. When Harris tried to paint Pence as an extremist on abortion, he turned the issue around completely as he placidly explained that Harris is the real extremist because she supports taxpayer funding for abortion up till the moment of birth. Harris shook her head when Pence said this but she didn’t rebut the charge because it’s true. It’s the kind of thing she’d be happy to say if she was speaking to the Democrats’ Hollywood donor class. When Pence pulled a Tulsi Gabbard on her and pointed out how, as San Francisco DA, she had enacted the exact opposite program of the Democratic Party’s vision of justice, she didn’t rebut him on that either, but retreated to a lame series of irrelevant points she’d already made earlier. She wouldn’t answer the question of whether she or Biden would pack the Supreme Court, instead mangling an anecdote about how Abe Lincoln supposedly declined to nominate a Supreme Court justice in an election season. (He didn’t make the nomination because the Senate was out of session at the time.)
+
+Harris’ habit of smiling sarcastically and smirking in disbelief as Pence was ripping her to pieces may have excited the yass-queen bloggers, but it played horribly on TV. If Biden gets elected president, it’ll be because most of the voters think he’s a harmless old dude who won’t shake things up too much. Should his running mate become president before 2024, her far-left program, combined with her inability to do anything but grin when challenged on it, will make her very unpopular very quickly. Mike Pence proved this week he’s got what it takes to make history — by being the first candidate to beat an incumbent woman president.
+
+Kyle Smith is critic-at-large for National Review.
