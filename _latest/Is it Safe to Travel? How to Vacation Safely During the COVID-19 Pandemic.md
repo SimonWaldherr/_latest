@@ -1,0 +1,59 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.usnews.com/dims4/USNEWS/b62661e/2147483647/resize/1200x%3E/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F02%2F2e%2F632b0d674f628544e22ed7e41b7f%2Fgettyimages-1220276773.jpg 
+title: > 
+  Is it Safe to Travel? How to Vacation Safely During the COVID-19 Pandemic 
+description: > 
+  National parks and campsites have seen an uptick in visitors during the pandemic because they have been deemed safe vacation options thanks to their allowance for social distancing.Due to the ever-changing nature of the pandemic, Boden-Albala suggests that travelers adjust their expectations and be very flexible with their plans.I do think that people should travel, but they should have a realistic view of what travel means now."If you don't want to rough it, vacation rentals and hotels can be a safe option, according to Wu.After her cross-country road trip, Boden-Albala felt "revitalized" exploring the outdoors. 
+date: 1602334314.4909103 
+--- 
+Several months into the pandemic and many of the guidelines issued by the Centers for Disease Control and Prevention to stop the spread of COVID-19 haven't changed much: Wear masks, socially distance, wash your hands and stay home as much as possible. However, with pandemic fatigue weighing on people around the world, it seems difficult, especially for avid travelers, to stomach the idea of not being able to go on any kind of vacation until an approved vaccine is available. The good news is that, according to health experts, travel is possible right now, as long as you take the right precautions and are willing to make modifications to your vacation. To gather tips on how to travel safely during the pandemic, U.S. News spoke with Bernadette Boden-Albala, director and founding dean of the Program in Public Health at the University of California, Irvine, and Dr. Henry Wu, associate professor of medicine at Emory University School of Medicine and director of the Emory TravelWell Center.
+
+While you may not be able to hop on an international flight right now (Americans are barred from traveling to many countries around the world), you can still experience the joy of exploring a new destination with a few extra precautions. Keep in mind that states and their counties each have their own rules and regulations regarding COVID-19, including travel restrictions and mandatory quarantine requirements for out-of-state visitors. For the latest news and state regulations, consult the CDC's website.
+
+Where to Go
+
+According to the CDC, the primary way that the coronavirus spreads is via person-to-person contact. As such, the safest vacation to take right now is one where you will be around as few people as possible. Not only that, but the coronavirus has been shown to spread much easier indoors versus outdoors. Because of this, you should eliminate big-city trips from your travel short list. Not only do large cities have higher population densities, but the majority of their attractions (think: museums, cultural centers, shops and restaurants) are oftentimes indoors.
+
+Your best bet? Opt outside. This year, a visit to a beach destination, a national park, a state park or any big outdoor space where you can keep your distance from others is a much safer vacation option than a crowded city. But before you begin your outdoor adventure, it's important to consider the timing of your visit. National parks and campsites have seen an uptick in visitors during the pandemic because they have been deemed safe vacation options thanks to their allowance for social distancing. To avoid coming into contact with too many other travelers, visit any outdoor destination during the week or offseason.
+
+According to Boden-Albala, density is key in factoring in transmission risk anywhere you go. "If I'm at a beach, I'd want to triple my distance space. Even though it's outside," she says. "You walk into any place, whether it's a grocery store or museum or a national park, and there's a lot of people, move on. Go someplace else. Find another place," Boden-Albala says.
+
+Wu says another factor to consider when choosing a destination is how that place is handling its containment of the virus. "I do think, in general, places where case counts are increasing or have remained high through the summer are riskier than places with a clear trend of low numbers or decreasing numbers," Wu says. However, he also is keen to point out that case counts may increase at any time, and travelers should be prepared. "The epidemiology of COVID-19 does change fairly rapidly, so places that are having less [of] a problem now may be having a big problem in a few weeks, and it can take some time for that to become obvious in the data," Wu says.
+
+Due to the ever-changing nature of the pandemic, Boden-Albala suggests that travelers adjust their expectations and be very flexible with their plans. "You’re going for a change of scenery, but it's not business as usual anywhere," Boden-Albala says. "I think that's the other thing that people should make sure they're not disappointed in. I do think that people should travel, but they should have a realistic view of what travel means now."
+
+Getting There
+
+The best way to travel during the pandemic is by car. Being isolated in your own vehicle eliminates having to spend potentially hours on a train, plane or bus in close contact with strangers. If you don't have a car, consider renting one. Car rental agencies have adopted new, more rigorous cleaning measures in between renters, making the threat of contracting the virus in a used car low. Car rental companies, including Enterprise, Alamo and National, have taken the "Complete Clean Pledge." In between rentals, they not only wash and vacuum cars, but they also disinfect 20 high-touch areas, including steering wheels, seat belts and door handles, among other spots within the vehicles.
+
+Being sequestered inside a car reduces your risk significantly; however, if you are taking an hourslong road trip, you will inevitably come in contact with others when stopping for bathroom breaks, food (Boden-Albala and Wu both recommend packing your own food) or gas. Adhere to the same precautions you would normally take when in a public place: Wear a mask the entire time you are outside of your car, especially in the bathroom, and practice good hand hygiene, keeping in mind that you'll be in contact with plenty of frequently used, high-touch areas at rest stops.
+
+If your desired destination is more easily reached by plane or train, the risk will be higher. Contrary to popular belief, your likelihood of contracting the coronavirus on an airplane is low due to the aircraft's top-of-the-line filtration systems, according to the CDC. However, risk still depends on the flight duration (the longer the flight, the longer the exposure), the airline's policies on board and whether or not other passengers are adhering to them. The amount of time spent in the airport before and after the flight, such as waiting at the gate to board, in baggage claim or for a ride, also impacts your likelihood of exposure.
+
+"If you can imagine someone who is sick and coughing and exhaling the virus close to you, even a highly efficient and effective filtration system may not be protective with that close contact," Wu says. "If you are not sitting next to someone and the middle seat is empty, we think that probably is less risky. I would also minimize the time to remove your mask for eating or drinking."
+
+Trains do not have the same kind of filtration as planes, and unless you are taking a nonstop trip, people are going to be moving in and out of the train car. However, Amtrak has adopted stringent, pandemic-friendly policies, including limiting bookings to allow for distancing within the train car – a policy that not all U.S. airlines have adhered to. Plus, according to Amtrak, the air in a train is filtered out 44 times per hour, so you can rest easy knowing the filtration system is working to reduce the spread of the virus.
+
+Where to Stay
+
+When considering accommodation options that are free from crowds, you might think camping is your best bet. But considering that campsites are booking up fast during the pandemic, you might find yourself in a crowded campsite using the same facilities as dozens of other people. For the safest experience, look for a campsite that allows for safe distancing or a very remote site where you are the only person or there are just a few other tents in the area. If you don't want to rough it, vacation rentals and hotels can be a safe option, according to Wu.
+
+"I think a stand-alone sort of lodging, whether it's a rental house or Airbnb, inherently may be safer than a hotel or high-rise situation where you will have contact with others in elevators or in lobbies or in common areas or shared areas like pools," Wu says. "I think the bigger concern about larger hotels and things like that are the common areas."
+
+Boden-Albala, who recently embarked on a cross-country road trip, chose hotels that focused on diligent cleaning of the rooms and recommended choosing a hotel that is operating at 25% occupancy or less. Wu also noted that vacancy prior to your arrival is important, whether you choose a vacation rental or a hotel. "I think that the riskiest situation would be entering a room where either a previous renter or a cleaning person has literally just stepped out and that would be riskier than a place that has been empty for a few days," Wu says.
+
+Vacation rental websites like Airbnb have implemented new cleaning standards in response to the pandemic and limited guest capacity for hosts of private rooms or shared spaces. Meanwhile, hotel brands like Hilton and Hyatt have implemented measures, such as contactless features, mask requirements and enhanced cleaning both in rooms and public spaces.
+
+What to Do
+
+To avoid exposure, plan for as many outdoor activities as possible. In addition to being safer than indoor activities, getting out in nature has been proven to reduce stress and anxiety. After her cross-country road trip, Boden-Albala felt "revitalized" exploring the outdoors. "I was taken over by emotion at these Great Plains that we have in Utah and Colorado," Boden-Albala says. "Getting in a car and driving and seeing some of these more remote places is really quite nice and it just gives you some perspective."
+
+As for dining out, the experts say just don't do it. Boden-Albala believes that in the United States, it isn't safe to eat at restaurants yet. "What is most dangerous in terms of viral spread is actually sitting at a table with other people and eating. That's your most vulnerable time," she says. "That's a critical thing that people don't realize. We eat and we speak and those droplets go out and go in the air and if you're a loud person it may go farther." Throughout her road trip, whenever Boden-Albala ate out, she ordered takeout. According to the CDC, contracting the coronavirus from takeout or food packaging is considered very low.
+
+And whatever activity you engage in, whether it's hiking or water sports, don't hand off your phone to anyone to take a picture. Wu recommends that on top of hand sanitizer and multiple masks, you should bring a selfie stick if you want to take a picture that you would otherwise ask a stranger to capture.
+
+Final Tips
+
+In addition to all of these considerations, Boden-Albala strongly advises against travel if you are feeling unwell. Oftentimes, COVID-19 doesn't always include traditional cold or flu symptoms, such as a fever or a cough, and as such, people do not know that they are sick. "From what we've seen at the medical center and what I've seen in Orange County, a lot of people have very mild symptoms and just can't imagine that what they're experiencing is COVID-19,” she says. "They had a sore throat for 8 hours and tested positive."
