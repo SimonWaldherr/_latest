@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.usnews.com/dims4/USNEWS/31a254c/2147483647/thumbnail/1280x600/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fb1%2F4f%2F254750bc43f4b3d3e6b0f431fe5a%2Fbc18.bucket_citizenship.jpg 
+title: > 
+  US News Best Countries 
+description: > 
+  Canada has relatively generous social safety nets and offers affordable health care and education, while Norway is consistently among the most generous countries when it comes to foreign aid.The country has committed to invest at least 1% of its gross national income to overseas development each year.Same-sex marriage is legal in Norway, and transgender individuals are able to declare their own identity free from any medical assessment.The Netherlands and Nordic neighbors Denmark and Finland also top the list, along with Switzerland, Australia, New Zealand and Germany – all countries that have relatively generous social safety nets and offer affordable health care and education .The United States , which often positions itself as a champion of freedom, didn’t crack the top 10 for the fifth year in a row. 
+date: 1602439975.4619725 
+--- 
+Many thought leaders have proclaimed the Nordic model – known to promote social justice and progressive causes – one of the most sustainable ways forward, and people around the world seem to agree. Sweden ranks No. 1 this year for Citizenship; survey respondents see Sweden to be the second-most caring country when it comes to both human rights and the environment. Canada and Norway placed No. 2 and No. 3, respectively. Canada has relatively generous social safety nets and offers affordable health care and education, while Norway is consistently among the most generous countries when it comes to foreign aid. The country has committed to invest at least 1% of its gross national income to overseas development each year. Same-sex marriage is legal in Norway, and transgender individuals are able to declare their own identity free from any medical assessment.
+
+The Netherlands and Nordic neighbors Denmark and Finland also top the list, along with Switzerland, Australia, New Zealand and Germany – all countries that have relatively generous social safety nets and offer affordable health care and education . They are among the world’s wealthiest nations and are also democratic. The United States , which often positions itself as a champion of freedom, didn’t crack the top 10 for the fifth year in a row. The global superpower continues to take hits in perceptions of its trustworthiness.
