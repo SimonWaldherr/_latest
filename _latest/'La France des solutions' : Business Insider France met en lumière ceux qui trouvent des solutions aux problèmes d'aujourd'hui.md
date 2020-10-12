@@ -1,0 +1,15 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://tra.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fbin.2F2020.2F10.2F09.2F02cdd05f-c54e-4b6c-a22b-dbf9cb8cf4bd.2Ejpeg/1200x630/quality/80/la-france-des-solutions-business-insider-france-met-en-lumiere-ceux-qui-trouvent-des-solutions-aux-problemes-daujourdhui.jpg 
+title: > 
+  'La France des solutions' : Business Insider France met en lumière ceux qui trouvent des solutions aux problèmes d'aujourd'hui 
+description: > 
+  C'est ce pour quoi se bat l'association Reporters d'Espoirs, qui travaille depuis 2004 avec les médias pour promouvoir le journalisme de solutions.Ce lundi 12 septembre, Business Insider France s'associe à l'événement "La France des solutions", une journée durant laquelle une cinquantaine de médias s'engage à présenter des solutions à des problèmes économiques, sociaux et écologiques.Une journée pour mettre en lumière des initiatives associatives, entrepreneuriales ou publiques mais aussi des hommes et des femmes qui mettent leur énergie au service de tous pour trouver des réponses concrètes aux problématiques d'aujourd'hui.Pour consulter d'autres solutions innovantes, rendez-vous sur notre page spéciale "La France des solutions".À 21h, sur le site et la page Facebook de Reporters d'Espoirs, vous pourrez aussi suivre une émission pour partir "à la rencontre des acteurs de solutions durables, solidaires et innovantes". 
+date: 1602530588.1947558 
+--- 
+Et si on ne parlait pas que des trains qui arrivent en retard ? C'est ce pour quoi se bat l'association Reporters d'Espoirs, qui travaille depuis 2004 avec les médias pour promouvoir le journalisme de solutions. Ce lundi 12 septembre, Business Insider France s'associe à l'événement "La France des solutions", une journée durant laquelle une cinquantaine de médias s'engage à présenter des solutions à des problèmes économiques, sociaux et écologiques. Une journée pour mettre en lumière des initiatives associatives, entrepreneuriales ou publiques mais aussi des hommes et des femmes qui mettent leur énergie au service de tous pour trouver des réponses concrètes aux problématiques d'aujourd'hui.
+
+Sur notre site, vous découvrirez par exemple 3 façons de recycler vos cheveux et 8 applications pour ne pas vous laisser submerger par vos déchets, vous apprendrez à vous y retrouver dans la jungle de la 'finance verte" pour placer votre argent de façon plus responsable, vous saurez que des scientifiques ont créé des "super-enzymes" mangeuses de plastique pour améliorer le recyclage ou encore que l'on peut manger certains produits après leur date de péremption pour éviter le gaspillage. Pour consulter d'autres solutions innovantes, rendez-vous sur notre page spéciale "La France des solutions".
+
+À 21h, sur le site et la page Facebook de Reporters d'Espoirs, vous pourrez aussi suivre une émission pour partir "à la rencontre des acteurs de solutions durables, solidaires et innovantes". Le philosophe Frédéric Lenoir, auteur avec Nicolas Hulot du livre "D'un monde à l'autre. Le temps des consciences" sera l'invité fil rouge.

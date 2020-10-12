@@ -1,0 +1,43 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://sm.mashable.com/t/mashable_it/photo/default/p1255636_hrzq.1200.jpg 
+title: > 
+  Galaxy Z Fold 2, l'innovazione pieghevole quasi perfetta: la nostra recensione 
+description: > 
+  Il Samsung Galaxy Z Fold 2 è un sequel che supera l'originale in ogni modo.Per questo, il Galaxy Z Fold 2 non è perfetto, nel senso che non è per tutti.Galaxy Z Fold 2: come è fattoI materiali, il design, gli elementi hardware, tutto somiglia al Fold originale ma è tutto decisamente diverso, migliorato.La potenza sotto la scoccaNon dovrebbe essere una sorpresa scoprire che lo Z Fold 2 monta il miglior hardware attualmente a disposizione nel reparto mobile.Considerando i notevoli miglioramenti che Samsung ha apportato a un anno di distanza, è chiaro che Z Fold 2 è un investimento migliore rispetto al telefono originale. 
+date: 1602530603.6088233 
+--- 
+Il Samsung Galaxy Z Fold 2 è un sequel che supera l'originale in ogni modo. Samsung ha ascoltato i punti deboli dei consumatori e ha risolto quasi tutti i difetti che hanno afflitto il suo primo pieghevole. Ciò significa che Z Fold 2 è un dispositivo potente, anche se costoso, per chi cerca un oggetto che sia un ibrido tra uno smartphone e un piccolo tablet. Per questo, il Galaxy Z Fold 2 non è perfetto, nel senso che non è per tutti. Con i suoi 2050 euro costa più di molti portatili, anche di ultima generazione.
+
+Del resto, Samsung ha già un telefono per ogni particolare esigenza, e con il Galaxy S20 FE (che proveremo più in là) ha anche abbassato le richieste della sua linea top di gamma di inizio 2020, rendendola un po’ più popolare. Che si tratti di un modello economico ma con il 5G, di un esemplare per scattare foto e fare video di alta classe o di un fedele alleato nella produttività, la compagnia ha un consiglio per tutti. I telefoni pieghevoli invece si distinguono. Dove Z Flip è un nostalgico ritorno al passato a conchiglia, Z Fold 2 è pensato per consolidare un fattore di forma in crescita, quello dello smartphone che si apre a mo’ di libro, per diventare un tablet.
+
+Galaxy Z Fold 2: come è fatto
+
+I materiali, il design, gli elementi hardware, tutto somiglia al Fold originale ma è tutto decisamente diverso, migliorato. Lo Z Fold dell'anno scorso aveva una serie di parti in plastica che, sulla generazione numero 2, diventano metallo e vetro, con il beneficio dell'ultimo Gorilla Glass a proteggere il display. L'intero telefono si presenta come stabile e solido; ovviamente resta quel mattone del fratello maggiore, almeno quando lo si ha in tasca, ma non può rappresentare un limite per l’esperienza che offre.
+
+Il metallo presenta una finitura spazzolata e un profilo leggermente curvo per aiutare con l’utilizzo ad una mano, anche se pare molto difficile, mentre il colore Mystic Bronze dona una sensazione di raffinatezza ma senza andare a finire troppo nell’eccentrico. La parte più interessante, invisibile, è la cerniera: la piega risulta sempre abbastanza pronunciata, ma per adesso non sembra esservi soluzione alternativa, e poi con l’uso prolungato non ci si fa nemmeno più caso. La stessa cerniera, adesso rinforzata, consente di piegare il telefono con qualsiasi angolatura tra 0 e 180 gradi, così da tenerlo quasi come fosse un normale notebook. Alcune funzionalità sono pensate apposta per questo, ad esempio lo scatto di foto in modalità piana oppure la visualizzazione di YouTube, con il video in alto e i commenti con i post in basso. Il resto è delegato alle menti creative degli sviluppatori (immaginiamo un videogame con il gamepad virtuale giù e l’azione sopra).
+
+Samsung ha nascosto il vassoio della scheda SIM nel bordo laterale. Non c'è spazio di archiviazione espandibile così come manca, oramai da tempo, un ingresso per cuffie. L’audio è stereo: una cassa nel bordo inferiore e una nella capsula auricolare, sopra lo schermo. La ricarica è, ovviamente, via USB-C. Quando è completamente aperto, l'interno è tutto schermo. Samsung ha eliminato la brutta tacca del Fold di prima fattura, offrendo ai possessori di Z Fold 2 un'esperienza davvero appagante, tramite un display Infinity-O in cui la fotocamera anteriore (da 10 MP) è inscritta in un piccolo forellino. Detto ciò, una prima mancanza è relativa alla protezione da acqua e polvere: Il telefono non ha una classificazione IP ed è dunque meglio proteggerlo adeguatamente, anche perché qualsiasi cosa possa entrare nello spazio della cerniera può, in teoria, arrecare danni al display.
+
+Lo schermo è una meraviglia
+
+E sarebbe un vero peccato perché il pannello interno, un Amoled da 7.6 pollici è una vera meraviglia. Ma partiamo da quello fuori: finalmente qualcosa di utilizzabile, visti i 6,2 pollici che sostituiscono i miseri 4,6 del Fold precedente. Il pannello è anche qui Amoled, con risoluzione da 2.260 x 816 pixel, frequenza di aggiornamento a 60 Hz e aspetto allungato, con proporzioni da 25:9. Vige ancora il discorso della continuità delle app: se apro da qui Google Maps e poi schiudo i due display, l’applicazione si estende lungo tutta la visuale. Stessa cosa per la maggior parte dei software preinstallati, dalle Email a YouTube e il browser di navigazione. Così non ho bisogno di dover riaprire qualcosa che stavo già usando, ed è decisamente comodo.
+
+Andiamo dentro: lo schermo da 7,6 pollici ha la stessa frequenza di aggiornamento adattiva del Note 20 Ultra, che arriva fino a 120 Hz. Vuol dire consumare più energia, certamente, ma il sistema decide da solo quando è il caso di scalare, perché tale refresh rate non serve, così da abbassare le richieste. C’è poco altro da dire: come anticipato, la legatura del pannello si vede, c’è, ma passerà inosservata poco dopo.
+
+La potenza sotto la scocca
+
+Non dovrebbe essere una sorpresa scoprire che lo Z Fold 2 monta il miglior hardware attualmente a disposizione nel reparto mobile. Non solo abbiamo il processore più veloce di Qualcomm, lo Snapdragon 865 Plus, ma ma anche ben 12 GB di memoria RAM e 256 GB di storage interno, che sopperisce alla mancanza di una microSD. Indipendentemente dai compiti da svolgere, non vi è alcun rallentamento che ne infici la qualità: anche i giochi in 3D più divoratori di prestazioni non mostrano inefficienze e delay, figuriamoci quando si tratta di editare un testo oppure effettuare viedeocall. Giusto per precisare: possiamo perfettamente giocare ed effettuare tutte le medesime attività dallo schermo esterno, che però è fisso a i suddetti 60 Hz di refresh rate, ossia come l’80% di tutti gli smartphone attualmente in vendita.
+
+La questione fotocamera
+
+La configurazione posteriore è tripla: 12 MP + 12 MP + 12 MP, senzae alcun sensore ToF. Questa è una piccola mancanza, che avvicina lo Z Fold 2 più al Note 20 che al Note 20 Ultra ma poco importa: le foto vengono benissimo in situazione di tanta luce, meno bene con scarsa luminosità, ma non siamo alle prese di un camerafonino, ricordiamolo. Più che altro, il beneficio è ancora una volta nel software: poggiando il telefono sul dorso, scattare selfie o panoramiche ferme è un gioco da ragazzi, stessa cosa per video, capaci di arrivare ai 4K e 60 fps. La messa a fuoco è eccellente, il sistema AF a doppio pixel funziona abbastanza bene. Il rumore di fondo è tenuto sotto controllo, con l’elaborazione HDR di Samsung che aiuta a ridurre al minimo la grana nelle sezioni ombreggiate.
+
+I selfie sono delegati ad una camera esteriore, sul fronte, da 10 megapixel e una identica centrale, in alto a destra del doppio schermo. La funzione di mini-grandangolo permette di includere più soggetti negli autoscatti che, in generale, risultano meno buoni rispetto a quelli del Note 20 Ultra 5G, ma niente di così invalidante.
+
+Vale davvero la pena?
+
+Il Samsung Galaxy Z Fold 2 costa sicuramente molto. Un concentrato hi-tech, di grande valore. La stragrande maggioranza dei consumatori spende meno di mille euro per i propri smartphone, figuriamoci duemila. Considerando i notevoli miglioramenti che Samsung ha apportato a un anno di distanza, è chiaro che Z Fold 2 è un investimento migliore rispetto al telefono originale. Ha un design più bello e ottimizzato, materiali e qualità costruttiva come pochi altri (nessuno?). Certo, quell’etichetta al prezzo è davvero importante e lo Z Fold 2 rimane un acquisto di lusso ma bisogna uscire dall’ottica dello smartphone da cambiare ogni due o tre anni, per abbracciarne una diversa, che renda sensato un esborso sul lungo periodo.
+
+Potrebbe interessarti:
