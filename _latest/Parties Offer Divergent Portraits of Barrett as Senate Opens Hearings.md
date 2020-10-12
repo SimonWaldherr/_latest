@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/11/us/politics/11dc-confirm-1/11dc-confirm-1-facebookJumbo.jpg 
+title: > 
+  Parties Offer Divergent Portraits of Barrett as Senate Opens Hearings 
+description: > 
+  The Senate on Monday will dive into an extraordinary week of Supreme Court confirmation hearings for Judge Amy Coney Barrett, with Republicans and Democrats offering two starkly divergent portraits of a nominee who would tilt the court decisively to the right.Just 22 days before a bitterly contested election, Republicans who are behind in the polls are racing to confirm Judge Barrett and cement a 6-to-3 conservative majority on the nation’s highest court that would long outlast President Trump’s tenure, even if he were re-elected.In need of a last-ditch campaign reset, they plan to largely eschew the implications of the court’s rightward tilt, instead portraying Judge Barrett as an apolitical and accomplished working mother of seven in an appeal to moderate voters, especially women.The emerging strategies promise to turn four days of nationally televised proceedings into a bruising affair, even by the modern standards of recent bitter Supreme Court confirmation battles.They also reflect a reality that both parties have accepted: With Republicans largely united in her favor, Democrats are powerless to prevent Judge Barrett, an appeals court judge in Chicago and Notre Dame law professor, from ascending to the Supreme Court. 
+date: 1602467872.1599066 
+--- 
+The Senate on Monday will dive into an extraordinary week of Supreme Court confirmation hearings for Judge Amy Coney Barrett, with Republicans and Democrats offering two starkly divergent portraits of a nominee who would tilt the court decisively to the right.
+
+Just 22 days before a bitterly contested election, Republicans who are behind in the polls are racing to confirm Judge Barrett and cement a 6-to-3 conservative majority on the nation’s highest court that would long outlast President Trump’s tenure, even if he were re-elected. In need of a last-ditch campaign reset, they plan to largely eschew the implications of the court’s rightward tilt, instead portraying Judge Barrett as an apolitical and accomplished working mother of seven in an appeal to moderate voters, especially women.
+
+Democrats are planning the opposite approach. They will brush past Judge Barrett’s biography and qualifications and focus instead on legal writings that suggest she is an ideologue with a far-right political agenda, arguing that she would overturn the Affordable Care Act, roll back abortion rights and favor Mr. Trump in any election-related legal challenge that might arise from the balloting on Nov. 3.
+
+The emerging strategies promise to turn four days of nationally televised proceedings into a bruising affair, even by the modern standards of recent bitter Supreme Court confirmation battles. They also reflect a reality that both parties have accepted: With Republicans largely united in her favor, Democrats are powerless to prevent Judge Barrett, an appeals court judge in Chicago and Notre Dame law professor, from ascending to the Supreme Court. The real fight is to influence Election Day.
