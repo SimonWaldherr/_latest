@@ -1,0 +1,31 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/Qatalog-TeamShotSeed.jpg?w=526 
+title: > 
+  Qatalog, the ‘virtual workspace’ rebundling SaaS tools to help teams function better, raises $15M – TechCrunch 
+description: > 
+  Qatalog, a London-based startup that has developed a “virtual workspace” that brings together disparate SaaS tools to help teams function better, is disclosing $15 million in Series A funding.The virtual workspace plugs into these various SaaS tools and organises the content and its relationships around “people, teams and projects” presented and accessible through a single interface.This includes connecting various tools, locations and systems, and providing additional “capabilities and features that make accessing, retrieving, sharing and coordinating work very seamless”.“We connect to [a company’s] various tools, pull as much information about them as possible together, and ask for additional information as needed,” Rauf explains.This reduces form filling when linking people, teams and SaaS tools to different steps in a workflow and also means that information is two-way. 
+date: 1602578920.3227174 
+--- 
+Qatalog, a London-based startup that has developed a “virtual workspace” that brings together disparate SaaS tools to help teams function better, is disclosing $15 million in Series A funding.
+
+Leading the round is European venture capital firm Atomico, with participation from Salesforce Ventures, and angel investors Jacob de Geer (CEO/co-founder of iZettle), Chris Hitchen (partner at Inventures, founder Getprice), and Thijn Lamers (former EVP at Adyen). As part of the investment, Atomico partner Irina Haivas will join the board.
+
+Existing investors, including London’s Mosaic Ventures, which led Qatalog’s $3.5 million seed round in late 2019 while the company was still in stealth, also followed on. Other backers are Taavet Hinrikus (Transferwise co-founder), Paul Forster (founder, Indeed), Ott Kaukver (former CTO, Twilio), Renaud Visage (co-founder, Eventbrite), Philipp Moehring and Andy Chung (Tiny Supercomputer), Andreas Klinger (Remote First Capital) and various unnamed angels from Transferwise, Deepmind and Monzo. It brings total funding raised to $18.5 million.
+
+Founded in 2019 by Tariq Rauf, a former global product lead at Amazon, and prior to that, a head of growth at TransferWise, Qatalog aims to bring together all of the SaaS building blocks used in the modern workplace, including Teams/Slack, Microsoft/Google Suite, Zoom, Confluence, Jira, Notion, Asana and others.
+
+The virtual workspace plugs into these various SaaS tools and organises the content and its relationships around “people, teams and projects” presented and accessible through a single interface. By building what Rauf calls the “work graph,” Qatalog wants to unify workplace information to make it much more accessible and transparent, and with the ability to automate routine work and enable SaaS tools to talk to one another. In doing so, the idea is that teams can work smarter and collaborate better throughout the organisation.
+
+“Organizations have an endless supply of tools, methods, and data to make people more productive and happy at work,” he tells me. “But these tools create a lot of chaos, wasted time, and frustration. These pain points are exacerbated by silos of tools and processes, and an increase in remote work”.
+
+To solve this, Rauf says Qatalog has built a “source of truth” for the teams, projects and people within a company and all the “ancillary information” about them. This includes connecting various tools, locations and systems, and providing additional “capabilities and features that make accessing, retrieving, sharing and coordinating work very seamless”.
+
+In some ways, Qatalog is perhaps akin to a modern workplace intranet, if one were to take a SaaS-first and ‘small pieces, loosely joined’ approach. Or perhaps another way to think about Qatalog is that SaaS tools are especially good at solving one problem or a subset of related problems, but don’t scale particularly well when operating in a vacuum or if they (or users) try to bolt on additional functionality outside of their core offering. What’s needed is a way to re-bundle this disparate functionality and the information and workflows it spawns, therefore negating the need for companies to hack together spreadsheets or “super Google docs” to try to consolidate processes and a company’s knowledge-base.
+
+“We connect to [a company’s] various tools, pull as much information about them as possible together, and ask for additional information as needed,” Rauf explains. “Users can then search across their workspace and tools from one place; create teams and projects and wire up all the different silos into them; set trackable goals and connect them to various tools, people, teams and projects; and build workflows that can be assigned and tracked across the team”.
+
+The “workflows” can be something as mundane as the steps required and people involved when booking leave, or something more involved such as a complex work task. The clever part is not just the way a workflow is created and presented, but how workflows are powered under the hood by Qatalog’s “work graph”. This reduces form filling when linking people, teams and SaaS tools to different steps in a workflow and also means that information is two-way. Complete a task within Qatalog and information can be automatically pushed to Slack, Google Calendar etc., and vice versa. It is also not hard to see how a work graph of this kind could enable more automation and/or work macros to be employed in future.
+
+With regards to Qatalog’s typical customer, Rauf says that so far the startup has found that companies with 50 plus people and distributed teams have been good candidates as that’s when internal systems and ad-hoc knowledge management processes start to fail. “At that point, most companies have also likely picked up 10+ tools and are finding information requires manual switchboarding by people,” he tells me.
