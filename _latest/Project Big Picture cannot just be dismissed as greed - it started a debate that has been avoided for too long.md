@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/football/2020/10/13/TELEMMGLPICT000003208738_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7KPorCF7Gv51VAwK6Jhbsd8.jpeg?impolicy=logo-overlay 
+title: > 
+  Project Big Picture cannot just be dismissed as greed - it started a debate that has been avoided for too long 
+description: > 
+  What is being lost, amid all the outcry at Project Big Picture’s hubris and presumption, is that there is a kernel of sound logic to these plans.In particular, the provision to give the EFL 25 per cent of Premier League income could prove a life-saver, when that share to date has been capped at eight per cent.This crisis is not, and never has been, exclusively about the Premier League.It is about the countless clubs that will fall off the precipice without imminent and drastic action.If Project Big Picture achieves nothing else, it will have started a conversation that cannot be avoided a moment longer. 
+date: 1602663959.4322295 
+--- 
+There is an element of populism at work here. An emotional appeal to the Premier League’s better instincts is always a surefire hit with the fans, so quickly does everybody ascribe a malevolence of motive to the wealthiest clubs. The problem is that it can be a crude caricature. Over in Boston, John W Henry, Liverpool’s principal owner, must be finding all the vitriol rather odd. Only in June, his club were being lauded left, right and centre for their shrewd judgment, their model management, their genius in winning a 19th title the right way. Now that their power grab has been exposed, they are being recast as football’s answer to Goldman Sachs in 2008, when the Rolling Stone famously called the investment bank a “vampire squid”, bleeding the little people dry.
+
+What is being lost, amid all the outcry at Project Big Picture’s hubris and presumption, is that there is a kernel of sound logic to these plans. In particular, the provision to give the EFL 25 per cent of Premier League income could prove a life-saver, when that share to date has been capped at eight per cent. Equally, £100m for the Football Association to support the women’s game and the grass roots represents a gift that cannot be easily spurned. This crisis is not, and never has been, exclusively about the Premier League. It is about the countless clubs that will fall off the precipice without imminent and drastic action. If Project Big Picture achieves nothing else, it will have started a conversation that cannot be avoided a moment longer.
