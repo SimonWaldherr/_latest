@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/news/2020/10/14/TELEMMGLPICT000241846965_trans_NvBQzQNjv4Bqng10RN4OACF490UF0AcEInM9UhwenOqjkT7Os96DuQU.jpeg?impolicy=logo-overlay 
+title: > 
+  Wealthy supporters of a second national lockdown ignore the extreme hardship this would cause 
+description: > 
+  We always knew there would be a resurgence as winter approached, but the measures we’ve taken are slowing the spread appreciably.Case numbers have been rising, but not as fast as Whitty and Vallance suggested, and nowhere near as fast as they were in March.Other European countries, including Denmark, Spain and Estonia, have managed to bring case numbers down in recent weeks without resorting to national lockdowns.The measures introduced in recent days and weeks should be given a chance to work.The idea that shutting down society and printing money is the appropriate response to the outbreak of a virus is an extreme delusion. 
+date: 1602698688.7281253 
+--- 
+This is what living with an endemic virus means. We always knew there would be a resurgence as winter approached, but the measures we’ve taken are slowing the spread appreciably. On March 20, there were 1,500 people in hospital with Covid-19. Nineteen days later there were nearly 20,000. On September 24, the number of people in hospital with Covid-19 reached 1,500 again. Nineteen days later (yesterday), there were 4,367. In the whole south of England, including London, there were only 681.
+
+Parts of the North-West are still a major concern – hence the partial lockdown of Liverpool last night – but, while it is too early to say for sure, rates of new infections seem to be flat or falling in several northern hotspots, including Manchester, Newcastle and Leeds. The scenario of 50,000 new cases a day by October 13 that was presented by Chris Whitty and Sir Patrick Vallance three weeks ago has fallen 33,000 cases short. If their intention was to remind us to take the virus more seriously, it may have worked. Case numbers have been rising, but not as fast as Whitty and Vallance suggested, and nowhere near as fast as they were in March.
+
+Other European countries, including Denmark, Spain and Estonia, have managed to bring case numbers down in recent weeks without resorting to national lockdowns. Even the World Health Organisation now opposes lockdowns, except in extreme cases. The measures introduced in recent days and weeks should be given a chance to work. The economy cannot be switched on and off like a blow heater. We have just suffered the deepest recession in centuries. It might not feel like it to breakfast television hosts and government scientists, but millions of jobs and thousands of businesses are hanging by a thread.
+
+It goes without saying that we are not in a good situation. Good situations are a distant memory. It also goes without saying that every death is a tragedy, but more than a thousand people die in Britain each day without making the news and, on average, at a slightly younger age than those who die with Covid-19. The idea that shutting down society and printing money is the appropriate response to the outbreak of a virus is an extreme delusion. Those who are screaming for a second lockdown, which will presumably be followed by a third lockdown, will be able to say “I told you so” no matter what happens, but we are a long way from needing the nuclear option – and the terrible fallout that accompanies it.
