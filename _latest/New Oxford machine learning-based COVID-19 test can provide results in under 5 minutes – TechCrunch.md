@@ -1,0 +1,19 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/schematic.png?w=764 
+title: > 
+  New Oxford machine learning-based COVID-19 test can provide results in under 5 minutes – TechCrunch 
+description: > 
+  The test created by the Oxford researchers also offer significant advantages in terms of speed, providing results in under five minutes, without any sample preparation required.That means it could be among the technologies that unlock mass testing – a crucial need not only for getting a handle on the current COVID-19 pandemic, but also on helping us deal with potential future global viral outbreaks, too.Oxford’s method is actually well-designed for that, too, since it can potentially be configured relatively easily to detect a number of viral threats.The technology that makes this possible works by labelling any virus particles found in a sample collected by a patient using short, fluorescent DNA strands that act as markers.The focus now is to create a spinout company for the purposes of commercializing the device in a format that integrates all the components together. 
+date: 1602784079.2692127 
+--- 
+Oxford scientists working out of the school’s Department of Physics have developed a new type of COVID-19 test that can detect SARS-CoV-2 with a high degree of accuracy, directly in samples taken from patients, using a machine learning-based approach that could help sidestep test supply limitations, and that also offers advantages when it comes to detecting actual virus particles, instead of antibodies or other signs of the presence of the virus which don’t necessarily correlate to an active, transmissible case.
+
+The test created by the Oxford researchers also offer significant advantages in terms of speed, providing results in under five minutes, without any sample preparation required. That means it could be among the technologies that unlock mass testing – a crucial need not only for getting a handle on the current COVID-19 pandemic, but also on helping us deal with potential future global viral outbreaks, too. Oxford’s method is actually well-designed for that, too, since it can potentially be configured relatively easily to detect a number of viral threats.
+
+The technology that makes this possible works by labelling any virus particles found in a sample collected by a patient using short, fluorescent DNA strands that act as markers. A microscope images the sample and the labelled viruses present, and then machine learning software takes over using algorithmic analysis developed by the team to automatically identify the virus, using differences that each one produces in terms of its fluorescent light emitted owing to their different physical surface makeup, size and individual chemical composition.
+
+This technology, including the sample collection equipment, the microscopic imager and the flourescence insertion tools, as well as the compute capabilities, can be miniaturized to the point where it’s possible to be used just about anywhere, according to the researchers – including “businesses, music venues, airports,” and more. The focus now is to create a spinout company for the purposes of commercializing the device in a format that integrates all the components together.
+
+The researchers anticipate being able to form the company, and start product development by early next year, with the potentially of having a device approved for use and ready for distribution around six months after that. It’s a tight timeline for development of a new diagnostic device, but timelines have changed already amply in the face of this pandemic, and will continue to do so as we’re unlikely to see if fade away anytime in the near future.
