@@ -1,0 +1,27 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static.independent.co.uk/2020/10/15/08/newFile-6.jpg 
+title: > 
+  Trump news live: Latest US election updates as president admits concern over polls 
+description: > 
+  In a further sign of his desperation, the president later tweeted an astonishing plea to voters in the solidly-Democratic state of California, asking them “WHAT THE HELL DO YOU HAVE TO LOSE?” in voting for him.While those close to Biden have rubbished the story as “Russian disinformation” intended to throw the election... ...Trump wasted little time in making hay with the smear.“Vice President Biden, you owe the American people an apology because… you are a corrupt politician,” the president told the Good Ol’ Boys of Iowa last night, demanding his rival release all emails relating to his family's business dealings in Eastern Europe.Here’s John T Bennett on his crowing in the corn state about a great big fat nothingburger.Trump in desperate plea to voters in astonishing new tweet President returned to campaign trail this week after coronavirus diagnosis Joe Sommerlad 15 October 2020 09:10 1602747676 Hello and welcome to The Independent’s rolling coverage of the Donald Trump administration. 
+date: 1602752971.828959 
+--- 
+US president Donald Trump in Iowa on Wednesday
+
+Donald Trump continues to trail his presidential challenger Joe Biden by as much as 17 points in the national polls and acknowledged his concern during his latest rally appearance in Des Moines, Iowa, on Wednesday night, telling his loyal crowd: "For me to only be up six [in Iowa], I'm a little bit concerned, I'll tell you that."
+
+In a further sign of his desperation, the president later tweeted an astonishing plea to voters in the solidly-Democratic state of California, asking them “WHAT THE HELL DO YOU HAVE TO LOSE?” in voting for him.
+
+That came as Facebook and Twitter censored a New York Post article that claimed a connection between the former vice president and his son Hunter’s business dealings in Ukraine, a story the Biden camp have hotly refuted but which has inspired fresh gloating from Trump, who called the emails it concerns “Smoking Gun” evidence of a corruption.
+
+Key points: Trump admits polling concerns and begs California voters to back him
+
+President accuses Bidens of ‘blatantly lying’ following New York Post claims
+
+claims Trump expresses admiration for authoritarian leaders Putin, Xi and Kim
+
+President mocks challenger with absurd impression
+
+White House press secretary has Twitter account locked for sharing NYP article Show latest update 1602750601 President accuses Bidens of ‘blatantly lying’ following New York Post claims That came as Facebook and Twitter censored a New York Post article that claimed a connection between the former vice president and his son Hunter’s business dealings in Ukraine, a story the Biden camp have hotly refuted but which has inspired fresh gloating from Trump, who called the emails it concerns “Smoking Gun” evidence of a father-son grift. The story, dismissed by many commentators as “highly sketchy”, originates in emails taken from a laptop that reportedly belonged to Hunter Biden and which was retreived from a Delaware repair shop and handed over to the Rupert Murdoch-owned tabloid by Rudy Giuliani, Trump’s personal attorney, following a tip-off from Steve Bannon (hmmm…) It claims to prove that Biden’s younger son did introduce his father, then US vice president, to his then-bosses at the Ukrainian gas company Burisma in 2015 at a time when the Obama administration was pressing Kiev to remove a prosecutor general, Viktor Shokin, whom it accused of being corrupt. While those close to Biden have rubbished the story as “Russian disinformation” intended to throw the election... ...Trump wasted little time in making hay with the smear. “Vice President Biden, you owe the American people an apology because… you are a corrupt politician,” the president told the Good Ol’ Boys of Iowa last night, demanding his rival release all emails relating to his family's business dealings in Eastern Europe. Here’s John T Bennett on his crowing in the corn state about a great big fat nothingburger. ‘Pay-for-play scandal’: Trump accuses Joe Biden of ‘lying’ about role in son Hunter’s Ukraine business dealings President hits third swing state in as many nights as he starts homestretch battleground blitz Joe Sommerlad 15 October 2020 09:29 1602749569 Trump admits polling concerns and begs California voters to back him as desperation mounts Donald Trump continues to trail his presidential challenger Joe Biden by as much as 17 points in the national polls and acknowledged his concern during his latest rally appearance in Des Moines, Iowa, on Wednesday night, telling his loyal crowd: "For me to only be up six [in Iowa], I'm a little bit concerned, I'll tell you that." In a further sign of his desperation, the president later tweeted an astonishing plea to voters in the solidly-Democratic state of California, asking them “WHAT THE HELL DO YOU HAVE TO LOSE” by voting for him. Matt Mathers has this on the president’s increasing struggle to conceal his anguish. Trump in desperate plea to voters in astonishing new tweet President returned to campaign trail this week after coronavirus diagnosis Joe Sommerlad 15 October 2020 09:10 1602747676 Hello and welcome to The Independent’s rolling coverage of the Donald Trump administration. Gino Spocchia 15 October 2020 08:41
