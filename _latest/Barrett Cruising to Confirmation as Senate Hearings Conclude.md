@@ -1,0 +1,47 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.usnews.com/dims4/USNEWS/a334970/2147483647/resize/1200x%3E/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fc3%2Fc486bb2d9f25c2cbb31ac22d04bb4f%2Fmedia%3Adbe8217e2c884f11ab477f600f6a81e9Supreme_Court_Barrett_36790.jpg 
+title: > 
+  Barrett Cruising to Confirmation as Senate Hearings Conclude 
+description: > 
+  Photos: The Amy Coney Barrett Hearing View All 21 ImagesThursday's session closed out the fourth and final day of confirmation hearings where senators made their final remarks and witnesses testified both for and against the nomination, though Barrett herself wasn't present.The hearings were largely devoid of drama, despite Democrats objecting to taking up the motion to set the committee vote for next week.Democrats on the committee acknowledged the inevitability of her confirmation, and their pointed questions on specific landmark cases didn't rattle Barrett or knock her off course.Republicans, meanwhile, featured individuals who were close to Barrett – former judges, students and law clerks – who could speak to her character.And Democrats delivered a stark warning to Republicans on the Judiciary Committee, should they win back the White House and the Senate. 
+date: 1602808390.4589288 
+--- 
+Senate Republicans are forging ahead with Judge Amy Coney Barrett's speedy confirmation with a committee vote on Oct. 22 and plans to quickly go to the floor for full consideration after a series of cordial and low-key hearings that solidified her appointment to the Supreme Court as all but certain.
+
+Barrett's confirmation hearings before the Senate Judiciary Committee ended as they began: Republicans emphatically touting the credentials of someone who they believe is well-qualified to sit on the bench and Democrats deriding the process as a "sham" in the midst of voting weeks out from a presidential election. Senate Majority Leader Mitch McConnell of Kentucky said Thursday the Senate will go to the floor the day after the committee vote to start processing her confirmation, reaffirming his commitment to do so before the Nov. 3 election.
+
+"She'll come out of committee next Thursday ... and we'll go to the floor with her on Friday the 23rd and stay on it until we finish," McConnell told reporters in his home state, adding that Republicans "have the votes" to confirm Barrett.
+
+Photos: The Amy Coney Barrett Hearing View All 21 Images
+
+Thursday's session closed out the fourth and final day of confirmation hearings where senators made their final remarks and witnesses testified both for and against the nomination, though Barrett herself wasn't present. The hearings were largely devoid of drama, despite Democrats objecting to taking up the motion to set the committee vote for next week. Committee hearings need at least two members of the minority party present to conduct business, and Sen. Dick Durbin of Illinois noted that he was the only Democrat present when Judiciary Committee Chairman Lindsey Graham of South Carolina called the vote. But Graham proceeded anyway and Republicans passed the motion, 12-10, with only two Democrats voting no in-person and the rest opposing the motion by proxy.
+
+Democratic Sen. Richard Blumenthal of Connecticut also tried to indefinitely postpone the proceedings until at least after the election, but his motion failed in a party-line vote.
+
+"The time has come to be honest about what is going on here," Democratic Sen. Amy Klobuchar of Minnesota said Thursday. "You are just trying to ram through this justice against your own words, in light of everything this president has said, where he won't even commit to a peaceful transition to power. That is the world we are in right now."
+
+Democrats on the committee acknowledged the inevitability of her confirmation, and their pointed questions on specific landmark cases didn't rattle Barrett or knock her off course. Democrats decried her as evasive on key issues like abortion, LGBTQ rights and contraception, specficially when asking if she agreed with her former boss, the late Justice Antonin Scalia, that rulings that said abortions and same-sex marriages are protected by the Constitution were "wrongly decided." But Barrett deferred to the same response that she wouldn't "grade precedent" or give any indication of how she'd rule on a case prior to taking the bench.
+
+The biggest point of contention hung on the Affordable Care Act and its fate before the court as it gears up to hear arguments on Nov. 10, one week after the election. At issue is the individual mandate – the requirement for Americans to purchase health coverage or face a penalty – and whether it's constitutional after Congress zeroed it out in 2017. The lawsuit, backed by the Trump administration, argues that because the mandate is invalidated, the entire law should fall.
+
+With posters behind, Democrats, one by one, spoke of constituents that faced health care challenges and the threats posed to them if the Affordable Care Act is completely dismantled. They pointed to her writings that were critical of previous ACA rulings as well as President Donald Trump's commitment to confirming justices who will overturn the law. Democrats pressed Barrett multiple times over whether she'd recuse herself from the upcoming case or any others that might present conflicts like potential election disputes, but she wouldn't entertain any recusals before being confirmed.
+
+But Republicans, who have railed against the ACA for the past decade and campaigned on repealing and replacing the law, sought to downplay the threat of the current Supreme Court case and argued that it would be unlikely that the entire law goes down. Republicans are particularly vulnerable on the issue of health care as it again emerges as a prominent campaign issue, especially during an ongoing pandemic.
+
+They quizzed Barrett on severability – the idea that a provision could be removed from a law but the rest of the statute can still stand. Republicans pressed her on the notion that justices seek to err on the side of severing a provision when possible and leaving the rest of the law intact as to not undo the work of legislators. Barrett agreed that the "presumption is always in favor of severability," though she wouldn't offer any opinions on how she'd rule in the ACA case.
+
+"The left is also suggesting Judge Barrett's confirmation would be the demise of the Affordable Care Act and the protections for preexisting conditions," GOP Sen. Chuck Grassley of Iowa, a former chairman of the Judiciary Committee, said on Tuesday. "That's outrageous. As a mother of seven, Judge Barrett clearly understands the importance of health care."
+
+Barrett also sought to create some distance from Scalia as well as Trump. When nominated, Barrett said Scalia's "judicial philosophy" would also be hers. But at her hearings, she argued that she'd be an independent jurist who might not always reach the same conclusion as her late boss, a fellow originalist who believed the Constitution should be interpreted as it was adopted at the time. She vowed that she has made no commitments to the president or to any members of the Judiciary Committee on how she'd vote.
+
+At Thursday's final hearing, both parties sought to feature witnesses that would further bolster their cases.
+
+Democrats lined up witnesses who spoke personally about access to abortions and medical coverage through the ACA. Republicans, meanwhile, featured individuals who were close to Barrett – former judges, students and law clerks – who could speak to her character. One such witness was Laura Wolk, a former law student of Barrett's at Notre Dame University who went on to become the first blind clerk at the Supreme Court. Plus, members of the American Bar Association's standing committee presented why they deemed Barrett as "well-qualified," the highest rating that the nonpartisan body can give to nominees for the federal judiciary.
+
+But for much of the hearings this week, the committee looked past Barrett and used the national spotlight to lament about the current political landscape and at times debated unresolved issues. And Democrats delivered a stark warning to Republicans on the Judiciary Committee, should they win back the White House and the Senate.
+
+"Don't think that when you have established the rule of 'because we can,' that, should the shoe be on the other foot, you will have any credibility to come to us and say, 'Yeah, I know you can do that but you shouldn't,'" Sen. Sheldon Whitehouse of Rhode Island said Thursday. "Your credibility to make that argument at any time in the future will die in this room and on that Senate floor if you continue to proceed in this way."
+
+Graham thanked his colleagues for an overall respectful debate, a marked difference from the rocky hearings to confirm Justice Brett Kavanaugh two years earlier. But Graham, who faces a challenging reelection race against an opponent who has vastly outraised him, spoke to the cloud of the election hanging over the hearings and the partisanship that has marred the committee in recent years. At one point, Graham acknowledged that Democrats have a "good chance" of winning the White House, a surprising admission from a close ally of Trump's.
