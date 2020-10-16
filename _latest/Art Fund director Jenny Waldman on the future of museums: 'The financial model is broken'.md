@@ -1,0 +1,19 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/art/2020/10/12/TELEMMGLPICT000240979376_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay 
+title: > 
+  Art Fund director Jenny Waldman on the future of museums: 'The financial model is broken' 
+description: > 
+  Usually the winner of Art Fund’s Museum of the Year – the biggest prize of its kind in the world – gets announced at a ritzy midsummer party.Just a segment on The One Show, with Grayson Perry on the green sofa at Broadcasting House doing his boosterish best to big up museums in general.To discuss these challenges, as well as the decision to share the prize, I met Art Fund’s new director, Jenny Waldman, at the 117-year-old charity’s offices in a converted warehouse behind King’s Cross.“Well, this was pandemic-related,” she explains, “because it’s been such a difficult time for museums.(In 1906, for instance, following a public campaign, it bought Velazquez’s Rokeby Venus for the National Gallery.) 
+date: 1602838187.3842843 
+--- 
+Usually the winner of Art Fund’s Museum of the Year – the biggest prize of its kind in the world – gets announced at a ritzy midsummer party. Not this year. Just as the Royal Academy’s Summer Exhibition was kicked back to autumn for the first time, so the 2020 edition of Museum of the Year was delayed until last night [Oct 12]. There was no ceremony. Just a segment on The One Show, with Grayson Perry on the green sofa at Broadcasting House doing his boosterish best to big up museums in general.
+
+And the winner was? Well, everyone: all five institutions on the shortlist, ranging from a leviathan – the Science Museum – to a museological minnow in the village of Gairloch (population: 740) in the Scottish Highlands. Along with Aberdeen Art Gallery, South London Gallery, and Towner Eastbourne, they will share a pot of prize money, recognising recent excellence, worth £200,000 – a one-off increase of 40 per cent to acknowledge the “unprecedented challenges”, as a spokesman puts it, of the pandemic. To discuss these challenges, as well as the decision to share the prize, I met Art Fund’s new director, Jenny Waldman, at the 117-year-old charity’s offices in a converted warehouse behind King’s Cross.
+
+Dressed, on a drizzly day, in deliberately eye-popping red, Waldman – who, in 2017, was awarded a CBE for services to the arts – is a sunny, smiling presence. She laughs when I point out that – following last year’s Turner and Booker Prizes, which were also split – sharing awards has become the thing to do. “Well, this was pandemic-related,” she explains, “because it’s been such a difficult time for museums. This year’s judges just felt we had five potential winners, and that we needed to celebrate the breadth and brilliance of them all.”
+
+Waldman, the daughter of a professional potter and a barrister, who says, coyly, only that she is “of a certain age”, started at Art Fund at an impossibly inopportune moment, three weeks into lockdown. Fortunately, she says, she’d already had “a great handover” with her predecessor, Stephen Deuchar, whom she credits for the organisation’s “huge growth” over the past decade: “He made it something much bigger and more impactful than just the National Art Collections Fund” – as the charity was called when it was founded in 1903, to help museums hamstrung by inadequate government funding, expand their collections. (In 1906, for instance, following a public campaign, it bought Velazquez’s Rokeby Venus for the National Gallery.)
+
+Today, the self-styled “national charity for art” still raises money to save specific artworks, but it also assists museums and galleries more broadly, and lobbies on their behalf – supported by 159,000 members who pay £73 annually for a National Art Pass, offering free and discounted access to British venues and exhibitions.

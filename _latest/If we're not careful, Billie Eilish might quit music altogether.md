@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/music/2020/10/14/TELEMMGLPICT000227498242_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay 
+title: > 
+  If we're not careful, Billie Eilish might quit music altogether 
+description: > 
+  Actor Will Poulter deleted his social media accounts after receiving hateful comments about his appearance in the Black Mirror Bandersnatch episode.Stormzy has been gone from all his social media accounts for almost a year.Deleting her accounts wouldn’t stop the commentary on her body, but at least Eilish wouldn’t have to see it in the trending bar 10 minutes after she nipped out for milk.But the impact her absence from social media would have on fans would be huge.I doubt very much that driving an artist like Billie Eilish off social media would stop her making and releasing music of the emotional calibre we’re used to. 
+date: 1602838187.7747307 
+--- 
+It would be completely understandable for Eilish to say, you know what, enough is enough – as Iggy Azaelea did when she left Twitter in 2015 after comments about her cellulite, or the notoriously private Adele whose weight loss has ignited conversation over the last year. Men are not immune either. Actor Will Poulter deleted his social media accounts after receiving hateful comments about his appearance in the Black Mirror Bandersnatch episode. Ed Sheeran has come off Twitter, while rarely posting on Instagram. Stormzy has been gone from all his social media accounts for almost a year.
+
+Deleting her accounts wouldn’t stop the commentary on her body, but at least Eilish wouldn’t have to see it in the trending bar 10 minutes after she nipped out for milk. At least she wouldn't feel so much hate. “I have felt very hated recently. When I was on the stage and saw you guys smiling at me, it genuinely made me want to cry. I want to cry right now.” she told the audience at the 2020 Brit Awards, her vulnerability heartbreakingly acute.
+
+But the impact her absence from social media would have on fans would be huge. Before she was a mainstream star, Billie Eilish had a hardcore following camp in the street the night before her concerts. I wrote a piece for the now defunct Q magazine about the frenzy of her run of shows in Shepherd’s Bush in 2019, where I witnessed no less than three people throw up and spoke to fans outside to get a feel for why they idolise this teenager so much. The sheer emotion of these kids, who had found in Eilish and her music a kind of acceptance they didn’t feel at home or at school, was overwhelming. Over and over again they’d tell me how much they related to her, how her music had helped them through hard times, how often they turned to her.
+
+I doubt very much that driving an artist like Billie Eilish off social media would stop her making and releasing music of the emotional calibre we’re used to. But what I think we would miss is the context, the detail of her interactions that come without pre-planning or sign-off from a manager. Sure, we lived without this kind of access to musicians for decades but what we have now is something new, something that gives songs more subtle layers. We bring our own stuff to whatever we listen to, but now we bring something more of the artist’s stuff too.
