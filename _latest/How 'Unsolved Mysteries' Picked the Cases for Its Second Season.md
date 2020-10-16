@@ -1,0 +1,43 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://video-images.vice.com//articles/5f88aa14e58d2d009c1cb591/lede/1602793600469-unsolved-mysteries-bullet.jpeg?image-resize-opts=Y3JvcD0wLjgxMTY0MjQxMTY0MjQxMTd4dzoxeGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio 
+title: > 
+  How 'Unsolved Mysteries' Picked the Cases for Its Second Season 
+description: > 
+  According to Unsolved Mysteries co-creator Terry Dunn Meurer, all of those potential cases really are given careful consideration."We separate out the tips [about previous mysteries] and we send those to law enforcement immediately.There are also ghosts, because it's not a proper Unsolved season without ghosts, aliens, or the occasional spontaneous human combustion.Law enforcement agencies have been known to make their own recommendations, and suggestions are always coming in through Unsolved dot com."We don't usually run into law enforcement saying they don't want it done, but we do run into law enforcement that doesn't want to participate," she said. 
+date: 1602864768.3327408 
+--- 
+If you scroll through Unsolved Mysteries' Twitter mentions, you'll find a combination of questions about criminals they've previously covered; armchair investigators asking for updates on the most recent mysteries; and people sharing missing person posters, local news stories, and online petitions, in the hope that it will convince the showrunners to cover a particular case.
+
+Whether they're presented with an as-yet-unidentified victim of an Alaskan serial killer, a mysterious death in rural Illinois, or the disappearance of an entire First Nation family three decades ago, @Unsolved responds with a link to an online form where the details of those stories can be typed out and shared with the producers of the Netflix series.
+
+According to Unsolved Mysteries co-creator Terry Dunn Meurer, all of those potential cases really are given careful consideration. "We process everything that comes into Unsolved.com," she told VICE. "We separate out the tips [about previous mysteries] and we send those to law enforcement immediately. If we get a story submission, we put that on a spreadsheet and into a database. We go through each and every one of those stories and decide which ones could make a strong episode. Some of the other submissions to the website are comments about a particular story, and we read those too."
+
+After a successful Netflix reboot this summer, Unsolved Mysteries is already back with six new episodes, just in time to keep you from hate-watching any more Emily in Paris or from enduring Carla Gugino's impossible "I'm Somehow From Every Single Part of England" accent during The Haunting of Bly Manor. The second series, which premieres on the streaming service on October 19, will cover the strange death of a D.C. insider, an escaped Death Row fugitive, a pair of cold-case kidnappings, a locked room mystery in an Oslo hotel, and a questionable mid-winter suicide. There are also ghosts, because it's not a proper Unsolved season without ghosts, aliens, or the occasional spontaneous human combustion.
+
+Meurer says that selecting which cases to profile is the "most challenging" part of producing the show. They started that database of viewer-submitted mysteries 34 years ago, when the series was in its original Robert Stack-led incarnation. Law enforcement agencies have been known to make their own recommendations, and suggestions are always coming in through Unsolved dot com.
+
+"When we sit down to decide, the criteria is to look for diversity across all kinds of categories," she said. "We want to give the viewers a wide variety of mysteries: a missing [person], a wanted [suspect], a murder, a UFO or maybe a ghost story. We have a category called 'Unexplained Death,' which are probably the most intriguing cases. So it's about category, and it's about location. We want to give our international audience some mysteries from their own worlds. In the second [series], we have one that we found in Japan, and one from Norway."
+
+But beyond geography and whether or not they've found the right kind of ghosts, Meurer says that one of the most important criteria is whether or not a case is potentially solvable or not.
+
+"We get a lot that are 100 percent a mystery," she said. "There aren't any leads, there aren't any suspects, there aren't any theories. Maybe it's a missing persons case where somebody just vanished, and there are no clues. Those are hard, because the whole premise of the show is 'perhaps you can help solve a mystery.' We want to put cases out there that are solvable, where people might be able to identify someone, or they might have a clue to a case that has grown cold."
+
+They've done a pretty good job with that: At least 260 of the 1,300 cases that were featured during the show's original run have been solved so far. There were even times when a case was cracked on the same night that an episode aired. (And sometimes, wanted fugitives saw themselves on prime-time TV. In 1988, a couple who were suspects in a Michigan murder watched their Unsolved segment and were not-at-all surprised when officers showed up to arrest them several hours later.)
+
+Although none of the cases from the show's first Netflix season have been solved yet, viewers have already provided a lot of solid info. Within a week of its premiere, more than two dozen credible tips had been submitted about the death of 23-year-old Alonzo Brooks, who was featured in the episode titled "No Ride Home"; about the strange suicide of Rey Rivera ("Mystery on the Rooftop"); and about the disappearance and presumed death of 20-year-old Missouri woman Lena Chapin ("Missing Witness").
+
+"We were amazed by how much engagement there was in those cases," Meurer said. "The Rey Rivera case, I think, had the most engagement, but it didn't necessarily have the most tips. 'House of Terror,' the Xavier Dupont de Ligonnès case, had tips from all over the world. We still have tips coming in, and we just keep feeding them to the French police. When it's a 'wanted' case, we look for a cluster of tips that come in and, in that one, there was a cluster that came from Chicago. So that's interesting to the French police right now."
+
+In July, less than a month after the Alonzo Brooks episode aired, his body was exhumed from a cemetery in Topeka, Kansas. The FBI has also reopened its own investigation into his death, and it is offering a $100,000 reward for any information that leads to the arrest and conviction of the person or people responsible for the crime.
+
+According to Meurer, the only thing that might keep the show from digging into a particular mystery is pushback from some of the people who may be involved, directly or indirectly. "We don't usually run into law enforcement saying they don't want it done, but we do run into law enforcement that doesn't want to participate," she said. "We have a really great working relationship with those agencies but sometimes they're concerned about jeopardizing the investigations, other times, they're concerned about allegations that have been made by a family, like they've been accused of covering something up or making a mistake."
+
+"With Alonzo, for example, we really tried to bring on law enforcement, because we want to do a balanced presentation of the case," she continued. "We want them to weigh in, but that won't prevent us from doing the story if they say they prefer not to participate. But we would never do a story if a family did not want us to profile their case. In the past, we've heard about someone, reached out, and they said 'Please don't do this.' We 100 percent respect that, and would only work with families who want their stories told, and want that publicity."
+
+When the show gets the OK from a family to move forward, the first thing they do is interview them to ensure that they have all of the details nailed down. In many situations, that might be followed by "walk and talk" sessions where they'll go over any locations that are important to the case, and give the participants the opportunity to explain the whole situation in context.
+
+After that, the reenactments are filmed. "We work very, very closely with the families and we are very careful to make sure that the reenactments tell the story," she added. "We do not take dramatic license with the reenactments at all."
+
+Meurer said that she's been in contact with "a lot" of the people who were profiled in the first season, and they're pleased with how the cases were presented. "Alonso's family and Allison Rivera are happy they did the show, because they really feel like it's the best chance they have of maybe getting tips in and getting it solved," she said.

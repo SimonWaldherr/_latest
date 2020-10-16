@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.nydailynews.com/resizer/CV2bUCDg9YQ32AIzrlJ2s5_ZivU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DWJZSR6ETBGPTB2F6SNZUKY6WA.jpg 
+title: > 
+  The Hunter Biden ‘scoop’: How Americans should handle potential disinformation 
+description: > 
+  Combatting the spread of mis- and disinformation in our elections, evaluating the evidence behind stories like the one published by the Post — stories that could shape the course of an American election — should be executed with the utmost care.Thomas Rid, author of “Active Measures: The Secret History of Disinformation and Political Warfare,” advised great caution regarding the suspicious behavior described in the story, for it is “exactly how a professional would surface disinformation and potentially forgeries.” Russia’s hack-and-leak operation targeting the 2016 election is an example of such tradecraft, but other actors — foreign and domestic — have also jumped in and injected disinformation into the U.S. information space in 2020, making the treatment of this election’s October Surprise all the more critical. 
+date: 1602864756.8906753 
+--- 
+Combatting the spread of mis- and disinformation in our elections, evaluating the evidence behind stories like the one published by the Post — stories that could shape the course of an American election — should be executed with the utmost care. Thomas Rid, author of “Active Measures: The Secret History of Disinformation and Political Warfare,” advised great caution regarding the suspicious behavior described in the story, for it is “exactly how a professional would surface disinformation and potentially forgeries.” Russia’s hack-and-leak operation targeting the 2016 election is an example of such tradecraft, but other actors — foreign and domestic — have also jumped in and injected disinformation into the U.S. information space in 2020, making the treatment of this election’s October Surprise all the more critical.

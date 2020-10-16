@@ -1,0 +1,15 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/politics/2020/10/08/TELEMMGLPICT000241446614_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7BhqxFuWQSv0DtS90DBWIiw.jpeg?impolicy=logo-overlay 
+title: > 
+  Whatever ministers say, we are stumbling into another national lockdown 
+description: > 
+  Having promised from the outset that his government would follow the science, Boris Johnson finds himself in what Sir Humphrey Appleby might describe as a less than propitious situation.The three-tier system probably sounded like a good idea at the time, but if pretty much everywhere is going to have tiers 2 or 3 imposed, then we might as well accept that we are already facing a second national lockdown and get on with it.But such an admission would be unwelcome in the Treasury, which is panicking about the amounts already committed to helping out workers furloughed from their jobs during the spring and summer.Local restrictions that fall short, by however little, of full lockdown allow mandarins to withhold financial aid on the basis that circumstances are different from what we faced in March.Which explains Andy Burnham’s impressive campaign to secure more help for his city region by opposing tougher restrictions (and doesn’t go anywhere near explaining Khan’s eagerness to shut his citizens in their houses and throw away the key until the New Year). 
+date: 1602864764.437091 
+--- 
+Having promised from the outset that his government would follow the science, Boris Johnson finds himself in what Sir Humphrey Appleby might describe as a less than propitious situation. Behind him he has some sceptical scientists suggesting that we might have to face a full lockdown every time the schools go off on holiday (so say goodbye to Christmas) and in front of him we have the Labour leader, Keir Starmer, finally taking the gloves off by pushing, not only his own party’s agenda, but the scientific one.
+
+The three-tier system probably sounded like a good idea at the time, but if pretty much everywhere is going to have tiers 2 or 3 imposed, then we might as well accept that we are already facing a second national lockdown and get on with it. But such an admission would be unwelcome in the Treasury, which is panicking about the amounts already committed to helping out workers furloughed from their jobs during the spring and summer. Local restrictions that fall short, by however little, of full lockdown allow mandarins to withhold financial aid on the basis that circumstances are different from what we faced in March. Which explains Andy Burnham’s impressive campaign to secure more help for his city region by opposing tougher restrictions (and doesn’t go anywhere near explaining Khan’s eagerness to shut his citizens in their houses and throw away the key until the New Year).
+
+To summarise the summary: Johnson is beset on all sides – by his own MPs, by the Opposition, by at least some of his ministers, by his scientific advisers and, according to recent polls, by the voters, who reportedly support tougher measures but have lost confidence in the government’s handling of the crisis.

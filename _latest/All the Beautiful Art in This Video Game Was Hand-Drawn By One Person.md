@@ -1,0 +1,57 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://video-images.vice.com//articles/5f874eac4b5061009e0a3513/lede/1602703129579-1.png?image-resize-opts=Y3JvcD0xeHc6MXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq 
+title: > 
+  All the Beautiful Art in This Video Game Was Hand-Drawn By One Person 
+description: > 
+  And yet, I couldn't help but stare in awe at The Collage Atlas, a new puzzle game on Apple Arcade today, with its gorgeous hand-drawn artwork.Every piece of art in The Collage Atlas was originally drawn by Evelyn with a 0.03mm fine-liner pens on 300gsm watercolour paper.The Collage Atlas has been kicking around since early 2016, starting as an experiment to see what it would be like to walk around a 3D environment with hand-drawn trees.I'm not an artist, game designer, or programmer, but claiming you're going to completely hand draw a game seems like a lot of work.How much game development experience did you have prior to starting on The Collage Atlas ? 
+date: 1602864768.664937 
+--- 
+These days, it feels like one has seen every way a video game can look. It can be hard, even with access to next-generation tech, to impress. And yet, I couldn't help but stare in awe at The Collage Atlas, a new puzzle game on Apple Arcade today, with its gorgeous hand-drawn artwork. The whole dang thing is drawn by hand, a statement that really only makes sense when you see the game in action and realize it's a sketchbook brought to life.
+
+VICE Games: You're specific to use the term "hand-illustrated" when describing the approach. Can you talk about what that means, and how that differentiates from, say, the art in other games? John Evelyn: The hand-drawn aspect of the project is important to me for a number of reasons that are more or less intertwined. There is the immediacy of expression, which is liberating given my years of working in digital graphic design, and then there’s the implicit values in that approach.
+
+I recently had a chance to speak with Evelyn about making The Collage Atlas, where we dug into his desire to make a video game feel intimate not strictly through a story that appeals to the heart, but by creating a direct connection between this artwork and the person playing.
+
+Every piece of art in The Collage Atlas was originally drawn by Evelyn with a 0.03mm fine-liner pens on 300gsm watercolour paper. (GSM means "grams per square meter," and the higher the number, the heavier the paper. Regular printer paper is 80 gsm, for reference.) Even the entire soundtrack, with the exception of some vocals, was composed by Evelyn. It's been a painstaking endeavour that explains the game's lengthy development, one that almost vanished at various points in the process.
+
+The Collage Atlas has been kicking around since early 2016, starting as an experiment to see what it would be like to walk around a 3D environment with hand-drawn trees. It was never supposed to be more than a little thing designer John Evelyn was dinking around with, but after public reception to his playable toy suggested there was something there, he started the long journey into bringing The Collage Atlas to life. That day has finally arrived.
+
+Fast forward through years and years of growing up listening to punk and hardcore and I think I started to realise that the authenticity I really valued in that music, was the very same reason I liked the films, books and art that I liked. To see someone just naturally be is tremendously satisfying after all. And I had found myself working in media agencies, mainly doing code and graphic design—once again working to someone else’s style, again slowly building up that frustration.
+
+Why did you start drawing in the first place? I drew endlessly as a kid but by the time I had left school I had been drained of any love for it. The insistence by curriculum of mimicking peoples' style really ground me down—I’m really not a very flexible illustrator. I just kind of draw how I draw. So since I was unable to turn my hand to other people's styles, I was left feeling like I shouldn’t be drawing at all.
+
+It naturally followed that I wanted that sense to be palpable throughout the whole game—so I drew the world straight to paper, with pen. Every shrub, cloud, and blade of grass—complete with quirks, mistakes, and asides. Ultimately I hope the cumulative effect of that will be felt as much as seen.
+
+The things we say and do are ultimately framed by our intentions. I personally find that intent is often most readily gleaned from the asides, the incidental details, the imperfections. I suppose these unguarded aspects of communication are what interest me most. In that way, over the years with my personal illustrations I've tended to draw with ink straight to paper, without prior line work or pencil guides. To let things be, as unfiltered as I can.
+
+But once that was done, it was like a starting gun had been fired in my head. I needed to make more things, and make up for lost time.
+
+I wanted to just find space to be myself—so I started to draw in my notebooks on lunch breaks and commutes. And though the drawings were pretty shoddy, the relief was immediate. I set myself a challenge of drawing a picture book (“_Asleep As The Breeze_”)—which I wrote with my face smooshed against the glass of the Piccadilly line every morning. I self-published that, there’s still a box of copies around here somewhere.
+
+I’m quite slow to draw I think, so a tree could take 8 [or] 9 hours. The in-game book has a few dozen illustrations, each of which took around that time, too. Then there’s the 3D objects like the moon and anchors. They were pretty laborious as I would make a 3D model, print off the flattened texture map ( UV layout ) and then draw in the detail and scan it back in.
+
+I'm not an artist, game designer, or programmer, but claiming you're going to completely hand draw a game seems like a lot of work. How much work is it? Oh my gosh. Turns out, it’s a lot of work. If someone asked me to work the hours I worked over the last four years I would have run a mile…or maybe a few hundred miles. And I would never in a million years ask it of someone else. But this project has been a product of feeling compelled to do something. I can’t really explain why but I just felt like I had to do it, I had a real fever to do it—silly as that will sound. It’s only a small little game after all, but the ideas in it just really got their teeth into me—so I just pushed ahead and pushed ahead. Even when I felt like I was physically and mentally running on empty.
+
+After a lifelong issue with my hands—that I didn’t know I had—really kicked off, I was left unable to type, play guitar, or draw, for years. After wrangling with that for a number of years my hands were finally working enough to be able to make stuff again so I made a game called _A Skyrocket Story—_a small mobile game, but one that ultimately gave me the confidence to pursue something bigger. Though I initially wasn’t sure what form that would take, after a few missteps and dead-ends, that something bigger turned out to be throwing everything at this project for 4.5 years.
+
+How much game development experience did you have prior to starting on The Collage Atlas ? As with a ton of folk my age, particularly folk who make games—I started out as a kid making abominations with Klik & Play. Real, full-on garbage. It was great fun. I loved it. Then late in high school I started making games in Flash, teaching myself ActionScript3—-I used to put them out on Newgrounds and stuff. I think some were a bit twee for the time, things like filltheskywithstars and Super Hyberdoze. That led into me being the default person for any game-related stuff when I ended up working in media agencies after university.
+
+Oftentimes I would find it needed some more contrast, or detail to make it work in-game. So it’d be back to the paper again, then another round of scanning. And repeat until it looked okay.
+
+There wasn’t initially a clear roadmap, just a need to do something. I was originally going to make another picture book, only then I had the idea of making an app to go alongside it. That started as a small experiment back in late March/early April 2016—just to see what it would be like to walk around a 3D space with some hand-drawn trees in.
+
+I saw you mention, in announcing the game for Apple Arcade, that Apple has been "keeping the lights on" while you worked on the game. What's the journey been like making this game? It sounds...long. Yes, long is a fair assessment! My poor friends, they’ve heard me talk about this incessantly for years!
+
+I added a small pinwheel to it (as those had been a recurring motif in my drawings for some years), and then decided it would be kind of neat if that spun when you looked at it. The resulting sense of having a meaningful presence in the space, rather than it just being passive gallery experience, locked in perfectly with the intent of the text I was writing. So, naturally, I got carried away with the interaction aspect and it grew into the original incarnation of The Collage Atlas, a 10-15min thing.
+
+I was incredibly fortunate to be selected to exhibit as part of the Leftfield Collection at EGX [a UK trade show] that year. During the show people would ask “when is the full game coming out?” At the time I was still working as a freelance graphic designer, but that made me realize maybe there was an appetite for this thing and I should try to find a way to make it work.
+
+I pursued every possible avenue for investment, finally managing to secure a grant from the UK Game Fund—that gave me a few months to feverishly piece together a prototype. Some very scary months later—owing to years of erratic freelance work I had no savings to fall back on—a week before the date I’d marked my calendar as the day to call it quits, I secured investment from the Indie Fund. As time passed it became clear that, doing the game solo, I had woefully underestimated how much work I had set myself. I had to find a publisher and fast—not least because the wonderful folk at the Indie Fund were counting on me to repay their incredible faith in the game.
+
+I spoke to a ton of publishers, and they either told me that there just wasn’t an audience for my game, or they just didn’t really want the game I wanted to make. So much of this is about just having belief in an idea, and you can’t begrudge people if they just don’t really see anything in what you’re doing—much as it’s incredibly disheartening, and very scary!
+
+One of the UK Apple team came across my game and invited me to tell them about it—and that’s what happened, they just kind of asked me about it and listened to me rambling. It was such a relief to talk to folk who didn’t just say: here are the reasons you probably shouldn’t do this. With their backing, I was no longer worried about finding whatever bits of contract work here and there to keep myself fed, I was able to focus all my time on doing this thing as much justice as I’m able.
+
+Even beyond that, I was able to do something I never imagined would be possible—have my game available in loads of languages. It’s just the most magical thing to imagine folk speaking languages I can’t understand, able to play my game, and hopefully make it their own.
