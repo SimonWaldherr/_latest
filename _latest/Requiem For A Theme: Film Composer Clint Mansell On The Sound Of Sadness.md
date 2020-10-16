@@ -1,0 +1,53 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://media.npr.org/assets/img/2020/10/15/clint-mansell-b-shot---mike-palmer_wide-79401721a10dda865bb2987a8916e61e307cb1e4.jpg?s=1400 
+title: > 
+  Requiem For A Theme: Film Composer Clint Mansell On The Sound Of Sadness 
+description: > 
+  Requiem For A Theme: Film Composer Clint Mansell On The Sound Of SadnessEnlarge this image toggle caption Mike Palmer/Courtesy of the artist Mike Palmer/Courtesy of the artistThe 2000 film Requiem for a Dream celebrates its 20th anniversary this fall, and in that time there's at least one part of its legacy that's never faded: the music.The movie's haunted original score spawned a kind of breakout hit that would ripple through media for years to come, while also kickstarting a new career for its British-born composer, Clint Mansell.Aronofsky had originally asked Mansell to write a hip-hop score for the story, since that was the music of the Brooklyn director's youth, but Mansell kept getting stuck.Requiem was only the composer's second film score, and he says he felt way out of his depth.Requiem for a Dream premiered at the Cannes Film Festival in May 2000, and was released in theaters that December. 
+date: 1602851295.400877 
+--- 
+Requiem For A Theme: Film Composer Clint Mansell On The Sound Of Sadness
+
+Enlarge this image toggle caption Mike Palmer/Courtesy of the artist Mike Palmer/Courtesy of the artist
+
+The 2000 film Requiem for a Dream celebrates its 20th anniversary this fall, and in that time there's at least one part of its legacy that's never faded: the music. The movie's haunted original score spawned a kind of breakout hit that would ripple through media for years to come, while also kickstarting a new career for its British-born composer, Clint Mansell.
+
+Mansell churned out a whole batch of disparate musical ideas after reading the script for the film, which director Darren Aronofsky co-adapted with Hubert Selby Jr. from the 1978 novel of the same name, about four characters succumbing to addiction. The sketch that became the score's central theme, Mansell remembers, was track 17 out of 20 on a demo CD he'd made, and sounded like kind of a hip-hop slow jam: "It even had sort of an 808 beat under it," he says. It didn't yet have the stabbing melody line that would become its hallmark; for now it was just three sad, descending chords.
+
+Aronofsky had originally asked Mansell to write a hip-hop score for the story, since that was the music of the Brooklyn director's youth, but Mansell kept getting stuck. He was on the verge of quitting when Aronofsky flew to New Orleans — where Mansell was living in an apartment owned by and adjacent to Trent Reznor — for a desperate session of just throwing ideas from the CD against scenes in the film. They randomly tried the theme track under a scene where the character Marion (Jennifer Connelly), who has just slept with her therapist for drug money, stumbles out into a violent thunderstorm and vomits. "And it was just like, oh my God, what's this?" Mansell says. "It was one of those magical moments where image plus music creates this third element."
+
+YouTube
+
+He developed that seedling into a piece called "Lux Aeterna," and it became the core idea of the score, an addictive uroboros of despair that was further elevated by the artistry of Kronos Quartet, who performed it for the recording. "It's not just the chords, it's not just the melody," Mansell says of the track's essential power, "it's the life that [Kronos] breathed into it." The theme plays in slightly different variations throughout the film — during the speed-fueled montage of Sara (Ellen Burstyn) cleaning her apartment, or when Tyrone (Marlon Wayans) flees a drug dealer's limo after a violent shootout — and it crescendos in the finale as the four main characters each curl up into a fetal position. "Darren had said, 'It's like a horror movie, really. Every time that the addiction wins, that's a win for the monster,' " Mansell recalls. " 'Lux Aeterna' is basically a monster theme."
+
+Requiem was only the composer's second film score, and he says he felt way out of his depth. A self-taught guitar player from the industrial town of Stourbridge, 100 miles north of London, Mansell formed the band Pop Will Eat Itself when he was 19. The group's sample-heavy style — a mashup of post-punk, rock and hip-hop — was dubbed "grebo." They didn't garner any big hits, but "like the best music of that time, you felt like you were in a club," Reznor says. "If you saw other people at that rack in the record store, or wearing a t-shirt, you shared some common insight and secret society vibe. [The band] felt like a refreshing breath of truth. It wasn't concerned about political correctness or anything else. It just felt like an interesting collage of music and presentation. It just felt alive."
+
+Reznor liked PWEI so much that he signed the band to his label, Nothing Records. He says that in his New Orleans base of operations at the time, "We had a big studio with a lot of rooms for people to hang out, and it also had two separate apartments attached to the building. At some point, after we had toured together and Clint and I had become friends and drinking buddies and kind of comrades, I vaguely remember he was in some form of crisis in his life, and was living in New York and needed to get away. And I said, 'Well, there's an apartment here. Anytime, you know — indefinitely — if you want to stay there, there's nobody living there.' "
+
+Mansell was transitioning out of PWEI, and had just written an electronic score for Aronofsky's first feature, Pi. He moved into one of the apartments, and Reznor bought him his first Apple computer and Pro Tools setup. "I remember him working super hard, and my recollection is it taking quite a bit of time, and just hearing peripherally about the frustrations and the learning curve — but a real excitement," he says. "And to my amazement, this incredible film pops out, with this incredible soundtrack. I was really happy for him. And suddenly he's a big film composer."
+
+Though Reznor says Mansell didn't directly inspire his own evolution into a film composer 10 years later with The Social Network, he adds: "Clint would have given me the confidence to feel like it could be done. You know, it's not an impossible thing. He's proven you can do that, without 20 years of university studies and degrees."
+
+Requiem for a Dream premiered at the Cannes Film Festival in May 2000, and was released in theaters that December. Burstyn received an Oscar nomination for her performance as an aging woman in unglamorous descent, but the film — a relentlessly bleak, hallucinogenic trip that crescendos into a symphony of debasement — wasn't exactly a smash. Aronofsky chose to release it unrated to avoid an NC-17 rating, which all but relegated it to art houses.
+
+Likewise, the "monster theme" for this controversial, indie downer should have faded into obscurity. Instead, it quietly became a monster hit — not on the radio, but relentlessly licensed in other media. Most of that can be traced to its usage in the theatrical trailer for The Lord of the Rings: The Two Towers in 2002, where it was given an "epic" remix, goosed with a warlike choir and full orchestra, which was created specially for the trailer by Simone Benyacar, Daniel Nielsen and Veigar Margeirsson.
+
+YouTube
+
+After that, the "Requiem for a Tower" remix kept getting used in movie trailers — including for The Da Vinci Code, I Am Legend and Sunshine — as well as for video games (Assassin's Creed), advertising campaigns (Canon cameras, Molson Canadiaan beer) and on TV shows (The Late Show with David Letterman, So You Think You Can Dance). Mansell wasn't paid much up front for the score, but he held onto the writing and publishing rights. Each licensing fee would have brought in somewhere between $35,000 and $100,000. "If I could do that every day, you know, fantastic," he says, laughing.
+
+Mansell's film scoring career ignited after Requiem. He scored four more films for Aronofsky, including Noah, the Grammy-nominated Black Swan -- where he applied a remix approach to the music of Tchaikovsky — and The Fountain, about a man whose wife is dying of cancer and his desperate quest for immortality. It had been discovering David Bowie that turned a young Mansell onto music in the 1970s; in 2009, Bowie's son Duncan Jones found himself using the scores from Requiem and The Fountain as reference tracks for his sci-fi thinker, Moon — so he asked Mansell to score it.
+
+Moon and Requiem became favorites of another director, Ben Wheatley, leading him and Mansell to collaborate on 2015's High-Rise and, most recently, a new adaptation of the Daphne du Maurier classic Rebecca for Netflix. "The thing that I love about his music in general," Wheatley says, "is the sorrow, the sadness of things. As light and as romantic as it can sound, there is always that underscore, undertow, of sadness. And I definitely feel that is totally appropriate for [Rebecca,], because the story is sad about things."
+
+YouTube
+
+In 2014, sorrow paid a personal visit to Mansell: His girlfriend, actress Heather Mottola, died of complications from pneumonia at just 29. The last thing they'd seen in a theater together was a concert film of Lou Reed performing his polarizing album Berlin.
+
+"Obviously I was grieving, and in a lot of shock," Mansell says. "It was traumatic. I did therapy and grief counseling, and they all kind of pointed at the idea that, 'You should express yourself through music, and do something musical for her.' " He ultimately decided to make a track-for-track cover album of Berlin, which he released this summer.
+
+Even though Reed's subject matter is grim — drugs, murder, doomed romance — Mansell and his collaborator, Clint Walsh, decided to make it in the glam punk style that Mottola loved. "The reinterpretation of the music actually became about us doing it, not what it represented," he says. "We had fun making that record. The original record is very downbeat, and it's bleak. I think we found some hope in our version."
+
+Mansell's collaborators tend to say he's a pretty cheery and funny guy, who happens to be drawn to stories in the realm of requiems. "But I think it's more than that," Mansell says for his own part. "I think it's to do with the authenticity of those things, you know, and the stakes of them. They're just the ones that feel real to me, that musically bring something out of me. I want to spend the time with them you know? It feels important to me."
