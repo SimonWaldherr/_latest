@@ -1,0 +1,15 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ychef.files.bbci.co.uk/live/624x351/p08v2jz2.jpg 
+title: > 
+  The maverick Brits with unique, eccentric homes 
+description: > 
+  Messel’s approach to interior design differs from that of his relatives in one respect: it is pluralist rather than purist.“When I was growing up, my parents had an incredible sense of style – their homes were decorated to go with the architectural period of the house,” he says.“A combination of lighting – uplighters, downlighters and a table or floor light – transforms a space into a dramatic stage that evolves throughout the day”, he adds.As a couple now, they admire mid-century ceramics by the likes of Terence Conran and Susie Cooper and textiles by Lucienne Day.“It’s quite a boring space and doesn’t get much light,” says Stephenson. 
+date: 1602938743.076025 
+--- 
+Messel’s approach to interior design differs from that of his relatives in one respect: it is pluralist rather than purist. “When I was growing up, my parents had an incredible sense of style – their homes were decorated to go with the architectural period of the house,” he says. “Personally, I like mixing styles, periods, materials and textures. And I like pairing warm and cold colours. By having cool coloured walls and warm coloured floors and ceiling, or vice versa, you can create a dynamic backdrop.” The floor of his workshop is painted red, while a Moroccan pendant light with red details echoes red accents in the stained-glass windows. “A combination of lighting – uplighters, downlighters and a table or floor light – transforms a space into a dramatic stage that evolves throughout the day”, he adds.
+
+Even spaces that are conventionally considered ordinary can look spectacular, as this book demonstrates. Witness the hallway in the London home of Keith Stephenson and Mark Hampshire, co-founders of homeware brand Mini Moderns, whose wallpapers and fabrics printed with stylised 1950s-to-1970s motifs give a contemporary spin to the mid-century style. The company’s aesthetic is founded on a nostalgia for the pair’s teenage years in the post-punk 1980s, when they loved buying 1950s and ’60s fabrics at jumble sales. As a couple now, they admire mid-century ceramics by the likes of Terence Conran and Susie Cooper and textiles by Lucienne Day.
+
+The ceiling and walls of the hall of their four-storey new-build home, which also houses their studio, are covered in their emerald-and-silver Pluto wallpaper, whose fractured geometry references the disorientating ‘dazzle’ camouflage used to protect ships from enemy vessels during the two world wars. The pattern looks even more frenetic in this long, narrow, tunnel-like space. “It’s quite a boring space and doesn’t get much light,” says Stephenson. “The wallpaper makes the space feel bigger. It’s said that bold patterns make rooms feel oppressive but that’s a myth: to us, they give a room more depth and character.”

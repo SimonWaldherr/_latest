@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/16/us/politics/16dc-repubs-1/merlin_178536195_0256de16-f901-406e-8767-cc439f6d69e7-facebookJumbo.jpg 
+title: > 
+  Fearing a ‘Blood Bath,’ Republican Senators Begin to Edge Away From Trump 
+description: > 
+  But now, facing grim polling numbers and a flood of Democratic money and enthusiasm that has imperiled their majority in the Senate, Republicans on Capitol Hill are beginning to publicly distance themselves from the president.The shift, less than three weeks before the election, indicates that many Republicans have concluded that Mr. Trump is heading for a loss in November.And they are grasping to save themselves and rushing to re-establish their reputations for a coming struggle for their party’s identity.He was echoing a phrase from Senator Ted Cruz of Texas, who warned of a “Republican blood bath of Watergate proportions.” Senator Lindsey Graham of South Carolina, one of the president’s most vocal allies, predicted the president could very well lose the White House.That was a reflection of the fact that Senate Republicans — who have rarely broken with the president on any major legislative initiative in four years — are unwilling to vote for the kind of multitrillion-dollar federal aid plan that Mr. Trump has suddenly decided would be in his interest to embrace. 
+date: 1602938727.755787 
+--- 
+WASHINGTON — For nearly four years, congressional Republicans have ducked and dodged an unending cascade of offensive statements and norm-shattering behavior from President Trump, ignoring his caustic and scattershot Twitter feed and penchant for flouting party orthodoxy, and standing quietly by as he abandoned military allies, attacked American institutions and stirred up racist and nativist fears.
+
+But now, facing grim polling numbers and a flood of Democratic money and enthusiasm that has imperiled their majority in the Senate, Republicans on Capitol Hill are beginning to publicly distance themselves from the president. The shift, less than three weeks before the election, indicates that many Republicans have concluded that Mr. Trump is heading for a loss in November. And they are grasping to save themselves and rushing to re-establish their reputations for a coming struggle for their party’s identity.
+
+Senator Ben Sasse of Nebraska unleashed on Mr. Trump in a telephone town hall event with constituents on Wednesday, eviscerating the president’s response to the coronavirus pandemic and accusing him of “flirting” with dictators and white supremacists and alienating voters so broadly that he might cause a “Republican blood bath” in the Senate. He was echoing a phrase from Senator Ted Cruz of Texas, who warned of a “Republican blood bath of Watergate proportions.” Senator Lindsey Graham of South Carolina, one of the president’s most vocal allies, predicted the president could very well lose the White House.
+
+Even the normally taciturn Senator Mitch McConnell, Republican of Kentucky and the majority leader, has been more outspoken than usual in recent days about his differences with the president, rejecting his calls to “go big” on a stimulus bill. That was a reflection of the fact that Senate Republicans — who have rarely broken with the president on any major legislative initiative in four years — are unwilling to vote for the kind of multitrillion-dollar federal aid plan that Mr. Trump has suddenly decided would be in his interest to embrace.
