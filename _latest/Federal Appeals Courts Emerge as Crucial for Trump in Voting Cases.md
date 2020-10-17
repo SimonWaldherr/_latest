@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/18/us/politics/18dc-voting-print1/merlin_178632708_7ade44a4-d9e6-4bb6-b890-1590da70da45-facebookJumbo.jpg 
+title: > 
+  Federal Appeals Courts Emerge as Crucial for Trump in Voting Cases 
+description: > 
+  In appointing dozens of reliable conservatives to the appellate bench, Mr. Trump has made it more likely that appeals come before judges with legal philosophies sympathetic to Republicans on issues including voting rights.The trend has left Democrats and civil rights lawyers increasingly concerned that they face another major impediment to their efforts to assure that as many people as possible can vote in the middle of a pandemic — and in the face of a campaign by Republicans to limit voting.“There has been a very significant number of federal voting rights victories across the country and those have in the last week or two — many if not most — been stayed by appellate courts,” said Wendy R. Weiser, the director of the Democracy Program at the Brennan Center for Justice at New York University, which has been involved in several voting rights lawsuits this year.There has been a dizzying amount of election-related litigation this year, with more than 350 cases playing out in state and federal courts.In polls, Democrats have indicated that they are more likely than Republicans to vote by mail this year. 
+date: 1602957845.6900795 
+--- 
+In appointing dozens of reliable conservatives to the appellate bench, Mr. Trump has made it more likely that appeals come before judges with legal philosophies sympathetic to Republicans on issues including voting rights. The trend has left Democrats and civil rights lawyers increasingly concerned that they face another major impediment to their efforts to assure that as many people as possible can vote in the middle of a pandemic — and in the face of a campaign by Republicans to limit voting.
+
+“There has been a very significant number of federal voting rights victories across the country and those have in the last week or two — many if not most — been stayed by appellate courts,” said Wendy R. Weiser, the director of the Democracy Program at the Brennan Center for Justice at New York University, which has been involved in several voting rights lawsuits this year. “We’re seeing the brakes being put on the voting rights expansion at the appellate level in these jurisdictions, in many cases in ways that won’t be remediable before the election.”
+
+In potentially pivotal states like Wisconsin and Ohio, the outcomes appear to be serving the president’s effort to limit voting while in some cases creating widespread confusion about the rules only three weeks before Election Day.
+
+There has been a dizzying amount of election-related litigation this year, with more than 350 cases playing out in state and federal courts. In general, the disputes focus on how far states can go to make it easier to apply for, fill out and send in mail ballots, and how much time election officials can take to count what is certain to be a record number of them. In polls, Democrats have indicated that they are more likely than Republicans to vote by mail this year.
