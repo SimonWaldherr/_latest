@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/rugby-union/2020/10/17/TELEMMGLPICT000242193474_trans_NvBQzQNjv4BqmRnaWIkzDVpCKltYOKrpmYYDCCaUMeC1S9ZKbafoDv0.jpeg?impolicy=logo-overlay 
+title: > 
+  Exeter's Champions Cup Final triumph was a match to savour, a contest of unrelenting endeavour and spirit 
+description: > 
+  Their resilience, their trust in each other, their faith, their fitness, their belief in the cause was captured in the defence of their line just moments after bring reduced to 14 men when prop Tomas Francis was sin-binned.Racing scented opportunity but what they did not find was weakness.Nineteen phases they went through, inching every closer, but Exeter did not yield, coming up with the turnover from Sam Hidalgo-Clyne.It was a pivotal moment, stemming the flow just as Racing were gearing up to make a late grab of the booty in what is their third experience of disappointment in a final in the last five seasons.It may take some time but they will appreciate the magnitude of what Exeter have managed to achieve in their first final. 
+date: 1602977996.4211233 
+--- 
+Their resilience, their trust in each other, their faith, their fitness, their belief in the cause was captured in the defence of their line just moments after bring reduced to 14 men when prop Tomas Francis was sin-binned. Racing scented opportunity but what they did not find was weakness. Nineteen phases they went through, inching every closer, but Exeter did not yield, coming up with the turnover from Sam Hidalgo-Clyne. It was a pivotal moment, stemming the flow just as Racing were gearing up to make a late grab of the booty in what is their third experience of disappointment in a final in the last five seasons. It may take some time but they will appreciate the magnitude of what Exeter have managed to achieve in their first final. Victory does not come easily.
+
+It was easy to see the contest simply in black and white terms, as pitchfork Exeter yokels up against the high-roller yuppies from Paris with their pink bow ties worn prior to kick-off in homage to their showbiz persona of the nineties, and run the risk of glossing over the nuances that were contained within both sides, be it the individual glitz provided by Jack Nowell in the Chiefs’ ranks or the gnarly ruggedness of veteran prop Eddy Ben Arous, chiselling away at the coal-face for Racing.
