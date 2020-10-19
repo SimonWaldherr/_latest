@@ -1,0 +1,43 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2020/07/21105554/Ivonne-Vargas-1.jpg 
+title: > 
+  Por qué se habla de nuevas habilidades profesionales… y cuáles importan 
+description: > 
+  Ivonne Vargas Laberinto LaboralPrevio a la pandemia ya se hablaba de desarrollar otras destrezas en los profesionales.Se dará una división entre los que tienen las habilidades correctas contra los que no las tienen.Por el contrario, aquellos con habilidades en declive necesitarán trasladarse al lugar de trabajo y están sujetos a una exposición aún mayor.¿Y por qué se les llamada las competencias del futuro?Muchos profesionales se cuestionan por qué vender es algo que debería saber si estudió sociología, comunicación, psicología y no administración, por ejemplo. 
+date: 1603085361.1561062 
+--- 
+<div><p class="[ highlights ]"></p><img alt="Ivonne Vargas" class="[ author_image ] lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><img src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="[ author_image ]" alt="Ivonne Vargas"><img class="[ author_image ]" src="https://s3.amazonaws.com/businessinsider.mx/wp-content/uploads/2020/07/21094752/Colaboradoressassa-scaled.jpg" alt="Ivonne Vargas"><h4 class="[  ]">Ivonne Vargas</h4><h6 class="[  ]">Laberinto Laboral</h6>
+<p>Previo a la pandemia ya se hablaba de desarrollar otras destrezas en los profesionales. Claro, el escenario era otro: el impulsor del cambio era la automatizaci&#243;n y el hecho de que organismos, como el Foro Econ&#243;mico Mundial, auguraran la perdida de 7 millones de empleos durante los pr&#243;ximos cinco a&#241;os como producto de las transformaciones de la econom&#237;a mundial por la cuarta revoluci&#243;n (4.0).</p><p>Pero tras la pandemia el asunto es otro. Ante la reducci&#243;n de puestos de trabajo el &#8216;enemigo&#8217; no es un robot, sino uno mismo con la imposibilidad de no saber c&#243;mo agregar valor al trabajo, y conservarlo, por falta de ciertas habilidades. Estamos ante las puertas de una nueva batalla: la de aquellos que tienen las competencias para ayudar a que su empresa salga de la premura econ&#243;mica, o bien, siga creciendo, contra las personas que no saben c&#243;mo integrarse ante lo que el mercado demanda. Es supervivencia laboral. Para estar en esta sinton&#237;a el camino es reaprender, incluso, aspectos que no consideramos esenciales en nuestra vida profesional</p><h2>&#191;Cu&#225;les son competencias que marcan la diferencia?</h2><p>Se dar&#225; una divisi&#243;n entre los que tienen las habilidades correctas contra los que no las tienen. As&#237; lo resume H&#233;ctor M&#225;rquez, director de Relaciones Institucionales de ManpowerGroup M&#233;xico y Centroam&#233;rica. La firma de capital humano que representa realiz&#243; el informe Lo que los trabajadores quieren, que incluye la opini&#243;n de 8,000 personas, en ocho pa&#237;ses, sobre el futuro de los colaboradores en varios rubros.</p><p>Con lo que respecta a habilidades, el informe
+revela una inequidad no solo en el sentido de tener o no las competencias para
+emplearse. Arroja que aquellos con habilidades m&#225;s demandas por las empresas y
+el mercado podr&#225;n negociar mejor sus decisiones salariales, trabajar de forma
+remota, evitar los desplazamientos y permanecer seguros en casa.</p><p>Por el contrario, aquellos con habilidades en declive necesitar&#225;n trasladarse al lugar de trabajo y est&#225;n sujetos a una exposici&#243;n a&#250;n mayor. La batuta la tendr&#225;n quienes est&#233;n mejor preparados para comunicar, saber priorizar, tomar la iniciativa, ser resilientes. Esto es la parte &#8216;soft&#8217;, pero en el aspecto t&#233;cnico las oportunidades crecer&#225;n para aquellos que se actualicen en&#160;&#160; ciberseguridad, transformaci&#243;n de negocio y &#160;ventas, se&#241;ala M&#225;rquez. &#160;</p><p>El 56% de los encuestados por esa firma
+asegur&#243; que es m&#225;s probable que los trabajadores de Tecnolog&#237;as de la
+Informaci&#243;n (TI) y de servicios financieros esperen una mejor vida laboral
+despu&#233;s de una crisis, en comparaci&#243;n con los de manufactura, perfil que puede
+llegar a sustituirse por una m&#225;quina. Y aunque depende del &#225;rea en la que se
+desempe&#241;e la persona, es una realidad que un escenario donde la gente compra
+desde su hogar, y&#160; socializa, trabaja y
+aprende a trav&#233;s de plataformas, pues habr&#225; un repunte sobre los perfiles que
+entiendan sobre revoluci&#243;n tecnol&#243;gica.</p><p>Pero no cualquier persona; es aquella que sepa apalancarse de la tecnolog&#237;a con un sentido humano, de comunicar, de interpretar, de saber en qu&#233; t&#233;rminos cierra una venta con su jefe o con un cliente gestion&#225;ndose en plataformas y no de manera presencial.</p><h2>&#191;Y por qu&#233; se les llamada las competencias del futuro?&#160;&#160;</h2><p>Muchos profesionales se cuestionan por qu&#233;
+vender es algo que deber&#237;a saber si estudi&#243; sociolog&#237;a, comunicaci&#243;n,
+psicolog&#237;a y no administraci&#243;n, por ejemplo.</p><p>El meollo con estas competencias es que es un
+tipo de conocimiento que puedes llevar de una empresa a otra, de un sector a
+otra industria, y son &#250;tiles a largo de toda la carrera profesional, cuenta
+Fernando Vargas, consultor del Centro Interamericano para el Desarrollo del
+Conocimiento en la Formaci&#243;n Profesional.</p><p>A ninguna empresa le estorba que su empleado
+tenga ciertas t&#233;cnicas de atenci&#243;n al cliente, aun y cuando ese cliente sea
+otro colaborador con el que necesita tener buena comunicaci&#243;n para llegar en
+tiempo y forma a los resultados que se esperan.</p><p>Continuamente, instancias
+como la Organizaci&#243;n Internacional del Trabajo han alertado sobre no avanzar de
+la manera requerida para tener a personas empleables en el futuro. Uno de los
+riesgos que el profesional busque colocarse en el mercado de trabajo queriendo
+un salario alto pero con &#8216;calificaciones medias&#8217;, y esto, en un escenario post
+pandemia y de alta competencia, no se ve como una f&#243;rmula viable. La regla es
+reunir &#8216;calificaciones altas&#8217; (habilidades t&#233;cnicas y socio emocionales de
+calidad) para percibir un ingreso alto.</p><p>El informe de Manpower lo
+resume de la siguiente manera, y esperemos sea una alerta escuchada por
+escuelas, buscadores de trabajo y reclutadores: hay una creciente demanda de habilidades de poder y esas son las
+competencias blandas, las que marcan la diferencia entre uno y otro empleado.</p><p>Si el trabajador (a) hoy tiene que ser maestro, empleado, padres y/o cuidadores, buen colega, etc&#233;tera, etc&#233;tera, m&#225;s vale que esto lo haga entendiendo c&#243;mo gestionar sus emociones, apart&#225;ndose de la inteligencia de cl&#250;ster que solo permite ver una relaci&#243;n de trabajo como regular o p&#233;sima.&#160; Ojo, de esto trata la resiliencia. &#160;</p><p>Las opiniones publicadas en esta columna son responsabilidad del autor y no representan ninguna posici&#243;n por parte de Business Insider M&#233;xico.</p><h3>Descubre m&#225;s historias en&#160;<a rel="noreferrer noopener" href="https://businessinsider.mx/category/economia/" target="_blank">Business Insider M&#233;xico</a></h3><h4>S&#237;guenos en&#160;<a rel="noreferrer noopener" href="https://www.facebook.com/businessinsidermx/" target="_blank">Facebook</a>,&#160;<a rel="noreferrer noopener" href="https://www.instagram.com/businessinsidermexico/" target="_blank">Instagram</a>,&#160;<a href="https://www.linkedin.com/company/businessinsidermexico">LinkedIn</a>&#160;y&#160;<a rel="noreferrer noopener" href="https://twitter.com/businsidermx" target="_blank">Twitter</a>.</h4><h4>Consulta a m&#225;s columnistas en nuestra secci&#243;n de&#160;<a rel="noreferrer noopener" href="https://businessinsider.mx/category/opinion/" target="_blank">Opini&#243;n</a></h4><h4>Suscr&#237;bete&#160;<a rel="noreferrer noopener" href="https://businessinsider.us4.list-manage.com/subscribe/post?u=ae3e7fa25510c168d88327407&amp;id=3857f2cdc1" target="_blank">aqu&#237;</a>&#160;a nuestro Newsletter</h4><h4>Tienes algo que contarnos, escr&#237;benos a&#160;<a href="mailto:editorial@businessinsider.mx" target="_blank" rel="noreferrer noopener">editorial@businessinsider.mx</a></h4></div>
