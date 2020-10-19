@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/19/us/14ambriefing-euro-fauci-eveningbriefi-promo/14ambriefing-euro-fauci-facebookJumbo.jpg 
+title: > 
+  Fauci, Voter Registration, Immigration: Your Monday Evening Briefing 
+description: > 
+  President Trump attacked Dr. Anthony Fauci as “a disaster” and said that people were “tired” of hearing about the coronavirus and wanted to be left alone.In a call with campaign staff, Mr. Trump also called Dr. Fauci, the nation’s leading infectious disease specialist, a “nice” guy, but said, “He’s been here for 500 years,” adding, “Every time he goes on television, there’s always a bomb, but there’s a bigger bomb if you fire him.This guy’s a disaster.”The U.S. has seen more coronavirus cases — over 8 million — and more deaths — nearly 220,000 — than any other nation in the world.Dr. Fauci, in an interview with “60 Minutes” that aired on Sunday, dismissed the president’s claim that the end of the pandemic was just around the corner. 
+date: 1603146963.183449 
+--- 
+<div><p class="css-158dogj evys1bk0"><strong class="css-8qgvsz ebyp5n10">1. President Trump attacked Dr. Anthony Fauci as &#8220;a disaster&#8221;</strong> and said that people were &#8220;tired&#8221; of hearing about the coronavirus and wanted to be left alone.</p><p class="css-158dogj evys1bk0">In a call with campaign staff, Mr. Trump also called Dr. Fauci, the nation&#8217;s leading infectious disease specialist, a &#8220;nice&#8221; guy, but said, &#8220;He&#8217;s been here for 500 years,&#8221; adding, <a class="css-1g7m0tk" href="https://www.nytimes.com/live/2020/10/19/us/trump-vs-biden?action=click&amp;module=Top%20Stories&amp;pgtype=Homepage#trump-fauci" title="">&#8220;Every time he goes on television, there&#8217;s always a bomb, but there&#8217;s a bigger bomb if you fire him.</a> This guy&#8217;s a disaster.&#8221;</p><p class="css-158dogj evys1bk0">The U.S. has seen more coronavirus cases &#8212; over 8 million &#8212; and more deaths &#8212; nearly 220,000 &#8212; than any other nation in the world. Dr. Fauci, in an interview with &#8220;60 Minutes&#8221; that aired on Sunday, dismissed the president&#8217;s claim that the end of the pandemic was just around the corner.</p></div>

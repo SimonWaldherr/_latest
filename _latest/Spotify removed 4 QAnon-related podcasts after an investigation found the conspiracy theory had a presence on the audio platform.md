@@ -1,0 +1,29 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8dfdf39e9fe4001900a389?width=1200&format=jpeg 
+title: > 
+  Spotify removed 4 QAnon-related podcasts after an investigation found the conspiracy theory had a presence on the audio platform 
+description: > 
+  A Spotify spokesperson told Insider that the company "prohibits content on the platform that promotes, advocates or incites violence against others."The conspiracy theory movement has also been banned, for the most part, by YouTube, Facebook, and other platforms.Spotify banned four podcasts associated with the QAnon conspiracy theory on Monday, leaving the movement with few places to turn.QAnon is a baseless far-right conspiracy theory that claims President Donald Trump is secretly fighting a "deep state" cabal of human traffickers.As QAnon has grown in popularity this year, tech companies are finally taking action on the conspiracy theory to tamp down its spread. 
+date: 1603146987.858579 
+--- 
+<div><ul class="summary-list">
+<li>After a <a href="https://www.mediamatters.org/qanon-conspiracy-theory/following-youtubes-ban-qanon-followers-are-jumping-these-other-major">Media Matters for America report</a> found QAnon thriving on platforms including Spotify, the music and podcasting app told Insider it took down four QAnon podcasts.</li>
+<li>A Spotify spokesperson told Insider that the company "prohibits content on the platform that promotes, advocates or incites violence against others."</li>
+<li>The conspiracy theory movement has also been banned, for the most part, by YouTube, Facebook, and other platforms.&#160;</li>
+<li><a href="https://www.insider.com/?hprecirc-bullet">Visit Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-culture-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-culture-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Spotify banned four podcasts associated with the QAnon conspiracy theory on Monday, leaving the movement with few places to turn.</p><p>A Friday <a href="https://www.mediamatters.org/qanon-conspiracy-theory/following-youtubes-ban-qanon-followers-are-jumping-these-other-major">report</a> from Media Matters for America, a progressive nonprofit that tracks online misinformation and conservative media, revealed that QAnon influencers were still posting on Spotify, Apple Podcasts, Google Podcasts, and Vimeo after a wave of bans on other platforms, most notably Facebook.</p><p>QAnon is a baseless far-right conspiracy theory that claims President Donald Trump is secretly fighting a "deep state" cabal of human traffickers. The movement has been linked to <a href="https://www.insider.com/qanon-violence-crime-conspiracy-theory-us-allegation-arrest-killing-gun-2020-8">several crimes</a>, and the <a href="https://news.yahoo.com/fbi-documents-conspiracy-theories-terrorism-160000507.html">FBI has characterized it as a potential domestic terrorism threat</a>. As QAnon has <a href="https://www.insider.com/qanon-save-the-children-pedophilia-sex-trafficking-paranoia-2020-9">grown</a> in popularity this year, tech companies are finally taking action on the conspiracy theory to tamp down its spread.&#160;</p><p>On Monday afternoon, the four QAnon podcasts Media Matters for America identified on Spotify &#8212; "X22 Report," "Indigenous Mike," "Praying Medic," and "Pardon My American" &#8212; were still available on the platform. But Spotify removed the podcasts soon after Insider reached out for comment.</p>
+<p id="gpt-post-culture-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-culture-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>A Spotify spokesperson told Insider that the company "prohibits content on the platform that promotes, advocates or incites violence against others," and confirmed that the platform had taken down the four QAnon-related shows.&#160;</p><p>While the shows did appear on search, attempts to play episodes of the shows yielded an error message.&#160;</p><p>Spotify has previously been criticized for hosting controversial content, <a href="https://www.insider.com/caitlyn-jenner-joe-rogan-transphobic-video-after-joke-about-her-2020-9">including Joe Rogan's podcast,</a> which was the subject of internal debate at the company in September.&#160;</p><p>In addition to the Spotify takedown, QAnon content has now been banned, either explicitly or implicitly through other policies, by <a href="https://www.businessinsider.com/qanon-banned-from-facebook-dealing-massive-blow-to-conspiracy-group-2020-10">Facebook</a> (and Instagram), <a href="https://www.businessinsider.com/youtube-qanon-videos-ban-hate-harassment-policy-conspiracy-theory-2020-10">YouTube</a>, <a href="https://www.businessinsider.com/twitter-cracking-down-on-conspiracy-theory-group-qanon-2020-7">Twitter</a>, <a href="https://www.insider.com/tiktok-disables-qanon-hashtags-as-platforms-fight-conspiracy-theory-2020-7">TikTok</a>, <a href="https://www.insider.com/pinterest-qanon-is-latest-platform-to-ban-conspiracy-theory-content-2020-10">Pinterest</a>, and <a href="https://www.insider.com/triller-announces-ban-on-qanon-conspiracy-theory-content-tiktok-tech-2020-10">Triller</a>, among other social-media platforms.&#160;</p>
+<p id="gpt-post-culture-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-culture-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+ 
+                  </div>
