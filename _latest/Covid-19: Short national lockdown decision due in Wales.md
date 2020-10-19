@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.3/bbc_news_logo.png 
+title: > 
+  Covid-19: Short national lockdown decision due in Wales 
+description: > 
+  PA Media Copyright: PA MediaSpeaking to the BBC earlier, Communities Secretary Robert Jenrick said any more delay to a decision on Greater Manchester's Covid restrictions would "put people's lives at risk".But Andy Burnham, the mayor of Greater Manchester, has said reaching a deal is "not about the size of the cheque".He told Sky News: "It's about protecting low-paid workers, people who are self-employed, supporting businesses and preventing them from collapsing."We've always said we would put people's health first, and we will do that.But health is about more than controlling the virus - people's mental health, I think, is now pretty low given that we've been under restrictions here for three months already." 
+date: 1603100498.7859778 
+--- 
+<div><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Andy Burnham" class="qa-lazyload-image lazyload lazyautosizes"><p class="lx-media-asset__copyright gel-minion"><p>PA Media</p><p class="gs-u-vh">Copyright: PA Media</p></p><p>Speaking to the BBC earlier, Communities Secretary Robert Jenrick said any more delay to a decision on Greater Manchester's Covid restrictions <a href="https://www.bbc.co.uk/news/uk-54594885" alt="would &quot;put people's lives at risk&quot;.">would "put people's lives at risk".</a></p><p>Local leaders want better financial support before agreeing to a move to the top tier of rules, which would force some businesses to close.</p><p>But Andy Burnham, the mayor of Greater Manchester, has said reaching a deal is "not about the size of the cheque".</p><p>He told Sky News: "It's about protecting low-paid workers, people who are self-employed, supporting businesses and preventing them from collapsing. That's what this is about. </p><p>"We've always said we would put people's health first, and we will do that. But health is about more than controlling the virus - people's mental health, I think, is now pretty low given that we've been under restrictions here for three months already."</p></div>
