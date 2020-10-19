@@ -1,0 +1,54 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/hunter-biden-21.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Media avoiding The Post’s Hunter Biden stories as much as Joe: Devine 
+description: > 
+  Neither Joe or Hunter Biden has disputed that the laptop belongs to Hunter or that the material we have published from the laptop is genuine.After 90 days, as per the work order signed by Hunter, the laptop becomes the store’s legal property.On Dec. 9 two FBI agents take away the laptop and hard drive.On Sunday a week ago Giuliani provided The Post with a copy of the hard drive.It is not hard to believe that Hunter would be as reckless as to abandon a laptop at a repair shop. 
+date: 1603105917.2621179 
+--- 
+<div><p>For three days, Joe Biden refused to say a word about <a href="https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/">The Post&#8217;s exclusive stories</a> last week linking him to his son Hunter&#8217;s business deals in the Ukraine and China.</p>
+<p>It wasn&#8217;t till 7:45 p.m. Friday, at the Detroit airport that the former vice president briefly stopped for questions and CBS reporter Bo Erickson asked about the damning e-mails found on Hunter&#8217;s laptop, which was abandoned last April at a Mac repair shop.</p>
+<p>&#8220;I have no response,&#8221; snapped Joe. &#8220;Another smear campaign. Right up your alley.&#8221;</p>
+<p>A video of Joe&#8217;s remarks on Erickson&#8217;s Twitter account has been viewed 6 million times.</p>
+<p>But for some in the media, Erickson was at fault for asking the question.</p>
+<p>&#8220;Bo, this is your News Director,&#8221; replied Steve Holzer, a UCLA journalism instructor and news director who has worked at CBS in the past, but not currently, according to his LinkedIn profile. &#8220;The right question is, what do you think of the report that Rudy Giuliani used Russian disinformation to try to smear your family 19 days before an election?&#8221;</p>
+<p>That tweet tells you everything about the dishonest response to our story from much of the establishment media.</p>
+<p>Russian disinformation? This is how the New York Times, the Washington Post, CNN, etc., run protection for the Biden campaign. They have ignored or maligned our stories, and claimed <a href="https://nypost.com/2020/10/14/hunter-biden-emails-show-leveraging-connections-with-dad-to-boost-burisma-pay/">the e-mails</a> were &#8220;hacked.&#8221;</p>
+<p>We published an e-mail showing Hunter arranged a meeting in 2015 between his VP dad and one of his senior colleagues at corrupt energy company Burisma, which was paying him up to $83,000 a month.</p>
+<p>Neither Joe or Hunter Biden has disputed that the laptop belongs to Hunter or that the material we have published from the laptop is genuine. Joe&#8217;s campaign admitted to Politico an &#8220;informal&#8221; meeting with Burisma may have occurred.</p>
+<p>This is new evidence that Joe participated in his family&#8217;s cash-for-influence scheme with shady foreign companies.</p>
+<p>Yet the rest of the media is helping the Bidens discredit our reporting using the usual suspects, like James Clapper, who told CNN it was &#8220;textbook Soviet Russian tradecraft.&#8221;</p>
+<p>They harassed the computer repair guy in Delaware, who turned over Hunter&#8217;s abandoned laptop and hard drive to the FBI, and they scoffed when he said he feared for his life.</p>
+<p>They ran stories smearing Trump ally Rudy Giuliani as a Russian agent, because he told The Post about the laptop and identified incriminating documents on its hard drive.</p>
+<p>They claim the &#8220;chain of custody&#8221; of the laptop is suspect.</p>
+<p>So, let&#8217;s lay it out.</p>
+<p>On April 12, 2019, a man who calls himself Hunter Biden enters a Wilmington, Del., Mac repair shop with three &#8220;liquid-damaged&#8221; computers just before closing time. The owner says one computer is beyond repair. Another has a fried keyboard, so the owner gives Hunter a spare keyboard.</p>
+<p>The third laptop, a MacBook, is salvageable. Hunter signs a work order to confirm he wants him to fix it and provides contact details.</p>
+<p>The owner &#8212; whom The Post promised anonymity, even though he has since been named by others &#8212; recovers the content of the laptop and transfers it to his server. He calls Hunter and asks him to bring in an external drive, onto which he can transfer the content.</p>
+<p>Hunter arrives at closing time with the external drive.</p>
+<p>He never sets foot inside the store again.</p>
+<p>The owner makes frequent attempts to contact Hunter to pick up his laptop, pay the $85 bill and return the keyboard and cord.</p>
+<p>No reply.</p>
+<p>After 90 days, as per the work order signed by Hunter, the laptop becomes the store&#8217;s legal property.</p>
+<p>In August, the computer repairman hears news reports about the leaked phone call in which President Trump raises Hunter and Joe Biden&#8217;s Burisma activity with Ukraine&#8217;s president &#8212; the call which sparked his impeachment.</p>
+<p>The repairman does a word search of Burisma on Hunter&#8217;s laptop. Bingo.</p>
+<p>Four months later, the impeachment is big news, so he decides to contact the FBI, via a friend, in case the material on the laptop is useful.</p>
+<p>On Dec. 9 two FBI agents take away the laptop and hard drive.</p>
+<p>In August this year, the repairman sees Giuliani on TV talking about Hunter and Burisma and decides to contact him via an e-mail address he finds online.</p>
+<p>This is how the repairman explained his actions in an e-mail to Giuliani on Aug. 27, 2020:</p>
+<p>&#8220;As I read deeper into the drive, I started to realize what I was sitting on and who was involved and at what level. I figured the safest thing to do was reach out to the FBI and have them collect the drive and the Mac so I could wash my hands of it and they might be able offer me some level of protection should someone come looking for it and come after me because I knew what was on it. The FBI did show up and . . . over the next few days they contacted me for access to the drive . . . because their tech guys didn&#8217;t know Macs.</p>
+<p>&#8220;That kind of threw up a flag . . .</p>
+<p>&#8220;They also said nothing ever happens to people who don&#8217;t talk about this stuff so that got me a little concerned . . .</p>
+<p>&#8220;There is some very incriminating videos on the drive . . .</p>
+<p>&#8220;I live and work in [the Bidens&#8217; hometown] Wilmington, Delaware and my life here as well as my business would be destroyed if people found out what I was involved in.</p>
+<p>&#8220;I have been trying to keep things quiet . . . but I feel time has been running out.&#8221;</p>
+<p>The e-mail was compelling. Within two days, a copy of the hard drive was FedEx&#8217;d to a Long Island address where Giuliani and his lawyer examined it, and verified the material was genuine.</p>
+<p>Bannon, a former Trump adviser, was only peripherally involved. He was brought in by Giuliani in late September to help decipher the China material.</p>
+<p>Shortly thereafter, Bannon alerted The Post to the existence of the material, although he did not have a copy.</p>
+<p>On Sunday a week ago Giuliani provided The Post with a copy of the hard drive.</p>
+<p>It is not hard to believe that <a href="https://nypost.com/2020/10/16/hunter-biden-emails-pics-reveal-wild-life-pained-soul/">Hunter would be as reckless</a> as to abandon a laptop at a repair shop. In October 2016, he left a crack pipe in a Hertz rental car in Arizona, along with a white powdery substance, credit cards and his driver&#8217;s license, as widely reported.</p>
+<p>The Post has been transparent about the provenance of the material we have published. We stand by our reporting and the authenticity of the material.</p>
+<p>It&#8217;s hard to believe the rest of America&#8217;s media does not want to know the full story about a man running for president.</p>
+			</div>

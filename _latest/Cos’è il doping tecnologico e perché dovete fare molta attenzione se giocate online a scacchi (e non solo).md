@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cdn.gelestatic.it/businessinsider/it/2020/10/GettyImages-1216200244-1024x683.jpg 
+title: > 
+  Cos’è il doping tecnologico e perché dovete fare molta attenzione se giocate online a scacchi (e non solo) 
+description: > 
+  Cosa avete fatto, chiusi in casa nei mesi del lockdown (passato e – non è da escludere – futuro?).Chess.com, il sito di gioco online più grande al mondo, ha dichiarato di aver visto 12 milioni di nuovi utenti quest’anno, contro i 6,5 milioni dello scorso anno.I problemi però, sempre secondo Guardian, non si limitano agli scacchi, ma anche a poker, bridge e backgammon.Per contrastare il problema, l’idea migliore venuta agli arbitri è quella di imporre ai giocatori di farsi riprendere, live, durante le partite, da più telecamere, essere disponibili su Zoom o WhatsApp in qualsiasi momento e concedere l’accesso remoto ai loro computer.Come potremo sapere di non essere imbrogliati? 
+date: 1603105894.858888 
+--- 
+<div><p>Cosa avete fatto, chiusi in casa nei mesi del lockdown (passato e &#8211; non &#232; da escludere &#8211; futuro?). In molti, nel mondo, si sono dedicati ai giochi on line. In particolare, <strong>gli schacchi on line hanno avuto un buon successo</strong>. Chess.com, il sito di gioco online pi&#249; grande al mondo, ha dichiarato di aver visto 12 milioni di nuovi utenti quest&#8217;anno, contro i 6,5 milioni dello scorso anno. Un successo che per&#242; &#8211; <a href="https://www.theguardian.com/sport/2020/oct/16/chesss-cheating-crisis-paranoia-has-become-the-culture" target="_blank">secondo Guardian</a>&#160;&#8211; &#232; stato <strong>direttamente proporzionale alla diffusione del &#8216;doping tecnologico&#8217;</strong>, ossia l&#8217;uso di potenti calcolatrici che suggeriscono la mossa migliore, tanto che sempre Chess.com <strong>ha bandito dal suo sito 17 mila giocatori, contro i 5000 che, in genere venivano banditi in passato.</strong><br>
+I problemi per&#242;, sempre secondo Guardian, non si limitano agli scacchi, ma <strong>anche a poker, bridge e backgammon.&#160;</strong>Per contrastare il problema, l&#8217;idea migliore venuta agli arbitri &#232; quella di imporre ai giocatori <strong>di farsi riprendere, live, durante le partite, da pi&#249; telecamere</strong>, essere disponibili su Zoom o WhatsApp in qualsiasi momento e concedere l&#8217;accesso remoto ai loro computer. <strong>Sembra un po&#8217; farraginoso</strong> e, soprattutto, sembra una strada percorribile solo dai giocatori professionisti. E noi scacchisti della domenica? Come potremo sapere di non essere imbrogliati?</p><p id="adv-Middle1-dev"></p><p id="adv-Bottom"></p>
+</div>
