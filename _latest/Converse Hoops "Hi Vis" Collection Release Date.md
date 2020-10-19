@@ -1,0 +1,15 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.nicekicks.com/files/2020/10/converse-g4-converse-all-star-bb-evo-hi-vis-release-date.jpg 
+title: > 
+  Converse Hoops "Hi Vis" Collection Release Date 
+description: > 
+  With the help of the Converse G4 and the Converse All Star BB EVO, the brand is looking toward the future with design and comfort ideal for the hardwood.With Kelly Oubre Jr., Shai Gilgeous-Alexander, and Natasha Cloud, the brand and its stars have a bright future ahead of them.The upcoming collection takes the stars to the next level as the “Hi Vis” collection taps the G4 and All Star BB EVO with a pop of color you just can’t miss.Take a look at the performance models of the collection below ahead of its global release on October 21.Keep it locked here on Nice Kicks for more on Converse Hoops, and be sure to take a look at every sneaker release on our calendar here. 
+date: 1603077617.8885312 
+--- 
+<div><p><a href="/converse" target="_blank" rel="noreferrer noopener">Converse</a> continues to build on its rich basketball legacy. With the help of the <a href="/tag/converse-g4" target="_blank" rel="noreferrer noopener">Converse G4</a> and the <a href="/tag/converse-all-star-bb-evo" target="_blank" rel="noreferrer noopener">Converse All Star BB EVO</a>, the brand is looking toward the future with design and comfort ideal for the hardwood.</p>
+<p>With Kelly Oubre Jr., Shai Gilgeous-Alexander, and Natasha Cloud, the brand and its stars have a bright future ahead of them. The upcoming collection takes the stars to the next level as the &#8220;Hi Vis&#8221; collection taps the G4 and All Star BB EVO with a pop of color you just can&#8217;t miss. </p>
+<p>Take a look at the performance models of the collection below ahead of its global release on October 21. Keep it locked here on Nice Kicks for more on Converse Hoops, and be sure to take a look at every sneaker release on our calendar <a rel="noreferrer noopener" href="/sneaker-release-dates" target="_blank">here</a>. </p>
+<ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><img width="750" height="750" src="" alt="" class="wp-image-945275"><img width="750" height="750" src="https://www.nicekicks.com/files/2020/10/converse-g4-hi-vis-release-date.jpg" alt="" class="wp-image-945275"></li><li class="blocks-gallery-item"><img width="750" height="750" src="" alt="" class="wp-image-945276"><img width="750" height="750" src="https://www.nicekicks.com/files/2020/10/converse-all-star-bb-evo-hi-vis-release-date.jpg" alt="" class="wp-image-945276"></li><li class="blocks-gallery-item"><img width="750" height="750" src="" alt="" class="wp-image-945277"><img width="750" height="750" src="https://www.nicekicks.com/files/2020/10/converse-all-star-bb-evo-hi-vis-release-date-1.jpg" alt="" class="wp-image-945277"></li></ul>Converse Hoops &#8220;Hi Vis&#8221; Collection
+</div>
