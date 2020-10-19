@@ -1,0 +1,21 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/global-health/2020/10/19/TELEMMGLPICT000226331275_trans_NvBQzQNjv4BqrWYeUU_H0zBKyvljOo6zlmtT0gK_6EfZT336f62EI5U.jpeg?impolicy=logo-overlay 
+title: > 
+  Coronavirus can survive on skin for nine hours, researchers find 
+description: > 
+  A paper published in the New England Journal of Medicine found the coronavirus was detectable for up to 24 hours on cardboard and 72 hours on plastic and stainless steel, while an Australian study published last week reported Sars-Cov-2 can live for 28 days on glass in laboratory conditions.Temperature, humidity, social distancing and how often individuals rub their hands on their clothes are among the factors which will influence the survival time of Covid-19 on skin.Dr Jones said that the study does not offer new implications, but underlines the need to wash hands frequently - “a message which is already widely disseminated as part of Covid awareness measures”.Dr Tang added that the study does not investigate the risk of individuals touching their faces or mouths after contact with a contaminated surface, while the use of human cadaveric skin “may not be that realistic”.“Most cases of Covid-19 are more likely acquired by inhalation into the lungs,” he said, emphasising the importance of physical distancing. 
+date: 1603123143.5661252 
+--- 
+<div><p>A paper published in the <a href="https://www.telegraph.co.uk/health-fitness/body/does-coronavirus-live-different-surfaces/">New England Journal of Medicine</a> found the coronavirus was detectable for up to 24 hours on cardboard and 72 hours on plastic and stainless steel, while an <a href="https://www.telegraph.co.uk/news/2020/10/11/australian-study-finds-coronavirus-can-remain-infectious-28/">Australian study published last week</a> reported Sars-Cov-2 can live for 28 days on glass in laboratory conditions. &#160;</p>
+<p>&#8220;Studies of virus inactivation on various surfaces, including hands as here, are a necessary part of the overall picture of Sars-Cov-2 possible transmission routes,&#8221; said Dr Ian Jones, a professor of virology at the University of Reading who was not involved in the research.</p>
+<p>&#8220;But it is always difficult to know how accurately model studies reflect real world situations,&#8221; he added. Temperature, humidity, social distancing and how often individuals rub their hands on their clothes are among the factors which will influence the survival time of Covid-19 on skin.</p>
+<p>The researchers also said the study was limited because it did not take into account the viral load of Sars-Cov-2 needed to transmit the virus from one individual to another after contact with contaminated skin.&#160;</p>
+<p>Dr Jones said that the study does not offer new implications, but underlines the need to wash hands frequently - &#8220;a message which is already widely disseminated as part of Covid awareness measures&#8221;.</p>
+<p>However&#160;Dr Julian Tang, an assistant at the University of Leicester and clinical virologist, suggested the study does not show that human-to-human transmission via touch has been a major transmission route during the pandemic.</p>
+<p>&#8220;If the virus was mainly transmitted through touch via hands and face-touching&#160;then the hand-washing message should be controlling this pandemic better - and it is not,&#8221; he said.&#160;</p>
+<p>Dr Tang added that the study does not investigate the risk of individuals touching their faces or mouths after contact with a contaminated surface, while the use of&#160;human cadaveric skin&#160;&#8220;may not be that realistic&#8221;. Even though physical properties are mimicked, innate immunity will have been destroyed when an individual died.</p>
+<p>&#8220;Most cases of Covid-19 are more likely acquired by inhalation into the lungs,&#8221; he said, emphasising the importance of physical distancing.&#160;</p>
+<p><strong>Protect yourself and your family by learning more about&#160;<a href="https://www.telegraph.co.uk/global-health/">Global Health Security</a></strong></p>
+</div>

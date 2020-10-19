@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1207384675.jpg?w=602 
+title: > 
+  AMC offers private theater rentals starting at $99, as cinemas continue to struggle – TechCrunch 
+description: > 
+  Like countless other sectors of the entertainment industry, movie theaters have been devastated by a global pandemic with seemingly no end in sight.A number of locations have also begun offering private theater rentals — a transitional approach that offers movie fans an opportunity to return to the movie-going experience without being surrounded by strangers.The former, helmed by blockbuster director Christopher Nolan, was set to be a kind of litmus test for moviegoers’ willingness to return to theaters.The United States on-going struggles have also recently allowed China to overtake the country as the world’s largest box office.Over the summer, AMC noted that it had “substantial doubt” it would be able to withstand the pandemic. 
+date: 1603123158.9978476 
+--- 
+<div><p class="p1">Like countless other sectors of the entertainment industry, movie theaters have been devastated by a global pandemic with seemingly no end in sight. Initial closings stretched on for months, as distributors have delayed their biggest films, or simply cut out the middle man by skipping straight to video-on-demand services.</p>
+<p class="p1">Even as theaters have begun to reopen in some states, actually getting moviegoers back in seats is far easier said than done as fears over catching the highly contagious virus persist. From pop-up drive-ins to popcorn delivery services, some clever individuals have looked toward ways to stay afloat during a prolonged lockdown. A number of locations have also begun offering private theater rentals &#8212; a transitional approach that offers movie fans an opportunity to return to the movie-going experience without being surrounded by strangers.</p>
+<p class="p1">As<a href="https://www.cnn.com/2020/06/03/media/amc-theatres-business-coronavirus/index.html"> CNN notes</a>, mega-chain AMC has <a href="https://www.amctheatres.com/rentals">begun to offer</a> the option through its site, with prices for renting out a theater starting at a surprisingly reasonable $99 (though not in New York, Alaska and Hawaii). Split among ten friends, and you&#8217;re already paying less than a normal movie ticket.</p>
+<p class="p1">Attendees can invite as many as 20 people to a screening, which consists of classic titles like Jurassic Park and Halloween-centric fare like The Nightmare Before Christmas. Prices go up from there. New titles like Tenet and The New Mutants, cost up to $349 for a single screening. The former, helmed by blockbuster director Christopher Nolan, was set to be a kind of litmus test for moviegoers&#8217; willingness to return to theaters.</p>
+<p class="p1">After months of delays, however, Warner Bros. took the relatively rare step of releasing the film internationally first, as the U.S. has continued to struggle with the spread of COVID-19. The United States on-going struggles have also recently allowed China <a href="https://www.hollywoodreporter.com/news/its-official-china-overtakes-north-america-as-worlds-biggest-box-office-in-2020">to overtake the country</a> as the world&#8217;s largest box office. Over the summer, AMC noted that it had &#8220;substantial doubt&#8221; it would be able to withstand the pandemic.</p>
+<p class="p1">
+			</p></div>

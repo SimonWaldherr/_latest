@@ -1,0 +1,21 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/business/2020/10/19/191020_ADB_BIGOIL-PART2-1_trans_NvBQzQNjv4BqVe9MDyUguKJ6jHXM6y_WU5Ati8lfakIPVnFiZKbz3Bo.jpg?impolicy=logo-overlay 
+title: > 
+  Why fossil fuel dinosaurs may still have life in them yet 
+description: > 
+  Just as high finance and elite opinion writes off the fossil fuel industry as irretrievably doomed, a fresh twist in the global energy saga is again starting to upset all calculations.The British Government has had its own eureka moment, seeing it as a path to net-zero and economic revival at the same time.“We want to lead on carbon capture and storage, a technology I barely believed was possible, but I am now a complete evangelist for,” said Boris Johnson at the Tory party conference.Sceptics dismiss the dash for carbon capture, and storage (CCS) as a belated redemption play, an attempt to resuscitate an idea that has never delivered on its promise, and has since been leapfrogged by post-fossil technologies.The big beasts - Saudi Aramco, ExxonMobil, BP, Shell, and Total among others - have joined forces in the Oil and Gas Climate Initiative (OGCI) to turbo-charge new inventions and lift carbon capture to critical scale. 
+date: 1603123145.298303 
+--- 
+<div><p>Just as high finance and elite opinion writes off the fossil fuel industry as irretrievably doomed, a fresh twist in the global energy saga is again starting to upset all calculations.</p>
+<p>The oil and gas fraternity has embraced carbon capture with the zeal of the converted, betting that this neglected technology can be made cheap enough - quickly enough - to head off the seemingly unstoppable march towards electrification and the green hydrogen economy.</p>
+<p>The British Government has had its own eureka moment, seeing it as a path to net-zero and economic revival at the same time. &#8220;We want to lead on carbon capture and storage, a technology I barely believed was possible, but I am now a complete evangelist for,&#8221; said Boris Johnson at the Tory party conference.</p>
+<p>Big Oil &amp; Gas has become an advocate of a high carbon price, calculating that it can turn the price signal to advantage, mobilising its engineering muscle to beat renewables at their own game in the net-zero arms race.</p>
+<p>Sceptics dismiss the dash for <a href="https://www.telegraph.co.uk/business/2020/08/15/carbon-capture-systems-must-developed-uk-have-hope-reaching/">carbon capture, and storage (CCS) </a>as a belated redemption play, an attempt to resuscitate an idea that has never delivered on its promise, and has since been leapfrogged by post-fossil technologies.</p>
+<p>&#8220;Oil and gas companies are being forced to go for CCS because they face an existential threat if they don&#8217;t,&#8221; said Ben Gallagher from the energy group Wood Mackenzie.</p>
+<p>&#8220;They weren&#8217;t at the table because of their strategy of climate denial for so long, leaving the greens to set global policy. Now it may be too late. CCS is logistically complex and still very expensive,&#8221; he said.</p>
+<p>Costs are shrouded in corporate secrecy. Large claims are made but details are often elusive. What is clear is that the next generation of projects will be a far cry from amine retrofits tacked onto existing power plants that lose a fifth of their output from so-called &#8216;parasitic load&#8217; and - say critics - almost double the cost of electricity.</p>
+<p><a href="https://www.telegraph.co.uk/technology/2019/06/13/cutting-edge-technology-could-help-britain-go-carbon-neutral/">The new ventures are radical, </a>on the cutting edge of materials science, and tied to the top US laboratories. Public money is flooding in from the US Department of Energy. Private money is chasing the federal 45Q tariff for captured CO2: $50 a tonne when sequestered underground, and $35 when used in enhanced oil recovery for declining wells.</p>
+<p>The big beasts - Saudi Aramco, ExxonMobil, BP, Shell, and Total among others - have joined forces in the Oil and Gas Climate Initiative (OGCI) to turbo-charge new inventions and lift carbon capture to critical scale.</p>
+</div>

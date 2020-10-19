@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/12/business/00virus-workplace/00virus-workplace-facebookJumbo.jpg 
+title: > 
+  Remote but Inclusive for Years, and Now Showing Other Companies How 
+description: > 
+  From her home in Beaverton, Ore., Jamie Davila leads a team of eight engineers in seven states for the technology start-up Ultranauts.Like millions of other people during these work-from-home times, she relies on popular communication tools like Zoom and Slack.But Ms. Davila and Ultranauts also work remotely in ways that make them different from most companies.They follow a distinctive set of policies and practices to promote diversity and inclusion among employees.“The whole idea is to create a safe space that allows everyone to be heard,” Ms. Davila, 36, said. 
+date: 1603123092.253667 
+--- 
+<div><p class="css-158dogj evys1bk0">From her home in Beaverton, Ore., Jamie Davila leads a team of eight engineers in seven states for the technology start-up Ultranauts. Like millions of other people during these work-from-home times, she relies on popular communication tools like Zoom and Slack.</p><p class="css-158dogj evys1bk0">But Ms. Davila and Ultranauts also work remotely in ways that make them different from most companies. They follow a distinctive set of policies and practices to promote diversity and inclusion among employees.</p><p class="css-158dogj evys1bk0">All video meetings have closed captioning, for workers who prefer to absorb information in text. Meeting agendas are distributed in advance so people who are uncomfortable speaking up can contribute in writing beforehand. Employees are asked daily for feedback, like whether they believe their strengths are valued and if they feel lonely at work.</p><p class="css-158dogj evys1bk0">&#8220;The whole idea is to create a safe space that allows everyone to be heard,&#8221; Ms. Davila, 36, said.</p><p class="css-158dogj evys1bk0">Ultranauts has been working for years on the challenges confronting so many companies during the pandemic, and probably beyond: how to effectively work remotely, make progress toward diversity and inclusion goals, and build a strong organizational culture.</p></div>
