@@ -1,0 +1,32 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8d02379e9fe40019009fc8?width=1200&format=jpeg 
+title: > 
+  Some journalists at the New York Post were reportedly skeptical of publishing 'smoking gun' stories about Hunter Biden 
+description: > 
+  Some New York Post journalists had doubts about publishing the "smoking gun" reports on the emails purportedly belonging to Joe Biden's son Hunter, The New York Times and New York Magazine reported.Hunter Biden formerly served on the board of the Ukrainian energy company Burisma.Some journalists at the New York Post had doubts about the outlet publishing its "smoking gun" stories on Hunter Biden, The New York Times and New York Magazine's the Intelligencer reported Sunday.Last Wednesday, the Post published a bombshell report to expose emails purportedly written by Hunter Biden, the son of Democratic presidential nominee Joe Biden.The FBI is now investigating whether the emails were part of a foreign intelligence operation, following a Washington Post report that Giuliani was targeted by Russian intelligence. 
+date: 1603087002.9776525 
+--- 
+<div><ul class="summary-list">
+<li>Some New York Post journalists had doubts about publishing the "smoking gun" reports on the emails purportedly belonging to Joe Biden's son Hunter, The New York Times and New York Magazine reported.</li>
+<li>The article is bylined by two reporters, Emma-Jo Morris and Gabrielle Fonrouge. The Times reported that at least two writers refused to put their bylines on the story, one of whom was mostly responsible for writing the story, two Post employees told The Times.</li>
+<li>Last Wednesday, the Post published a bombshell report suggesting that Joe Biden, then vice president, used the power of his position to help his son Hunter with his business dealings in Ukraine, citing emails from a computer that purportedly belonged to Hunter.</li>
+<li>Hunter Biden formerly served on the board of the Ukrainian energy company Burisma.</li>
+<li>The tabloid came into possession of the computer's contents, which purportedly belonged to Hunter and contained the emails and other materials that the Post wrote about in the article, after Trump lawyer Rudy Giuliani delivered a copy of the hard drive to the outlet.</li>
+<li>The FBI is now investigating whether the emails were a part of a foreign intelligence operation, following a Washington Post report that Giuliani was targeted by Russian intelligence.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Some journalists at the New York Post had doubts about the outlet publishing its "smoking gun" stories on Hunter Biden, <a href="https://www.nytimes.com/2020/10/18/business/media/new-york-post-hunter-biden.html">The New York Times</a> and New York Magazine's <a href="https://nymag.com/intelligencer/2020/10/new-york-post-insiders-slag-flimsy-hunter-biden-stories.html">the Intelligencer</a> reported Sunday.</p><p>"I think it was very flimsy," one reporter told Intelligencer.</p><p>"It's not something that meets my journalistic standards," another journalist told the outlet, saying that the report "should not have been published."</p><p>Last Wednesday, the Post published a <a href="https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/">bombshell report</a> to expose emails purportedly written by Hunter Biden, the son of Democratic presidential nominee Joe Biden.</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>The dubious article, headlined "BIDEN'S SECRET E-MAILS," suggested that Joe Biden, then vice president, used the power of his position to help his son Hunter, who formerly sat on the board of the Ukrainian energy company Burisma.</p><p>The tabloid came into possession of the computer's contents, which purportedly belonged to Hunter and contained the emails and other materials that the Post wrote about, after Trump lawyer Rudy Giuliani delivered a copy of the hard drive to the outlet. The laptop was left at a repair shop, and the shop's owner, a Trump supporter, gave material from the computer to Giuliani.</p><p>The FBI is now investigating whether the emails were <a href="https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10">part of a foreign intelligence operation</a>, following a <a href="https://www.washingtonpost.com/national-security/giuliani-biden-ukraine-russian-disinformation/2020/10/15/43158900-0ef5-11eb-b1e8-16b59b92b36d_story.html">Washington Post report</a> that Giuliani was targeted by Russian intelligence.</p><p>The article is bylined by two reporters, Emma-Jo Morris and Gabrielle Fonrouge. The Times reported that at least two writers refused to put their bylines on the story, one of whom was mostly responsible for writing it, two Post employees told The Times.</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>The other reporter who refused to appear on the byline of the article was identified as Bruce Golding, who has been at the tabloid since 2007, according to The Times report. Golding cited "concerns over the article's credibility," the two employees told The Times.</p><p>The Times reported that top editors at the tabloid met on October 11 to discuss how to approach reporting on the materials from, what they believed, was Hunter's laptop contents.</p><p>Colin Allan, a former editor-in-chief of the Post who recently returned as an advisor, urged the other editors to move quickly when publishing the story, a person familiar with the meeting told The Times. The editors then pressured staff members to add their bylines as the deadline to publish the story approached, the two Post journalists said.</p>
+                  </div>
