@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/slides/photos/004/415/379/hi-res-8f14f9cb35785ca820cc8523b8f88326_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  Ranking the Greatest Offensive Performances of the MLB Postseason Since 2000 
+description: > 
+  0 of 11Ashley Landis/Associated PressRandy Arozarena has taken the baseball world by storm this postseason, and his offensive contributions have helped lead the Tampa Bay Rays to their second World Series trip in franchise history.Where does his performance at the plate this October rank among the standouts since 2000?That's the question we set out to answer, combing through the best and brightest of the last 20 years to find the greatest individual offensive performers.Players are ranked based on their statistical production, with further consideration given to whether his team reached the World Series and won a title.Each player only appears once, so while guys like Carlos Beltran, David Ortiz and Albert Pujols had multiple impressive postseason runs, they will only occupy one spot on the list. 
+date: 1603116256.025199 
+--- 
+<ol><p class="slideData">0 of 11</p><p></p><img alt="" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Ashley Landis/Associated Press</p><p class=""><a href="http://bleacherreport.com/randy-arozarena">Randy Arozarena</a> has taken the baseball world by storm this postseason, and his offensive contributions have helped lead the Tampa Bay Rays to their second World Series trip in franchise history.</p><p class="">Where does his performance at the plate this October rank among the standouts since 2000?</p><p class="">That's the question we set out to answer, combing through the best and brightest of the last 20 years to find the greatest individual offensive performers.</p><p class="">Players are ranked based on their statistical production, with further consideration given to whether his team reached the World Series and won a title.</p><p class="">Each player only appears once, so while guys like Carlos Beltran, David Ortiz and Albert Pujols had multiple impressive postseason runs, they will only occupy one spot on the list.</p><p class="">We'll start with some honorable mentions.</p></ol>
