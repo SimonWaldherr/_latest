@@ -1,0 +1,15 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/business/2020/10/18/TELEMMGLPICT000186594480_trans_NvBQzQNjv4BqfqZFytx4PqtDDydNjv5qQn9YPYCfvl7NoTJrH7L7ktk.jpeg?impolicy=logo-overlay 
+title: > 
+  If our cities are to survive, the entertainment sector will be vital 
+description: > 
+  Of course, not all workers, even in large cities, work in offices.What’s more, they generate the demand for other services delivered in the city: sandwich bars, pubs, shops and commuting facilities.If office workers stopped going into big cities for work then you could reasonably expect those cities to contract.When you have a workforce of dedicated professionals who have previously worked together, it may be relatively easy to get them working productively from home.At Capital Economics, we recently conducted a survey of what our employees in London thought about WFH. 
+date: 1603093810.952604 
+--- 
+<div><p>Of course, not all workers, even in large cities, work in offices. But a huge chunk of them do. What&#8217;s more, they generate the demand for other services delivered in the city:&#160;sandwich bars, pubs, shops and commuting facilities. If office workers stopped going into big cities for work then you could reasonably expect those cities to contract.&#160;</p>
+<p>But this is not bound to happen. Since the first lockdown in March, we have been through a cycle with regard to WFH. First came enthusiasm after we realised the technology worked well and we&#160;<a href="https://www.telegraph.co.uk/business/2020/10/10/lloyds-london-turns-back-commute/">could avoid the daily commute</a>. Subsequently, however, came a realisation that the office brings certain benefits that cannot easily be replicated at home. I am not the&#160;<a href="https://www.telegraph.co.uk/technology/2020/04/22/british-workers-suffering-online-meeting-fatigue-psychologists/">only person suffering from Zoom-fatigue</a>.&#160;</p>
+<p>When you have a workforce of dedicated professionals who have previously worked together, it may be relatively easy to get them working productively from home. But after a while, how do you generate the same spark? How do you train new workers who have not had that experience of working together? And what do you do if your workforce does not wholly consist of dedicated professionals? How do you make sure that people aren&#8217;t slacking?</p>
+<p>The upshot is that once this wretched coronavirus is over, the office won&#8217;t quite die. At Capital Economics, we recently conducted a survey of what our employees in London thought about WFH. The replies divided into three groups: a third never wanted to see the office ever again; a third never wanted to see their one bedroom flat in Balham ever again (at least in daylight); and a third were happy with a mixed working regime where they worked from home one or two days a week.&#160;</p>
+</div>

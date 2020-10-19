@@ -1,0 +1,22 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/tab-78.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Coca-Cola is getting rid of Tab after nearly 60 years 
+description: > 
+  Coca-Cola is finally getting rid of Tab, the pioneering diet soda that kept a small but diehard fanbase for more than 50 years.Coke rolled out Tab in 1963 as its first foray into the budding diet soda market.Tab grew to be the leading diet soda by 1980 but fell by the wayside after Diet Coke debuted in 1982, according to the Wall Street Journal.The top-selling diet sodas are Diet Coke, with a 35-percent market share, and Coke Zero, with 22 percent, according to Euromonitor International.Other drinks being put out to pasture by Dec. 31 include Zico coconut water, Diet Coke Feisty Cherry and regional names such as Delaware Punch and Northern Neck Ginger Ale. 
+date: 1603093802.193698 
+--- 
+<div><p>Coca-Cola is finally getting rid of Tab, the pioneering diet soda that kept a small but diehard fanbase for more than 50 years.</p>
+<p>The move is part of the beverage giant&#8217;s efforts to slim down its portfolio of more than 500 brands to focus on products with the most potential for growth, Coke <a href="https://www.coca-colacompany.com/news/coca-cola-reshapes-beverage-portfolio-for-growth-and-scale" rel="noopener noreferrer" target="_blank">announced</a> Friday.</p>
+<p>Coke rolled out Tab in 1963 as its first foray into the budding diet soda market. The saccharin-sweetened drink &#8212; which Coke promoted as the soda &#8220;for beautiful people&#8221; in a <a href="https://www.youtube.com/watch?v=IrPkWNJeHzg" rel="noopener noreferrer" target="_blank">1978 ad</a> &#8212; went on to become a cultural phenomenon.</p>
+<p>Tab grew to be the leading diet soda by 1980 but fell by the wayside after Diet Coke debuted in 1982, <a href="https://www.wsj.com/articles/tab-coca-colas-diet-soda-pioneer-and-a-70s-icon-is-going-away-11602847800" rel="noopener noreferrer" target="_blank">according to the Wall Street Journal</a>. However, there were reportedly enough &#8220;Tabaholics&#8221; who loved its polarizing, metallic taste that Coca-Cola continued to produce it.</p>
+<p>That&#8217;s partly because Tab fans were notoriously aggressive about lobbying for the drink&#8217;s survival, calling Coca-Cola headquarters and signing petitions if their soda wasn&#8217;t available locally</p>
+<p>&#8220;We want to make sure those who want Tab get Tab,&#8221; Douglas Daft, Coca-Cola&#8217;s then-chairman and chief executive, said in 2001, when Tab&#8217;s market share had fallen below 1 percent. &#8220;It shows you care.&#8221;</p>
+<p>Last year, Tab accounted for just 0.1 percent of the world&#8217;s $22 billion in diet cola sales and the drink hasn&#8217;t been big enough for Coke to spend any money marketing it since 2008, the Journal reported. The top-selling diet sodas are Diet Coke, with a 35-percent market share, and Coke Zero, with 22 percent, according to Euromonitor International.</p>
+<p>&#8220;We&#8217;re forever grateful to Tab for paving the way for the diets and lights category, and to the legion of Tab lovers who have embraced the brand for nearly six decades,&#8221; Kerri Kopp, Coca-Cola North America&#8217;s group director for Diet Coke, said in a statement.</p>
+<p>Tab&#8217;s demise is part of Coke&#8217;s plans to streamline its beverage offerings that were accelerated by the coronavirus pandemic, the company said. Discontinuing flailing brands frees up money to invest in growing labels like Minute Maid and roll out new products such as the recently announced <a href="https://nypost.com/2020/09/29/coca-cola-enters-alcoholic-drinks-market-with-molson-coors/" rel="noopener noreferrer" target="_blank">Topo Chico Hard Seltzer</a>, according to Coke.</p>
+<p>Other drinks being put out to pasture by Dec. 31 include Zico coconut water, Diet Coke Feisty Cherry and regional names such as Delaware Punch and Northern Neck Ginger Ale. Earlier this year, Coke closed its Odwalla juice and smoothie business.</p>
+<p>&#8220;It&#8217;s about continuing to follow the consumer and being very intentional in deciding which of our brands are most deserving of our investments and resources, and also taking the tough but important steps to identify those products that are losing relevance and therefore should exit the portfolio,&#8221; Cath Coetzer, Coke&#8217;s global head of innovation and marketing operations, said in a statement.</p>
+			</div>

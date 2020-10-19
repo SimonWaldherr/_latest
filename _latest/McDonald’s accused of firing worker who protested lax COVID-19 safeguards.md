@@ -1,0 +1,20 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/mcdonalds-accused-firing-whistleblower.jpg?quality=90&strip=all&w=1200 
+title: > 
+  McDonald’s accused of firing worker who protested lax COVID-19 safeguards 
+description: > 
+  A former McDonald’s worker has reportedly sued the fast-food giant for firing her after she protested a lack of coronavirus protections at her restaurant.“We were called essential workers, but this is the way that they treat the essential workers?” Ruiz told Business Insider.She and other workers reportedly complained to health officials about the lack of safeguards at the restaurant.But the local health department found the store had plenty of hand sanitizer and soap and that staffers were following social-distancing instructions on an April 16 visit to the location, McDonald’s told Business Insider.McDonald’s told the news service that it has strict anti-retaliation policies. 
+date: 1603093802.045944 
+--- 
+<div><p>Sign up for our special edition newsletter to get a daily update on the coronavirus pandemic.</p><p>A former McDonald&#8217;s worker has reportedly sued the fast-food giant for firing her after she protested a lack of coronavirus protections at her restaurant.</p>
+<p>Maria E. Ruiz Bonilla says McDonald&#8217;s canned her in July after more than 16 years on the job after she accused the chain of failing to provide staffers at her San Jose, California, store with masks, gloves, hand soap and hand sanitizer, <a href="https://www.businessinsider.com/mcdonalds-worker-whistleblower-covid-safety-protest-2020-10" rel="noopener noreferrer" target="_blank">Business Insider reported</a> Friday.</p>
+<p>Ruiz claims McDonald&#8217;s cut her hours in April after she started leading employee protests, then fired her a few months later, according to the outlet. She reportedly filed a whistleblower retaliation lawsuit in California state court Friday demanding the company reinstate her and give her back pay and damages.</p>
+<p>&#8220;We were called essential workers, but this is the way that they treat the essential workers?&#8221; Ruiz told Business Insider.</p>
+<p>Ruiz told the website that McDonald&#8217;s didn&#8217;t let her wear a mask at work or provide any protective gear after the pandemic hit this spring. She and other workers reportedly complained to health officials about the lack of safeguards at the restaurant.</p>
+<p>But the local health department found the store had plenty of hand sanitizer and soap and that staffers were following social-distancing instructions on an April 16 visit to the location, McDonald&#8217;s told Business Insider. Masks and gloves also arrived at the restaurant on April 12, the company reportedly said.</p>
+<p>Ruiz&#8217;s allegations &#8220;are untrue and cannot be substantiated,&#8221; the Chicago-based chain told The Post in a statement. &#8220;The employee was terminated after a thorough review found that she falsely reported a safety violation, created and provided false evidence, and lied during the investigation.&#8221;</p>
+<p>Ruiz&#8217;s lawsuit was not available through the California court&#8217;s database as of early Friday afternoon.</p>
+<p>This isn&#8217;t the first time the Golden Arches has been accused of canning a critical employee. A Chicago worker filed a National Labor Relations Board complaint in June saying he was fired in retaliation for joining a lawsuit alleging McDonald&#8217;s failed to protect employees during the pandemic, <a href="https://www.bloomberg.com/news/articles/2020-06-18/mcdonald-s-accused-of-firing-worker-who-sued-over-covid-claims?sref=rEjryNCU" rel="noopener noreferrer" target="_blank">according to Bloomberg News</a>. McDonald&#8217;s told the news service that it has strict anti-retaliation policies.</p>
+			</div>
