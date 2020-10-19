@@ -1,0 +1,26 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/central-ave-julissa-bermudez-sanya-richards-ross.jpg?quality=90&strip=all&w=1200 
+title: > 
+  ‘Central Ave.’ hosts shake up pop culture and entertainment news 
+description: > 
+  “Central Ave.” has pulled off that rare feat in television — carving out a unique niche in a crowded, competitive genre.Co-created by Will Packer and Monique Chenault, “Central Ave.,” which had a five-week test run on Fox stations last fall, recently launched into national syndication with co-hosts Julissa Bermudez and Sanya Richards-Ross.Since premiering in its new iteration Sept. 26, it’s reconfigured the playbook regarding entertainment magazines — both in front of and behind the camera.“People want to know more than just the headlines or the little excerpt they see on social media.“Some people don’t realize how much entertainment news and culture affects our daily lives, and how we’re influenced by these celebrities whose lives we follow and whose headlines we follow on social media. 
+date: 1603082308.4243622 
+--- 
+<div><p>&#8220;Central Ave.&#8221; has pulled off that rare feat in television &#8212; carving out a unique niche in a crowded, competitive genre.</p>
+<p>Co-created by Will Packer and Monique Chenault, &#8220;Central Ave.,&#8221; which had a five-week test run on Fox stations last fall, recently launched into national syndication with co-hosts Julissa Bermudez and Sanya Richards-Ross.</p>
+<p>Since premiering in its new iteration Sept. 26, it&#8217;s&#160;reconfigured the playbook regarding entertainment magazines &#8212; both in front of and behind the camera.</p>
+<p>&#8220;We&#8217;re two women of color representing a show format that&#8217;s been the same for so long,&#8221; says Bermudez, 37, who grew up in Queens. &#8220;And to have that diversity along with Will Packer and Monique Chenault, who moved from &#8216;Entertainment Tonight&#8217; to be our showrunner&#160; &#8230; we want people to know that this is a fresh take on the entertainment newsmagazine show they haven&#8217;t seen before.&#8221;</p>
+<p>Bermudez and Richards-Ross, a four-time Olympic gold medalist, did not know each other before auditioning for &#8220;Central Ave.,&#8221; airing Saturday from 7-8 p.m. on Ch. 9 and midnight-1 a.m. on Ch. 5.</p>
+<p>&#8220;We were put in pairs with different people [to audition] and when we were paired together there was instant chemistry,&#8221; says Bermudez. &#8220;We literally had our fingers crossed hoping that we were the ones to get the phone call. We&#8217;ve had a lot of time to build on that relationship.&#8221;</p>
+ 
+<p>Their interactions on-camera help put the show&#8217;s mix of celebrity news and explorations of social issues into context, with assistance from correspondents Van Lathan, Kennedy-Rue McCollough, Sloane Glass, Melissa McCarty, Neima Abdulahi and Zack Greenburg.</p>
+<p>&#8220;I think of it as an amazing opportunity to work on a show that people want to watch,&#8221; says Richards-Ross, 35. &#8220;People want to know more than just the headlines or the little excerpt they see on social media. We provide that &#8230; with a unique perspective when we&#8217;re telling our stories to different communities.</p>
+<p>&#8220;What Monique and Will wanted to bring was an identity and authentic voices,&#8221; she says. &#8220;We&#8217;re really about sharing stories that sometimes don&#8217;t get covered by the media &#8212; and about allowing communities to be seen and heard.&#8221;</p>
+<blockquote class="pullquote right"><p>&#8216;We&#8217;re two women of color representing a show format that&#8217;s been the same for so long.&#8217;</p></blockquote>
+<p>A recent show, for instance, took a deep dive into the OJ Simpson murder trial on its 25th anniversary.&#160; &#8220;We had people messaging us saying, &#8216;You guys broke it down in a way I hadn&#8217;t thought of,&#8217; &#8221; says Bermudez. Saturday night&#8217;s show will feature her interview with DJ Khaled, who shares his thoughts on developments surrounding his friends Megan Thee Stallion and Tory Lanez (she accused him of shooting her).<i>&#160;</i></p>
+<p>&#8220;We&#8217;re taking a more investigative angle,&#8221; says Bermudez. &#8220;Some people don&#8217;t realize how much entertainment news and culture affects our daily lives, and how we&#8217;re influenced by these celebrities whose lives we follow and whose headlines we follow on social media. Everyone seems to know what&#8217;s going on.&#8221;</p>
+<p>&#8220;We don&#8217;t want it to come across that it&#8217;s so serious that you can&#8217;t sit through it,&#8221; says Richards-Ross. &#8220;You get that balance between straight-up news and headlines and quick hits. Last week we were talking about Mariah Carey and her book and how everyone was talking about it.</p>
+<p>&#8220;You&#8217;ll walk away feeling like you&#8217;ve gotten a little bit of social consciousness and what&#8217;s the latest on your favorite celebrity,&#8221; she says, &#8220;and maybe something else you didn&#8217;t think you would care so much about.&#8221;</p>
+			</div>

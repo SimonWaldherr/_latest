@@ -1,0 +1,26 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f84c9ef91aa9e001880b23f?width=1200&format=jpeg 
+title: > 
+  The investor deck that CuriosityStream used to secure $180 million to take on rival video streaming services 
+description: > 
+  CuriosityStream has 13 million paying subscribers and says that its focus on factual content differentiates it from the glut of new streaming services.SPACs, or special-purpose acquisition companies, are shell companies created specifically to acquire firms and an increasingly popular way for companies including media and advertising ones to go public.The deal with Software Acquisition Group is valued at $331 million in enterprise value with $512 million in equity value.As part of its merger, CuriosityStream will receive about $180 million in cash, including a $25 million private investment in public equity.Before the merger, CuriosityStream raised about $255 million from Hendricks and investing firms TimesSquare Capital Management and Blum Capital Partners. 
+date: 1603082285.6576781 
+--- 
+<div><ul class="summary-list">
+<li>Streaming service CuriosityStream is going public this week through a reverse merger with a SPAC led by Jonathan Huberman, the former CEO of video adtech firm Ooyala.</li>
+<li>CuriosityStream has 13 million paying subscribers and says that its focus on factual content differentiates it from the glut of new streaming services.</li>
+<li>CuriosityStream founder and chairman John Hendricks said that he started looking into SPACs early this year to take the company public but warned that companies need solid revenue models before considering this route.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-slideshow-advertising-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-slideshow-advertising-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Media companies are jumping into SPACs.</p><p>SPACs, or special-purpose acquisition companies, are shell companies created specifically to acquire firms and an increasingly popular way <a href="https://www.businessinsider.com/media-and-advertising-companies-are-rushing-into-spacs-2020-2020-10">for companies including media and advertising ones to go public.</a></p><p>SPACs allow companies to avoid some of the scrutiny, time and cost of the traditional IPO process by merging with a shell company. For advertising and media companies, which are having a harder time getting funding, SPACs' appeal is that they allow companies to raise money for growth and acquisitions.</p><p>CuriosityStream, a 5-year-old streaming service founded by former Discovery Communications founder John Hendricks, plans to go public this week through a reverse merger with Software Acquisition Group, a SPAC led by Jonathan Huberman, who formerly led video adtech firm Ooyala.</p><p>CuriosityStream focuses on factual content like documentaries and features, with more than 3,100 titles available, including 900 original titles. It reports 13 million paying subscribers buying monthly and yearly subscriptions that range from $3 a month to $70 a year, with 80% of new members choosing an annual plan.</p><p>The deal with Software Acquisition Group is valued at $331 million in enterprise value with $512 million in equity value. As part of its merger, CuriosityStream will receive about $180 million in cash, including a $25 million private investment in public equity. Before the merger, CuriosityStream raised about $255 million from Hendricks and investing firms TimesSquare Capital Management and Blum Capital Partners.</p><p>Hendricks said that he started looking at SPACs early this year and was most interested in ones that had not raised a lot of money, to avoid selling early shares of the company at a low price. He settled on Software Acquisition Group, which has raised $150 million &#8212; half as much as firms like former Hearst executive Joanna Coles is <a href="https://www.renaissancecapital.com/IPO-Center/News/71707/Consumer-focused-SPAC-Northern-Star-Acquisition-files-for-a-%24300-million-IP">looking to raise for her firm</a> Northern Star Acquisition Corp.</p><p>"Now the space is so crowded, especially with new and emerging companies," he said. "But they need to have not only a track record of revenue but some good visibility."</p>
+<p id="gpt-slideshow-advertising-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-slideshow-advertising-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>SPACs involve smaller road shows than the traditional IPO process where companies make their pitch to investors. Hendricks said he did virtual roadshows over Zoom leading up to the merger.</p><p>Here are a few of the key slides that CuriousityStream used to pitch investors.</p>
+
+                    </div>

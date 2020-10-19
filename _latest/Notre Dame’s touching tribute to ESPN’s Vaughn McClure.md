@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/vaugn-mcclure-espn-nfl-dead-obit.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Notre Dame’s touching tribute to ESPN’s Vaughn McClure 
+description: > 
+  With the Notre Dame Football team’s first game since the passing of ESPN NFL reporter Vaughn McClure, there was a tribute for the team’s former reporter in the press box.Eric Hansen, the Tribune’s assistant sports editor and columnist and the magazine’s former managing editor, had some touching words about McClure.“To try to sum up Vaughn McClure’s impact in a couple of paragraphs is like trying to pour the Pacific Ocean into thimble,” Hansen said.“When we hired him in 1999, his goal — his obsession, really — was being better at his craft than the day before.McClure, a Chicago native, also worked at the Fresno Bee and DeKalb Daily Chronicle after graduating from Northern Illinois University in 1994. 
+date: 1603082308.0360663 
+--- 
+<div><p>With the Notre Dame Football team&#8217;s first game since the passing of ESPN NFL reporter Vaughn McClure, there was a tribute for the team&#8217;s former reporter in the press box.</p>
+<p>McClure, <a href="https://nypost.com/2020/10/15/espn-falcons-reporter-vaughn-mcclure-dead-at-48/">who passed away earlier this week</a> at his Atlanta apartment at the age of 48, used to cover Notre Dame football for the South Bend Tribune and the Tribune&#8217;s Irish Sports Report magazine from 1999 to 2004 and later for the Chicago Sun-Times. He was honored during the Fighting Irish&#8217;s 12-7 win over Louisville Saturday with an honorary spot in the press box and a photo, as shared by Tim O&#8217;Malley of Irish Illustrated.</p>
+<p>Eric Hansen, the Tribune&#8217;s assistant sports editor and columnist and the magazine&#8217;s former managing editor, had<a href="https://www.southbendtribune.com/sports/former-south-bend-tribune-sports-writer-and-espn-reporter-vaughn-mcclure-dies-at-48/article_acb6ac26-0f37-11eb-bac6-e7930e443c1a.html" rel="noopener noreferrer" target="_blank"> some touching words about McClure</a>.</p>
+<p>&#8220;To try to sum up Vaughn McClure&#8217;s impact in a couple of paragraphs is like trying to pour the Pacific Ocean into thimble,&#8221; Hansen said. &#8220;When we hired him in 1999, his goal &#8212; his obsession, really &#8212; was being better at his craft than the day before. And I&#8217;ve never seen someone grow as fast and as dramatically in our business as Vaughn, which isn&#8217;t even the most impressive thing about him.</p>
+<p>&#8220;What was? It&#8217;s who he was at his core, a man who wanted to make a difference in the world. Through his writing. Through some very frank late-night talks about life in America. Through his hugs. Through his disarming smile. He didn&#8217;t just crush his mission of getting better. He made all of us, who came in contact with him, better people along the way.&#8221;</p>
+<p>Most recently covering the Atlanta Falcons, McClure had worked at ESPN since 2013 after six years covering the Bears at the Chicago Tribune. McClure, a Chicago native, also worked at the Fresno Bee and DeKalb Daily Chronicle after graduating from Northern Illinois University in 1994.</p>
+			</div>

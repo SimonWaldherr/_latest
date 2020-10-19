@@ -1,0 +1,24 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/Drudge-Report.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Drudge Report’s mystery net worth attracts interest amid sale rumors 
+description: > 
+  Ever since rumors began circulating that Matt Drudge might be looking for an investor in his popular Drudge Report website, media watchers have been trying to figure out what the 25-year news aggregation site might be worth.The Drudge Report has been grabbing attention this year for boosting Joe Biden instead of Trump, who it pushed in 2016.“If Axios is really worth $200 million, Drudge has to be worth well north of that.” He pointed out that Axios attracts about 16 million unique visitors per month.But it remains unclear how much traffic Drudge really has and calls to the firm handling the site’s ad sales, Granite Cubed, were not returned.“The entire direct cost to run Drudge Report is about $3 million a year,” McIntyre said. 
+date: 1603082308.6683316 
+--- 
+<div><p>Ever since rumors began circulating that Matt Drudge might be looking for an investor in his popular Drudge Report website, media watchers have been trying to figure out what the 25-year news aggregation site might be worth.</p>
+<p>One Drudge watcher pegs it north of $200 million while others say its closer to $100 million. Any minority stake would be discounted, however, since Drudge is unlikely to surrender any control of the news aggregation site, which links to 50 or more stories a day and usually pushes a political agenda.</p>
+<p>The Drudge Report has been grabbing attention this year for boosting Joe Biden instead of Trump, who it pushed in 2016. The apparent change-of-heart has drawn the ire of the President, who recently tweeted that the Drudge Report &#8220;sold out,&#8221; and suggested that its provocateur founder may have suffered a &#8220;nervous breakdown.&#8221;</p>
+<p>Rumors that Drudge is looking for an investor swept the publishing and financial worlds a few weeks ago, but remain just that. And emails to the reclusive Drudge were not returned.</p>
+<p>Following Media Ink&#8217;s <a href="https://nypost.com/2020/09/29/matt-drudge-rumored-to-be-seeking-investors-for-drudge-report/">Sept. 29 column </a>on the rumors, website 24/7 Wall Street wrote that the privately held company that could be worth over $100 million.</p>
+<p>But Matthew Lysiak, author of the recently released bio &#8220;Drudge Revolution,&#8221; thinks the valuation is easily double that figure. &#8220;If Axios is really worth $200 million, Drudge has to be worth well north of that.&#8221; He pointed out that Axios attracts about 16 million unique visitors per month. &#8220;Drudge has that on a very bad month. And his overhead is much lower. &#8221;</p>
+<p>&#8220;Drudge has himself, a server, and one employee,&#8221; said Lysiak. &#8220;That&#8217;s it. Those are all of his expenses. No office. No staff. Nothing.&#8221;</p>
+<p>Traffic is important because it determines ad revenue. But it remains unclear how much traffic Drudge really has and calls to the firm handling the site&#8217;s ad sales, Granite Cubed, were not returned.</p>
+<p>Drudge on his website Thursday claimed that in the last 24 hours he had 27.3 million &#8220;visits,&#8221; and that over that last month he attracted 767.2 million &#8220;visits.&#8221; But there is no clarity on whether that is one visitor turning up numerous times per day or a &#8220;unique visitor&#8221; who would only be counted once a month. Comscore, which tracks unique visitors and other traffic metrics, has not returned numerous calls and emails seeking Drudge&#8217;s numbers in recent weeks.</p>
+<p>Doug McIntyre, the CEO and editor in chief of 24/7 Wall Street notes that estimates from other tracking services tend to show a wide difference. SimilarWeb pegged Drudge&#8217;s August traffic at&#160; 63.22 million a month with 11.41 page views per visitor or with 721.3 million page views. SEMrush pegged it much higher at 150.1 million visitors and 7.08 page views per visitor, which translated into 1.063 billion page views.</p>
+<p>&#8220;Based on the midpoint of traffic estimates, which is about 850 million per month, Drudge Report revenue is approximately $3.4 million a month, or $40.8 million a year,&#8221; McIntyre estimated.</p>
+<p>But, he says, the Druge Report&#8217;s big advantage is its low overhead since most of the 50 or so headlines posted link to stories published by others.</p>
+<p>&#8220;The entire direct cost to run Drudge Report is about $3 million a year,&#8221; McIntyre said.</p>
+			</div>

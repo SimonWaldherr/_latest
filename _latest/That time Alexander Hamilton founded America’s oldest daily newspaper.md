@@ -1,0 +1,33 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/07/lin-manuel-miranda-alexander-hamilton-nypost.jpg?quality=90&strip=all&w=1200 
+title: > 
+  That time Alexander Hamilton founded America’s oldest daily newspaper 
+description: > 
+  However, many Broadway buffs don’t know about one of Hamilton’s enduring achievements, which they see every day online at newsstands: He founded the oldest continuously published newspaper in the United States — The New York Post.The Post was not a vanity project for Hamilton, who frequently used the daily to wage vicious political battles.From December 1801 to April 1802, Hamilton wrote an 18-piece series under the pseudonym Lucius Crassus called “The Examination” attacking President Jefferson — and he didn’t pull punches.The Post even wrote an anti-dueling editorial in the aftermath, years before Hamilton died in the very same bloody manner.New York is still the greatest city in the world 218 years later, and Hamilton’s New York Post keeps telling its story. 
+date: 1603082310.4593954 
+--- 
+<div><p>How does a bastard, orphan, son of a whore and a Scotsman dropped in the middle of a forgotten spot in the Caribbean start a major daily newspaper?</p>
+<p><a href="https://nypost.com/2020/06/30/hamilton-review-musical-loses-edge-but-reveals-tenderness/" target="_blank" rel="noopener noreferrer">&#8220;Hamilton&#8221; fans</a> have learned a lot about America&#8217;s first Treasury Secretary from Lin-Manuel Miranda&#8217;s popular musical, which <a href="https://nypost.com/2020/06/30/how-to-watch-hamilton-when-it-drops-on-disney/" target="_blank" rel="noopener noreferrer">dropped Friday</a> on <a href="http://disneyplus.bn5x.net/yVVmy" target="_blank" rel="nofollow noopener noreferrer">Disney+</a>, that they might not have known before.</p>
+<p>Alexander Hamilton was a scrappy immigrant from Saint Kitts and Nevis. A prolific writer, he composed 51 of the Federalist Papers, but then a scandalous affair scuttled his chances for a political future.</p>
+<p>However, many Broadway buffs don&#8217;t know about one of Hamilton&#8217;s enduring achievements, which they see every day online at newsstands: He founded the oldest continuously published newspaper in the United States &#8212; The New York Post.</p>
+<p>In an attempt to make a New York paper with a strong Federalist Party stance &#8212; as opposed to President Thomas Jefferson&#8217;s ruling Democratic-Republican Party &#8212; Hamilton sought to raise $10,000 to fund the project.</p>
+<p>&#8220;Hamilton hoped the Post would chart a path for other Federalist newspapers and breathe life into a nearly moribund party,&#8221; author Ron Chernow <a href="https://www.amazon.com/dp/B01FHYZWFQ/ref=dp-kindle-redirect?tag=nypost-20" target="_blank" rel="nofollow noopener noreferrer">wrote in his biography &#8220;Alexander Hamilton.&#8221;</a></p>
+<p>Hamilton contributed $1,000 of his own money (about $20,000 when adjusted for inflation) and, legend has it, secured the rest of the cash during a meeting at Gracie Mansion downtown, which today serves as the mayor&#8217;s residence.</p>
+<p>The first issue was published on Nov. 16, 1801, nearly three years before Hamilton would die in an infamous duel with Aaron Burr. Starting out, the Evening Post was merely a single sheet of paper folded in half to create four pages, according to Allan Nevins&#8217; book <a href="https://www.amazon.com/Evening-Post-Century-Journalism/dp/1011486849/ref=sr_1_1?tag=nypost-20" target="_blank" rel="nofollow noopener noreferrer">&#8220;The Evening Post: A Century of Journalism.&#8221;</a> Controversial journalist James T. Callender called it &#8220;the most elegant piece of workmanship that we have seen, either in Europe or America.&#8221;</p>
+<p>The earliest subscribers included John Jacob Astor, the great-grandfather of millionaire real estate tycoon John Jacob Astor who died in the Titanic sinking, and Daniel D. Tompkins, who later became New York governor and vice president and is the namesake of Tompkins Square Park.</p>
+<p>The Post was not a vanity project for Hamilton, who frequently used the daily to wage vicious political battles.</p>
+<p>From December 1801 to April 1802, Hamilton wrote an 18-piece series under the pseudonym Lucius Crassus called &#8220;The Examination&#8221; attacking President Jefferson &#8212; and he didn&#8217;t pull punches.</p>
+<p>&#8220;The Message of the President, by whatever motives it may have been dictated, is a performance which ought to alarm all who are anxious for the safety of our Government, for the respectability and welfare of our nation,&#8221; he wrote in the first entry. &#8220;It makes, or aims at making, a most prodigal sacrifice of constitutional energy, of sound principle, and of public interest, to the popularity of one man.&#8221;</p>
+<p>Ouch.</p>
+<p>The Post&#8217;s storied history of covering local crime started early, and sadly, with the dueling death of Hamilton&#8217;s son Philip at 19 years old.</p>
+<p>&#8220;His manner on the ground was calm and composed beyond expression,&#8221; wrote a Post reporter on the scene. &#8220;The idea of his own danger seemed to be lost in anticipation of the satisfaction which he might receive from the final triumph of his generous moderation.&#8221;</p>
+<p>According to Chernow, Hamilton and The Post aimed to depoliticize the tragic killing, which was committed by a young Jeffersonian named George Eacker, who infuriated Philip with an anti-Hamilton speech. Hamilton didn&#8217;t want to be blamed for his own son&#8217;s death.</p>
+<p>The Post even wrote an anti-dueling editorial in the aftermath, years before Hamilton died in the very same bloody manner.</p>
+<p>&#8220;Reflections on this horrid custom occur to every man of humanity,&#8221; the paper said. &#8220;But the voice of an individual or of the press must be ineffectual without additional, strong, and pointed legislative interference.&#8221;</p>
+<p>When Hamilton died in 1804 and was laid to rest during a military-style funeral near Trinity Church, The Post was there to witness the final sendoff of one of the city&#8217;s &#8212; and the new nation&#8217;s &#8212; most celebrated and admired citizens.</p>
+<p>&#8220;The scene was enough to melt a monument of marble,&#8221; The Post said of the sadness at the premature loss of a Founding Father.</p>
+<p>New York is still the greatest city in the world 218 years later, and Hamilton&#8217;s New York Post keeps telling its story.</p>
+<p></p>
+			</div>

@@ -1,0 +1,51 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f87168dfd1f49001964d94e?width=1200&format=jpeg 
+title: > 
+  Inside the TikTok influencer house that uses comedy to land deals with brands like Chipotle and Tinder and reach millions of viewers 
+description: > 
+  TikTok creator houses like Hype House and Sway LA have become a phenomenon as the app rapidly grows and gives rise to new stars.The group, which relies on comedy instead of viral dances, now has over two million followers on TikTok and has secured brand deals with Chipotle and Tinder.The city has seen a wave of new houses emerge with the rise of TikTok, like Hype House or Sway LA.While many TikTok content houses have risen to fame through viral dances and trends, THNAF is part of a growing comedy house scene.The house's video for Chipotle now has over nine million views and almost one million likes. 
+date: 1603082285.328029 
+--- 
+<div><ul class="summary-list">
+<li>TikTok creator houses like Hype House and Sway LA have become a phenomenon as the app rapidly grows and gives rise to new stars.</li>
+<li>While many houses are based in Los Angeles, "The House Nobody Asked For," a group of eight creators, moved to Las Vegas in August.&#160;</li>
+<li>The group, which relies on comedy instead of viral dances, now has over two million followers on TikTok and has secured brand deals with Chipotle and Tinder.</li>
+<li>Business Insider spoke with the group's founder and its manager about why the group moved to Las Vegas and how it pitched and landed these brand deals.</li>
+<li><strong><a href="http://newsletter.businessinsider.com/join/influencerdashboard">Subscribe to Business Insider's influencer newsletter: Insider Influencers</a>.</strong></li>
+</ul>
+<p id="gpt-post-media-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-media-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>This summer a group of eight influencers who wanted to escape the parties and drama of Los Angeles, and find a cheaper housing alternative, decided to move to Las Vegas for a "collab" house ironically titled "The House Nobody Asked For."&#160;</p><p>LA has generally been the hub for these kind of houses, where creators live together and make social-media content. The city has seen a wave of new houses emerge with the rise of TikTok, like <a href="https://www.nytimes.com/2020/01/03/style/hype-house-los-angeles-tik-tok.html">Hype House</a>&#160;or <a href="https://www.businessinsider.com/tik-tok-stars-live-rent-free-in-mansion-sway-house-2020-1">Sway LA</a>. But other cities and countries are now home to several new groups of influencers as well, from Arizona (The Halo House) to outside of London (The Wave House)</p><p>THNAF itself started an hour outside of LA, where founders Will Mahony and Tyler Funke rented an Airbnb for two months. But when they decided to go bigger and rent a mansion for all eight members to live in in August, they settled on Las Vegas.</p><p>"Believe it or not, we're paying less to be here than we would for student housing," house member Caroline Ricke said in the group's <a href="https://www.tiktok.com/@thehousenobodyaskedfor/video/6863984032292621574?lang=en">announcement TikTok video about their new home</a>.</p><p>The house now has over 2.6 million followers on TikTok and its members include Mahony (19), Funke (19), Anthony Potero (19), Billy Yue (19), Caroline Ricke (21), Dawn Morante (19), Marco Borghi (18), and Tobias Phillips (20).</p><p>While many TikTok content houses have risen to fame through viral dances and trends, THNAF is part of a growing comedy house scene. Two LA-based groups, <a href="https://www.tiktok.com/@thepoundla?lang=en">The Pound</a> and <a href="https://www.businessinsider.com/spacestation-launching-camp-sike-tiktok-influencer-comedy-group-mansion-2020-7">Camp Sike</a>, launched comedy houses in August and September, respectively. The Honey House, another LA-based group, is a group of millennials creating humorous content challenges.</p><p>But so far, THNAF has been pushing this new genre of TikTok collab house forward as an early adopter in the space. Nearly every video the group has posted has hit over one million views, and brands are catching on.</p><p>The group signed the Las Vegas lease for four months with the assistance of some of their parents and legal advisors, and the group's first sponsor, the brand MSCHF, signed on as a guarantor.</p>
+<p id="gpt-post-media-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-media-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>MSCHF, <a href="https://www.businessinsider.com/mschf-company-behind-viral-jesus-shoes-feet-generator-bull-moon-2020-1">a company that sells products and is known for viral stunts</a>, is sponsoring the group through the end of October, which has helped cover the rent and utilities for the house. In exchange, the house collectively created branded content on TikTok for MSCHF through individual members posting about the brand on their own pages. Mahony keeps a link to the company in his bio.&#160;</p><p>In August, Ogo Akamelu (who is known professionally by his first name) became the non-exclusive manager for handling house-wide partnerships after meeting one of the members through a Netflix project. Ogo has secured two of the group's highest-paying brand deals to date: Chipotle and Tinder.</p><p>The group equally divides the sponsorships by nine between the eight members and Ogo.</p><p>"We see ourselves as equals, because once the business gets in the way of that, then that's how we fall apart, you know?" Mahony told Business Insider.&#160;</p><p>Mahony and Ogo broke down exactly how they landed these brand deals as a house and their formula to crafting viral sketches that double as ads.</p><p>
+      <img class="lazy-image " src="" alt="Tobias Phillips TikTok Influencer">
+    
+    
+      <img src="https://i.insider.com/5f871603fd1f49001964d947?width=600&amp;format=jpeg&amp;auto=webp">
+    
+    
+    
+        Tobias Phillips at the THNAF home in Las Vegas.
+      
+
+        
+            <a href="https://www.instagram.com/sjspreng/" class="image-source-link">
+          SJ Spreng
+            </a>
+        
+    
+</p><h2>Offering something new to brands: comedy</h2><p>TikTok houses have a few things in common like luxurious mansions, multiple teens under one roof, and often a lot of dancing.</p><p>But while dancing their way to fame has worked for houses like Hype House and Sway LA, the members of THNAF rely on comedy.</p><p>Ogo started pitching THNAF to a few brands in August and September, highlighting the fact the group was doing something different and growing rapidly. In the emails to brands, he introduced the house, its analytics such as engagement and demographics, its collective reach, and included links to previous collaborations in a media kit.</p>
+<p id="gpt-post-media-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-media-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>He reached out to Chipotle with a simple email, asking if the brand had anything coming up that they could promote on TikTok and the company responded quickly, since it was launching a new ordering feature the next week.</p><p>"It was a very quick, seven- to eight-day turnaround," Ogo said. The house's video for Chipotle now has over <a href="https://www.tiktok.com/@thehousenobodyaskedfor/video/6870167237525884165?lang=en">nine million views</a> and almost one million likes. The partnership generated more than 313 million earned impressions, Tressie Lieberman, vice president of digital marketing and off-premise told Business Insider.&#160;</p><p>The Tinder sponsorship was secured in a similar fashion by Ogo. He pitched the online dating app by email and went in with the angle: the dating show nobody asked for. The company responded and had been planning on launching a campaign around its new verification feature the following week, so a partnership was signed into place.</p><p>The house wrote a script for the new feature, including some recurring bits in their content, like Anthony Potero playing a robot.&#160;Each of the eight members posted a separate video on <a href="https://www.tiktok.com/@wahony/video/6878402871365274886?source=h5_m">their own TikTok pages</a>, too.</p><p>Like the Chipotle deal, Tinder was loose about the requirements and let THNAF take the creative lead.</p><p>With each of their videos getting millions of views each, their sponsored content performed similarly to their non-sponsored skits &#8212; a quality that attracts brands.</p><p>"They do it in a way that's natural, and not invasive," Ogo said.</p><p>Every day, the eight members of the house meet up at 9 a.m. for a content meeting where they script out new videos. And when there's a sponsorship, they do the same.</p>
+<p id="gpt-post-media-mobile_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-media-desktop_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>"Usually, it takes us about a day to make a video," Mahony said. For instance, the Chipotle sponsored video took about two hours of going over the script with the brand, and then another four hours for filming and editing.</p><p>The brand didn't ask for too many specifics. Chipotle wanted details of the sponsorship to be mentioned, like how to enter the giveaway that Chipotle was advertising and what the new feature was. Other than that, THNAF scripted the video like any other.</p><p>"We said everything they wanted us to say, but there were things kind of in the background that we added, like Marco squeezing a burrito unnecessarily hard," Mahony said.</p><p><strong>To read more about the influencer industry, check out these Business Insider stories:</strong></p> 
+                  </div>

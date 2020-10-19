@@ -1,0 +1,21 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/stephanie-ruhle.jpg?quality=90&strip=all&w=1200 
+title: > 
+  MSNBC’s Stephanie Ruhle questioned after filming JPMorgan Chase promo 
+description: > 
+  MSNBC senior business reporter Stephanie Ruhle filmed promotional segments for JPMorgan Chase, a bank she covers — raising questions of potential conflicts of interest.“I’m not doing any work on behalf of Chase Bank,” she said.“The issue was not the interview, but the way Chase promoted and framed it across social media.Chase has since recognized and corrected their mistake.”JPMorgan Chase spokeswoman Trish Wexler told The Hill that the company will no longer feature her promotional videos after concern has grown over her over impartiality.It was our mistake to promote it, and we’re sorry,” Wexler told the outlet. 
+date: 1603082309.05247 
+--- 
+<div><p>MSNBC senior business reporter Stephanie Ruhle filmed promotional segments for JPMorgan Chase, a bank she covers &#8212; raising questions of potential conflicts of interest.</p>
+<p>Ruhle, the weekday &#8220;MSNBC Live&#8221; anchor, joined ESPN&#8217;s Jay Williams in a six-minute Chase video focusing on financial planning around the COVID-19 pandemic, according to <a href="https://twitter.com/Chase/status/1308412755200925696?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1308412755200925696%7Ctwgr%5Eshare_3%2Ccontainerclick_0&amp;ref_url=https%3A%2F%2Fthehill.com%2Fhomenews%2Fmedia%2F521052-chase-bank-to-stop-using-msnbcs-ruhle-in-promotional-ads-after-conflict-of" target="_blank" rel="noopener noreferrer">a Sept. 22 tweet</a> from the bank.</p>
+<p>&#8220;I sat down with @Chase and @realjaywilliams to chat about planning for life&#8217;s unpredictable moments&#8230;something many of us are experiencing right now,&#8221; Ruhle <a href="https://twitter.com/SRuhle/status/1310623457307230208?s=20" target="_blank" rel="noopener noreferrer">tweeted</a> days later, sharing the clip. &#8220;Tune in to see the full conversation &#8212; you won&#8217;t want to miss it.&#8221;</p>
+<p>In the longer segment, which has been made private on the bank&#8217;s YouTube, she offers bank-friendly advice like, &#8220;Saving is always the answer&#8221; and, &#8220;Please save as much as you can. And plan ahead,&#8221; <a href="https://www.washingtonpost.com/lifestyle/media/msnbcs-stephanie-ruhle-filmed-promotional-spots-for-jpmorgan-chase--one-of-the-banks-she-covers-as-a-journalist/2020/10/14/e7951562-0da2-11eb-b1e8-16b59b92b36d_story.html?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=wp_main" target="_blank" rel="noopener noreferrer">The Washington Post</a> reported.</p>
+<p>The anchor denied involvement with the bank when questioned by The Post, the paper reported, referring any further questions to MSNBC.</p>
+<p>&#8220;I&#8217;m not doing any work on behalf of Chase Bank,&#8221; she said. &#8220;I don&#8217;t know what you are referring to.&#8221;</p>
+<p>An MSNBC spokesperson stressed that Ruhle was not paid for the appearance or compensated in any way and that she didn&#8217;t promote the bank. NBC and MSNBC journalists are not permitted to be paid for such engagements, the spokesperson said.</p>
+<p>&#8220;As is a common practice for journalists, Stephanie participated in an interview as a subject matter expert,&#8221; the network spokesperson said in a statement. &#8220;The issue was not the interview, but the way Chase promoted and framed it across social media. Chase has since recognized and corrected their mistake.&#8221;</p>
+<p>JPMorgan Chase spokeswoman Trish Wexler <a href="https://thehill.com/homenews/media/521052-chase-bank-to-stop-using-msnbcs-ruhle-in-promotional-ads-after-conflict-of" target="_blank" rel="noopener noreferrer">told The Hill</a>&#160;that the company will no longer feature her promotional videos after concern has grown over her over impartiality.</p>
+<p>&#8220;She was not paid for this financial literacy content. It was our mistake to promote it, and we&#8217;re sorry,&#8221; Wexler told the outlet.</p>
+			</div>
