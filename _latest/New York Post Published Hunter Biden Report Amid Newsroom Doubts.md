@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/18/lens/18nypost-building/18nypost-building-facebookJumbo.jpg 
+title: > 
+  New York Post Published Hunter Biden Report Amid Newsroom Doubts 
+description: > 
+  The New York Post’s front-page article about Hunter Biden on Wednesday was written mostly by a staff reporter who refused to put his name on it, two Post employees said.Coming late in a heated presidential campaign, the article suggested that Joseph R. Biden Jr. had used his position to enrich his son Hunter when he was vice president.The Post based the story on photos and documents the paper said it had taken from the hard drive of a laptop purportedly belonging to Hunter Biden.Many Post staff members questioned whether the paper had done enough to verify the authenticity of the hard drive’s contents, said five people with knowledge of the tabloid’s inner workings.Staff members also had concerns about the reliability of its sources and its timing, the people said. 
+date: 1603079326.944199 
+--- 
+<div><p class="css-158dogj evys1bk0">The New York Post&#8217;s front-page article about Hunter Biden on Wednesday was written mostly by a staff reporter who refused to put his name on it, two Post employees said.</p><p class="css-158dogj evys1bk0">Bruce Golding, a reporter at the Rupert Murdoch-owned tabloid since 2007, did not allow his byline to be used because he had concerns over the article&#8217;s credibility, the two Post employees said, speaking on the condition of anonymity out of fear of retaliation.</p><p class="css-158dogj evys1bk0">Coming late in a heated presidential campaign, the article suggested that Joseph R. Biden Jr. had used his position to enrich his son Hunter when he was vice president. The Post based the story on photos and documents the paper said it had taken from the hard drive of a laptop purportedly belonging to Hunter Biden.</p><p class="css-158dogj evys1bk0">Many Post staff members questioned whether the paper had done enough to verify the authenticity of the hard drive&#8217;s contents, said five people with knowledge of the tabloid&#8217;s inner workings. Staff members also had concerns about the reliability of its sources and its timing, the people said.</p></div>
