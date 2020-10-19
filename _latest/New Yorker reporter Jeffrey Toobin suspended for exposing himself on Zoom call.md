@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static.independent.co.uk/2020/10/19/20/newFile.jpg 
+title: > 
+  New Yorker reporter Jeffrey Toobin suspended for exposing himself on Zoom call 
+description: > 
+  The New Yorker has suspended reporter Jeffrey Toobin after he exposed himself during a zoom meeting last week.Mr Toobin, 60, exposed himself during a video call last week with staffers from WNYC radio and his colleagues at the New Yorker, according to Vice.In a statement to Vice, Mr Toobin apologised and claimed that he thought he had turned his camera off at the time of the incident.I thought I had muted the Zoom video,” Mr Toobin added.Mr Toobin also works as the chief legal analyst at CNN, and appeared on the station on Saturday. 
+date: 1603139315.0319676 
+--- 
+<div><p class="sc-pHJJA iocNwz above-article-prompt-donations"></p><p>The New Yorker has suspended reporter <a href="/topic/jeffrey-toobin">Jeffrey Toobin</a> after he exposed himself during a <a href="/topic/zoom">zoom</a> meeting last week.</p><p>Mr Toobin, 60, exposed himself during a video call last week with staffers from WNYC radio and his colleagues at the New Yorker, according to Vice.</p><p></p><p>In a statement to Vice, Mr Toobin apologised and claimed that he thought he had turned his camera off at the time of the incident.</p><p id="article-im-prompt"></p><p>&#8220;I made an embarrassingly stupid mistake, believing I was off-camera. I apologise to my wife, family, friends and co-workers," he said.</p><p></p><p></p><p>&#8220;I believed I was not visible on Zoom. I thought no one on the Zoom call could see me. I thought I had muted the Zoom video,&#8221; Mr Toobin added.</p><p>New Yorker spokesperson Natalie Raabe said: &#8220;Jeffrey Toobin has been suspended while we investigate the matter.&#8221;</p><p>Vice reported that Mr Toobin&#8217;s email address at Conde Nast, who own the New Yorker, has been disabled, while the reporter has not tweeted since 13 October.</p><p id="taboola-carousel-thumbnails"></p><p>Mr Toobin also works as the chief legal analyst at CNN, and appeared on the station on Saturday.</p><p>However, on Monday CNN told Vice in an emailed statement: &#8220;Jeff Toobin has asked for some time off while he deals with a personal issue, which we have granted.&#8221;</p><p class="sc-ptCms fzKffT"></p></div>

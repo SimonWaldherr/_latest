@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/business/2020/05/07/TELEMMGLPICT000230702810_trans_NvBQzQNjv4BqP4pV-m6laGcMQMbuKYgJGRAi9QsRfzh9VHt38cYMhuU.jpeg?impolicy=logo-overlay 
+title: > 
+  Exclusive: Britain bought PPE worth £320m from firms linked to Chinese regime 
+description: > 
+  British officials paid up to £320m of taxpayer money to Chinese state-backed companies amid a scramble to secure medical supplies at the height of the coronavirus crisis.Health authorities agreed almost a dozen deals with firms linked to the Communist regime in Beijing as they raced to buy ventilators and PPE after Covid hit, according to Telegraph analysis of contract details published by the Government.The contracts sparked anger from critics who believe the UK should be distancing itself from China due to the one-party state's brutal treatment of Uighur Muslims and a crackdown on free speech in Hong Kong.They will also raise questions about how carefully Britain vetted its suppliers and whether the UK paid over the odds.That means building up partnerships with others and reducing our reliance on China’s state-owned businesses.”The Department for Health and Social Care signed ten contracts with companies with direct links to the Chinese government, worth a total of £148m. 
+date: 1603139298.30806 
+--- 
+<div><p>British officials paid up to&#160;&#163;320m of taxpayer&#160;money to <a href="https://www.telegraph.co.uk/china/">Chinese state</a>-backed companies amid a scramble to secure medical supplies at the height of <a href="https://www.telegraph.co.uk/coronavirus/">the coronavirus crisis</a>.</p>
+<p>Health authorities&#160;agreed almost a dozen deals&#160;with firms linked to&#160;the Communist regime in Beijing as they raced to buy <a href="https://www.telegraph.co.uk/health-fitness/body/ventilators-coronavirus/">ventilators</a> and <a href="https://www.telegraph.co.uk/personal-protective-equipment/">PPE</a> after Covid hit, according to Telegraph&#160;analysis of contract details published by the Government.</p>
+<p>The contracts sparked anger from <a href="https://www.telegraph.co.uk/news/2020/10/12/britain-should-look-reduce-dependence-china-says-mp-new-ambassador/">critics who believe the UK should be distancing itself from China</a> due to the one-party state's&#160;<a href="https://www.telegraph.co.uk/news/2020/09/29/britains-trade-relationship-china-threat-mps-uighur-genocide/">brutal treatment of Uighur Muslims</a> and a <a href="https://www.telegraph.co.uk/news/2020/10/01/six-thousand-police-officers-spread-across-hong-kong-strangle/">crackdown on free speech in Hong Kong</a>.</p>
+<p>They will also raise questions about how carefully Britain vetted its suppliers and whether the UK paid over the odds.</p>
+<p>Tom Tugendhat, the Tory chairman of the Foreign Affairs select committee, said: &#8220;We need to reduce dependence on companies controlled by states that seek to use that leverage to influence our actions and those of our allies.&#160;That means building up partnerships with others and reducing our reliance on China&#8217;s state-owned businesses.&#8221;</p>
+<p>The Department for Health and Social Care signed ten contracts with companies with direct links to the Chinese government, worth a total of&#160;&#163;148m.&#160;</p>
+</div>

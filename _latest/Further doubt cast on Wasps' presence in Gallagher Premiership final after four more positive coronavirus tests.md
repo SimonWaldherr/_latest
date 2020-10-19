@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/rugby-union/2020/10/19/TELEMMGLPICT000241624145_trans_NvBQzQNjv4BqqBYMlWmNSsYKmyFVDYjgrXTdd8_dghcDgUtz5TX4uhI.jpeg?impolicy=logo-overlay 
+title: > 
+  Further doubt cast on Wasps' presence in Gallagher Premiership final after four more positive coronavirus tests 
+description: > 
+  Wasps’ place in the Gallagher Premiership final on Saturday is hanging in the balance after the club returned four further positive Covid-19 tests, including three players.Premiership Rugby will make a final decision on Wednesday.Under advice from Public Health England, Wasps cancelled training last week after seven positive tests, which included four players as well as three members of training staff.By isolating their players, Wasps are hopeful that the spread has been contained.A decision on whether the Club will play in Saturday’s Premiership Rugby Final will be made following the results of a further set of testing to be undertaken on Tuesday.” 
+date: 1603139300.4227939 
+--- 
+<div><p>Wasps&#8217; place in the Gallagher Premiership final on Saturday is hanging in the balance after the club returned four further positive Covid-19 tests, including three players.</p>
+<p>The Daily Telegraph understands that should Tuesday&#8217;s round of testing produce just one more positive test&#160;then Wasps will be replaced in the final against Exeter Chiefs <a href="https://www.telegraph.co.uk/rugby-union/2020/10/16/bristol-standby-replace-wasps-premiership-final-unable-field/">by Bristol Bears</a>, who comprehensively <a href="https://www.telegraph.co.uk/rugby-union/2020/10/10/wasps-vs-bristol-bears-premiership-play-off-semi-final-live/">lost 47-24 to Wasps in the semi-finals</a>. Premiership Rugby will make a final decision on Wednesday.</p>
+<p>Under advice from Public Health England, Wasps cancelled training last week <a href="https://www.telegraph.co.uk/rugby-union/2020/10/14/wasps-premiership-final-preparations-hit-four-players-three/">after seven positive tests</a>, which included four players as well as three members of training staff. The club commissioned their own round of tests this weekend, but their worst fears were realised when it was shown the outbreak had spread.</p>
+<p>It is understood that the players who tested positive last week were mainly fringe players unlikely to have played a part in Lee Blackett&#8217;s matchday squad. By isolating their players, Wasps are hopeful that the spread has been contained. The Daily Telegraph also understands the club believe that there were two false positives among the most recent round of tests, raising further doubts about the efficacy of the testing system.</p>
+<p>Even if they do receive the green light, Wasps will only be able to start training on Wednesday afternoon leaving them with just two-and-a-half days to prepare for the biggest game of the season.</p>
+<p>A Wasps statement said: &#8220;After consultation with the medical leads at Premiership Rugby, the RFU and Public Health England, the Club will continue not to train at this stage. A decision on whether the Club will play in Saturday&#8217;s Premiership Rugby Final will be made following the results of a further set of testing to be undertaken on Tuesday.&#8221;</p>
+</div>

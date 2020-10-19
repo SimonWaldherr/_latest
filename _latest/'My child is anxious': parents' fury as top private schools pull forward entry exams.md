@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/luxury/2020/10/19/GettyImages-975123500_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwViJj1eTvcjzL4JkNP_PJEs.jpg?impolicy=logo-overlay 
+title: > 
+  'My child is anxious': parents' fury as top private schools pull forward entry exams 
+description: > 
+  There is nothing quite so stressful as the long countdown to exams - except when the countdown isn’t as long as you were expecting.Some of Britain’s top independent senior schools are bringing forward the date of their 11+ entrance examinations by much as much as two months to the consternation of fraught parents.“It’s like training for the summer Olympics and being told with five weeks to go that they’ll be at Easter,” says the mother of one child due to sit 11+ entrance exams.“You can’t complain as the schools all say you don’t need to prepare [for the ISEB common pre-tests] but we all know everyone does.It is a computer test not the handwritten one my child was expecting so requires different skills. 
+date: 1603139300.7373543 
+--- 
+<div><p>There is nothing quite so stressful as the long countdown to exams - except when the countdown isn&#8217;t as long as you were expecting. Some of Britain&#8217;s top independent senior schools are bringing forward the date of their 11+ entrance examinations by much as much as two months to the consternation of fraught parents.</p>
+<p>Dozens of schools are also overhauling the entry process, abandoning decades of tradition and swapping written assessment papers for an online version run by the Independent Schools Examinations Board (ISEB) that removes the need for children to sit multiple exams.&#160;</p>
+<p>The abrupt changes have dismayed many parents. &#8220;It&#8217;s like training for the summer Olympics and being told with five weeks to go that they&#8217;ll be at Easter,&#8221; says the mother of one child due to sit 11+ entrance exams. &#8220;You can&#8217;t complain as the schools all say you don&#8217;t need to prepare [for the ISEB common pre-tests] but we all know everyone does. It is a computer test not the handwritten one my child was expecting so requires different skills. My child is anxious,&#8221; she adds.&#160;</p>
+<p>Many schools will also interview candidates online rather than face-to-face. Headteachers say the changes are intended to Covid-proof the selection process, which normally takes place between January and March, in case rising infection rates forces schools to close.&#160;</p>
+<p>King&#8217;s College School, Wimbledon, which was set up in 1829 by royal charter, is one of 30 schools across the country to switch to the ISEB common pre-test for 11+ entry for the first time. KCS, which is known locally as a &#8220;destination school&#8221; and charges &#163;6,730 per term for years 7 and 8, has pulled forward its assessment to November from January.&#160; &#8220;This is all Covid-influenced, not because I think it&#8217;s a better educational experience,&#8221; says head master Andrew Halls. &#8220;We&#8217;re all gambling.&#8221;</p>
+<p>Another parent who learnt only days ago about the accelerated timetable at one school said her 10-year-old son felt unnerved. &#8220;It feels like you&#8217;re aiming at a moving target. With exams moving to early December from January they are missing out on a good chunk of preparation time, particularly when you consider they missed school from March to September. It adds to the general anxiety.&#8221; &#160;</p>
+</div>
