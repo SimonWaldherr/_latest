@@ -1,0 +1,16 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/news/2020/08/04/TELEMMGLPICT000236096754_trans_NvBQzQNjv4BqRLU6RByDcehJVbJAoDuCGZ1jt-Q14Op4ntpQY4ROuaA.jpeg?impolicy=logo-overlay 
+title: > 
+  We must start recording the excess deaths caused by Covid myopia 
+description: > 
+  In the year to March 2021, it estimated, the direct loss of life from Covid 19 will amount to 530,000 Quality-adjusted life-years (QALYs).Reduced access to A&E services, DHSC estimated, will eventually cost 41,000 QALYs, while early discharge from hospital, reduced access to elective surgery, and GPs services will cost another 73,000 QALYs.The irony is that even at the height of the Covid crisis in April, we never came anywhere near to exceeding hospital capacity.At great expense we built the Nightingale hospitals, to specialise in treating Covid patients – yet in the event only on of the, in London’s East End, was actually used, and then it only received a handful of patients.All the same, it would be nice for the government to be open about the unintended toll of lockdown. 
+date: 1603132127.6116383 
+--- 
+<div><p>The closest we have had to it is a study published quietly by the Department for Health and Social Care in July. In the year to March 2021, it estimated, the direct loss of life from Covid 19 will amount to 530,000 Quality-adjusted life-years (QALYs).&#160;This, it admitted, would be dwarfed by the loss of life from non-Covid conditions but which had occurred as an indirect result of the pandemic. Reduced access to A&amp;E services, DHSC estimated, will eventually cost 41,000 QALYs, while early discharge from hospital, reduced access to elective surgery, and GPs services&#160;&#160;will cost another 73,000 QALYs.&#160;&#160;In the longer term, the postponement of non-urgent medical care will cost 45,000 QALYs, the effects of recession 157,000 QALYs and increased deprivation, as a result of a smaller economy, 294,000 QALYs.&#160;&#160;</p>
+<p>Next time we have a Downing Street press conference, could Chris Whitty and Sir Patrick Vallance please include an estimate for the non-Covid deaths to run along the Covid ones? I think I already know the answer to this: thanks all the same, but I think we&#8217;d rather keep that data under our hats.&#160;&#160;After all, who wants to admit that your well-intentioned slogan actually had a lethal effect on the nation&#8217;s health?</p>
+<p>The irony is that even at the height of the Covid crisis in April, we never came anywhere near to exceeding hospital capacity.&#160;At great expense we built the Nightingale hospitals,&#160;to specialise in treating Covid patients &#8211; yet in the event only on of the, in London&#8217;s East End, was actually used, and then it only received a handful of patients.&#160;&#160;&#160;</p>
+<p>You can&#8217;t really blame anyone for trying to manage NHS demand in such a way that has unfortunately proved deadly &#8211; back in March and April no-one knew how big the pandemic would get and how many Covid patients would required emergency hospital admission.&#160;&#160;&#160;</p>
+<p>All the same, it would be nice for the government to be open about the unintended toll of lockdown.</p>
+</div>

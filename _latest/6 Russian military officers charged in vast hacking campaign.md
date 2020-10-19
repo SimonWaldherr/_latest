@@ -1,0 +1,15 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ca-times.brightspotcdn.com/dims4/default/6ea7701/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F45%2F76%2Fffd85c4c899a7462cf7b474df08d%2F20eb19bac5df4c898eb47e5f73e73226 
+title: > 
+  6 Russian military officers charged in vast hacking campaign 
+description: > 
+  Six Russian military officers sought to disrupt through computer hacking the French election, the Winter Olympics and U.S. businesses, according to a Justice Department indictment unsealed Monday that details attacks on a broad range of political, financial and athletic targets.The indictment also accuses the defendants, all alleged officers in the Russian military agency known as the GRU, in destructive attacks on Ukraine’s power grid and in a hack-and-leak effort directed at the political party of French President Emmanuel Macron during the 2017 election.The indictment does not charge the defendants in connection with interference in American elections, focusing instead on attacks that prosecutors said were aimed at promoting Russian’s geopolitical interests.Those include cyberattacks that targeted the 2018 Winter Olympics in South Korea, where Russian athletes were banned because of a state-sponsored doping effort.AdvertisementHe called it “the most disruptive and destructive series of computer attacks ever attributed to a single group.” 
+date: 1603132115.6478934 
+--- 
+<div><p>Six Russian military officers sought to disrupt through computer hacking the French election, the Winter Olympics and U.S. businesses, according to a Justice Department indictment unsealed Monday that details attacks on a broad range of political, financial and athletic targets.</p><p>The indictment also accuses the defendants, all alleged officers in the Russian military agency known as the GRU, in destructive attacks on Ukraine&#8217;s power grid and in a hack-and-leak effort directed at the political party of French President Emmanuel Macron during the 2017 election.</p><p>The indictment does not charge the defendants in connection with interference in American elections, focusing instead on attacks that prosecutors said were aimed at promoting Russian&#8217;s geopolitical interests. Those include cyberattacks that targeted the 2018 Winter Olympics in South Korea, where Russian athletes were banned because of a state-sponsored doping effort.</p><p>&#8220;No country has weaponized its cyber capabilities as maliciously or irresponsibly as Russia, wantonly causing unprecedented damage to pursue small tactical advantages and to satisfy fits of spite,&#8221; said Assistant Atty Gen. John Demers, the Justice Department&#8217;s top national security official.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-add4fe13ae-70a1-4fb7-8fab-f8fb1b384f7f" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>He called it &#8220;the most disruptive and destructive series of computer attacks ever attributed to a single group.&#8221;</p></div>
