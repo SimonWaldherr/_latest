@@ -1,0 +1,15 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/50501674637_c9068bc8a2_k.jpg?w=600 
+title: > 
+  SpaceX successfully launches 60 more Starlink satellites, bringing total delivered to orbit to more than 800 – TechCrunch 
+description: > 
+  SpaceX on Sunday launched another batch of 60 of its internet-beaming Starlink satellites, growing its constellation even further.That makes 835 Starlink satellites launched thus far, though not all of those are operational (some were test satellites that were intentionally decommissioned).SpaceX says the recovery crew is fine, but that’s obviously not an ideal outcome.Still, being positioned correctly to catch both fairing halves is definitely a win for the company’s efforts on that aspect of Falcon 9 launch vehicle reusability.This is another impressive show of SpaceX’s ability to maintain a very fast and frequent pace of launches, which has this year focused mostly on delivering its own Starlink satellites to orbit. 
+date: 1603110711.2014983 
+--- 
+<div><p id="speakable-summary"><a class="crunchbase-link" href="https://crunchbase.com/organization/space-exploration-technologies" target="_blank">SpaceX </a> on Sunday launched another batch of 60 of its internet-beaming Starlink satellites, growing its constellation even further. That makes 835 Starlink satellites launched thus far, though not all of those are operational (some were test satellites that were intentionally decommissioned). The launch, from Florida&#8217;s Kennedy Space Center, also included a successful controlled landing and recovery of the first stage booster, as well as a semi-successful dual catch of the fairing halves used to protect the cargo during launch.</p>
+<p>I say semi-successful because both of SpaceX&#8217;s recovery barges actually did catch the fairing halves as they parachuted back down to the surface of the Atlantic Ocean, but one of the nets on the barges gave way during the catch. SpaceX says the recovery crew is fine, but that&#8217;s obviously not an ideal outcome. Still, being positioned correctly to catch both fairing halves is definitely a win for the company&#8217;s efforts on that aspect of Falcon 9 launch vehicle reusability.</p>
+<p>This is another impressive show of SpaceX&#8217;s ability to maintain a very fast and frequent pace of launches, which has this year focused mostly on delivering its own Starlink satellites to orbit. The company has already launched almost 300 new Starlink satellites since June, and has plans to launch at least two more batches during the next month, including a tentative launch scheduled for this coming Wednesday.</p><p class="piano-inline-promo"></p>
+<p>Starlink is already in the process of being tested internally by SpaceX employees and technicians, and the company is readying for a broader public beta to begin before the end of this year.</p>
+			</div>
