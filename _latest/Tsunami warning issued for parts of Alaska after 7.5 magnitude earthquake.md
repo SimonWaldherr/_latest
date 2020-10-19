@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static.independent.co.uk/2020/10/19/22/Quake-1.jpeg 
+title: > 
+  Tsunami warning issued for parts of Alaska after 7.5 magnitude earthquake 
+description: > 
+  A tsunami warning was issued for parts of southern Alaska after a 7.5 magnitude earthquake hit the state.The National Weather Service issued the warning after the quake struck south of the Aleutian Islands.“You could see the water kind of shaking and shimmering during the quake.“It just kind of happened of all of a sudden.”The Aleutian Islands are a string of 14 large and 55 smaller volcanic islands which are owned by the US and Russia.The islands contain 57 volcanoes and form the northern part of the Pacific Ring of Fire that sees a large amount of earthquake activity. 
+date: 1603150656.1851454 
+--- 
+<div><p class="sc-pHJJA iocNwz above-article-prompt-donations"></p><p>A tsunami <a href="/topic/warning">warning</a> was issued for parts of southern <a href="/topic/alaska">Alaska</a> after a 7.5 magnitude earthquake hit the state.</p><p>The <a href="/topic/national-weather-service">National Weather Service</a> issued the warning after the quake struck south of the <a href="/topic/aleutian-islands">Aleutian Islands.</a></p><p></p><p id="article-im-prompt"></p><p>&#8220;It was a pretty good shaker here,&#8221; David Adams, co-manager of Marine View Bed and Breakfast in Sand Point, told Q13Fox.</p><p>&#160;&#8220;We&#8217;re doing okay. The structure itself is sound.</p><p>&#8220;You could see the water kind of shaking and shimmering during the quake. Our truck was swaying big time.</p><p></p><p>&#8220;It just kind of happened of all of a sudden.&#8221;</p><p class="sc-oTaAA eBoKzo"></p><p>The Aleutian Islands are a string of 14 large and 55 smaller volcanic islands which are owned by the US and Russia.</p><p>The islands contain 57 volcanoes and form the northern part of the Pacific Ring of Fire that sees a large amount of earthquake activity.</p><p class="sc-oTaAA eBoKzo"></p><p>The Washington State Department of Natural Resources took to Twitter to say that it was also evaluating the &#8220;potential impact&#8221; of the earthquake and tsunami warning.</p><p class="sc-oTaAA eBoKzo"></p><p class="sc-ptCms fzKffT"></p></div>

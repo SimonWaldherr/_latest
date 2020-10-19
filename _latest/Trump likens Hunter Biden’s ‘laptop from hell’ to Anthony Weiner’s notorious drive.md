@@ -1,0 +1,26 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/weiner-trump-biden-e1603144511953.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Trump likens Hunter Biden’s ‘laptop from hell’ to Anthony Weiner’s notorious drive 
+description: > 
+  He got hacked too.”“[Weiner] was sending messages to very, very young women — girls, girls, excuse me, girls.He was sending messages, a lot of them, and he ‘got hacked’, ” Trump said.Hunter Biden’s hard drive was given by a Delaware computer repairman to former New York Mayor Rudy Giuliani, a Trump attorney, who provided it to The Post.The hard drive contains a significant amount of sexual material, including selfies and a lengthy video of Hunter Biden and an unidentified woman.The Trump Organization managed in part by adult children Donald Trump Jr. and Eric Trump retains a large international footprint. 
+date: 1603150636.5864687 
+--- 
+<div><p>President Trump on Monday said that Hunter Biden&#8217;s &#8220;laptop from hell&#8221; reminds him of Anthony Weiner&#8217;s infamous computer, which undercut Hillary Clinton in the 2016 election and later sent Weiner to prison.</p>
+<p>Trump called Joe Biden &#8220;corrupt&#8221; at a large rally in Prescott, Ariz., citing The Post&#8217;s <a href="https://nypost.com/2020/10/14/senate-committee-investigating-hunter-biden-hard-drive-email/?utm_campaign=SocialFlow&amp;utm_source=NYPTwitter&amp;utm_medium=SocialFlow">reporting on emails</a> from a hard drive implicating the Democratic presidential candidate in his son&#8217;s overseas deals.</p>
+<p>&#8220;Joe Biden is always and has been a corrupt politician, and as far as I&#8217;m concerned the Biden family is a criminal enterprise,&#8221; Trump said.</p>
+<p>&#8220;If you read this laptop, I tell you what, this is called the laptop from hell. The only laptop that was almost as good, maybe worse, was the laptop of Anthony Weiner. Remember that? Ding-ding-ding-ding. He got hacked too.&#8221;</p>
+<p>&#8220;[Weiner] was sending messages to very, very young women &#8212; girls, girls, excuse me, girls. He was sending messages, a lot of them, and he &#8216;got hacked&#8217;, &#8221; Trump said.</p>
+<p>&#8220;You know, I&#8217;ve never known a person that said he got hacked, that got hacked.&#8221;</p>
+<p>The FBI seized Weiner&#8217;s laptop just before the 2016 election over allegations of inappropriate relationships with a 15-year-old girl. Then-FBI Director James Comey announced <a href="https://nypost.com/2016/10/29/clinton-camp-comey-owes-the-public-answers-for-reopening-probe/">11 days before</a> the vote that he was reopening an investigation of Clinton&#8217;s storage of classified information on a private email server, citing the laptop.</p>
+<p>The colorful ex-Brooklyn and Queens congressman Weiner, who famously tweeted a photo of his wiener in 2011 and claimed he was hacked, served <a href="https://nypost.com/2019/02/17/anthony-weiner-released-from-prison-will-register-as-sex-offender/">18 months in prison</a> after Clinton lost the election to Trump. He was released last year and remains married to Clinton <a href="https://nypost.com/2020/09/15/anthony-weiner-huma-abedin-spotted-together-in-nyc-with-son/">&#8220;body woman&#8221; Huma Abedin.</a></p>
+<p>Hunter Biden&#8217;s hard drive was given by a Delaware computer repairman to former New York Mayor Rudy Giuliani, a Trump attorney, who provided it to The Post.</p>
+<p>The hard drive contains a significant amount of sexual material, including selfies and a lengthy video of Hunter Biden and an unidentified woman. Emails from the hard drive, which the repairman said Hunter Biden legally abandoned after not picking up the laptop, indicate the former vice president was involved in his son&#8217;s business dealings in <a href="https://nypost.com/2020/10/15/emails-reveal-how-hunter-biden-tried-to-cash-in-big-with-chinese-firm/">China</a>&#160;and&#160;<a href="https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/">Ukraine</a>, despite the elder Biden&#8217;s past denials.</p>
+<p>Twitter last week prevented users from distributing The Post&#8217;s articles for potentially violating the company&#8217;s &#8220;Hacked Materials&#8221; policy, despite no evidence the material was hacked.</p>
+<p>Trump said Monday that he disallowed his own children from foreign projects that could invite allegations of corruption. The Trump Organization managed in part by adult children Donald Trump Jr. and Eric Trump retains a large international footprint.</p>
+<p>&#8220;Can you imagine if Don Jr. had the problems of &#8216;Where&#8217;s Hunter?&#8217; &#8221; Trump asked rally-goers.</p>
+<p>&#8220;Don Jr., oh my poor boy &#8212; what that boy&#8217;s been through. What that guy&#8217;s been through. I don&#8217;t know, Ivanka is different, she sort of floats through life, it is pretty amazing, I&#8217;ll tell you. She is pretty amazing. And Eric has been great,&#8221; Trump added.</p>
+<p>&#8220;But they went after my kids and I restrict them from doing things. I mean, can you imagine the money my kids could get? &#8216;Dad, let&#8217;s build a hotel in Saudi Arabia.&#8217; I restricted them, I said you can&#8217;t do anything.&#8221;</p>
+			</div>
