@@ -1,0 +1,35 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ca-times.brightspotcdn.com/dims4/default/ed03760/2147483647/strip/true/crop/4214x2212+0+298/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7f%2Fa6%2F6c1d6c9b4dcab249a289a29124d3%2Falcs-astros-rays-baseball-35827.jpg 
+title: > 
+  Tampa Bay Rays enter World Series with a reputation for giant slaying 
+description: > 
+  For just the second time in the team’s relatively short history, Tampa Bay will play for a World Series title.Tampa Bay Rays center fielder Kevin Kiermaier makes a diving catch on a fly ball by Houston Astros Carlos Correa during Game 3 of the ALCS.He delivered hit after hit in the first three games of the division series against the Yankees and batted .421.He has yielded two earned runs and six hits over 81/3 postseason innings.Charlie Morton: The longest-tenured major leaguer on the Rays, Morton defeated the team for which he threw the title-clinching pitch in the 2017 World Series. 
+date: 1603092301.5221398 
+--- 
+<div><p>At the end of a weeklong battle that his team nearly lost to baseball&#8217;s favorite villain, Kevin Kiermaier stood in the middle of a nearly empty Petco Park Saturday night wearing a shirt commemorating the Tampa Bay Rays&#8217; American League pennant.</p><p>The Rays had just defeated the Houston Astros, who were found nearly a year ago to have engaged in illegal electronic sign-stealing on their way to the 2017 World Series title. They had just narrowly avoided a collapse &#8212; something the Atlanta Braves couldn&#8217;t do in their National League Championship Series with the Dodgers Sunday night &#8212; after the Astros forced Game 7 of the AL Championship Series.</p><p>And Kiermaier had a message to deliver.</p><p>&#8220;If they don&#8217;t know the names by now,&#8221; Kiermaier said of his teammates, directing his words to the late-night TV audience that watched a fan-less trophy presentation, &#8220;they&#8217;d better learn, because we&#8217;ve got some boys who can play.&#8221;</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad5cfc65b6-de35-4879-a9f8-e46c7a9b0325" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p></p><p>America will meet the small-market Rays this week. For just the second time in the team&#8217;s relatively short history, Tampa Bay will play for a World Series title. Beginning Tuesday, they will confront a group of Dodgers who completed a seven-game gantlet of their own to earn the National League pennant.</p><p>The last time Tampa Bay performed during the final days of October, current Dodger pitcher David Price secured the final four outs the Rays needed to wrap up their American League pennant under the watchful of eye of present Angels manager Joe Maddon. At the time, both had only recently embarked on their current paths &#8212; Price was a rookie star in the making and Maddon was in just his third season as manager.</p><p>Both were relative unknowns.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adc9c100d3-491d-482c-b395-f04bd738020c" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p></p><p id="nativo_1"></p><p>Much like Kiermaier&#8217;s Rays, who before this month had mainly distinguished themselves as the Yankees&#8217; annoying little brother.</p>
+    
+        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Tampa Bay Rays center fielder Kevin Kiermaier makes a diving catch on a fly ball by Houston Astros Carlos Correa" width="840" height="560">
+    
+    
+    
+        <p class="figure-caption">Tampa Bay Rays center fielder Kevin Kiermaier makes a diving catch on a fly ball by Houston Astros Carlos Correa during Game 3 of the ALCS.</p><p class="figure-credit">(Ashley Landis / Associated Press)</p>
+        
+<p>Over the last few weeks, the Rays have willed themselves into the national conscience with their five-game dispatch of the mighty Yankees in their American League Division Series and their refusal to yield to the villainous Astros. And yet their longest-tenured player promised late Saturday night that the team would make sure more people knew the names of the Rays who accomplished their feats.</p><p>Let&#8217;s take a quick glance at a few Rays players&#8217; credentials.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adf8abb51a-352f-43b1-a132-53237df7e572" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p><b>Willy Adames:</b> Adames&#8217; bat has been quiet in the postseason. He is hitting only .115 with two runs batted in. Like Kiermaier, his glove does the work. A shortstop, Adames possesses the innate ability to predict where a ball will be hit. He has flaunted that all postseason, including an impressive showing in Game 2 of the ALCS when he jumped to make a backhand play on a line drive to his right and later went to one knee to make another backhand grab on a ground ball.</p><p><b>Randy Arozarena:</b> The 25-year-old almost single-handedly catapulted the Rays into the spotlight. He delivered hit after hit in the first three games of the division series against the Yankees and batted .421. He was named the ALCS&#8217; most valuable player after breaking the record for most playoff homers by a rookie in one postseason &#8212; a record he had shared with former Ray Evan Longoria &#8212; and going nine for 28 in the series.</p><p><b>Pete Fairbanks: </b>The rookie right-hander is part of a deep bullpen. He has yielded two earned runs and six hits over 81/3 postseason innings. With the aid of a 97-mph fastball and an 88-mph slider, he has struck out 13 in six playoff appearances. He got the save in the pennant-clinching win Saturday.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ade0e3ab42-bf18-4cc2-9a41-ea170ddb3011" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p><b>Kiermaier: </b>Kiermaier is a weak hitter but his glove makes up for it. He has been one of baseball&#8217;s best defensive center fielders since debuting in 2010. But injuries have limited playing time over the last decade. Even so, he has saved 135 runs on defense since 2010 &#8212; second-most among all outfielders who played at least 5,500 innings in that span. The only person ahead of him is Jason Heyward, who has played twice as many innings.</p><p><b>Charlie Morton:</b> The longest-tenured major leaguer on the Rays, Morton defeated the team for which he threw the title-clinching pitch in the 2017 World Series. He threw 102/3 shutout innings in the ALCS, extending his record of postseason excellence. He has a 2.84 ERA in 12 career playoff appearances &#8212; and a 0.57 ERA in 152/3 innings this postseason.</p><p><i>Torres reported from Los Angeles.</i></p></div>

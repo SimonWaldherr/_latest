@@ -1,0 +1,58 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://media.npr.org/assets/img/2020/10/15/dsc00594_wide-448e828432fca7c7a0286255478795dbe4b8205c.jpg?s=1400 
+title: > 
+  Backxwash, The Metal-Sampling Rapper, Turns Fury Into Forgiveness 
+description: > 
+  Backxwash, The Metal-Sampling Rapper, Turns Fury Into ForgivenessEnlarge this image toggle caption Merchant Vaporwave/Courtesy of the artist Merchant Vaporwave/Courtesy of the artist"I don't know if I would call myself a metalhead, but I do like metal... so maybe I am?"As a queer Black woman, Backxwash embodies and performs with just as much hyper-masculine aggression as her male contemporaries."I had this thought as a queer rapper, and I wasn't really comfortable with that feeling.As a queer, Black alternative rapper and producer, she aware of her position to encourage other artists."I don't know who is inspired by me, but I know that people like the idea of seeing a queer rapper do this. 
+date: 1603092296.2249882 
+--- 
+<div><p class="storytitle">
+      <h1>Backxwash, The Metal-Sampling Rapper, Turns Fury Into Forgiveness</h1>
+   
+   
+   
+</p><img src="https://media.npr.org/assets/img/2020/10/15/dsc00594_wide-448e828432fca7c7a0286255478795dbe4b8205c-s1100-c15.jpg" class="img lazyOnLoad" alt="">
+        <a class="enlargelink" href="https://media.npr.org/assets/img/2020/10/15/dsc00594_wide-448e828432fca7c7a0286255478795dbe4b8205c-s1200.jpg">Enlarge this image</a>
+        <p class="caption-wrap">
+         
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </p>
+
+    <p class="credit">
+        
+        Merchant Vaporwave/Courtesy of the artist
+        
+    </p>
+<img alt="">
+    <p class="image_data">
+         
+        <p class="credit">
+            
+            Merchant Vaporwave/Courtesy of the artist
+            
+        </p>
+    </p>
+<p>"I don't know if I would call myself a metalhead, but I do like metal... so maybe I am?" </p>   <p><a href="https://www.npr.org/artists/923899569/backxwash">Backxwash</a> belies racialized stereotypes surrounding the preferences of young, Black listeners. You can hear an expanse of musical knowledge in her occult-themed hip-hop, but especially with how she samples metal bands, which has garnered positive (and rare) attention from the metal community and magazines like Kerrang! As a queer Black woman, Backxwash embodies and performs with just as much hyper-masculine aggression as her male contemporaries.</p>   <h3 class="conheader">Stream The Album</h3>
+      <a href="https://backxwash.bandcamp.com/album/god-has-nothing-to-do-with-this-leave-him-out-of-it">God Has Nothing To Do With This Leave Him Out Of It by Backxwash</a>
+      <p>The Montr&#233;al-based rapper and producer opens God Has Nothing to Do With It Leave Him Out of It with a cryptic loop from <a href="https://www.npr.org/artists/123664999/black-sabbath">Black Sabbath</a>'s "Black Sabbath," as <a href="https://www.npr.org/artists/124120879/ozzy-osbourne">Ozzy Osbourne</a> pleads, "Oh, no, God, please help me!" The album title itself is worthy of <a href="https://www.npr.org/artists/180802445/slayer">Slayer</a>, but is actually based on the 2017 Spanish film Ver&#243;nica, about a teen who makes the grave mistake of using a Ouija board during a solar eclipse. It's also <a href="https://polarismusicprize.ca/short-list/">shortlisted</a> for 2020's Polaris Music Prize, an annual award for independent Canadian artists.</p>   <p>Backxwash is the moniker for Ashanti Mutinta, a Zambian-born Canadian. The name not only encapsulates her music project but also an aesthetic that challenges contemporary hip-hop. Metal bands like <a href="https://www.npr.org/artists/133111597/liturgy">Liturgy</a>, Black Sabbath, Venom, Mayhem and Oranssi Pazuzu provide the inspirational soundscapes she needs to get the sound she is looking for: "People usually use 808s on top of guitar samples and that is how you get that metal feel, but I use samples to chop them up and layer sounds on top of them, and then use that 808 kick as percussion under it," Mutinta explains. She also says that the drums from <a href="https://www.npr.org/artists/89493553/nine-inch-nails">Nine Inch Nails</a>' "Reptile" come from a hip-hop mindset: "So many hip-hop artists have used that drum pattern."</p>   
+    
+
+    <p id="ad-backstage-Music_Music_Features" class="ad-backstage"></p>
+
+   <p>"I see samples more than just sounds," Mutinta says, "they represent a slice of time. From my perspective, I wouldn't use something unless I was connected to it in some way." For instance, "Black Sheep" both samples a traditional ritual from her Zambian tribe, Tumbuka, as well as soundscapes from the church she attended as a child.</p>   <p>She started writing songs at 13, but at age nine, Mutinta heard <a href="https://www.npr.org/artists/88479887/the-notorious-b-i-g">The Notorious B.I.G.</a>'s "Mo Money Mo Problems" via her older sister. <a href="https://www.npr.org/artists/539035525/diana-ross">Diana Ross</a>' "I'm Coming Out" loops as the hook, but she was drawn to the rapper, later employing some of the vocal techniques from the golden era of hip-hop. Listening to the 29-year-old now, Mutinta favors an old-school approach: her vocal delivery is crisp and clear, but aggressive. Hearkening back to <a href="https://www.npr.org/artists/16617596/eric-b-rakim">Rakim</a>'s <a href="https://www.youtube.com/watch?v=EzdspQzOxUk">lyrical efficiency</a> and the quirkiness of <a href="https://www.npr.org/artists/815392324/mf-doom">MF Doom</a>, she's got an effortless flow that is punchy where she needs to accentuate, and angry when she needs to be. </p>   <p>Eventually her brother brought home a beat programming machine. "I had a bit of an advantage [over him] because I knew musical scales from school, so I knew that if I plugged in these melodies into the same scale patterns, that it would work," she laughs. When she first discovered <a href="https://www.npr.org/artists/15119741/j-dilla">J Dilla</a>'s 2006 masterpiece, Donuts, it was a life-changing experience: "Samples are not just taking someone else's idea; it's about making new music from them and you are actually telling stories through them." </p>   <p>God Has Nothing to Do With It Leave Him Out of It symbolizes personal growth for the queer, transfeminine artist. After facing a fair amount of personal and professional rejection during her transition, she describes the recording process as narrating her journey through forgiveness. "Throughout the album, I document everything that has been done to me and at the end, I ask the question: Is there any time of forgiveness for those who have done something to me, or for me if I have harmed them? And what exactly is forgiveness? Is it for past transgressions? What about for situations in which one might still feel unsafe? It's kind of accumulated into an album." </p>   <p class="video-wrap">
+        
+    </p>
+        <p class="credit-caption externalasset">
+            
+
+                <b class="credit">
+                    
+                    <b class="source">YouTube</b>
+                </b>
+        </p>
+<p>Over a cloud of static, industrialized beats, on "Amen," Mutinta shouts, "Who that n**** with the chains / Who the n**** who make / My n***** feel a damn way." She pays homage to the lyrical and vocal dexterities of her mentors while also asserting her position with hyperbolic machismo. Mutinta's anger comes from a place that is not specific to her life story, but a universal emotion that feels liberating within real-life racial and sexual oppression. </p>   <p>"When I first started working on my first EP, I wanted to create songs and for people just to like me," she admits. "I had this thought as a queer rapper, and I wasn't really comfortable with that feeling. What I am making now is the best in terms of really being able to express myself." Through Backxwash, she explores the supernatural and its duality of horror and wonder; it's a horror that, while metaphorical, mirrors contemporary times of racial strife.   </p>   <p>The short-list nomination for the Polaris Music Prize is certainly a feather in her cap, but she also appreciates the outpouring of positive responses from Black listeners. "Oh, that was dope!" she laughs. "Most of this is surreal. You know, I am still not convinced that people actually like this stuff! That's my self-esteem coming out &#8212; my issues. And it is really surreal, as I started this project two years ago."</p>   <p>The awards program, now in its 14th year, faced skepticism early on; it seemed like members from Canada's insular world of white indie rockers were considered over music created by marginalized artists. Since that time (and backlash), the not-for-profit organization has made a concerted effort recruiting a diverse selection of journalists and industry workers to ensure that the nominees reflect the growing ethnic and musical diversity of the country.</p>   <p>"I'm really happy to be included, but I hope that the person who receives the award is one of the upcoming artists," noting that she will be joined by Ontario residents (and past winners) <a href="https://www.npr.org/artists/145843532/lido-pimienta">Lido Pimenta</a> and <a href="https://www.npr.org/artists/15735606/caribou">Caribou</a>, as well as fellow Montr&#233;al resident, producer <a href="https://www.npr.org/artists/476479025/kaytranada">Kaytranada</a>. "I just don't think it should be someone that's well-off and established to get that money. I'm friendly with a lot of people on the short list, and even more on the <a href="https://polarismusicprize.ca/long-list/">long list</a>, so I know how difficult it can be."</p>   <p>Backxwash works with a dedicated collaborator, Mechant Vaporwave, who designs her album covers and directs her videos (see 2018's "<a href="https://www.youtube.com/watch?v=3tVePzyKQAY">F.R.E.A.K.S</a>," featuring Mutinta, resplendent in a Diana Ross-eque wig, partying with her multi-ethnic, leather and chains-garbed friends). Well-aware of how her visual aesthetic as a black transfemme artist factors into how she will be received, she has been bolstered by the positive responses within the underground hip-hop scene. "It's really cool to see people on the Polaris list from these really weird, experimental scenes because there are a lot of minorities who are into different styles of music." </p>   <p>Three months after she released God Has Nothing to Do With It Leave Him Out of It, Backxwash released Stigmata. Her voice raises an octave when talking about the EP, clearly happy to see her off-the-beaten idea to "sample a Christian metal band and rap about angels and demons," come to fruition. Featuring collaborations with fellow Montrealers &#8212; guitarist Ada Rock, flautist Alekto and vocalists Camp Blood and Devi McCallion &#8212; she says it was a fun project to do, and a nice segue into another full-length album, slated to be released in early 2021.</p>   <p>For now, Backxwash remains independent in order to create without limitations. As a queer, Black alternative rapper and producer, she aware of her position to encourage other artists. "The thing is that there are a lot of minorities within these spaces, but because of how oppressive some music scenes are, they end up going to others that respect them more," she explains. "I don't know who is inspired by me, but I know that people like the idea of seeing a queer rapper do this. It demonstrates respect for people who look like us &#8211; that we are doing this as well." </p>
+</div>

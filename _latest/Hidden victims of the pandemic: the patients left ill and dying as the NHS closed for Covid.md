@@ -1,0 +1,32 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/health-fitness/2020/10/16/Monday_DONOTDISTURB_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?impolicy=logo-overlay 
+title: > 
+  Hidden victims of the pandemic: the patients left ill and dying as the NHS closed for Covid 
+description: > 
+  In October 2019 I suffered a serious stroke, which left me paralysed on the left hand side of my body.It was a huge psychological blow, as I am such an active person, but I realised that one thing I could do was to help myself, and I was told physiotherapy would be vital to my recovery.Other patients who should otherwise receive regular blood pressure checks have now gone as long as a year without them.When patients need a referral, I still don’t know what services are up and running.Mental health services, especially, are even thinner than before. 
+date: 1603092312.4399498 
+--- 
+<div><p>In October 2019 I suffered a serious stroke, which left me paralysed on the left hand side of my body. It was a huge psychological blow, as I am &#160;such an active person, but I realised that one thing I could do was to help myself, and I was told physiotherapy would be vital to my recovery.</p>
+<p>I had regular sessions during my eight weeks in hospital, and outpatient physiotherapy in the gym after I returned home in January, and felt optimistic that I was making good progress. Then lockdown happened &#8211; I received a letter saying I had to shield and all outpatient physiotherapy was stopped. It was soul destroying.</p>
+<p>What had kept me going was my dream&#160;of being able to get out on the mountain again. It wasn&#8217;t safe for me to use equipment without supervision but I couldn&#8217;t even ask a friend to come in as I was shielding. It was a very lonely and dispiriting time and honestly, if it hadn&#8217;t been for Scamp I am not sure how I would have coped.</p>
+<p>Over the next few months, I rang the local physiotherapy department several times and was told that I was eligible for community (home) physiotherapy, but somehow that never materialised and after a while I gave up asking.</p>
+<p>My GP rang me regularly and I spoke to my stroke consultant a couple of times but apart from that I felt I had little contact with the NHS.</p>
+<p>My physiotherapy appointments finally restarted at the beginning of September and although it was fantastic to be back in the gym, I was painfully aware that I was hugely weaker than I had been back in February and I now have a long battle ahead of me. I feel as if my recovery has been put back several months and my dreams of getting back on the mountain this winter are fading fast although I won&#8217;t give up just yet.</p>
+<p>I am very angry and, yes, a little bitter, but this is not just about me. I feel a lot of poor decisions have been made by the Department of Health and Public Health England that have cost many people their health, and many promises from politicians have been broken. A broad brush approach does not work when it comes to people&#8217;s health.</p>
+<p>As told to Isla Whitcroft<br>
+&#160;</p>
+<h3>&#8216;The impact on my patients will never be fully known&#8217;</h3>
+<p>David Unwin is a GP working in Merseyside</p>
+<p>Once it was evident that coronavirus was here in Britain, my practice moved to a new system of mostly telephone appointments to limit the spread of the disease.</p>
+<p>The problem is that so much of general practice is about face-to-face consultation. Assessing risk and making a diagnosis is not only about listening to what a patient says; it so often relies on being in the room with them and reading all the visual cues. I worried I would be missing conditions that should have been diagnosed.</p>
+<p>It&#8217;s impossible to say how often this happened, <a href="https://www.telegraph.co.uk/news/2020/10/09/patients-struggling-get-gp-appointments-despite-million-fewer/">but we can be sure that, up and down the country, it did</a>. Almost seven months on, we&#8217;re still not operating on the same level as before. It remains very difficult to book patients in for tests they require. This is partly because many patients remain scared to enter clinical settings. But it&#8217;s also that these services still aren&#8217;t running to the same capacity as before.</p>
+<p>My special interest is diabetes, and I&#8217;ve seen patients express great reluctance to go for the blood tests they need for the control of their illness. Other patients who should otherwise receive regular blood pressure checks have now gone as long as a year without them. These people no longer know how their diabetic control is, how their kidney function is, or whatever else it might be.</p>
+<p>Blood pressure should also be monitored when a GP prescribes hormone replacement therapy to a menopausal woman, or the contraceptive pill. But we&#8217;re still not bringing these women in to have their blood pressure checked, we&#8217;re just handing out the drugs.</p>
+<p>Meanwhile, the district nursing service has ceased to work properly and no-one in my area has been able to get an ear syringe, for instance, since March. This may not sound serious, but there are very many elderly people out there who are now more vulnerable and even more isolated because they are deaf and no-one will syringe their ears. They can&#8217;t hear the phone or the doorbell. This is such a worry for me that I&#8217;ve been doing this job myself, even though I usually wouldn&#8217;t.</p>
+<p>When patients need a referral, I still don&#8217;t know what services are up and running. I can no longer assume my patients will be seen by the necessary specialist. <a href="https://www.telegraph.co.uk/news/2020/08/15/nhs-braces-increased-demand-mental-health-support-wake-coronavirus/">Mental health services, especially, are even thinner than before</a>. We&#8217;re bracing ourselves for a difficult winter but I&#8217;m hopeful things will be better than they were in the spring. I now have the personal protective equipment I need to be able to see patients in person, and am bringing about a third of them into the surgery again.</p>
+<p>But the impact of this year on the general health of the urban population I&#8217;ve looked after since 1986 will perhaps never be fully known.</p>
+<p>As told to Rosa Silverman</p>
+<h5>Have you missed treatment due to Covid? Share your story below:</h5>
+</div>
