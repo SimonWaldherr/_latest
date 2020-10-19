@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/films/2020/10/15/TELEMMGLPICT000241346594_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4Cphw_iIPZqUNP2EjAIFcGyw.jpeg?impolicy=logo-overlay 
+title: > 
+  Possessor, London Film Festival, review: Cronenberg Jr serves up a sleek, eerie sci-fi thriller 
+description: > 
+  Starring: Christopher Abbott, Andrea Riseborough, Sean Bean, Jennifer Jason Leigh, Tuppence MiddletonWith a name like Cronenberg in the director’s chair, the viewer automatically adopts something of a brace position.Andrea Riseborough and Christopher Abbott share top billing in a film that’s a kind of one-way Face/Off.We start with her, until she jacks into his kidnapped frame and takes control; and then she loses control.In the role of her boss and overseer, Jennifer Jason Leigh may be here in long-range homage to eXistenZ, but must also check up periodically on her agent’s sanity.After one of these brutal trips inside someone else, a post-mortem psych-evaluation is needed to check she’s come back in one piece. 
+date: 1603090905.5692565 
+--- 
+<div><p><strong>Cert TBC, 104 min.&#160;Dir: Brandon Cronenberg.&#160;Starring: Christopher Abbott, Andrea Riseborough, Sean Bean, Jennifer Jason Leigh, Tuppence Middleton</strong></p>
+<p>With a name like Cronenberg in the director&#8217;s chair, the viewer automatically adopts something of a brace position. Possessor comes not from David, but his 40-year-old son Brandon, whose one film to date &#8211; the satirical shocker Antiviral (2012) &#8211; boasted some truly skin-crawling ideas about the celebrity meat market.</p>
+<p>His follow-up is a sleekly impressive foray into science-fiction thrills, with just a few moments of lingering gore to molest your eyeballs &#8211; not unlike the throat-slitting in his dad&#8217;s Eastern Promises. The overall effect is stark. Beneath the film&#8217;s body-snatching concept and cool, neon glow is a savagely nihilistic vision of human exploitation.</p>
+<p><a href="https://www.telegraph.co.uk/on-demand/0/andrea-riseborough-interview-anger-great-catalyst-change/">Andrea Riseborough</a> and Christopher Abbott share top billing in a film that&#8217;s a kind of one-way Face/Off. We start with her, until she jacks into his kidnapped frame and takes control; and then she loses control. Her character is a trainee assassin called Tasya Vos, whose job is to carry out murders for a shadowy corporation while, each time, inside the body of a different fall guy.</p>
+<p>These takeovers are achieved with a variation on a virtual-reality set-up, with a lot of cables, and a proboscis-style implant injected into the cortex. In the role of her boss and overseer, Jennifer Jason Leigh may be here in long-range homage to eXistenZ, but must also check up periodically on her agent&#8217;s sanity. After one of these brutal trips inside someone else, a post-mortem psych-evaluation is needed to check she&#8217;s come back in one piece.</p>
+<p>The company&#8217;s next stooge is Colin Tate (Abbott), a low-level employee at a rival tech firm, who owes his job to the fact that he&#8217;s dating the daughter (<a href="https://www.telegraph.co.uk/films/2019/07/23/current-wars-tuppence-middleton-nudity-fleabags-class-debate/">Tuppence Middleton</a>) of the big-cheese owner, John Parse (Sean Bean). Through him, a hit on Bean&#8217;s nasty entrepreneur must be carried out, but first a plausible motive needs seeding, so that Colin&#8217;s actions don&#8217;t just come bewilderingly out of the blue.</p>
+</div>
