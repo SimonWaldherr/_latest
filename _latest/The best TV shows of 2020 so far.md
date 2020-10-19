@@ -1,0 +1,12 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ychef.files.bbci.co.uk/live/624x351/p08vh07f.jpg 
+title: > 
+  The best TV shows of 2020 so far 
+description: > 
+  I May Destroy YouIt’s not often that a series comes along that is so utterly idiosyncratic, it defies both categorisation and reference points.Inspired by a very dark chapter in Coel’s own life, it tells the story of Arabella, a successful writer working on a follow-up to her zeitgeist-y millennial bestseller, whose life is turned upside down when her drink is spiked on a night out.As a study in the effects of sexual assault, it is astonishing – but it would also be an injustice to categorise it as a one-issue drama.Rather it explores the intersections of race, class and gender in Western metropolitan society with both freewheeling energy and breathtaking assurance, while also, more generally, nailing the vertigo-inducing experience of being a young adult with exhilarating authenticity.Available now on BBC iPlayer in the UK and HBO/HBO Max in the US. 
+date: 1603074155.9346154 
+--- 
+<div><p><strong>I May Destroy You</strong></p>
+<p>It&#8217;s not often that a series comes along that is so utterly idiosyncratic, it defies both categorisation and reference points. But such is the case with <a href="https://www.bbc.com/culture/article/20200605-i-may-destroy-you-is-an-astonishing-study-of-sexual-assault">this extraordinarily raw and intimate 12-part drama</a> &#8211; the work of British actor/writer Michaela Coel, who, if there&#8217;s any justice, will be toast of the Emmys next year (having just missed out on date eligibility for this year&#8217;s awards). Inspired by a very dark chapter in Coel&#8217;s own life, it tells the story of Arabella, a successful writer working on a follow-up to her zeitgeist-y millennial bestseller, whose life is turned upside down when her drink is spiked on a night out. As a study in the effects of sexual assault, it is astonishing &#8211; but it would also be an injustice to categorise it as a one-issue drama. Rather it explores the intersections of race, class and gender in Western metropolitan society with both freewheeling energy and breathtaking assurance, while also, more generally, nailing the vertigo-inducing experience of being a young adult with exhilarating authenticity. Available now on BBC iPlayer in the UK and HBO/HBO Max in the US.</p></div>
