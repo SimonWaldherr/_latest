@@ -1,0 +1,25 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8c7136c21cfb0019468a7f?width=1200&format=jpeg 
+title: > 
+  Delaware senator says he's 'not a fan' but is open to adding justices to Supreme Court 
+description: > 
+  Democratic Delaware Senator Chris Coons said on Sunday he is open to expanding the Supreme Court in an interview on CNN's "State of the Union."Biden most recently said he will clarify his position on adding justices to the Supreme Court before Election Day, depending on SCOTUS nominee Amy Coney Barrett's confirmation process.Democratic Delaware Senator Chris Coons said that he is open to adding more justices to the Supreme Court in an interview with Jake Tapper on CNN's "State of the Union" on Sunday.When Tapper pressed him to answer "Yes or No" if he is open to expanding the Supreme Court, Coons answered, "Yes."Court-packing, the act of expanding the Supreme Court to shift the ideological balance, has been a major question for Biden recently amid the Senate's confirmation hearing for President Donald Trump's Supreme Court Justice Nominee Amy Coney Barrett. 
+date: 1603104149.2765057 
+--- 
+<div><ul class="summary-list">
+<li>Democratic Delaware Senator Chris Coons said on Sunday he is open to expanding the Supreme Court in an interview on <a href="https://twitter.com/CNNSotu/status/1317827083406626816"> CNN's "State of the Union</a>."</li>
+<li>Coons said if Biden were to be elected, "we'll have to look at what the right steps are to rebalance our federal judiciary."</li>
+<li>Biden most recently said he <a href="https://www.businessinsider.com/joe-biden-court-packing-position-not-a-fan-town-hall-2020-10">will clarify his position on adding justices to the Supreme Court before Election Day</a>, depending on SCOTUS nominee Amy Coney Barrett's confirmation process.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Democratic Delaware Senator Chris Coons said that he is open to adding more justices to the Supreme Court in an interview with <a href="https://twitter.com/CNNSotu/status/1317827083406626816">Jake Tapper on CNN's "State of the Union" on Sunday.</a></p><p>Coons, a member of the Senate Judiciary Committee, told Tapper that like former Vice President Joe Biden, he is "not a fan" of expanding the court. However, he said if Biden were to be elected, "we'll have to look at what the right steps are to rebalance our federal judiciary."</p><p>When Tapper pressed him to answer "Yes or No" if he is open to expanding the Supreme Court, Coons answered, "Yes."</p><p>Court-packing, the act of expanding the Supreme Court to shift the ideological balance, has been a major question for Biden recently amid the Senate's <a href="https://www.businessinsider.com/watch-amy-coney-barrett-supreme-court-confirmation-hearings-livestream-2020-10">confirmation hearing </a>for President Donald Trump's Supreme Court Justice Nominee Amy Coney Barrett.&#160;</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Biden most recently said on an <a href="https://twitter.com/ABC/status/1316910688116289537?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1316910688116289537%7Ctwgr%5Eshare_3%2Ccontainerclick_0&amp;ref_url=https%3A%2F%2Fwww.businessinsider.com%2Fjoe-biden-court-packing-position-not-a-fan-town-hall-2020-10">ABC News town hall this past Thursday</a> that although he "is not a fan" of court-packing, he <a href="https://www.businessinsider.com/joe-biden-court-packing-position-not-a-fan-town-hall-2020-10">will clarify his position before Election Day</a>, depending on how Barrett's confirmation process turns out.&#160;</p><p>Coons added Trump "has pressed for this nominee so that he can have a key vote to overturn the Affordable Care Act in the middle of a pandemic," and <a href="https://www.businessinsider.com/sen-coons-confirming-barrett-constitutes-court-packing-2020-10">doubled down</a> on his belief that Barrett is "unqualified" because of her "extreme judicial philosophy." Last week, Coons told <a href="https://www.foxnews.com/politics/fox-news-sunday-ben-sasse-chris-coons-judiciary-committee-barrett">Chris Wallace on Fox News Sunday</a> that confirming Barrett "constitutes court-packing" and added that Barrett's "views are too extreme to qualify her to serve on this court."</p><blockquote class="twitter-tweet blockquote">&#8212;State of the Union  (@CNNSotu) <a href="https://twitter.com/mims/statuses/1317827083406626816?ref_src=twsrc%5Etfw">October 18, 2020</a></blockquote><p>&#160;</p>
+                  </div>

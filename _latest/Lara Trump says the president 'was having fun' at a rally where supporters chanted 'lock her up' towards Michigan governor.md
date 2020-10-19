@@ -1,0 +1,35 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8c4dd79e9fe40019009f73?width=1200&format=jpeg 
+title: > 
+  Lara Trump says the president 'was having fun' at a rally where supporters chanted 'lock her up' towards Michigan governor 
+description: > 
+  Gretchen Whitmer at a Saturday campaign rally was just him "having fun."Two top campaign staffers for President Trump defended his encouragement of "lock her up" chants against Michigan Gov."He was having fun at a Trump rally."I don't think 'lock her up' is fun," CNN host Jake Tapper said.—Governor Gretchen Whitmer (@GovWhitmer) October 17, 2020On Sunday, Whitmer appeared on NBC's "Meet the Press," where she stressed that the president's actions are unacceptable. 
+date: 1603104150.3988256 
+--- 
+<div><ul class="summary-list">
+<li>Lara Trump said on Sunday that President Trump's encouragement of "lock her up" chants used against Gov. Gretchen Whitmer at a Saturday campaign rally was just him "having fun."</li>
+<li>It has been less than two weeks <a href="https://www.businessinsider.com/fbi-foiled-right-wing-militia-plot-kidnap-michigan-gretchen-whitmer-2020-10">since a plot to kidnap the governor was thwarted by the FBI.</a></li>
+<li>Lara Trump said that it was "the president's Department of Justice that actually thwarted this attack against Gretchen Whitmer," so it was "ridiculous" to suggest he was trying to incite threats.</li>
+<li>Jason Miller, a senior advisor on the Trump campaign, said on Fox News Sunday that the president did not regret his attacks against Whitmer and that Michigan residents "want to see the state open back up."</li>
+<li>Whitmer has said publicly that the president's rhetoric is harmful and causes even greater safety risks.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Two top campaign staffers for President Trump defended his encouragement of "lock her up" chants against Michigan Gov. Gretchen Whitmer at a Saturday night rally held in her state.</p><p>On CNN's "State of the Union," Lara Trump, the wife of presidential son Eric Trump and a senior advisor on the Trump campaign, argued that the "lock her up" chants used against Whitmer were not meant to cause any harm to the Democratic governor who, less than two weeks ago, was targeted <a href="https://www.businessinsider.com/fbi-foiled-right-wing-militia-plot-kidnap-michigan-gretchen-whitmer-2020-10">in a kidnapping plot thwarted by the FBI</a>.</p><p>"He wasn't doing anything, I don't think, to provoke people to threaten this woman at all," she said. "He was having fun at a Trump rally. And quite frankly, there are bigger issues than this right now for everyday Americans. People want to get the country reopened ... So I think people are frustrated. Look, the president was at a rally. It's a fun, light atmosphere. Of course he wasn't encouraging people to threaten this woman."</p><p>"I don't think 'lock her up' is fun,"&#160;CNN host Jake Tapper said.</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Lara Trump said that it was "ridiculous" to suggest that Trump was inciting violence against the governor and stated that it was "the president's Department of Justice that actually thwarted this attack against Gretchen Whitmer."</p><p>"No one should ever feel threatened, no one should ever have this thing happen to them," she added. "This was awful to happen to her."</p><blockquote class="twitter-tweet blockquote">&#8212;State of the Union  (@CNNSotu) <a href="https://twitter.com/mims/statuses/1317820397627281408?ref_src=twsrc%5Etfw">October 18, 2020</a></blockquote><p>Jason Miller, a senior advisor on the Trump campaign, made an appearance on "Fox News Sunday," where he stated that the president had no regrets about his rhetoric against Whitmer.</p><p>"I think the fact of the matter is many residents of Michigan are pretty frustrated with the governor," he said, and "they want to see the state open back up."</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>On Saturday, President Trump told a crowd at a rally in Muskegon, Michigan that Whitmer needed to remove the state's coronavirus restrictions, which led to them repeating the now-infamous "lock her up" chants which were <a href="https://www.businessinsider.com/donald-trump-special-prosecutor-hillary-clinton-2016-10">also directed toward Hillary Clinton in 2016</a>.</p><p>While also attacking Democratic presidential nominee Joe Biden, Trump responded to the crowd by saying "lock 'em all up," which led Whitmer to take to Twitter on Saturday to explain why such language is harmful and created an unsafe situation for her family.</p><p>"This is exactly the rhetoric that has put me, my family, and other government officials' lives in danger while we try to save the lives of our fellow Americans," Whitmer tweeted. "It needs to stop."</p><blockquote class="twitter-tweet blockquote">&#8212;Governor Gretchen Whitmer  (@GovWhitmer) <a href="https://twitter.com/mims/statuses/1317589850527322112?ref_src=twsrc%5Etfw">October 17, 2020</a></blockquote><p>On Sunday, Whitmer appeared on NBC's "Meet the Press," where she stressed that the president's actions are unacceptable.</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>"It's incredibly disturbing that the president of the United States &#8212; 10 days after a plot to kidnap, put me on trial and execute me &#8212; 10 days after that was uncovered, the president is at it again and inspiring and incentivizing and inciting this kind of domestic terrorism," she said. "It's dangerous, not just for me and my family, but for public servants everywhere who are doing their jobs and trying to protect their fellow Americans."</p><p>Tori Saylor, Whitmer's deputy digital director, also took to Twitter to state that the attacks create a dangerous atmosphere. Her message has since gone viral.</p><p>"I see everything that is said about and to her online," Saylor tweeted. "Every single time the President does this at a rally, the violent rhetoric towards her immediately escalates on social media. It has to stop. It just has to."</p><p>&#160;</p>
+                  </div>

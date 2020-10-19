@@ -1,0 +1,19 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ca-times.brightspotcdn.com/dims4/default/87ad053/2147483647/strip/true/crop/3500x1838+0+326/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F22%2F69%2Fc59aa3e628bc6565a8a7413aeb99%2Fbeb1250bc84c4d5da9ba593c0aaeacf1 
+title: > 
+  Confirmed coronavirus cases top 40 million worldwide 
+description: > 
+  The number of confirmed coronavirus cases across the planet now exceeds 40 million.The actual worldwide figure of coronavirus infections is likely to be far higher, as testing has been variable, many people have had no symptoms and some governments have concealed the true number of cases.To date, more than 1.1 million confirmed COVID-19 deaths have been reported, although experts believe that number, too, to be an undercount.Last week, the World Health Organization said Europe had a reported a record weekly high of nearly 700,000 cases and said that the region was responsible for about a third of cases globally.Britain, France, Russia and Spain account for about half of all new cases in the region. 
+date: 1603104168.1555512 
+--- 
+<div><p>The number of confirmed coronavirus cases across the planet now exceeds 40 million.</p><p>The milestone was passed early Monday, according to Johns Hopkins University, which collates reporting from around the world.</p><p>The actual worldwide figure of coronavirus infections is likely to be far higher, as testing has been variable, many people have had no symptoms and some governments have concealed the true number of cases. </p><p>To date, more than <a class="link" href="https://www.latimes.com/world-nation/story/2020-09-28/1-million-dead-covid-19-death-toll-coronavirus-outbreaks">1.1 million confirmed COVID-19 deaths</a> have been reported, although experts believe that number, too, to be an undercount. </p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad3049b7e2-fb72-4a61-aa76-ce60477d2a58" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>The U.S., Brazil and India have reported by far the highest numbers of cases, although the increase in recent weeks has been <a class="link" href="https://www.latimes.com/world-nation/story/2020-10-15/europe-new-coronavirus-records-new-restrictions">driven by a surge in Europe</a>, which has seen more than 240,000 confirmed COVID-19 deaths so far.</p><p>Last week, the World Health Organization said Europe had a reported a record weekly high of nearly 700,000 cases and said that the region was responsible for about a third of cases globally. Britain, France, Russia and Spain account for about half of all new cases in the region.</p><p>The WHO said <a class="link" href="https://www.latimes.com/world-nation/story/2020-10-08/public-health-officials-in-europe-look-to-fight-coronavirus-with-more-targeted-lockdowns">new measures being taken across Europe</a> &#8212; including new requirements on mask-wearing in Italy and Switzerland, the closure of restaurants and bars in Northern Ireland and Belgium, a nighttime curfew in France and targeted lockdowns in parts of Britain &#8212; are &#8220;absolutely essential&#8221; to stop COVID-19 from overwhelming hospitals.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad4ccbb3d9-5fa0-4819-950e-94439741ea85" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p></p><p id="nativo_1"></p><p>The agency said several European cities could soon see their intensive care units overwhelmed and warned that governments and citizens should take all necessary measures to slow the virus&#8217; spread, including bolstering testing and contact tracing, wearing masks and following social-distancing measures.</p></div>
