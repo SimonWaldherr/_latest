@@ -1,0 +1,18 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/football/2020/10/18/TELEMMGLPICT000242287035_trans_NvBQzQNjv4BqQbIAlMgBBjstqL9vckGEluhAFAI_f6ud569StXyOKH0.jpeg?impolicy=logo-overlay 
+title: > 
+  Tottenham throw away three-goal lead as Manuel Lanzini stunner rescues point for West Ham 
+description: > 
+  When Gareth Bale ran on to Harry Kane’s pass in injury-time, cut across Angelo Ogbonna and had only Lukasz Fabianski to beat, the goal and the headlines beckoned.Except Bale sent his shot wide and, seconds later, this incredible sport delivered another and very different ending as West Ham claimed the most unlikely point in the history of the Premier League.Before kick-off all the focus was so much on Bale that perhaps even West Ham forgot about Kane.With their first passage of meaningful possession Spurs scored.Just 45 seconds had elapsed and it was Kane’s ninth assist of the season – six of those for Son. 
+date: 1603072174.424845 
+--- 
+<div><p>When Gareth Bale ran on to Harry Kane&#8217;s pass in injury-time, cut across Angelo Ogbonna and had only Lukasz Fabianski to beat, the goal and the headlines beckoned. The story was clear. The dream debut. Except Bale sent his shot wide and, seconds later, this incredible sport delivered another and very different ending as West Ham claimed the most unlikely point in the history of the Premier League.</p>
+<p>Never before has a team not lost when they were three goals down in the 81st&#160;minute and, yet, 13 minutes later another substitute Manuel Lanzini struck an arresting 25-yard first-time shot that hit the angle of post and cross-bar and dropped over the line. It was the final kick of this remarkable game.</p>
+<p>Cue the jokes. Has the curse of Bale struck again? In his first 24 league matches for Spurs, stretching over two years, he failed to be on the winning side and the&#160;manager, Harry Redknapp, was so keen to end that sequence in 2009 that he put him on with his team 4-0 up against Burnley in the 85th&#160;minute. They won.</p>
+<p>Bale came on in the 71st&#160;minute here after his season-long loan from Real Madrid was secured in an attempt to bring some joy back into his career. Precisely 2,709 days after he last played &#8211; and scored &#8211; for Spurs in 2013 he was back and it seemed certain he would be tasting victory amid claims that once again Jose Mourinho may just be about to mount a title challenge.</p>
+<p>How that changed and how the first 16 minutes, when Spurs were unstoppable and Harry Kane seemed determined to remind everyone who deserved top billing, seemed a distant memory as Lanzini ripped off his shirt and West Ham manager David Moyes admitted he had his own &#8220;David Pleat moment&#8221; as he danced on to the pitch in celebration.</p>
+<p>Before kick-off all the focus was so much on Bale that perhaps even West Ham forgot about Kane. They &#8211; and everyone else - were given an emphatic reminder of the devastation he can cause as the striker scored twice and claimed a superb assist which set up&#160;Son Heung-min.</p>
+<p>With their first passage of meaningful possession Spurs scored. Kane collected the ball and arced a wonderful long pass forward that swung into the path of Son allowing him to cut across Fabian Balbuena and curl his right-foot&#160;shot beyond Fabianski. Just 45 seconds had elapsed and it was Kane&#8217;s ninth assist of the season &#8211; six of those for Son.</p>
+</div>

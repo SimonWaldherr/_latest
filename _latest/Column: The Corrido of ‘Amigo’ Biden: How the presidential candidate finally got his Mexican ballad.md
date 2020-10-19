@@ -1,0 +1,76 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ca-times.brightspotcdn.com/dims4/default/7d8b2c3/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F03%2F47%2F74602c2e4a08b3a8de0398cb5ab0%2Fbiden-video-photo.jpg 
+title: > 
+  Column: The Corrido of ‘Amigo’ Biden: How the presidential candidate finally got his Mexican ballad 
+description: > 
+  A mariachi band waits to perform before a January campaign event for Democratic presidential candidate Joe Biden in Las Vegas.“La Señal” by La Nueva Onda Norteña starts with a flourish of notes plucked off a bajo sexto (12-string guitar) by singer Selwyn Gonzalez.The expectations for “La Señal” are modest for David, who spent about $1,500 of his own money to produce it.AdvertisementIt’s also an inadvertent call-out to the modern-day Mexican regional music industry in the United States, which has a surprisingly long history with American presidential campaigns beyond merely chronicling them.“We Mexicans all have a friend who was born here but doesn’t want to vote,” Gonzalez said. 
+date: 1603072162.0982988 
+--- 
+<div><p>For over 200 years, the Mexican <i>corrido</i> has told stories of derring-do about heroes and villains and hero-villains galore.</p><p>The ballad form naturally carried over to the United States, and eventually caught on to American politics, where heroes and villains (and hero-villains) rule. <a class="link" href="http://frontera.library.ucla.edu/blog/2018/06/kennedy-corridos-tragedy-revives-genre" target="_blank">JFK got dozens to mark his assassination</a>; one hailed Jimmy Carter as the &#8220;peanut king.&#8221; </p><p><i>La </i>Hillary earned some too, including <a class="link" href="https://www.youtube.com/watch?v=X9cg6upPESE&amp;t=48s" target="_blank">&#8220;El Corrido de Hillary Clinton,&#8221;</a> a lazy effort released in 2016 by ranchera icon Vicente Fernandez that repurposed an old hit of his to tell fans to vote for Clinton.</p><p>And we all know how that turned out. Oh, she got the popular vote. But apparently Chente never heard of <i>el </i>electoral college. </p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad13f7806a-788a-4bb3-92c3-edecbbd119cf" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>President  Trump has appeared in a few, inevitably cast as a bad hombre &#8212; and not in a cool way. <i>Tio</i> Bernie? A jammin&#8217; one called <a class="link" href="https://www.youtube.com/watch?v=ZcaCL4OfoLM" target="_blank">&#8220;El Quemaz&#243;n&#8221;</a> (&#8220;The Bern&#8221;).</p><p>But Uncle Joe Biden? He just doesn&#8217;t inspire the same feelings among Latinos &#8212; whether hatred or love &#8212; as <a class="link" href="https://www.latimes.com/california/story/2020-10-13/latino-republicans-randall-avila-orange-county-gustavo-arellano" target="_blank">Trump</a> or <a class="link" href="https://www.latimes.com/california/story/2020-02-22/bernie-sanders-latino-politicians" target="_blank">Sanders</a>.</p>
+    
+        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Mariachi band waits to perform before a campaign event for  Joe Biden" width="840" height="555">
+    
+    
+    
+        <p class="figure-caption">A mariachi band waits to perform before a January campaign event for Democratic presidential candidate Joe Biden in Las Vegas.</p><p class="figure-credit">(John Locher / Associated Press)</p>
+        
+<p>So he was left largely <i>corrido</i>-less until the Diaz brothers decided to do something about it.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad59f2e9c4-9677-4f4f-aa39-6ed0e12cdb72" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p></p><p id="nativo_1"></p><p>And the way they put together <a class="link" href="https://www.youtube.com/watch?v=0v66_zSuoWc" target="_blank">&#8220;La Se&#241;al es Joe y Kamala&#8221; </a>(&#8220;The Signal Is Joe and Kamala&#8221;) was <i>so</i> Los Angeles circa 2020:</p><p>Take two natives of Watts &#8212; David&#8217;s a music producer, Elvis is a political science undergrad at Columbia University.</p><p>Throw in a songwriter based in Chiapas, the southernmost state in Mexico.</p><p>Find a <i>norte&#241;o</i> band in Las Vegas to record the track.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad272e60e2-9db5-47d6-9583-2bb7ddd1fd88" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>Have them debut it at a nightclub in small-town Georgia.</p><p>Release it on YouTube.</p><p>&#8220;La Se&#241;al&#8221; by La Nueva Onda Norte&#241;a starts with a flourish of notes plucked off a <i>bajo sexto</i> (12-string guitar) by singer Selwyn Gonzalez. As images drawn from Biden&#8217;s career flash on a screen behind the band, Gonzalez croons out what a vote for the Democratic presidential candidate would bring to Latinos: Respect. Hope. Walls that tumble down.</p><p>&#8220;The signal/I see the signal,&#8221; the song&#8217;s chorus proclaims. &#8220;Of a new era/Of a change for real.&#8221;</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adf7e9bebc-262f-4230-9575-609c4ce7c516" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>Strangely, the easy villain for such a tale is nowhere to be found. Trump is not even mentioned. </p><p>Instead, La Nueva Onda Norte&#241;a&#8217;s swaying song offers something absent in electoral politics these days: optimism.</p><p class="enhancement"></p>
+<p>The expectations for &#8220;La Se&#241;al&#8221; are modest for David, who spent about $1,500 of his own money to produce it.</p><p>&#8220;If we change the mind of one person, I&#8217;ll be happy,&#8221; said the 28-year-old via phone from Mexico. &#8220;But hopefully, it changes millions.&#8221;</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad8229234f-52a2-4125-baef-4b6839d70db6" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>At  fewer than 4,000 YouTube hits, it probably won&#8217;t. Elvis sent the song to Biden&#8217;s team, which hasn&#8217;t responded; instead, they used songs by <a class="link" href="https://www.latimes.com/entertainment-arts/music/story/2020-10-12/joe-biden-taylor-swift-cardi-b-madonna" target="_blank">Vicente Fernandez&#8217;s son, Alejandro, and reggaet&#243;n superstar Bad Bunny</a> to score campaign commercials.</p><p>But the <i>corrido</i> does show how this election has inspired Mexican American men who previously didn&#8217;t care for American politics to jump into the fray.</p><p>Those who have gravitated toward Trump because of a sense that he&#8217;s a macho&#8217;s macho are getting <i>mucho</i> media attention. But the Diaz brothers and La Nueva Onda Norte&#241;a represent the silent majority of these <i>se&#241;ores</i>: men who care for their family and community and long saw their ceaseless work, not elections, as the way forward for Latinos.</p><p>Until now.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad70c5ad00-7e48-4a31-a9d0-e9e10ff63d27" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>It&#8217;s also an inadvertent call-out to the modern-day Mexican regional music industry in the United States, which has a surprisingly long history with American presidential campaigns beyond merely chronicling them. <a class="link" href="https://www.pocho.com/november-22-1963/" target="_blank">Mariachis serenaded JFK</a> the night before his death, and Richard Nixon at his  1973 inauguration gala. Ranchera legend Antonio Aguilar was a friend of Ronald Reagan. <a class="link" href="https://www.latimes.com/archives/la-xpm-2000-aug-08-me-761-story.html" target="_blank">Vicente Fernandez even performed at the 2000 Republican National Convention</a>.</p><p>Today? The industry finds it easier to praise avarice and any number of narco lords than American democracy. Or democracy, period. </p><p>&#8220;We Mexicans all have a friend who was born here but doesn&#8217;t want to vote,&#8221; Gonzalez said. &#8220;That it doesn&#8217;t matter. But we need them to get conscious.&#8221;</p><p>&#8220;Before this, my interest in politics was zero,&#8221; admitted David. &#8220;But we need a change. Something different from what Trump is doing. And I needed to do something.&#8221;</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad82b34fc9-63b2-4a3b-b9df-f88bbf78dd5b" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>**</p>
+    
+        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt=" Joe Biden walks on a picket line with members of the Culinary Workers Union Local 226 " width="840" height="560">
+    
+    
+    
+        <p class="figure-caption">Joe Biden walks on a picket line with members of the Culinary Workers Union Local 226 outside the Palms Casino in Las Vegas in February. </p><p class="figure-credit">(Patrick Semansky / Associated Press)</p>
+        
+<p>David takes pains to differentiate himself from Elvis &#8212; the brother, not the King. &#8220;He&#8217;s more on the side of smartness,&#8221; he said. &#8220;He goes to Columbia. Me, I&#8217;m more the streets. I know Mexican music.&#8221;</p><p>Elvis, a 30-year-old who has worked for the Thai and Peruvian consulates in the United States and as a speechwriter for Mozambique&#8217;s ambassador to the United Nations, never bothered talking politics with his younger brother.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad6ab099bf-9662-4ac2-b251-fd3abdf562ee" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>&#8220;He&#8217;s a businessman, and doesn&#8217;t want to lose any potential income,&#8221; Elvis said. &#8220;But we all need to participate this year.&#8221;</p><p>Knowing the social buzz that the Bernie Sanders <i>corrido</i> earned during the 2016 Democratic presidential primaries, Elvis pitched his idea to his brother. After a couple of deep talks, David agreed.</p><p>&#8220;People don&#8217;t understand the power of a vote until it affects them,&#8221; he said. &#8220;And this election definitely will.&#8221;</p><p>David reached out to a previous collaborator, Hunab Mandujano. Even though he&#8217;s based in Chiapas, the 28-year-old was &#8220;happy and excited&#8221; to write something about Biden.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ada56dfc48-9338-42a9-a53f-4b7126490711" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>&#8220;We [in Mexico] know about what&#8217;s going on up there, and the racist language Trump uses, and not just about Mexicans,&#8221; Mandujano said. The Diaz brothers offered only one suggestion: Don&#8217;t focus on Trump, because that corrido market was already full of songs that ranted the president is <a class="link" href="https://www.youtube.com/watch?v=iDc3Z6Lw-tc" target="_blank">&#8220;crazier than a goat&#8221; </a>. Or a <a class="link" href="https://www.youtube.com/watch?v=AbbEk4YJi7I" target="_blank">&#8220;pinche payaso&#8221;</a> in another. And those are the insults we can print.</p><p>&#8220;Look, I&#8217;m into marketing,&#8221; David said. &#8220;All that [trash]-talking on Trump helps him.&#8221;</p><p>He&#8217;s right. Because if you&#8217;ve heard one anti-45 <i>corrido</i> or Facebook screed, for that matter, you&#8217;ve heard them all. Obsessive hate offers no way forward other than to hate some more.</p><p>Instead, David said he &#8220;wanted us to show positivity.&#8221;</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adcfe5c721-7091-4ce9-ab96-0b665a6ac3f6" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>So Mandujano read articles about Biden and heard his speeches, and delivered something within a week.</p><p>His ultimate inspiration?</p><p>&#8220;Joe&#8217;s smile,&#8221; Mandujano said. &#8220;He&#8217;s also a more analytical person and firmer [than Trump]. And he can do a lot of good for the American project.&#8221;</p><p>The Diaz brothers then sent &#8220;La Se&#241;al&#8221; to Gonzalez, who admitted it was initially &#8220;a bit of a challenge&#8221; to figure his way musically around the subject. His group is more used to singing love songs. </p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ade6e67374-cf21-44d6-baf4-10fa707dfab4" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>&#8220;Politics is a subject that can bring you a lot of repercussions, good or bad,&#8221; Gonzalez said.</p><p>But the American-born 30-year-old reflected on his parents, former undocumented immigrants. He thought of Nevada, a formerly deep-red state <a class="link" href="https://www.latimes.com/politics/story/2020-09-12/nevada-2020-fight-for-bernie-sanders-voters-biden-trump" target="_blank">where Latinos are now a swing vote</a>. And so he sang &#8220;La Se&#241;al&#8221; with &#8220;those feelings&#8221; in mind. The singer got so into it, that he ad-libbed in Spanish &#8220;Now, let&#8217;s go out to vote for the <i>amigo</i> Biden &#8212; hell ya!&#8221; halfway through the tune. </p><p>&#8220;It has a lot of the qualities of what makes a good campaign song,&#8221; said Dana Gorzelany-Mostak, music professor at Georgia College. She studies the use of songs in presidential campaigns. &#8220;You have to have the marriage of inspirational lyrics, good music, and great hooks. It has an exuberance to it. Even if you don&#8217;t know the language, you get the emotions.&#8221;</p><p>The plan was to debut &#8220;La Se&#241;al&#8221; in time for Gonzalez and his bandmates to play a live concert while <a class="link" href="https://www.latimes.com/politics/story/2020-10-05/trump-biden-nevada-battleground" target="_blank">Biden visited Nevada earlier this month</a>. But &#8220;the timing just didn&#8217;t work out,&#8221; and a tour for La Nueva Onda Norte&#241;a across the South was forthcoming. </p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad2589757e-c768-414b-9eea-12ee0f422adf" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>So the song debuted in a club in Moultree, Ga., a city of about 14,000 in southern Georgia near a major chicken-processing plant. Gonzalez said the audience was mostly Salvadorans and Guatemalans, but &#8220;they liked it.&#8221;</p><p>The club promoter, on the other hand &#8230;</p><p>&#8220;He was at first like, &#8216;What was up with that <i>corrido</i>?&#8217;&#8221; he said. &#8220;He was nervous about being seen as political. But there&#8217;s always a first time for something.&#8221;</p><p><b></b></p><p><b></b></p><p><b></b></p><p><b></b></p></div>

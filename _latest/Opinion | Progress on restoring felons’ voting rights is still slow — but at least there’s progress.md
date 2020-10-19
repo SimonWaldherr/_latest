@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E4GGTLSTOAI6VHSHLGAEXYO47M.jpg&w=1440 
+title: > 
+  Opinion | Progress on restoring felons’ voting rights is still slow — but at least there’s progress 
+description: > 
+  The Editorial Board on electionsFor more on the 2020 election, read the Washington Post Editorial Board’s series Our Democracy in Peril as well as these recent editorials:See all of the Editorial Board’s endorsements in 2020 races.Sign up for The Odds newsletter for election updates from data columnist David Byler.Explore more election coverage from the Washington Post newsroom and Opinions section. 
+date: 1603072132.0408711 
+--- 
+<div><p>The Editorial Board on elections</p><p class="font-xs gray-darkest lh3 ma-0 ml-sm pb-md link-box-content-item">For more on the 2020 election, read the <b>Washington Post Editorial Board&#8217;s</b> series <a href="https://www.washingtonpost.com/opinions/2020/08/21/our-democracy-in-peril-editorial-board-series/?arc404=true" target="_blank">Our Democracy in Peril</a> as well as these recent editorials:</p><p class="font-xs gray-darkest lh3 ma-0 ml-sm pb-md link-box-content-item"><b>See all </b>of the Editorial Board&#8217;s<a href="https://www.washingtonpost.com/opinions/2020/09/28/editorial-board-endorsements-2020-elections/" target="_blank"> endorsements in 2020 races.</a></p><p class="font-xs gray-darkest lh3 ma-0 ml-sm pb-md link-box-content-item"><b>Sign up for The Odds newsletter </b>for <a href="https://subscribe.washingtonpost.com/newsletters/#/bundle/theodds?method=SURL&amp;location=ART">election updates from data columnist David Byler</a>.</p><p class="font-xs gray-darkest lh3 ma-0 ml-sm pb-md link-box-content-item"><b>Explore more</b> election coverage <a href="https://www.washingtonpost.com/elections/" target="_blank">from the Washington Post newsroom and Opinions section.</a></p><p tabindex="0" class="absolute w-100 center font-xs underline blue bold pointer ">Show More</p><p class="mb-xs w-100 center font-xs underline blue bold pointer hidden"><p tabindex="0">Show Less</p></p></div>

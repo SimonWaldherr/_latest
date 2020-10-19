@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.usnews.com/dims4/USNEWS/d68f0f1/2147483647/crop/2120x1414%2B0%2B0/resize/1200x1200%3E/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F9f%2Fd0%2Fd01456a5457cb56c1fddd5d06deb%2F201016-globalfinance-stock.jpg 
+title: > 
+  7 Emerging-Market Funds to Buy and Hold 
+description: > 
+  Emerging markets can offer growth, but expect volatility.As investors look to diversify away from traditional U.S. holdings, emerging markets can offer growth – but they can also be volatile.Some emerging-market countries are oil exporters, such as Brazil, which made them particularly vulnerable in 2020 because of the collapse in oil prices."We use emerging-market funds in cases where the risk is warranted and only for a small portion of assets, typically 10% to15% of the total portfolio," he says.For investors seeking exposure to emerging markets, here are seven funds to buy and hold. 
+date: 1603072177.9628007 
+--- 
+<div><p size="3" class="Heading__HeadingStyled-sc-1w5xk2o-0-p jlErET Heading-sc-1w5xk2o-1 jFucEe">Emerging markets can offer growth, but expect volatility.</p><p>As investors look to diversify away from traditional U.S. holdings, <a href="https://money.usnews.com/investing/investing-101/articles/how-to-invest-in-emerging-markets">emerging markets</a> can offer growth &#8211; but they can also be volatile. A few emerging markets have been hit hard by the pandemic, says Jeff Bush, managing partner and chief operating officer of Informed Family Financial Services. Some emerging-market countries are oil exporters, such as Brazil, which made them particularly vulnerable in 2020 because of the collapse in oil prices. Despite these struggles, emerging markets have young demographics and growing middle-class populations with the potential for greater growth than developed countries. "We use emerging-market funds in cases where the risk is warranted and only for a small portion of assets, typically 10% to15% of the total portfolio," he says. For investors seeking exposure to emerging markets, here are seven funds to buy and hold.</p></div>

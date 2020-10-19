@@ -1,0 +1,18 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/football/2020/10/18/TELEMMGLPICT000242262056_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwYwThXlPcF4TV_nr-pXzZbI.jpeg?impolicy=logo-overlay 
+title: > 
+  Sergio Aguero roundly condemned for touching match official Sian Massey-Ellis 
+description: > 
+  The charity Ref Support UK praised Massey-Ellis for her calm reaction and said that Agüero should count himself fortunate.“It wasn’t his actions that prevented him getting in trouble – it was her response to his actions.“It’s just not a good look.”Ian Wright, the former England striker, said that it was “unnecessary” and “patronising”.Agüero has not commented but Gabriel Agbonlahor, the former Aston Villa striker, believes he will regret his actions.I feel it’s something Agüero will have woken up to and definitely regretted it.” 
+date: 1603072173.7431972 
+--- 
+<div><p>The charity Ref Support UK praised Massey-Ellis for her calm reaction and said that Ag&#252;ero should count himself fortunate. &#8220;We wouldn&#8217;t want to see Ag&#252;ero red-carded or suspended because that would dilute the real offence of referee abuse and assault but a line should be drawn in the sand to say, &#8216;You are lucky there&#8217;,&#8221; Martin Cassidy the chief executive of Ref Support, said. &#8220;It wasn&#8217;t his actions that prevented him getting in trouble &#8211; it was her response to his actions. She didn&#8217;t react. She was very controlled. Compare that to players who, if they are touched, we often see falling to the floor and rolling around.&#8221;</p>
+<p>Cassidy also said that there was a direct connection between people seeing players think physical contact was acceptable at an elite level to &#8220;referees being manhandled in grass roots&#8221;. He added: &#8220;The natural instinct is then to think, it is OK to touch a referee, which just makes you ask, &#8216;How do they view us?&#8217;&#8221;</p>
+<p><a href="https://www.telegraph.co.uk/football/2020/10/18/five-positives-pep-guardiola-take-man-citys-resolute-showing/">Pep Guardiola, the Manchester City manager, insisted that the incident was a non-issue</a> when he was asked about it in the post-match press conference.</p>
+<p>&#8220;Come on, guys,&#8221; he said. &#8220;Sergio is the nicest person I ever met in my life. Look for problems in other situations, not in this one.&#8221; Although there are other examples of footballers putting their hands on referees in a similar way, Keith Hackett, the former head of referees in England, said that such behaviour should be stamped on.</p>
+<p>&#8220;The failure of the referee to implement a sanction is frankly unacceptable,&#8221; he said. &#8220;This incident will cascade down to grassroots level.&#8221; Micah Richards also criticised his former Manchester City team-mate. &#8220;He [Ag&#252;ero] knows not to be touching the officials,&#8221; he said. &#8220;It&#8217;s just not a good look.&#8221;</p>
+<p>Ian Wright, the former England striker, said that it was &#8220;unnecessary&#8221; and &#8220;patronising&#8221;.</p>
+<p>Ag&#252;ero has not commented but Gabriel Agbonlahor, the former Aston Villa striker, believes he will regret his actions. &#8220;It just gives a bad example to kids out there playing on a Sunday,&#8221; he said. &#8220;Putting your hand on her there is quite shocking. I feel it&#8217;s something Ag&#252;ero will have woken up to and definitely regretted it.&#8221;</p>
+</div>
