@@ -1,0 +1,26 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-fauci-tweet-01.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Trump on Twitter piles on Anthony Fauci over first pitch, COVID-19 response 
+description: > 
+  Trump, who has shunned wearing a mask, also accused the ardent Washington Nationals fan of wearing an ineffective facial covering.Number two, it keeps reminding me that Tony threw out perhaps the worst first pitch in the history of Baseball!” Trump went on.Trump later tweeted a 2004 clip of his own first pitch at a Somerset Patriots minor league game in Bridgewater Township, NJ.Although he hasn’t thrown an opening pitch as president, Trump threw that pitch 16 years ago after he landed on the field in a helicopter.After Fauci was asked to throw out the Yankees-Nationals pitch this year, Trump said he would throw his own at Yankee Stadium on Aug. 15. 
+date: 1603142879.7070994 
+--- 
+<div><p>President Trump <a href="https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/">continued his attacks</a> on Dr. Anthony Fauci on Monday, urging the nation&#8217;s leading infectious diseases expert to &#8220;make better decisions&#8221; after he told his campaign staff the physician is &#8220;a disaster.&#8221;</p>
+<p>In a series of tweets, the commander-in-chief rebuffed claims from the White House coronavirus task force expert that Fauci isn&#8217;t being allowed to do TV interviews and skewered both the 79-year-old&#8217;s Washington Nationals mask and pitching arm.</p>
+<p>&#8220;Dr. Tony Fauci says we don&#8217;t allow him to do television, and yet I saw him last night on @60Minutes, and he seems to get more airtime than anybody since the late, great, Bob Hope,&#8221; <a href="https://twitter.com/realDonaldTrump/status/1318252736538767360" rel="noopener noreferrer" target="_blank">Trump tweeted</a>, referring to the legendary comedian.</p>
+<p>&#8220;All I ask of Tony is that he make better decisions. He said &#8216;no masks &amp; let China in.&#8217; Also, Bad arm!&#8221; he continued, mocking the opening pitch that the director of the National Institute of Allergy and Infectious Diseases threw way off the plate at the <a href="https://nypost.com/2020/07/24/dr-faucis-wayward-first-pitch-immortalized-with-topps-card/">long-awaited 2020 MLB season opener</a> in June.</p>
+<p>Trump, who has <a href="https://nypost.com/2020/05/26/biden-calls-trump-absolute-fool-over-mocking-his-face-mask/">shunned wearing a mask</a>, also accused the ardent Washington Nationals fan of wearing an ineffective facial covering.</p>
+<p>&#8220;P.S. Tony should stop wearing the Washington Nationals&#8217; Mask for two reasons. Number one, it is not up to the high standards that he should be exposing. Number two, it keeps reminding me that Tony threw out perhaps the worst first pitch in the history of Baseball!&#8221; Trump went on.</p>
+<p>Trump later tweeted a 2004 clip of his own first pitch at a Somerset Patriots minor league game in Bridgewater Township, NJ.</p>
+<p>&#8220;A perfect strike for the American people!&#8221; <a href="https://twitter.com/realDonaldTrump/status/1318270345162354688" rel="noopener noreferrer" target="_blank">Trump wrote</a>.</p>
+<p>Although he hasn&#8217;t thrown an opening pitch as president, Trump threw that pitch 16 years ago after he landed on the field in a helicopter.</p>
+<p>After Fauci was asked to throw out the Yankees-Nationals pitch this year, Trump said he would throw his own at Yankee Stadium on Aug. 15. But he <a href="https://nypost.com/2020/07/26/trump-scraps-plan-to-throw-opening-pitch-at-yankee-stadium-in-august/">scrapped the plan</a>, citing a busy schedule, after Fauci&#8217;s embarrassing performance.</p>
+<p>The White House released a <a href="https://www.youtube.com/watch?time_continue=1&amp;v=51hngab7Qs8&amp;feature=emb_title" rel="noopener noreferrer" target="_blank">video clip</a> in July of Trump competently catching and throwing a ball on the White House lawn with Yankees legend Mariano Rivera.</p>
+<p>Earlier Monday, the president sounded off against the physician during a call <a href="https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/">with his Trump 2020 staff</a>.</p>
+<p>&#8220;People are tired of hearing Fauci and all these idiots, these people that have gotten it wrong. Fauci is a nice guy,&#8221; Trump said, indicating he wanted to fire the Brooklyn-born director of the NIAID but couldn&#8217;t because of potential public outrage.</p>
+<p>&#8220;Every time he goes on television there&#8217;s always a bomb, but there&#8217;s a bigger bomb if you fire him. Fauci&#8217;s a disaster. If I&#8217;d listened to him, we&#8217;d have 500,000 deaths,&#8221; Trump said.</p>
+<p>The physician has <a href="https://nypost.com/2020/10/15/trump-slams-dr-fauci-as-a-democrat-and-cuomos-friend/">frequently come under fire</a> from the president and other Trump administration officials who have repeatedly questioned his warnings, which they argue have been alarmist.</p>
+			</div>
