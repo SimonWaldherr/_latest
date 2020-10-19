@@ -1,0 +1,27 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/01/relativity-factory.jpg?w=711 
+title: > 
+  Lockheed picks Relativity’s 3D-printed rocket for experimental NASA mission – TechCrunch 
+description: > 
+  The launch startup’s 3D-printed rockets are a great match for a particularly complex mission Lockheed is undertaking for NASA’s Tipping Point program.The mission is a test of a dozen different cryogenic fluid management systems, including liquid hydrogen, which is a very difficult substance to work with indeed.“We’re building a custom payload fairing that has specific payload loading interfaces they need, custom fittings and adapters,” he said.“It still needs to be smooth, of course — to a lay person it will look like a normal rocket,” he added.Every fairing (the external part of the launch vehicle covering the payload) is necessarily custom, but this one much more so. 
+date: 1603135713.307092 
+--- 
+<div><p id="speakable-summary"><a class="crunchbase-link" href="https://crunchbase.com/organization/relativity-space" target="_blank">Relativity Space </a> has bagged its first public government contract, and with a major defense contractor at that. The launch startup&#8217;s 3D-printed rockets are a great match for a particularly complex mission Lockheed is undertaking for <a href="https://techcrunch.com/2020/10/14/nasa-loads-14-companies-with-370m-for-tipping-point-technologies/">NASA&#8217;s Tipping Point program</a>.</p>
+<p>The mission is a test of a dozen different cryogenic fluid management systems, including liquid hydrogen, which is a very difficult substance to work with indeed. The tests will take place on a single craft in orbit, which means it will be a particularly complicated one to design and accommodate.</p>
+<p>The payload itself and its cryogenic systems will be designed and built by Lockheed and their partners at <a class="crunchbase-link" href="https://crunchbase.com/organization/nasa" target="_blank">NASA, </a> of course, but the company will need to work closely with its launch provider during development and especially in the leadup to the actual launch.</p><p class="piano-inline-promo"></p>
+<p>Relativity founder and CEO Tim Ellis explained that the company&#8217;s approach of 3D printing the entire rocket top to bottom is especially well suited for this.</p>
+<p>&#8220;We&#8217;re building a custom payload fairing that has specific payload loading interfaces they need, custom fittings and adapters,&#8221; he said. &#8220;It still needs to be smooth, of course &#8212; to a lay person it will look like a normal rocket,&#8221; he added.</p>
+<p>Every fairing (the external part of the launch vehicle covering the payload) is necessarily custom, but this one much more so. The delicacy of having a dozen cryogenic operations being loaded up and tested until moments before launch necessitates a number of modifications that, in other days, would result in a massive increase in manufacturing complexity.</p>
+<p>&#8220;If you look at the manufacturing tools being used today, they&#8217;re not much different from the last 60 years,&#8221; Ellis explained. &#8220;It&#8217;s fixed tooling, giant machines that look impressive but only make one shape or one object that&#8217;s been designed by hand. And it&#8217;ll take 12-24 months to make it.&#8221;</p>
+<p>Not so with Relativity.</p>
+<p>
+		</p><p class="embed breakout" id="vidible_div_0"></p>
+		<p></p>
+		
+<p>&#8220;With our 3D printed approach we can print the entire fairing in under 30 days,&#8221; Ellis said. &#8220;It&#8217;s also software defined, so we can just change the file to change the dimensions and shape. For this particular object we have some custom features that we&#8217;re able to do more quickly and adapt. Even though the mission is three years out, there will always be last minute changes as you get closer to launch, and we can accommodate that. Otherwise you&#8217;d have to lock in the design now.&#8221;</p>
+<p>Ellis was excited about the opportunity to publicly take on a mission with such a major contractor. These enormous companies field billions of government dollars and take part in many launches, so it&#8217;s important to be in their good books, or at least in their rolodexes. A mission like this, complex but comparatively low stakes (compared with a crewed launch or billion-dollar satellite) is a great chance for a company like Relativity to show its capabilities. (Having presold many of its launches already, there&#8217;s clearly no lack of interest in the 3D printed launch vehicles, but more is always better.)</p>
+<p>The company will be going to space before then, though, if all continues to go according to plan. The first orbital test flight is scheduled for late 2021. &#8220;We&#8217;re actually printing the launch hardware right now, the last few weeks,&#8221; Ellis mentioned.</p>
+<p>The <a href="https://techcrunch.com/2020/10/14/nasa-loads-14-companies-with-370m-for-tipping-point-technologies/">NASA Tipping Point program</a> that is funding Lockheed with an $89.7 million contract for this experiment is one intended to, as its name indicates, help tip promising technologies over the edge into commercial viability. With <a href="https://www.nasa.gov/directorates/spacetech/solicitations/tipping_points">hundreds of millions awarded yearly</a> for companies pursuing things like lunar hoppers and robotic arms, it&#8217;s a bit like the agency&#8217;s venture fund.</p>
+			</div>

@@ -1,0 +1,45 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://media.npr.org/assets/img/2020/10/19/gettyimages-1228939666_wide-99b090a40ef5e97d782815c2e4f9e64c648ff96c.jpg?s=1400 
+title: > 
+  DOJ Unveils More Sweeping Cyber-Charges Against Russian Intelligence Officers 
+description: > 
+  DOJ Unveils More Sweeping Cyber-Charges Against Russian Intelligence OfficersEnlarge this image toggle caption Jim Watson/Pool/AFP via Getty Images Jim Watson/Pool/AFP via Getty ImagesUpdated at 2:33 p.m.The men work for the Russian military intelligence agency GRU — which also led Russian cyber-interference in the 2016 U.S. presidential election.Justice Department officials said Moscow has only sustained or heightened its intensity of effort since then."Today the department has charged these Russian officers with conducting the most disruptive and destructive series of computer attacks ever attributed to a single group."Cybersecurity researchers have tracked the conspirators and their malicious activity using the labels 'Sandworm Team,' 'Telebots,' 'Voodoo Bear,' and 'Iron Viking,' " the Justice Department said in a statement Monday. 
+date: 1603135684.732012 
+--- 
+<div><p class="storytitle">
+      <h1>DOJ Unveils More Sweeping Cyber-Charges Against Russian Intelligence Officers</h1>
+   
+   
+   
+</p><img src="https://media.npr.org/assets/img/2020/10/19/gettyimages-1228939666_wide-99b090a40ef5e97d782815c2e4f9e64c648ff96c-s1100-c15.jpg" class="img lazyOnLoad" alt="">
+        <a class="enlargelink" href="https://media.npr.org/assets/img/2020/10/19/gettyimages-1228939666_wide-99b090a40ef5e97d782815c2e4f9e64c648ff96c-s1200.jpg">Enlarge this image</a>
+        <p class="caption-wrap">
+         
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </p>
+
+    <p class="credit">
+        
+        Jim Watson/Pool/AFP via Getty Images
+        
+    </p>
+<img alt="">
+    <p class="image_data">
+         
+        <p class="credit">
+            
+            Jim Watson/Pool/AFP via Getty Images
+            
+        </p>
+    </p>
+<p><strong>Updated at 2:33 p.m. ET</strong></p>   <p>The Justice Department unsealed charges against six alleged Russian government hackers on Monday and said they were behind a rash of recent cyberattacks &#8212; from damaging Ukraine's electrical grid to interfering in France's election to spying on European investigations and more.</p>   <p>The men work for the Russian military intelligence agency GRU &#8212; which also led Russian cyber-interference in the 2016 U.S. presidential election. Justice Department officials said Moscow has only sustained or heightened its intensity of effort since then.</p>   <p>"No country has weaponized its cyber capabilities as maliciously or irresponsibly as Russia, wantonly causing unprecedented damage to pursue small tactical advantages and to satisfy fits of spite," said John C. Demers, assistant attorney general for national security. </p>   <p>"Today the department has charged these Russian officers with conducting the most disruptive and destructive series of computer attacks ever attributed to a single group. ... No nation will recapture greatness while behaving in this way."</p>   <p>The defendants are charged with conspiracy to conduct computer fraud and abuse, conspiracy to commit wire fraud, wire fraud, damaging protected computers and aggravated identity theft in an indictment returned by a federal grand jury in Pittsburgh.</p>   
+    
+
+    <p id="ad-backstage-News_National_National_Security" class="ad-backstage"></p>
+
+   <p>One alleged GRU cyber-operative in Monday's case, <a href="https://www.fbi.gov/wanted/cyber/anatoliy-sergeyevich-kovalev">Anatoliy Sergeyevich Kovalev</a>, also has been charged once before in a case under former special counsel Robert Mueller.</p>   <p><strong>The consequences</strong></p>   <p>The men, who are in Russia, are unlikely to see the inside of an American courtroom. But U.S. officials believe that preparing criminal cases like this one contributes to a deterrent strategy. </p>   <p>For one thing, the level of detail <a href="https://www.justice.gov/opa/press-release/file/1328521/download">included in the indictment</a> suggests that American authorities are so confident about their insight into the workings of Russia's cyber-operations that the U.S. intelligence community didn't mind revealing how much it knows.</p>   <p>The charges also impose at least some some theoretical inconvenience on the defendants by making it more difficult for them to travel to a country in which they could potentially be arrested on an American warrant.</p>   <p>"For more than two years we have worked tirelessly to expose these Russian GRU Officers who engaged in a global campaign of hacking, disruption and destabilization, representing the most destructive and costly cyberattacks in history," said U.S. Attorney Scott W. Brady of the Western District of Pennsylvania, which worked with the Pittsburgh grand jury.</p>   <p>"The crimes committed by Russian government officials were against real victims who suffered real harm. We have an obligation to hold accountable those who commit crimes &#8211; no matter where they reside and no matter for whom they work &#8211; in order to seek justice on behalf of these victims."</p>   <p><strong>Huge breadth to alleged global hacking</strong></p>   <p>The Justice Department detailed seven examples of what it called the malign work done by the six Russians charged on Monday.</p>   <p>First, starting in December 2015, were cyberattacks that damaged Ukraine's electrical grid. Then, in the spring of 2017 were election interference targeted at France's elections. In the summer of that same year, U.S. authorities linked the defendants to the spread of malware called NotPetya, which hurt hospitals and other targets in western Pennsylvania, putting the matter within Brady's jurisdiction.</p>   <p>A fourth example of cyber-mischief were months' worth of spear-phishing campaigns and other cyberattacks targeting South Koreans in connection with the 2018 Winter Olympics, and a fifth, an attack on the Olympics' opening ceremony. In the spring of 2018 the Russians allegedly attacked European and British officials investigating the nerve agent poisoning by Russian would-be assassins of <a href="https://www.npr.org/tags/591599240/sergei-skripal">Sergei Skripal</a> and others in the United Kingdom.</p>   <p>Last, in the indictment unsealed Monday, is the example of a spear-phishing campaign that targeted a media company and political leaders in the European nation of Georgia, which ran into last year.</p>   <p>"Cybersecurity researchers have tracked the conspirators and their malicious activity using the labels 'Sandworm Team,' 'Telebots,' 'Voodoo Bear,' and 'Iron Viking,' " the Justice Department said in a statement Monday.</p>   <p><strong>Resonance for U.S. elections context</strong></p>   <p>Although the allegations in the charges revealed Monday involve activity focused outside the United States, the indictments brought a reminder about the cyber-threat that continues to pose risks to American elections.</p>   <p>The FBI and Cybersecurity and Infrastructure Security Agency have been releasing a stream of bulletins about what they call prospective cyber-perils in the final weeks of election season, including the possibility for attempts to compromise a number of election-adjacent targets, if not the actual counting of votes.</p>   <p>Attackers might try to shut down or spoof websites that show tallies, for example, authorities say, or try to make it appear as though important databases such as voter rolls had been compromised, whether or not they actually had been.</p>   <p>Attackers' goals are as much to sow doubt and uncertainty as they are to bring about specific political consequences within the United States, authorities say.</p>   <p>Cyber experts also observed on Monday that the French election interference referenced in the GRU indictment means that Americans should be on guard for similar attacks in the United States &#8212; specifically, the release of stolen, altered or wholly fraudulent materials intended to change an election by embarrassing their targets.</p>   <p>"This [GRU unit's] involvement in election interference in France is especially important as we near the end of elections in the US," said John Hultquist, senior director of analysis for Mandiant Threat Intelligence.</p>   <p>"One possible scenario we are anticipating is a very late-game hack-and-leak operation, such as the one that was carried out in France. This incident is a reminder that dramatic late-game operations are possible in the eleventh hour. Additionally, leaked information included fabricated materials, a reminder that actors may mix legitimate, stolen materials with items they have fabricated themselves."</p>
+</div>

@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://pagesix.com/wp-content/uploads/sites/3/2020/10/kim-kardashian-1.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Kim Kardashian: I was warned working with Trump would ruin my rep 
+description: > 
+  Click to email this to a friend (Opens in new window)Click to share on Twitter (Opens in new window)Click to share on Facebook (Opens in new window)Kim Kardashian says she was warned that working with President Trump would kill her reputation.“Trust me, everyone called me and said, ‘Don’t you dare step foot in that White House or your reputation is done,’” Kardashian told David Letterman in an upcoming episode of his Netflix series, “My Next Guest Needs No Introduction,’’ the Daily Beast reported.“And I said, ‘I have to step foot in there or these people’s lives don’t have a chance,’ ” said the reality TV star — who famously convinced Trump in 2018 to commute the life prison sentence Alice Johnson, a non-violent drug offender.“Hopefully, for the next multiple administrations, I’ll be working with the White House, helping them with clemencies,’’ Kardashian said.Letterman, during the interview taped in early 2020 but set to air in his new season, tried to push her on what he called Trump’s “unacceptable behavior by a president.’’Kardashian only replied that she was “extremely grateful’’ to be working with the administration on criminal justice reform. 
+date: 1603135692.0000162 
+--- 
+<div><p>Click to email this to a friend (Opens in new window)</p><p>Click to share on Twitter (Opens in new window)</p><p>Click to share on Facebook (Opens in new window)</p><p><a href="https://nypost.com/tag/kim-kardashian/">Kim Kardashian</a> says she was warned that working with President Trump would kill her reputation.</p>
+<p>&#8220;Trust me, everyone called me and said, &#8216;Don&#8217;t you dare step foot in that White House or your reputation is done,&#8217;&#8221; Kardashian told <a href="https://nypost.com/tag/david-letterman/">David Letterman</a> <a href="https://nypost.com/2020/10/06/david-letterman-makes-kim-kardashian-cry-in-my-next-guest-trailer/">in an upcoming episode</a> of his Netflix series, &#8220;My Next Guest Needs No Introduction,&#8217;&#8217; <a href="https://www.thedailybeast.com/david-letterman-confronts-kim-kardashian-west-about-working-with-trump?ref=scroll">the Daily Beast reported.</a></p>
+<p>&#8220;And I said, &#8216;I have to step foot in there or these people&#8217;s lives don&#8217;t have a chance,&#8217; &#8221; said the reality TV star &#8212; <a href="https://nypost.com/2020/02/18/ex-con-granny-alice-johnson-freed-thanks-to-kim-kardashian-helped-with-trumps-pardons/">who famously convinced Trump</a> in 2018 to commute the life prison sentence Alice Johnson, a non-violent drug offender.</p>
+<p>&#8220;Hopefully, for the next multiple administrations, I&#8217;ll be working with the White House, helping them with clemencies,&#8217;&#8217; Kardashian said.</p>
+<p>Letterman, during the interview taped in early 2020 but <a href="https://www.netflix.com/title/80209096" rel="noopener noreferrer" target="_blank">set to air in his new season</a>, tried to push her on what he called Trump&#8217;s &#8220;unacceptable behavior by a president.&#8217;&#8217;</p>
+<p>Kardashian only replied that she was &#8220;extremely grateful&#8217;&#8217; to be working with the administration on criminal justice reform.</p>
+			</div>
