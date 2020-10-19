@@ -1,0 +1,16 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/men/2020/10/14/GettyImages-524416058-1_trans_NvBQzQNjv4BqMnFdNxU9JMNJ9jJEQqRGm0laAjkT4mK5qIJMc_yhagE.jpg?impolicy=logo-overlay 
+title: > 
+  War photographer Don McCullin on what makes an image unforgettable 
+description: > 
+  Both were about being there at exactly the right moment, but as a photographer, you can be in the wrong place at the wrong time and get killed.This has happened to many of my war correspondent and photographer friends, like Nick Tomalin [killed in the Golan Heights by a Syrian missile.One person makes an iconic image because he’s there at the right time, and the other loses his life because he’s there at the wrong time.The closest I’ve come to taking an iconic picture would be Starving Twenty Four Year Old Mother With Child, Biafra, which I took in 1968, during the war.For me, it’s the image of Madonna and Child gone wrong – the dying child and starving mother. 
+date: 1603114223.224505 
+--- 
+<div><p>A picture that I consider iconic is the famous one by Eddie Adams of the police chief in Saigon shooting the man in the head in the street &#8211; it has the same level of value as the Eisenstaedt picture [of the sailor kissing the girl in Times Square on VJ Day]. But one picture is about an atrocity and the other is about a celebration of the end of atrocities. Both were about being there at exactly the right moment, but as a photographer, you can be in the wrong place at the wrong time and get killed. This has happened to many of my war correspondent and photographer friends, like Nick Tomalin [killed in the Golan Heights by a Syrian missile. McCullin risked his life to get to him].</p>
+<p>One person makes an iconic image because he&#8217;s there at the right time, and the other loses his life because he&#8217;s there at the wrong time. So time is the essence of the final judgment.</p>
+<p>The closest I&#8217;ve come to taking an iconic picture would be Starving Twenty Four Year Old Mother With Child, Biafra, which I took in 1968, during the war. The mother has a 1,000-yard stare. She is only 24, but she looks like a 60-year-old, and the child is trying to take milk from her empty breast. It is totally tragic and unacceptable. For me, it&#8217;s the image of Madonna and Child gone wrong &#8211; the dying child and starving mother. I&#8217;ve taken lots of other horrible pictures, but this one is up there, because of those parallels. The term &#8216;iconic&#8217; implies you&#8217;ve achieved something extraordinary &#8211; something to be celebrated. This photograph of mine isn&#8217;t a picture that could be celebrated, but it&#8217;s the only picture that represents my true feelings as a photographer, about the tragedy and the wrongs of the world.</p>
+<p>These days, photographing landscapes has freed me from the emotional garbage I was carrying. I think I&#8217;m just one of those people who&#8217;s been bloody lucky.</p>
+<p><strong>Don McCullin is at Tate Liverpool until 9 May 2021; tate.org.uk</strong></p>
+</div>

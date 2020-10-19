@@ -1,0 +1,16 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/beauty/2020/10/16/GettyImages-1181806308-xlarge_trans_NvBQzQNjv4BqiQs30NBAxcvlUyaQG72mANerf1OUIQbkLNZg14NSxwU.jpg?imwidth=1200 
+title: > 
+  The 10 bestselling beauty products of 2020 
+description: > 
+  Unearthing the most sought-after beauty products of the year is sure to reveal some interesting finds, but doing so at a time when life as we know it has completely transformed is an entirely different case.Similarly, e-retail giant ASOS has reported selling 265,000 face masks during this summer alone, while its profits have seen an increase of 329 percent in part due to a surge in the demand of beauty products during lockdown.Since the pandemic, customers have become more focused on investing in cost-effective products that are right for their skin type and deliver results."Opting for quality over quantity, lockdown saw us trialing more skincare products to understand what is best for our skin type, Boots reports.Here, we reveal the most in-demand beauty buys of 2020 so far...Olaplex No.3 Hair Perfector, £26 
+date: 1603114222.3961806 
+--- 
+<div><p>Unearthing the most sought-after beauty products of the year is sure to reveal some interesting finds, but doing so at a time when life as we know it has completely transformed is an entirely different case.&#160; We are now spending more time at home, covering our faces and washing (just about everything) more than ever, and this of course, has seen a shift in our spending habits.&#160;</p>
+<p>In new sales data released by Boots, it is skincare that has proven to be the focus for customers, with searches for face masks and skincare brands such as The Ordinary and La Roche Posay ranking highly on<a href="http://boots.com/"> boots.com</a>. Similarly, e-retail giant ASOS has reported selling 265,000 face masks during this summer alone, while its profits have seen an increase of 329 percent in part due to a surge in the demand of beauty products during lockdown.&#160;</p>
+<p>Joanna Rogers, Trading Director and VP of Beauty at Boots, says, &#8220;We know our customers want value for money when it comes to skincare and this doesn&#8217;t always mean shopping on a budget. Since the pandemic, customers have become more focused on investing in cost-effective products that are right for their skin type and deliver results."</p>
+<p>Opting for quality over quantity, lockdown saw us trialing more skincare products to understand what is best for our skin type, Boots reports. But this desire for quality products was not restricted to skin alone; among the bestsellers of the year are hair and make-up staples that have proven to be just as important to consumers. Here, we reveal the most in-demand beauty buys of 2020 so far...</p>
+<p><a href="https://www.asos.com/olaplex/olaplex-no3-hair-perfector-33oz-100ml/prd/20626279?colourwayid=60073372&amp;SearchQuery=olaplex%203" rel="nofollow">Olaplex No.3 Hair Perfector, &#163;26</a></p>
+</div>

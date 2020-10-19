@@ -1,0 +1,25 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f3adacba3eafa001de068c4?width=1200&format=jpeg 
+title: > 
+  Insiders at Dallas ad agency The Richards Group react as the founder steps down after making racist remarks 
+description: > 
+  Stan Richards, the founder of ad agency The Richards Group, announced in an all-staff meeting that he will step down from the agency.The announcement comes after he made a racist comment that led several clients, including Home Depot and Motel 6, to drop the agency.Stan Richards, the founder of Dallas-based ad agency The Richards Group, stepped down today after reports that he made racist remarks in a meeting last week.Creative director and 40-year agency veteran Glenn Dady will take over agency operations.With close to 700 employees, The Richards Group describes itself as the largest independent ad agency in the US. 
+date: 1603114190.79156 
+--- 
+<div><ul class="summary-list">
+<li>Stan Richards, the founder of ad agency The Richards Group, announced in an all-staff meeting that he will step down from the agency.</li>
+<li>The announcement comes after he made a racist comment that led several clients, including Home Depot and Motel 6, to drop the agency.</li>
+<li>An agency spokesperson confirmed the news, which was <a href="https://www.dallasnews.com/business/local-companies/2020/10/15/stan-richards-steps-down-from-namesake-dallas-advertising-firm-over-too-black-remarks/">first reported by the Dallas Morning News</a>.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-advertising-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-advertising-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Stan Richards, the founder of Dallas-based ad agency The Richards Group, stepped down today after reports that he made racist remarks in a meeting last week.</p><p>Richards said in a statement that since he would have been fired at a publicly held company, he was firing himself. Creative director and 40-year agency veteran Glenn Dady will take over agency operations.</p><p>Richards and Dady made the announcement at a remote, all-staff meeting. One person who attended said Richards told employees he would be "a stranger to the company." This person also said that layoffs were expected and that the agency would support anyone who chose to leave.</p><p>According to multiple reports, Richards responded last Thursday to an idea for a multicultural ad for longtime client Motel 6 by saying "It's too Black," adding that the ad might offend or alienate Motel 6's "white supremacist constituents." The news was first <a href="https://adage.com/article/agency-news/richards-group-fired-motel-6-over-racist-remark-agency-founder/2287721">reported by Ad Age</a>.</p><p>With close to 700 employees, The Richards Group describes itself as the largest independent ad agency in the US. It has been owned by a nonprofit since December 2019, when Richards announced his succession plan.</p><p>Richards apologized to staff on Friday, but several of The Richards Group's largest clients, including Motel 6, Home Depot and Keurig Dr Pepper, have left the agency.</p><p>The turn of events caused some surprise at the agency. First, Richards said earlier this week that he was prepared to step down for the good of the company. But then Dady backtracked, saying the company would be better with him in place. A spokeswoman said they felt the decision deserved more time.</p><p>One employee said some senior leaders met with Dady and pressured him to convince Richards to step down.</p>
+<p id="gpt-post-advertising-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-advertising-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Another said they felt the company only acted after clients dropped the agency and that decisive action last week would have felt very different.</p><p>"[Stan's] not willfully racist; he's behind the times, and he made a mistake," the employee said. "But the responses to those comments, even if they were made in error, have to be unequivocal. We didn't feel the strength of leadership in that moment, and we craved it."</p><p>"When a man whose name is on the building says something that can destroy the brand, there's no playbook for that," they said.</p><p>The agency said it would create a new diversity position in response to the controversy as well as conduct an audit and commit to a certain level of diverse representation, conduct bias training work, and review campaigns to ensure they are culturally relevant.</p>
+                  </div>

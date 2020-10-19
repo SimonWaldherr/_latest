@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/beauty/2020/03/24/IMG_1907-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSM8Sv5nIxQonD2k-JCC_U.jpg?imwidth=1200 
+title: > 
+  DIY beauty: How to shape eyebrows, remove shellac and more self-care tips for at home 
+description: > 
+  “Pluck the stray hairs first before tackling the shape,” advises Vanita Parti, the founder of Blink Brow Bar.You can then determine the core brow shape hair to remove.Just pluck one or two hairs at a time, step away and view your brows before you continue – step by step is key.“A pencil is a great tool to define the shape of your brow,” says Parti.“Place the pencil at the edge of your nose and where it hits your eyebrow is where they should be. 
+date: 1603114224.1812346 
+--- 
+<div><h3>What&#8217;s the best way to pluck my eyebrows?</h3>
+<p>&#8220;Pluck the stray hairs first before tackling the shape,&#8221; advises Vanita Parti, the founder of Blink Brow Bar. &#8220;Brush your brows up and across. You can then determine the core brow shape hair to remove. Just pluck&#160;one or two hairs at a time, step away and view your brows before you continue &#8211; step by step is key. You may also need to trim the longer brow hairs with nail scissors, so brush up with a brow brush and snip any hairs poking above the brow line.&#8221; Parti recommends slanted tweezers, as they are more precise, and &#8220;will give you the grip you need to grab each brow hair by the root and minimise hair breakage.&#8221;</p>
+<h3>How do I keep my brows in shape until I can see a professional again?</h3>
+<p>&#8220;A pencil is a great tool to define the shape of your brow,&#8221; says Parti. &#8220;Place the pencil at the edge of your nose and where it hits your eyebrow is where they should be. Then swivel it from your nose to your iris &#8211; this is where the arch should be positioned. Finally swivel again from your nose to the end of your eye and where the pencil hits the brow is where they end.&#8221;</p>
+<h3>How do I make nail varnish last longer now I&#8217;m doing it myself?</h3>
+<p>&#8220;Always apply a base coat, two thin layers of varnish and a top coat,&#8221; Treacy tells me. &#8220;On the third day, reapply a top coat and as long as you are not digging the garden your polish should last 8 to 10 days.&#8221; Treacy likes to use the<a href="http://www.awin1.com/cread.php?awinmid=1203&amp;awinaffid=73846&amp;clickref=customid&amp;p=https%3A%2F%2Fwww.johnlewis.com%2Fnails-inc-nailkale-superfood-base-coat%2Fp1667427%3Fsku%3D233951486%26s_ppc%3D2dx-KELKOO-FASHION92700045364046720%26tmad%3Dc%26tmcampid%3D2%26gclid%3DEAIaIQobChMIqK3C8Nyz6AIVibbtCh1UHQzdEAQYAiABEgIgqvD_BwE%26gclsrc%3Daw.ds" rel="nofollow"> Nailkale Superfood Base Coat by Nails Inc, &#163;15,</a>&#160;and <a href="https://www.nailpolishdirect.co.uk/colour-super-shiney-high-gloss-top-coat-9-8ml-17315098-p22262/s29147?utm_source=google&amp;utm_medium=cpc&amp;utm_term=cnd-vinylux-colour-super-shiney-high-gloss-top-coat-9-8ml-17315098-lau1963&amp;utm_campaign=product%2Blisting%2Bads&amp;cid=GBP&amp;gclid=EAIaIQobChMI5snUit2z6AIViIxRCh30PAbHEAQYAiABEgI33_D_BwE" rel="nofollow">Vinylux Top Coat by CND, &#163;6.36</a>.</p>
+</div>

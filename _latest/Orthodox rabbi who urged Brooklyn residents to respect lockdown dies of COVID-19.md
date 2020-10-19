@@ -1,0 +1,20 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/mayer-rispler.jpeg?quality=90&strip=all&w=1200 
+title: > 
+  Orthodox rabbi who urged Brooklyn residents to respect lockdown dies of COVID-19 
+description: > 
+  Sign up for our special edition newsletter to get a daily update on the coronavirus pandemic.A Hasidic leader who urged Brooklyn’s Orthodox community to abide by coronavirus safety measures has died of the contagion.“It is with great sadness and heavy heart that we report on the passing of Satmar President and Mega Philanthropist R’Mayer Zelig Rispler OBM who passed away during the night,” the Satmar Hasidic sect tweeted Friday.A funeral for the 70-year-old rabbi was held in Williamsburg that day, the Times of Israel said.“R’Mayer Zelig was a courageous and dedicated leader who will be missed by the worldwide Satmar Community,” the sect tweeted, confirming his death was from COVID-19. 
+date: 1603114213.5237708 
+--- 
+<div><p>Sign up for our special edition newsletter to get a daily update on the coronavirus pandemic.</p><p>A Hasidic leader who urged Brooklyn&#8217;s Orthodox community to abide by coronavirus safety measures has died of the contagion.</p>
+<p>&#8220;It is with great sadness and heavy heart that we report on the passing of Satmar President and Mega Philanthropist R&#8217;Mayer Zelig Rispler OBM who passed away during the night,&#8221; the <a href="https://twitter.com/HQSatmar/status/1317069185650970624" rel="noopener noreferrer" target="_blank">Satmar Hasidic sect tweeted Friday</a>.</p>
+<p>A funeral for the 70-year-old rabbi was held in Williamsburg that day, <a href="https://www.timesofisrael.com/mayer-rispler-70-satmar-leader-who-urged-following-virus-rules-dies-of-covid/" rel="noopener noreferrer" target="_blank">the Times of Israel said</a>.</p>
+<p>&#8220;R&#8217;Mayer Zelig was a courageous and dedicated leader who will be missed by the worldwide Satmar Community,&#8221; the sect tweeted, <a href="https://twitter.com/HQSatmar/status/1317118533973803010" rel="noopener noreferrer" target="_blank">confirming his death was from COVID-19</a>.</p>
+<p>Rispler had spoken out in April to urge the Orthodox community to adhere to safety measures enforced by city officials after videos went viral of <a href="https://nypost.com/2020/04/28/de-blasio-blasts-jewish-community-for-massive-brooklyn-funeral/">huge crowds gathering for funerals</a>.</p>
+<p>&#8220;We do not condone any behavior that puts people at risk and pledge to keep working alongside the brave men and women of the NYPD in addressing and eliminating any such occurrences,&#8221; Rispler wrote, <a href="https://www.timesofisrael.com/hasidic-leaders-defend-ny-mayor-and-call-on-community-to-socially-distance/" rel="noopener noreferrer" target="_blank">according to a Times of Israel</a> report at the time.</p>
+<p>Rispler &#8212; who was also an accountant &#8212; fell ill in September, and on Wednesday the Satmar Headquarters account called for prayers, confirming he was in <a href="https://twitter.com/HQSatmar/status/1316473788264058882" rel="noopener noreferrer" target="_blank">&#8220;critical condition.&#8221;</a></p>
+<p>Brooklyn Councilman Kalman Yeger tweeted his condolences, writing that he was <a href="https://twitter.com/KalmanYeger/status/1317165373003866112?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1317165373003866112%7Ctwgr%5Eshare_3%2Ccontainerclick_1&amp;ref_url=https%3A%2F%2Fwww.nydailynews.com%2Fnew-york%2Fny-brooklyn-rebbe-rispler-covid-death-20201017-zje2qp7wubds5e6oo6csmvgx74-story.html" rel="noopener noreferrer" target="_blank">&#8220;incredibly saddened&#8221;</a> by the death.</p>
+<p>&#8220;His kindness and generosity were legendary,&#8221; he wrote. &#8220;I&#8217;m grateful for the friendship and chizuk he always gave me and everyone who knew him.&#8221;</p>
+			</div>

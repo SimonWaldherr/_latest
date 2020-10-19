@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/19/world/19daily-lucha/merlin_165024978_f505ed27-1f65-456a-894e-c1285fe1d114-facebookJumbo.jpg 
+title: > 
+  The Field: A Divided Latino Vote in Arizona 
+description: > 
+  Listen and subscribe to ‘The Daily’Apple Podcasts | Spotify | StitcherThis episode contains strong language.In the last decade, elections have tightened in Arizona, a traditionally Republican stronghold, as Democrats gain ground.According to polls, Joe Biden is leading in the state — partly because of white suburban women moving away from President Trump, but also because of efforts to activate the Latino vote.Will that turn states like Arizona blue?And do enough Hispanic voters actually want Mr. Biden as president? 
+date: 1603114166.9048452 
+--- 
+<div><h3 class="css-70ndei e1gnsphs0" id="link-4a7233b8"><span><strong class="css-8qgvsz ebyp5n10">Listen and subscribe to &#8216;The Daily&#8217;</strong><br><strong class="css-8qgvsz ebyp5n10"><a class="css-1g7m0tk" href="https://itunes.apple.com/us/podcast/the-daily/id1200361736?mt=2" title="" rel="noopener noreferrer" target="_blank">Apple Podcasts</a></strong><strong class="css-8qgvsz ebyp5n10"> | </strong><strong class="css-8qgvsz ebyp5n10"><a class="css-1g7m0tk" href="https://open.spotify.com/show/3IM0lmZxpFAY7CwMuv9H4g?si=SfuMSC55R1qprFsRZU3_zw" title="" rel="noopener noreferrer" target="_blank">Spotify</a></strong><strong class="css-8qgvsz ebyp5n10"> | </strong><strong class="css-8qgvsz ebyp5n10"><a class="css-1g7m0tk" href="http://www.stitcher.com/podcast/the-new-york-times/the-daily-10" title="" rel="noopener noreferrer" target="_blank">Stitcher</a></strong></span></h3><p class="css-158dogj evys1bk0">This episode contains strong language.</p><p class="css-158dogj evys1bk0">In the last decade, elections have tightened in Arizona, a traditionally Republican stronghold, as Democrats gain ground.</p><p class="css-158dogj evys1bk0">According to polls, Joe Biden is leading in the state &#8212; partly because of white suburban women moving away from President Trump, but also because of efforts to activate the Latino vote.</p><p class="css-158dogj evys1bk0">Will that turn states like Arizona blue? And do enough Hispanic voters actually want Mr. Biden as president?</p></div>
