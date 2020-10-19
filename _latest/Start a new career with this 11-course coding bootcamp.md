@@ -1,0 +1,28 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://mondrian.mashable.com/2020%252F10%252F18%252F6b%252Fc920b2b9867d4e97a1a6b9a09b783e20.99f2d.jpg%252F1200x630.jpg?signature=MDaINNPcEOdYTeI9RMyAkvfvMtk= 
+title: > 
+  Start a new career with this 11-course coding bootcamp 
+description: > 
+  TL;DR: The 2020 Ultimate Web Developer & Design Bootcamp Bundle is on sale for £30.98 as of Oct. 18, saving you 98% on list price.If you've got your heart set on a lucrative position in tech as a web developer, here's something to get you started: the 2020 Ultimate Web Developer and Design Bootcamp Bundle.The Ultimate HTML Developer — If you want to be a web developer, you're going to have to get acquainted with HTML.Web Design JavaScript Front-End Code Course — This course covers how to select elements from the web page with JavaScript.With 11 courses and over 69 hours of content, you can't go wrong with the 2020 Ultimate Web Developer and Design Bootcamp Bundle, which is on sale for £30.98 for a limited time. 
+date: 1603099203.6636107 
+--- 
+<div><p>Products featured here are selected by our partners at StackCommerce.If you buy something through links on our site, Mashable may earn an affiliate commission.</p><p><strong>TL;DR:</strong> The <a href="https://zdcs.link/q26kB" target="_blank">2020 Ultimate Web Developer &amp; Design Bootcamp Bundle</a> is on sale for &#163;30.98 as of Oct. 18, saving you 98% on list price.</p>
+
+<p>The year 2020: what an absolute doozy. Hopefully, your job is steady despite the circumstances &#8212; and cutting it for you in terms of wage and fulfillment. But if that's not the case, you may need to beef up your CV a little to make it shine for (better paying) potential employers.</p>
+<p>If you've got your heart set on a lucrative position in tech as a web developer, here's something to get you started: the <a href="https://zdcs.link/q26kB" target="_blank">2020 Ultimate Web Developer and Design Bootcamp Bundle</a>. This in-depth training packs 11 courses on a wide array of tools and languages, so you can learn them all or poke around to focus on just the specialties you're pursuing. At just &#163;30.98, it's worth it for even just a few of the courses. &#160;</p>
+<p class="see-also-link">SEE ALSO: <a href="https://mashable.com/shopping/oct-9-web-development-master-class/?utm_cid=a-seealso">Learn to develop your own website with these courses on sale</a></p><p>Here's what's inside:&#160;</p>
+<p><strong>The Complete 2020 HTML5 CSS3 Course with Flexbox, Grid, and SASS </strong>&#8212; This course is called the "Golden Introduction to Web Development" because it teaches you about the structure of a webpage, building with HTML5, and stylising with CS33 so you can confidently design, code, and launch websites at the professional level.&#160;</p>
+<p><strong>Modern Web Design&#160;Complete HTML and CSS </strong>&#8212; Take your skills up a notch with this course, which covers everything you need to know about front-end web design in HTML5, CSS3, and JavaScript.&#160;</p>
+<p><strong>The Ultimate HTML Developer </strong>&#8212;&#160;If you want to be a web developer, you're going to have to get acquainted with HTML. This deep dive will teach you how to write HTML from scratch so you can forget about that CS degree.&#160;</p>
+<p><strong>Build Responsive Real-World Websites with CSS3 v2.0 </strong>&#8212;<strong>&#160;</strong>Consider this class your personal CSS masterclass, complete with an e-book and interactive tools.&#160;</p>
+<p><strong>Create an 8-Bit Style Website </strong>&#8212;<strong>&#160;</strong>This fun course allows you to create a retro-style 8-bit website to get familiar with portfolio and hobby sites.&#160;</p>
+<p><strong>Understanding APIs and RESTful APIs Crash Course </strong>&#8212;<strong>&#160;</strong>By the end of this class, you'll know the ins and outs of APIs and how computers communicate, so you don't have to pretend to know what's going on in team meetings.</p>
+<p><strong>JavaScript for Beginners: Learn with 6 Main Projects </strong>&#8212;<strong>&#160;</strong>Often, Java courses only teach you the programming side of Java. But the truth is, JavaScript is an interactive programming language and you have to get to grips with the interactive side at some point.</p>
+<p><strong>Git Essentials: The Step-by-Step Guide to Git and GitHub Mastery </strong>&#8212; Git is the secret tool among developers since it is so widespread. There are a host of commands you'll use every day in your new workflow, which are all covered in this course.&#160;</p>
+<p><strong>JavaScript Essentials </strong>&#8212;<strong>&#160;</strong>JavaScript fundamentals time. Get fluent in variables, query selectors, functions, and much much more in this course. This training is specially designed to give you transferable programming skills so you can become a full stack developer.&#160;</p>
+<p><strong>Python for Everybody: The Ultimate Python 2 Bootcamp </strong>&#8212;<strong>&#160;</strong>Python isn't called the language that can "do it all" for nothing. Set yourself up for success in every Python-related industry with this one.&#160;</p>
+<p><strong>Web Design JavaScript Front-End Code Course </strong>&#8212;<strong>&#160;</strong>This course covers how to select elements from the web page with JavaScript. With mini-projects, you can practice making your website shine.&#160;</p>
+<p>With 11 courses and over 69 hours of content, you can't go wrong with the <a href="https://zdcs.link/q26kB" target="_blank">2020 Ultimate Web Developer and Design Bootcamp Bundle</a>, which is on sale for &#163;30.98 for a limited time.</p>
+</div>
