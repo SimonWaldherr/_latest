@@ -1,0 +1,19 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1273832984.jpg?w=600 
+title: > 
+  Are VCs cutting checks in the closing days of the 2020 election? – TechCrunch 
+description: > 
+  Are VCs cutting checks in the closing days of the 2020 election?Each investor's perspective is directly informed by their firm's thesisBefore the 2016 election, Vice Ventures founder and general partner Catharine Dockery was bullish about the future of recreational cannabis in the United States.While that may be good news for founders, Von Tobel said Inspired Capital is not giving too much weight to the election internally.“We think of ourselves as patient capital, focused on looking for the best companies no matter the timing,” she said.It seems that firms that have more niche investment theses have been more likely to change their pace ahead of the election. 
+date: 1603125935.5368993 
+--- 
+<div><p>Are VCs cutting checks in the closing days of the 2020 election? Each investor's perspective is directly informed by their firm's thesis</p><p id="speakable-summary">Before the 2016 election, Vice Ventures founder and general partner Catharine Dockery was bullish about the future of recreational cannabis in the United States.</p>
+<p>&#8220;We saw quite a bit more optimism around national legalization, with the feeling that a wave of states legalizing recreational use would be the final push needed&#8221; to see drug reform, she said. It was good news for Dockery, who was planning to launch a firm investing in categories like cannabis, CBD, psychedelics and sextech.</p>
+<p>She announced a $25 million fund in June 2019, but the national policy landscape had shifted considerably.</p>
+<p>&#8220;The vitriol and division around the election really haven&#8217;t left room for substantive discussions. I think this will eventually change, but don&#8217;t have high hopes for much policy debate until the election is complete, if at all,&#8221; she said. &#8220;In a time of uncertainty, we&#8217;re taking a small step back.&#8221;</p>
+<p>Along with many VC firms, Vice Ventures has raised the bar regarding which startups it will fund, but several investors told TechCrunch they were split about how they&#8217;re making decisions in the closing days of the presidential campaign. After <a href="https://techcrunch.com/2020/08/31/what-pandemic-inside-bostons-scorching-vc-summer/">a booming summer</a>, some said momentum is increasing, while others told us that expectations have never been higher for startups.</p>
+<p>&#8220;If anything, the pace is increasing,&#8221; said Alexa Von Tobel of Inspired Capital. Traditionally, she said founders scale back on fundraising efforts close to the winter holidays because investors&#8217; vacation mentality is kicking in. This year, &#8220;I think we&#8217;ll continue to see founders taking advantage of the ample flow of capital right now and shore up resources so they can enter 2021 on strong footing,&#8221; she said.</p>
+<p>While that may be good news for founders, Von Tobel said Inspired Capital is not giving too much weight to the election internally.</p>
+<p>&#8220;We think of ourselves as patient capital, focused on looking for the best companies no matter the timing,&#8221; she said. &#8220;While we know the election will create noise and have an impact on businesses long-term, it does not have a place in our process right now.&#8221;</p>
+<p>Inspired Capital invests more broadly in the early-stage environment, which plays a part in its ability to invest through crises and turbulence. It seems that firms that have more niche investment theses have been more likely to change their pace ahead of the election.</p><p class="extra-crunch-offer-container"></p>			</div>
