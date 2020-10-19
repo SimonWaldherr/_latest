@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DRI5I4AO5AI6XNAERUPGOXWHAE.jpg&w=1440 
+title: > 
+  Coronavirus live updates: Fauci ‘absolutely not’ surprised Trump contracted virus after ‘superspreader’ event 
+description: > 
+  “Well that depends on the [Trump] administration,” Pelosi said on ABC’s “This Week” when asked if it was still possible to get relief to Americans ahead of the election barely two weeks from now.Pelosi’s on-again-off-again talks with Mnuchin over a deal costing between $1.8 trillion and $2.2 trillion have been dragging on for months without producing results.The window for action is narrowing fast.For the first time, Pelosi put a deadline on them, indicating that if no agreement can be struck by Tuesday, it will not be possible to produce a new relief deal by the election.Pelosi and Mnuchin spoke for 75 minutes on Saturday and agreed to speak again on Monday. 
+date: 1603083762.9700449 
+--- 
+<div><p>House Speaker Nancy Pelosi (D-Calif.) said Sunday that an economic stimulus deal must be struck within 48 hours in order for Congress to pass legislation before Election Day, but she noted that significant differences still divide her and Treasury Secretary Steven Mnuchin.</p><p>&#8220;Well that depends on the [Trump] administration,&#8221; Pelosi said on ABC&#8217;s &#8220;This Week&#8221; when asked if it was still possible to get relief to Americans ahead of the election barely two weeks from now.</p><p class="font--body font-copy gray-darkest ma-0 pb-md ">Pelosi&#8217;s <a href="https://www.washingtonpost.com/us-policy/2020/10/15/trump-stimulus-economy-congress/?itid=lk_inline_manual_5&amp;itid=lk_inline_manual_17">on-again-off-again talks with Mnuchin</a> over a deal costing between $1.8 trillion and $2.2 trillion have been dragging on for months without producing results. The window for action is narrowing fast. For the first time, Pelosi put a deadline on them, indicating that if no agreement can be struck by Tuesday, it will not be possible to produce a new relief deal by the election. Pelosi and Mnuchin spoke for<a href="https://twitter.com/TreasurySpox/status/1317632214335631360"> 75 minutes</a> on Saturday and agreed to speak again on Monday.</p></div>
