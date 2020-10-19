@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static.independent.co.uk/2020/10/16/13/Landing%20Bay%20and%20Pier%20on%20Lundy.jpg 
+title: > 
+  Lundy Island: How a micronation turned into a wildlife haven 
+description: > 
+  D olphins!”, exclaims a crewmember from beneath their mask as I fumble furiously on the swaying deck for my camera.Grey fins are cutting a path through the Bristol Channel, but the dolphins are too fast for me.“Don’t worry, they’ll be back”, says the crewmember confidently.“We even saw a Minke Whale on the crossing last week!”MS Oldenburg is barely half an hour out of Ilfracombe Harbour on its journey to Lundy Island and already we’re encountering the local marine life.The water surrounding this small island off the north Devon coastline has long been a favourite among divers and snorkellers, and, in 2010, Lundy became the UK’s first official Marine Conservation Zone. 
+date: 1603109091.0234778 
+--- 
+<div><p class="sc-qPyvj qchtz">D</p><p>olphins!&#8221;, exclaims a crewmember from beneath their mask as I fumble furiously on the swaying deck for my camera. Grey fins are cutting a path through the Bristol Channel, but the dolphins are too fast for me. &#8220;Don&#8217;t worry, they&#8217;ll be back&#8221;, says the crewmember confidently. &#8220;We even saw a Minke Whale on the crossing last week!&#8221;</p><p><i>MS Oldenburg</i> is barely half an hour out of Ilfracombe Harbour on its journey to Lundy Island and already we&#8217;re encountering the local marine life. I shouldn&#8217;t really be surprised. The water surrounding this small island off the north Devon coastline has long been a favourite among divers and snorkellers, and, in 2010, Lundy became the UK&#8217;s first official Marine Conservation Zone.</p><p>It&#8217;s a two-hour voyage in calm seas from Ilfracombe to Lundy, a journey that the island&#8217;s dependable supply ship has been making for decades. <i>MS Oldenburg</i> ferries fresh tourists and fresh supplies every season from March until late October. Then when the sea becomes too rough, the island helicopter takes over transport duties.</p><p class="sc-ptCms fzKffT"></p></div>

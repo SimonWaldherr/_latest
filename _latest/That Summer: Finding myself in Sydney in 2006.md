@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/08/21/16/bondi.jpg 
+title: > 
+  That Summer: Finding myself in Sydney in 2006 
+description: > 
+  A fter a post-graduation year living in a hedonistic den with – count them – 12 other people, the call of adulthood was becoming harder to ignore.With a heavy heart, I returned to the parental nest in Yorkshire with the aim of saving up to go backpacking.I held two jobs: packing Milkybars in a chocolate factory and working as a receptionist in return for the princely sum of £12,000 per annum.Saddled as I was with various credit card debts, it quickly became clear that saving any sum of substance was out of the question.So I did what any financially irresponsible twenty-something in the mid-noughties did: I applied for a loan. 
+date: 1603109092.7442787 
+--- 
+<div><p class="sc-qPyvj qchtz">A</p><p>fter a post-graduation year living in a hedonistic den with &#8211; count them &#8211; 12 other people, the call of adulthood was becoming harder to ignore. Friends were establishing themselves in &#8216;proper&#8217; careers, while my biggest achievement was making it through another week without vomiting in the sink at the foot of my bed after (another) mid-week sesh. It was time for a change.</p><p>With a heavy heart, I returned to the parental nest in Yorkshire with the aim of saving up to go backpacking. I held two jobs: packing Milkybars in a chocolate factory and working as a receptionist in return for the princely sum of &#163;12,000 per annum. Saddled as I was with various credit card debts, it quickly became clear that saving any sum of substance was out of the question. So I did what any financially irresponsible twenty-something in the mid-noughties did: I applied for a loan.</p><p>In the pre-credit crunch era, I simply walked into a bank, informed them of my income and what I wanted the loan for (&#8220;travelling&#8221;), signed on the dotted line and, within a matter of days, &#163;10,000 had been deposited into my current account. It was outrageously easy. </p></div>

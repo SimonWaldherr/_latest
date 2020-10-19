@@ -1,0 +1,28 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/travel/Spark/singapore-airlines/singapore-airlines-cabin-crew.jpg?impolicy=logo-overlay 
+title: > 
+  Airline drops 'flights to nowhere' after environmental outcry 
+description: > 
+  Singapore Airlines (SIA) has ditched its controversial ‘flights to nowhere’ after a staunch backlash from environmental campaigners.Environmentalist groups reacted with outrage when SIA first touted its plans for round-trip flights, with Singapore-based SG Climate Rally (SGCR) leading calls for the idea to be scrapped.The Australian carrier has claimed that the flights’ carbon emissions will be offset by environment projects around the Pacific, although they have still been roundly condemned by campaigners.At a time when all industries need to be urgently reducing their emissions massively, Qantas’s ‘sustainability’ claims of offsetting flight emissions is a scam that allows their emissions to continue on the back of buying the reductions of others.In November, the airline will begin hosting tours of its staff training facility, with turns on the flight simulator for adults and a cabin crew role-playing area for children. 
+date: 1603109081.4557376 
+--- 
+<div><p>Singapore Airlines (SIA) has ditched its controversial &#8216;flights to nowhere&#8217; after a staunch backlash from environmental campaigners.</p>
+<p>With many of its planes still grounded as a result of the ongoing pandemic, the airline had proposed <a href="https://www.telegraph.co.uk/travel/destinations/asia/singapore/articles/singapore-airlines-launching-flights-to-nowhere/" target="_blank">a series of no-destination trips</a> as a way to boost cashflow, selling tickets for three-hour flights departing and landing at Singapore Changi Airport.</p>
+<p>Demand for the flights was believed to be strong among Singaporean residents, who are currently barred from travelling to all but a few destinations, but SIA has now pulled out of the enterprise after an internal review.</p>
+<p>Environmentalist groups reacted with outrage when SIA first touted its plans for round-trip flights, with Singapore-based SG Climate Rally (SGCR) leading calls for the idea to be scrapped.</p>
+<p>SGCR said in a statement: &#8220;As a climate movement that prioritises the well-being of people and planet, we believe air travel has always caused environmental harm, and it is now an opportune moment for us to think seriously about transitions instead of yearning to return to a destructive status quo.&#8221;</p>
+<p>Qantas has faced a similar fallout after announcing the <a href="https://www.telegraph.co.uk/travel/news/flights-to-nowhere-flightseeing/" target="_blank">return of its 12-hour &#8220;flightseeing&#8221; routes over Antarctica</a>, which will run between November and February and are expected to sell for as much as AUD 8,000 (&#163;4,445) per seat.</p>
+<p>The Australian carrier has claimed that the flights&#8217; carbon emissions will be offset by environment projects around the Pacific, although they have still been roundly condemned by campaigners.</p>
+<p>Mark Carter of Flight Free Australia said: &#8220;Our home is on fire. At a time when all industries need to be urgently reducing their emissions massively, Qantas&#8217;s &#8216;sustainability&#8217; claims of offsetting flight emissions is a scam that allows their emissions to continue on the back of buying the reductions of others. It&#8217;s like agreeing to pour a bucket of petrol on the burning house for every bucket of water you throw.&#8221;</p>
+<p>For most airlines, however, environmental concerns are overshadowed by the need to stave off bankruptcy, and while SIA has yielded in the face of public opprobrium, its executives are left with the challenge of saving the company after six months of dwindling revenues brought about by worldwide travel bans.</p>
+<p>The airline is currently operating at less than 10 per cent of capacity, and is now in the process of axing 4,000 jobs &#8211; around 20 per cent of its workforce.</p>
+<p>But an appeal to Singaporeans for ideas on how to boost income has given birth to three new initiatives that could help avert financial catastrophe.</p>
+<p>From October 12, customers will be able to <a href="https://www.telegraph.co.uk/business/2020/09/29/singapore-airlines-turns-a380-pop-up-restaurant/" target="_blank">book tables at a new restaurant</a> located inside one of the SIA&#8217;s grounded Airbus 380s (the largest passenger plane in the world), with service from airline staff and different menus according to cabin class.</p>
+<p>Plane food enthusiasts will also be able to order in-flight meals by delivery, with First Class of Business Class meals brought to the door by cabin crew, and branded dining ware included in the higher-price packages.</p>
+<p>In November, the airline will begin hosting tours of its staff training facility, with turns on the flight simulator for adults and a cabin crew role-playing area for children.</p>
+<p>&#8220;These experiences offer something for everyone &#8211; from frequent flyers who miss our world-class in-cabin products and service, to couples and families who want an exclusive dining experience, and parents who are after an enjoyable activity-filled day with their children during the school holidays,&#8221; said SIA&#8217;s CEO, Goh Choon Phong.</p>
+<p>&#8220;There has been a lot of interest in our customer engagement initiatives over the last few weeks, and I would like to thank everyone for their great ideas and suggestions. We are very encouraged by and grateful for the enthusiasm and passion that we have seen.&#8221;</p>
+<p></p>
+</div>
