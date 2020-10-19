@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static.independent.co.uk/2020/10/19/06/newFile.jpg 
+title: > 
+  Man climbs Trump Tower Chicago, threatening to jump if he cannot speak to president 
+description: > 
+  A man has suspended himself off the top of Trump Tower in Chicago, and is reportedly threatening to jump if he doesn’t get to meet the US president Donald Trump.The man, who is said to be in his twenties, used a harness to climb up the 16-floor building and was first spotted at around 5.30pm local time.According to the Chicago Sun-Times, the man said that he wants to speak to the president and has threatened to cut the rope he is hanging from if this wish isn’t fulfilled.The man hasn’t specified any other demands, or a reason why he wants to meet the president.Police told the Sun-Times that someone was attempting to negotiate with the man and get him down safely. 
+date: 1603118294.5432234 
+--- 
+<div><p class="sc-pHJJA iocNwz above-article-prompt-donations"></p><p>A man has suspended himself off the top of Trump Tower in Chicago, and is reportedly threatening to jump if he doesn&#8217;t get to meet the US president Donald Trump.</p><p>The man, who is said to be in his twenties, used a harness to climb up the 16-floor building and was first spotted at around 5.30pm local time. He was still dangling several hours later on Sunday evening, as authorities tried to convince him to get down.</p><p></p><p>According to the <i>Chicago Sun-Times</i>, the man said that he wants to speak to the president and has threatened to cut the rope he is hanging from if this wish isn&#8217;t fulfilled.</p><p id="article-im-prompt"></p><p>&#8220;I am protesting,&#8221; the man was quoted as saying. Videos of the incident have been filmed by crowds below, while the man also appears to be filming himself.</p><p></p><p></p><p>The man hasn&#8217;t specified any other demands, or a reason why he wants to meet the president. &#160;</p><p class="sc-oTaAA eBoKzo"></p><p>Police told the <i>Sun-Times</i> that someone was attempting to negotiate with the man and get him down safely.</p><p>The roads near the tower, that overlooks the Chicago River, have been blocked while the situation is ongoing.</p><p> </p><p class="sc-ptCms fzKffT"></p></div>
