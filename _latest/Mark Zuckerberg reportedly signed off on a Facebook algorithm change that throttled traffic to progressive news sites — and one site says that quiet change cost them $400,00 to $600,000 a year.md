@@ -1,0 +1,26 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8a2472d260780019341fd9?width=1200&format=jpeg 
+title: > 
+  Mark Zuckerberg reportedly signed off on a Facebook algorithm change that throttled traffic to progressive news sites — and one site says that quiet change cost them $400,00 to $600,000 a year 
+description: > 
+  In particular, the move affected Mother Jones, a left-leaning news outlet known for its investigations, WSJ reported.Following Friday's report, Mother Jones editor in chief Clara Jeffrey slammed the social media company, estimating that the move cost the publication $400,000 to $600,000.In 2019, Mother Jones published a report that claimed Facebook was "killing real news."It used its own traffic data to show how after Facebook-referred traffic surpassed 20 million page views in early 2017, traffic diminished to less than 5 million page views in late 2017 and 2018.Read The Wall Street Journal's full report here. 
+date: 1603120567.4965563 
+--- 
+<div><ul class="summary-list">
+<li>Mark Zuckerberg signed off on a change to Facebook's algorithm in late 2017 that throttled traffic to progressive news organizations "more than previously planned," following concerns the algorithm change would otherwise disproportionately impact conservative media, according to a new report from The Wall Street Journal.</li>
+<li>In particular, the move affected Mother Jones, a left-leaning news outlet known for its investigations, WSJ reported.</li>
+<li>On Friday, the Mother Jones Editor in Chief said that the move had cost the outlet $400,000 to $600,000, and that Facebook had lied to them about the change in meetings in 2017.&#160;</li>
+<li>"We did not make changes with the intent of impacting individual publishers," a Facebook spokesperson said in a statement to Business Insider.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-sai-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-sai-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Mark Zuckerberg signed off on a Facebook algorithm change in 2017 that throttled traffic to progressive news sites, costing journalism outlet Mother Jones hundreds of thousands of dollars, according to <a href="https://www.wsj.com/articles/how-mark-zuckerberg-learned-politics-11602853200">a report by The Wall Street Journal</a> and <a href="https://twitter.com/ClaraJeffery/status/1317199501136859136">comments by Mother Jones senior staff</a> published Friday.</p><p>The Wall Street Journal report cited sources that said Facebook was concerned about negatively affecting conservative news outlets when it planned on changing the algorithm that governs users' news feeds in 2017. In turn, Mark Zuckerberg signed off on an alternative that targeted "left-leaning sites like Mother Jones...more than previously planned," WSJ reported.</p><p>Following Friday's report, Mother Jones editor in chief Clara Jeffrey slammed the social media company, estimating that the move cost the publication $400,000 to $600,000. In addition, Jeffrey, and Mother Jones editorial director Ben Dreyfuss, wrote that Facebook representatives had lied to them in meetings about the change in 2017. Dreyfuss tweeted that, "they just swore up and down that wasn't what was happening," on Friday.</p><p>"We did not make changes with the intent of impacting individual publishers," a Facebook spokesperson wrote in a statement to Business Insider on Friday. "We only made updates after they were reviewed by many different teams across many disciplines to ensure the rationale was clear and consistent and could be explained to all publishers."</p>
+<p id="gpt-post-sai-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-sai-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>In 2019, Mother Jones <a href="https://www.motherjones.com/politics/2019/02/how-facebook-screwed-us-all/">published a report</a> that claimed Facebook was "killing real news." It used its own traffic data to show how after Facebook-referred traffic surpassed 20 million page views in early 2017, traffic diminished to less than 5 million page views in late 2017 and 2018.&#160;</p><blockquote class="twitter-tweet blockquote">&#8212;Person Woman Man Camera TV  (@ClaraJeffery) <a href="https://twitter.com/mims/statuses/1317191624653369344?ref_src=twsrc%5Etfw">October 16, 2020</a></blockquote><p>&#160;</p><p>These dates align with the Wall Street Journal's report that Facebook made changes to the algorithm that de-emphasized Mother Jones' content in late 2017.</p><p>When she published the 2019 report, Jeffrey wasn't aware that Facebook had made any policy changes "targeting us in particular," she tweeted on Friday. Jeffrey called Facebook's actions, "an intentional change to hurt shops that do serious investigative journalism," in a tweet on Friday.</p><p>Read The Wall Street Journal's full report <a href="https://www.wsj.com/articles/how-mark-zuckerberg-learned-politics-11602853200">here</a>. Read Jeffrey's full comments <a href="https://twitter.com/ClaraJeffery/status/1317199501136859136">here</a>.&#160;</p>
+                  </div>

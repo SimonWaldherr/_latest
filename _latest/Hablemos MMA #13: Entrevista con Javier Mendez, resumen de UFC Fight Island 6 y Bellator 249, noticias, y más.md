@@ -1,0 +1,15 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2020/07/hablemos-mma-1000-thumbnail.jpg?w=1000&h=563&crop=1 
+title: > 
+  Hablemos MMA #13: Entrevista con Javier Mendez, resumen de UFC Fight Island 6 y Bellator 249, noticias, y más 
+description: > 
+  (Editor’s note: Hablemos MMA is MMA Junkie’s weekly Spanish-language podcast hosted by reporter Danny Segura.New episodes are released every Monday on Apple Podcasts, Spotify, and more of your favorite podcasting platforms.You can also stream or download the latest episode here.)En el episodio 13 de Hablemos MMA, Danny Segura entrevista a Javier Mendez acerca la defensa de titulo de Khabib Nurmagomedov contra Justin Gaetheje en UFC 254, la lucha de Gaethje, futuras peleas con Georges St-Pierre o Conor McGregor, y mucho más.También analizamos los resultados de UFC Fight Island 6, Bellator 249, y repasamos las ultimas noticias de la semana incluyendo McGregor acepta pela con Dustin Poirier, fichaje Petr Yan vs. Aljamain Sterling, Cynthia Calvillo fuera de UFC 254, y mucho y más. 
+date: 1603120564.07796 
+--- 
+<div><p></p>
+<p>(Editor&#8217;s note: Hablemos MMA is MMA Junkie&#8217;s weekly Spanish-language podcast hosted by reporter Danny Segura. New episodes are released every Monday on&#160;<a href="https://podcasts.apple.com/us/podcast/hablemos-mma/id1525085776">Apple Podcasts</a>,&#160;<a href="https://open.spotify.com/show/48EeTeOyDnE5brUBq1en8z?si=aZsT9RgNTmmJt0GPoFwHCA">Spotify</a>, and more of your favorite podcasting platforms. You can also stream or download the latest episode&#160;<a href="https://omny.fm/shows/mma-junkie-radio/entrevista-con-stitch-duran-resumen-de-ufc-on-espn">here</a>.)</p>
+<p>En el episodio 13 de Hablemos MMA, Danny Segura entrevista a <a href="https://mmajunkie.usatoday.com/tag/javier-mendez">Javier Mendez</a> acerca la defensa de titulo de <a href="https://mmajunkie.usatoday.com/tag/khabib-nurmagomedov">Khabib Nurmagomedov</a> contra <a href="https://mmajunkie.usatoday.com/tag/justin-gaetheje">Justin Gaetheje</a> en UFC 254, la lucha de Gaethje, futuras peleas con <a href="https://mmajunkie.usatoday.com/tag/georges-st-pierre">Georges St-Pierre</a> o <a href="https://mmajunkie.usatoday.com/tag/conor-mcgregor">Conor McGregor</a>, y mucho m&#225;s.</p>
+<p>Tambi&#233;n analizamos los resultados de UFC Fight Island 6, Bellator 249, y repasamos las ultimas noticias de la semana incluyendo McGregor acepta pela con <a href="https://mmajunkie.usatoday.com/tag/dustin-poirier">Dustin Poirier</a>, fichaje <a href="https://mmajunkie.usatoday.com/tag/petr-yan">Petr Yan</a> vs. <a href="https://mmajunkie.usatoday.com/tag/aljamain-sterling">Aljamain Sterling</a>, <a href="https://mmajunkie.usatoday.com/tag/cynthia-calvillo">Cynthia Calvillo</a> fuera de UFC 254, y mucho y m&#225;s.</p>
+</div>

@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/16/nyregion/00nyvirus-schooltesting1/00nyvirus-schooltesting1-facebookJumbo.jpg 
+title: > 
+  Surprising Results in Initial Virus Testing in N.Y.C. Schools 
+description: > 
+  For months, as New York City struggled to start part-time, in-person classes, fear grew that its 1,800 public schools would become vectors of coronavirus infection, a citywide archipelago of super-spreader sites.But nearly three weeks into the in-person school year, early data from the city’s first effort at targeted testing has shown the opposite: a surprisingly small number of positive cases.Out of 15,111 staff members and students tested randomly by the school system in the first week of its testing regimen, the city has gotten back results for 10,676.There were only 18 positives: 13 staff members and five students.And when officials put mobile testing units at schools near Brooklyn and Queens neighborhoods that have had new outbreaks, only four positive cases turned up — out of more than 3,300 tests conducted since the last week of September. 
+date: 1603120541.6109917 
+--- 
+<div><p class="css-158dogj evys1bk0">For months, as New York City struggled to start part-time, in-person classes, fear grew that its 1,800 public schools would become vectors of coronavirus infection, a citywide archipelago of super-spreader sites.</p><p class="css-158dogj evys1bk0">But nearly three weeks into the in-person school year, early data from the city&#8217;s first effort at targeted testing has shown the opposite: a surprisingly small number of positive cases.</p><p class="css-158dogj evys1bk0">Out of 15,111 staff members and students tested randomly by the school system in the first week of its testing regimen, the city has gotten back results for 10,676. There were only 18 positives: 13 staff members and five students.</p><p class="css-158dogj evys1bk0">And when officials put mobile testing units at schools near Brooklyn and Queens neighborhoods that have had new outbreaks, only four positive cases turned up &#8212; out of more than 3,300 tests conducted since the last week of September.</p></div>
