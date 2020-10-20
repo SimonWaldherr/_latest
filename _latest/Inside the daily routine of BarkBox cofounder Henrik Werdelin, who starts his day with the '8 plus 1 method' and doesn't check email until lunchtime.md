@@ -1,0 +1,66 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8e0e7bc21cfb0019468ea2?width=1200&format=jpeg 
+title: > 
+  Inside the daily routine of BarkBox cofounder Henrik Werdelin, who starts his day with the '8 plus 1 method' and doesn't check email until lunchtime 
+description: > 
+  Henrik Werdelin is the cofounder of the subscription dog products company Bark, which reported over $375 million in annual revenue, 400 employees, and 900,000 subscribers.He starts his day waking up without an alarm and using the "8 plus 1 method" to review a list of eight priorities for the day.He doesn't check his email until midday and signs off about 6 p.m. to spend time with his family."I call my direct reports, and we go through outstanding items for the day," Werdelin said.11:30 a.m. to 1 p.m.: He eats lunch and checks email, social media, and the newsWerdelin allots 90 minutes to check email and social media while eating lunch. 
+keywords: > 
+  ['working', 'bark', 'method', 'plus', 'day', 'henrik', 'routine', 'lunchtime', 'inside', 'sleep', 'family', 'wife', 'doesnt', 'starts', 'dog', 'social', 'email', 'werdelin'] 
+date: 1603218076.9220598 
+--- 
+<div><ul class="summary-list">
+<li>Henrik Werdelin is the cofounder of the subscription dog products company Bark, which reported over $375 million in annual revenue, 400 employees, and 900,000 subscribers.</li>
+<li>Werdelin shared with Business Insider how he strikes a healthy balance between his personal and professional life when working from home during the pandemic.&#160;</li>
+<li>He starts his day waking up without an alarm and using the "8 plus 1 method" to review a list of eight priorities for the day.</li>
+<li>He doesn't check his email until midday and signs off about 6 p.m. to spend time with his family.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-sai-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-sai-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Danish-born Henrik Werdelin leads a busy life. The former MTV executive and BBC producer is the cofounder and de facto chief creative officer of <a href="https://www.bark.co">Bark</a>, where he oversees design, marketing, and public relations for the pet subscription services <a href="https://www.barkbox.com">BarkBox</a> and <a href="https://www.barkbox.com/super-chewer">Super Chewer</a>, the e-commerce site <a href="https://barkshop.com">Bark Shop</a>, the dog-products line <a href="https://www.barkessentials.com">Bark Essentials</a>, the pet-food line <a href="https://welcome.barkeats.com">Bark Eats</a>, and the dental-hygiene line <a href="https://www.barkbox.com/brightdental">Bark Bright</a>.&#160;</p><p>Since the company's founding in 2012, he's led his team in creating more than 4,000 cleverly themed dog toys and treats and has developed a cult following of millions of fans across social media, including the celebrities Reese Witherspoon and <a href="https://www.billboard.com/articles/columns/hip-hop/8511162/t-pain-its-my-dog-birthday-video">T-Pain</a>.</p><p>With over $375 million in annual revenue, 400 employees, and 900,000 subscribers, according to the company, the New York City-based Series C startup has <a href="https://www.prnewswire.com/news-releases/bark--co-raises-60-million-in-new-funding-round-300269861.html">raised $60 million to date</a> with a board that includes Werdelin, his cofounders Matt Meeker (a Meetup cofounder) and Carly Strife (an early Uber executive), new Bark CEO Manish Joneja, investors Tripp Jones of August Capital, Stuart Ellman of RRE Ventures, and Michael Hirshland of Resolute Ventures, and former Hot Topic CEO Betsy McLaughlin.</p><p>
+      <img class="lazy-image " src="" alt="Scoob! BarkBox">
+    
+    
+      <img src="https://i.insider.com/5f8e10bfc21cfb0019468ea4?width=600&amp;format=jpeg&amp;auto=webp">
+    
+    
+    
+        Scoob! BarkBox.
+      
+
+        
+          BARK
+        
+    
+</p><p>Werdelin is also founding partner of <a href="https://prehype.com">Prehype</a>, a venture studio that partners with global brands like Coca-Cola, News Corp., Under Armour, and Lego, as well as seed startups like the men's telehealth unicorn Roman. He recently authored "<a href="https://hellohenrik.com/book">The Acorn Method: How Companies Get Growing Again</a>," and on any given day he can be found juggling dozens of projects including blogging, mentoring, and hosting podcasts.</p><p>But unlike pre-COVID-19 times when he would "butterfly around" the world, racing from one meeting to the next, he said these days he spends nearly all of his time hunkering down in his Brooklyn brownstone with his wife, Mette, 6-year-old son Anton, baby Emil, and dog Molly. As the pandemic rages on, he says he avoids <a href="https://www.businessinsider.com/a-guide-to-maintaining-your-mental-health-during-coronavirus-pandemic-2020-4">work-from-home burnout</a> by embracing the Danish concept of "hygge," which brings a cozy intimacy to family, home, and work life.</p><p>Mindfulness has also been key. "Being present helps conserve bandwidth needed to do a good job," he told Business Insider.</p><p>Here's how he's doing it.</p><h2><strong>6:30 a.m. to 7 a.m.: He wakes up and starts his morning meditation</strong></h2><p>Werdelin wakes up without an alarm and gets 7 1/2 hours of sleep, which he tracks with an <a href="https://ouraring.com/">Oura Ring</a> (a popular device among executives like <a href="https://www.businessinsider.com/zynga-president-bernard-kim-daily-routine-health-sleep-tips-2020-10">Zynga President Bernard Kim</a> and <a href="https://www.businessinsider.com/daily-routine-health-tips-upfront-ventures-vc-mark-suster-2020-10">Upfront Ventures managing partner Mark Suster</a>). Upon waking, he checks sleep stats on his phone. He doesn't check social media, news, or his email until midday and has notifications turned off.&#160;</p>
+<p id="gpt-post-sai-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-sai-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>"The morning sets the mood for the entire day," he said. "I don't want to ruin the moment."</p><p>He then lies in quiet contemplation and thinks about what he wants to accomplish with his day. He uses a process called the "<a href="https://medium.com/@werdelin/the-quest-to-be-good-at-everything-898524cfc3f3">8 plus 1 method</a>" that he said he developed based on advice from AngelList founder Naval Ravikant. He reviews a mental checklist of eight priorities &#8212; transact, invest, assist, learn, health, family, relationships, and ego/self-kindness &#8212; and decides how he can fill his boxes for the day.&#160;</p><p>He said "transact" is about making enough money to pay expenses; "invest" is about putting in effort where it will pay off, "assist" is about helping others; "learn" is about advancing knowledge; "health" is about eating well, staying active, and sleeping better; "family" is about being a good son, father, and husband; "relationships" are about keeping up with the important people in his life; and "self-kindness" is about being good to himself.&#160;</p><p>"The 'plus 1' is setting the intention," he added. This helps him be strategic with his time and keeps him accountable for his choices.</p><h2><strong>7 a.m. to 7:30 a.m.: He enjoys a family cuddle</strong></h2><p>His wife and baby, who sleep by his side, begin to wake about 7. His 6-year-old son and dog will jump into bed to play, and the entire family welcomes the morning together.</p><p>
+      <img class="lazy-image " src="" alt="BarkBox.">
+    
+    
+      <img src="https://i.insider.com/5f8e1118c21cfb0019468ea5?width=600&amp;format=jpeg&amp;auto=webp">
+    
+    
+    
+        Feeding Molly.
+      
+
+        
+          Henrik Werdelin
+        
+    
+</p><h2><strong>7:30 a.m. to 8 a.m.: He eats breakfast</strong></h2><p>The family then gets dressed and goes upstairs for breakfast, where Werdelin feeds his dog and brushes her teeth. He drinks coffee and takes supplements but holds off on eating until 12 to 8 p.m. as part of an <a href="https://www.insider.com/new-research-finds-intermittent-fasting-may-not-boost-weight-loss-2020-9">intermittent-fasting diet</a> popular with tech executives (but <a href="https://www.businessinsider.com/jack-dorsey-intermittent-fasting-diet-risks-2019-4">not without controversy</a>).</p><h2><strong>8 a.m. to 10:30 a.m.: He attends morning meetings or helps with home schooling</strong></h2><p>The work day begins. With offices closed and schools online, Werdelin and his wife use various forms of childcare to make working from home possible. On days when he doesn't have back-to-back meetings, he tries to help with Anton's home schooling.</p><h2><strong>10:30 a.m. to 11 a.m.: He exercises</strong></h2><p>Werdelin exercises twice a week with his virtual fitness trainer and on other days on his exercise bike or with an online Peloton class for high-intensity interval training. Occasionally, he listens to meditation apps like <a href="https://www.gobble.com">Headspace</a> and <a href="https://insighttimer.com">Insight Timer</a>.</p>
+<p id="gpt-post-sai-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-sai-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<h2><strong>11 a.m. to 11:30 a.m.: He attends a team check-in</strong></h2><p>There is a daily check-in with his Bark team.&#160;</p><p>"I call my direct reports, and we go through outstanding items for the day," Werdelin said. He spends the most time with Mikkel Holm, Bark's vice president of creative, "on big projects we're working on," he said.</p><h2><strong>11:30 a.m. to 1 p.m.: He eats lunch and checks email, social media, and the news</strong></h2><p>Werdelin allots 90 minutes to check email and social media while eating lunch. He enjoys catching up on the news with <a href="https://www.economist.com/help/espresso">The Economist Espresso</a> and <a href="https://www.bbc.com/news/popular/read">BBC Top 10</a>. He usually orders a salad or wrap loaded with protein from the health chain Sweetgreen.</p><p>"I gain weight easily so try to follow <a href="https://michaelpollan.com/books/in-defense-of-food/">Michael Pollan's advice</a> to eat food, not too much, mostly plants," he said. "I don't count calories, but at this point COVID rules, 'being kind to yourself' box is very large for me these days."</p><h2><strong>1 p.m.: He takes a dog break</strong></h2><p>Werdelin takes his dog for a walk around the block when she's not on a <a href="https://www.doggiedaytrips.com/">Doggie Day Trip</a> adventure.</p><h2><strong>1 p.m. to 3 p.m.: He works on special projects</strong></h2><p>In the afternoon, he blocks one to two hours of time to focus on special projects without being disturbed. This might include working on developing a branding strategy or an upcoming presentation.</p><h2><strong>3 p.m. to 6 p.m.: He attends a meetings marathon</strong></h2><p>He ends his work day in back-to-back meetings, during which he'll stand up to stretch and walk a loop between his armchair and desk. He also challenges himself to stay hydrated by finishing all the water bottles on his desk. At 6 p.m., he signs off with a final email for the day.</p><h2><strong>6 p.m. to 7 p.m.: He spends time with his baby</strong></h2><p>He then goes downstairs to share in Emil's bath time. After the baby is asleep, he and his wife chat about what they want for dinner.&#160;</p>
+<p id="gpt-post-sai-mobile_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-sai-desktop_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>"Sometimes we order in, sometimes we use a meal-kit service like <a href="https://www.gobble.com">Gobble</a>," he said.</p><h2><strong>7 p.m. to 10 p.m.: He eats dinner and watches a show &#8212; or has Friday date night</strong></h2><p>Werdelin and his family gather with their 6-year-old for dinner and a show. Their guilty pleasure is <a href="https://www.nationalgeographic.com/shows/gordon-ramsay-uncharted/">Gordon Ramsay's "Uncharted."</a></p><p>On Fridays, he and his wife get a babysitter and head out for date night to enjoy outdoor dining and live music at a neighborhood cafe.</p><h2><strong>10 p.m. to 11 p.m.: He goes to bed</strong></h2><p>Nighttime is sacred, Werdelin said.&#160;</p><p>"I learned that if I'm in bed by 10:30 p.m. and asleep by 11 p.m., I'm far better off than I was when I was drifting off by midnight," he said.</p><p>To settle down, he puts his phone away and reads for 30 minutes on a Kindle-like Android device that has no apps other than <a href="https://www.instapaper.com/">Instapaper</a>, a reader of bookmarked articles.&#160;</p><p>"I'm pretty disciplined about sleep," he said. "Within a half hour, I'm out."</p>
+                  </div>

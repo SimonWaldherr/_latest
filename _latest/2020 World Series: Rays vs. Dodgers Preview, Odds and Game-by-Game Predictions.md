@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/images/photos/003/889/048/0083d5990be808a6b864244ff6ae0910_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  2020 World Series: Rays vs. Dodgers Preview, Odds and Game-by-Game Predictions 
+description: > 
+  0 of 10Tony Gutierrez/Associated PressMajor League Baseball didn't take its usual route to this point because of the coronavirus pandemic, but the 2020 World Series is finally here.Before the Tampa Bay Rays and Los Angeles Dodgers get things started at Globe Life Field on Tuesday night, it's time for us to size them up and predict how their Fall Classic will play out.The Rays are in the World Series after holding off a 3-0 comeback attempt by the Houston Astros in the American League Championship Series.The Dodgers are in because they overcame Atlanta's 3-1 lead in the National League Championship Series.Let's start by looking at the odds for the series and then dive deep into how the Rays and Dodgers match up. 
+keywords: > 
+  ['league', 'usual', 'gamebygame', 'odds', 'championship', 'vs', 'world', 'predictions', 'things', 'rays', 'dodgers', '2020', 'preview', 'tampa', 'series', 'predict'] 
+date: 1603218072.3761837 
+--- 
+<ol><p class="slideData">0 of 10</p><p></p><img alt="Will the Dodgers finally snap their championship drought?" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Tony Gutierrez/Associated Press</p><p class="">Major League Baseball <a href="https://www.mlb.com/news/mlb-announces-2020-regular-season" target="_blank" rel="noopener noreferrer">didn't take its usual route</a> to this point because of the coronavirus pandemic, but the 2020 World Series is finally here.</p><p class="">Before the Tampa Bay Rays and Los Angeles Dodgers get things started at Globe Life Field on Tuesday night, it's time for us to size them up and predict how their Fall Classic will play out.</p><p class="">The Rays are in the World Series after holding off a 3-0 comeback attempt by the Houston Astros in the American League Championship Series. The Dodgers are in because they overcame Atlanta's 3-1 lead in the National League Championship Series.</p><p class="">Let's start by looking at the odds for the series and then dive deep into how the Rays and Dodgers match up. After that, we'll predict exactly how the champions will be crowned.</p></ol>

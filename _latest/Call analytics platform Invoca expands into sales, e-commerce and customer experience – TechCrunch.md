@@ -1,0 +1,24 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1131823038.jpg?w=600 
+title: > 
+  Call analytics platform Invoca expands into sales, e-commerce and customer experience – TechCrunch 
+description: > 
+  Invoca, which helps companies extract and use data from customer phone calls, is expanding today with the launch of products for e-commerce, customer experience and sales teams, as well as a new Invoca Exchange, where businesses can find all of the platform’s third-party integrations.“‘We need to get aligned on how we support the revenue journey,'” Johnson recalled businesses telling him.For example, he said that agents at Invoca customer BBQGuys need data to understand what products to recommend for their customers if the specific grill that they want isn’t available.“We already give you ability to use this data at Invoca to automatically apply these insights without any human intervention at all.The Invoca Exchange, meanwhile, already includes more than 40 integrations, including Google, Salesforce, Facebook, Adobe, Tealium, and Five9. 
+keywords: > 
+  ['ecommerce', 'marketing', 'invoca', 'techcrunch', 'experience', 'platform', 'johnson', 'teams', 'businesses', 'analytics', 'sales', 'data', 'customer', 'expands'] 
+date: 1603218122.774998 
+--- 
+<div><p id="speakable-summary"><a href="https://www.invoca.com">Invoca</a>, which helps companies extract and use data from customer phone calls, is expanding today with the launch of products for e-commerce, customer experience and sales teams, as well as a new <a href="https://www.invoca.com/integrations">Invoca Exchange</a>, where businesses can find all of the platform&#8217;s third-party integrations.</p>
+<p>The company is making these announcements as part of its virtual <a class="crunchbase-link" href="https://crunchbase.com/organization/invoca" target="_blank">Invoca </a> Summit. Ahead of the event, CEO Gregg Johnson (previously an executive at Salesforce) told me that customers have been asking Invoca to expand beyond its previous focus on providing &#8220;conversation intelligence&#8221; to marketing teams.</p>
+<p>&#8220;&#8216;We need to get aligned on how we support the revenue journey,'&#8221; Johnson recalled businesses telling him. &#8220;We were already going down this path, but when COVID hit, we tripled down on it.&#8221;</p><p class="piano-inline-promo"></p>
+<p>He argued that the data that Invoca provides has become even more important during the pandemic and related lockdowns, when businesses only had &#8220;two sources of feedback&#8221; &#8212; digital interactions and customer conversations. And while there are plenty of analytics tools for tracking online behavior, Johnson said, &#8220;Customer conversations are really important because they get at why&#8221; people are behaving in a certain way.</p>
+<p>And at the same time, Johnson said call center teams have had to shift to working at home, which meant that they had to switch to online software and &#8220;everything broke,&#8221; while supervisors &#8220;no longer had any visibility into how agents were performing.&#8221;</p>
+<p></p><img class="size-large wp-image-2063347" src="https://techcrunch.com/wp-content/uploads/2020/10/Invoca_platform_view.jpg?w=680" alt="Invoca platform" width="680" height="431"><p>Invoca is trying to address these issues by making sure that marketing, sales, customer experience and e-commerce teams all have access to the same call data.</p>
+<p>For example, he said that agents at Invoca customer <a href="https://www.bbqguys.com">BBQGuys</a> need data to understand what products to recommend for their customers if the specific grill that they want isn&#8217;t available. Or a healthcare provider might use call data to predict and prepare when COVID cases might be rising in their area.</p>
+<p>&#8220;We&#8217;ve always viewed ourselves as an application and a platform,&#8221; Johnson added. &#8220;We already give you ability to use this data at Invoca to automatically apply these insights without any human intervention at all. So for us, we thought through use cases to feed this data into other tools and created four solutions &#8230; that are really joined at the hip.&#8221;</p>
+<p>Invoca for eCommerce, Invoca for Customer Experience and the existing Invoca for Marketing product are all available now, while Invoca for Sales is currently signing up beta testers for November.</p>
+<p>The Invoca Exchange, meanwhile, already includes more than 40 integrations, including Google, Salesforce, Facebook, Adobe, Tealium, and Five9. The company is also announcing new partnerships with FullStory and Criteo.</p>
+<p>&#160;</p>
+			</div>

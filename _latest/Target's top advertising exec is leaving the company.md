@@ -1,0 +1,27 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8f0e5a9e9fe4001900a5b5?width=1200&format=jpeg 
+title: > 
+  Target's top advertising exec is leaving the company 
+description: > 
+  Kristi Argyilan, the president of Target's in-house advertising arm Roundel and a longtime advertising exec, is leaving the company.Kristi Argyilan, the president of Target's in-house advertising arm Roundel, is leaving the company.Argyilan is a longtime advertising exec who has played a large role in building out Target's advertising arm that competes with Walmart, Amazon, and others.She has worked at Target since 2014 and was tapped last year from a SVP of marketing role to lead Target's advertising business.Target's digital sales grew 141% during the first-quarter of 2020, according to Target's earnings. 
+keywords: > 
+  ['roundel', 'business', 'walmart', 'target', 'role', 'advertising', 'company', 'leaving', 'sales', 'exec', 'digital', 'ad', 'targets'] 
+date: 1603218076.0953023 
+--- 
+<div><ul class="summary-list">
+<li>Kristi Argyilan, the president of Target's in-house advertising arm Roundel and a longtime advertising exec, is leaving the company.</li>
+<li>Target rebranded its advertising business last year and pitches advertisers on ways that data can show if someone bought a product at a store after seeing a TV commercial.</li>
+<li>Target's e-commerce sales have benefitted from the coronavirus, but e-commerce agencies say that its digital traffic is smaller than Walmart and Amazon, leading to smaller ad budgets.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-advertising-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-advertising-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Kristi Argyilan, the president of Target's in-house advertising arm Roundel, is leaving the company.</p><p>Argyilan is a longtime advertising exec who has played a large role in building out Target's advertising arm that competes with Walmart, Amazon, and others. She has worked at Target since 2014 and was tapped last year from a SVP of marketing role to lead Target's advertising business. Argyilan was previously the North American president of ad-buying firm Magna Global and has held agency roles at Universal McCann, Arnold Worldwide, and Hill Holliday.</p><p>A spokesperson for Target confirmed Argyilan's departure and said that her last day would be October 30. Target will conduct an external search to fill the role. Argyilan did not immediately respond to a request for comment.</p><p>Her departure signals a big leadership hole for Target a year and a half into revamping its advertising business to take on Walmart and Amazon. At the same time, Walmart is also undergoing leadership changes at its advertising business. Last week, Walmart said that Walmart Media Group head exec Stefanie Jay was stepping down from her role and that <a href="https://www.businessinsider.com/the-walmart-advertising-execs-to-know-competing-with-amazon-2020-1">Rich Lehrfeld would lead the group on an interim basis.</a></p><h2>Target wants to compete for more ad dollars</h2><p>Target is one of a handful of retailers that are betting big on advertising as retail margins get thinner. One of the ways Target differentiates its ad business is by playing up data about how people shop in brick-and-mortar stores after seeing an ad. Target then uses that data to create and target custom ad campaigns for companies like Unilever and Disney.&#160;</p><p>Target rebranded its advertising business from Target Media Network to Roundel last year with the goal of beefing up the business and competing for shopper marketing budgets from brands.&#160;</p><p>Under Roundel, Target has tried to pitch itself as more than a shopper marketing firm that works with external media and advertising companies. Last year, Roundel <a href="https://adage.com/article/special-report-advertising-week/target-and-disney-team-media-offering-advertisers/2199586">inked a data deal with Disney's linear TV channels</a> to show Disney's advertisers if an ad drove sales at Target. Roundel also creates ad campaigns for brands that don't sell their products at Target.</p><p>E-commerce agencies note that one of the challenges of Target's advertising business is that its e-commerce sales are not as big as Walmart or Amazon &#8212; though the coronavirus has bumped up Target's digital sales. Target's digital sales grew 141% during the first-quarter of 2020, <a href="https://corporate.target.com/article/2020/05/q1-2020-earnings">according to Target's earnings.</a></p>
+<p id="gpt-post-advertising-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-advertising-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>"Our clients that sell in Target's brick-and-mortar stores love Target but their e-comm is not where it needs to be," said Laura Meyer, the founder and CEO of the Amazon-focused ad agency Envision Horizons. "I think it's going to take a massively expensive overhaul and investment to be able to create a more optimized, digital shopping experience."</p>
+                  </div>

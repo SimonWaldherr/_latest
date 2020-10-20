@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/slides/photos/004/415/467/hi-res-456b411c4697e9049348cbba682d02fe_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  Fantasy Football Week 7: Top Players to Target on the Waiver Wire 
+description: > 
+  0 of 6Derik Hamilton/Associated PressFollowing all the NFL action on Sundays, some of us forget about the players who built momentum going into their bye weeks.They're often left on the waiver wire while inactive.You can make a power move with a sharp memory of breakout Week 5 performers.Both squads feature offensive units that could take off following bye weeks.If you want to take an early jump on Week 7, consider an unheralded name in the Thursday Night Football matchup who's on a hot streak. 
+keywords: > 
+  ['fantasy', 'week', 'west', 'players', 'wire', 'waiver', 'target', 'bye', 'whos', 'vegas', 'waiverwire', 'weeks', 'football'] 
+date: 1603218073.653454 
+--- 
+<ol><p class="slideData">0 of 6</p><p></p><img alt="" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Derik Hamilton/Associated Press</p><p class="">Following all the <a href="http://bleacherreport.com/nfl">NFL</a> action on Sundays, some of us forget about the players who built momentum going into their bye weeks. They're often left on the waiver wire while inactive. You can make a power move with a sharp memory of breakout Week 5 performers.</p><p class="">The Los Angeles Chargers and Las Vegas Raiders had captivating Week 5 matchups. Both squads feature offensive units that could take off following bye weeks. Managers who seek the thrill of taking a chance on players with boom potential may find interest in a few options between the two AFC West squads.</p><p class="">If you want to take an early jump on Week 7, consider an unheralded name in the Thursday Night Football matchup who's on a hot streak. He's made the most of his opportunities as a fill-in starter for the Philadelphia Eagles.</p><p class="">All the waiver-wire suggestions below are available in at least <a href="https://football.fantasysports.yahoo.com/f1/891044/players?status=ALL&amp;pos=O&amp;cut_type=9&amp;stat1=S_PW_7&amp;myteam=0&amp;sort=PTS&amp;sdir=1&amp;count=25" target="_blank" rel="noopener noreferrer">50 percent</a> of Yahoo leagues.</p><p class="">Free-agent budgets are based on leagues with $100 for a whole season.</p></ol>

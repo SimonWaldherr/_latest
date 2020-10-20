@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/20/sports/20olympics-hacking-1/20olympics-hacking-1-facebookJumbo.jpg 
+title: > 
+  After Doping Scandal, Russia Hacked the Olympics, U.S. and Britain Say 
+description: > 
+  LONDON — After the unmasking of its state-orchestrated doping program turned it into a sporting pariah, Russia hardly quietly accepted its punishment.Angered and humiliated, it has fought, so far unsuccessfully, to re-enter the international sports community through legal channels.But, American prosecutors and British government officials say, it went much further than that, actively seeking to undermine the Olympics it was barred from.Just as it used the full might of the state in a cheating scheme that brought it now disputed medals at events like the 2014 Sochi Games, Russia unleashed some of the same forces to hack and disrupt the opening ceremony of the 2018 Winter Olympics in South Korea and the now-delayed 2020 Tokyo Summer Games, according to American and British officials.Now, once again, the International Olympic Committee is left to decide what, if any, action to take against one of the largest and most influential countries in its movement, one that has time and again challenged its ideals. 
+keywords: > 
+  ['british', 'american', 'used', 'doping', 'olympics', 'international', 'britain', 'games', 'unsuccessfully', 'went', 'russia', 'winter', 'scandal', 'hacked', 'say'] 
+date: 1603218056.5586202 
+--- 
+<div><p class="css-158dogj evys1bk0">LONDON &#8212; After the unmasking of its state-orchestrated doping program  turned it into a sporting pariah, Russia hardly quietly accepted its punishment.</p><p class="css-158dogj evys1bk0">Angered and humiliated, it has fought, so far unsuccessfully, to re-enter the international sports community through legal channels. But, American prosecutors and British government officials say, it went much further than that, actively seeking to undermine the Olympics it was barred from.</p><p class="css-158dogj evys1bk0">Just as it used the full might of the state in a cheating scheme that brought it now disputed medals at events like the 2014 Sochi Games, Russia unleashed some of the same forces to hack and disrupt the opening ceremony of the 2018 Winter Olympics in South Korea and the now-delayed 2020 Tokyo Summer Games, according to American and British officials.</p><p class="css-158dogj evys1bk0">Now, once again, the International Olympic Committee is left to decide what, if any, action to take against one of the largest and most influential countries in its movement, one that has time and again challenged its ideals.</p></div>

@@ -1,0 +1,26 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-532029225-1.jpg?w=536 
+title: > 
+  Egnyte introduces new features to help deal with security 
+description: > 
+  The pandemic has put stress on companies dealing with a workforce that is mostly — and sometimes suddenly — working from home.That has led to rising needs for security and governance tooling, something that Egnyte is looking to meet with new features aimed at helping companies cope with file management during the pandemic.Egnyte is an enterprise file storage and sharing (EFSS) company, though it has added security services and other tools over the years.As companies move more files around it’s important that security and governance policies travel with the document, so that policies can be enforced on the file wherever it goes.Finally, Egnyte is using machine learning for auto-classification of documents to apply policies to documents without humans having to touch them. 
+keywords: > 
+  ['file', 'features', 'deal', 'egnyte', 'help', 'company', 'policies', 'companies', 'needs', 'governance', 'jain', 'content', 'introduces', 'security'] 
+date: 1603218122.4058728 
+--- 
+<div><p id="speakable-summary">The pandemic has put stress on companies dealing with a workforce that is mostly &#8212; and sometimes suddenly &#8212; working from home. That has led to rising needs for security and governance tooling, something that <a href="http://egnyte.com">Egnyte</a> is looking to meet with new features aimed at helping companies cope with file management during the pandemic.</p>
+<p><a class="crunchbase-link" href="https://crunchbase.com/organization/egnyte" target="_blank">Egnyte </a> is an enterprise file storage and sharing (EFSS) company, though it has added security services and other tools over the years.</p>
+<p>&#8220;It&#8217;s no surprise that there&#8217;s been a rapid shift to remote work, which has I believe led to mass adoption of multiple applications running on multiple clouds, and tied to that has been a nonlinear reaction of exponential growth in data security and governance concerns,&#8221; Vineet Jain, co-founder and CEO at Egnyte, explained.</p><p class="piano-inline-promo"></p>
+<p>There&#8217;s a lot of data at stake.</p>
+<p>Egnyte&#8217;s announcements today are in part a reaction to the changes that COVID has brought, a mix of net-new features and capabilities that were on its road map, but accelerated to meet the needs of the changing technology landscape.</p>
+<h2>What&#8217;s new?</h2>
+<p>The company is introducing a new feature called Smart Cache to make sure that content (wherever it lives) that an individual user accesses most will be ready whenever they need it.</p>
+<p>&#8220;Smart Cache uses machine learning to predict the content most likely to be accessed at any given site, so administrators don&#8217;t have to anticipate usage patterns. The elegance of the solution lies in that it is invisible to the end users,&#8221; Jain said. The end result of this capability could be lower storage and bandwidth costs, because the system can make this content available in an automated way only when it&#8217;s needed.</p>
+<p>Another new feature is email scanning and governance. As Jain points out, email is often a company&#8217;s largest data store, but it&#8217;s also a conduit for phishing attacks and malware. So Egnyte is introducing an email governance tool that keeps an eye on this content, scanning it for known malware and ransomware and blocking files from being put into distribution when it identifies something that could be harmful.</p>
+<p>As companies move more files around it&#8217;s important that security and governance policies travel with the document, so that policies can be enforced on the file wherever it goes. This was true before COVID-19, but has only become more true as more folks work from home.</p>
+<p>Finally, Egnyte is using machine learning for auto-classification of documents to apply policies to documents without humans having to touch them. By identifying the document type automatically, whether it has personally identifying information or it&#8217;s a budget or planning document, Egnyte can help customers auto-classify and apply policies about viewing and sharing to protect sensitive materials.</p>
+<p>Egnyte is reacting to the market needs as it makes changes to the platform. While the pandemic has pushed this along, these are features that companies with documents spread out across various locations can benefit from regardless of the times.</p>
+<p>The company is <a href="https://techcrunch.com/2020/09/23/scaling-to-100-million-arr-3-founders-share-their-insights/">over $100 million ARR today</a>, and <a href="https://www.egnyte.com/press-releases/egnyte-announces-double-digit-revenue-momentum-year-over-year#:~:text=%E2%80%93%20July%2023%2C%202020,year%20growth%20(Q2%202020%20vs.">grew 22% in the first half of 2020</a>. Whether the company can accelerate that growth rate in H2 2020 is not yet clear. Regardless, Egnyte is a budding IPO candidate for 2021 if market conditions hold.</p>
+</div>
