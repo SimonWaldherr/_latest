@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/20/us/20evening-briefing-google/20evening-briefing-google-facebookJumbo.jpg 
+title: > 
+  Google, Early Voting, World Series: Your Tuesday Evening Briefing 
+description: > 
+  The Justice Department filed a long-awaited antitrust lawsuit against Google, accusing the company of maintaining an illegal monopoly over search.The suit is the most aggressive move against a tech giant in a generation.Google, owned by Alphabet, said the lawsuit was “deeply flawed,” and told its employees to stay focused and quiet.The government, joined by 11 states, is accusing Google of illegally protecting its dominant position in the market for search and search advertising with the deals it has struck with companies like Apple.Google pays Apple billions of dollars a year to have its search engine as the default option on iPhones and other devices. 
+keywords: > 
+  world, early, stay, lawsuit, series, google, briefing, search, apple, voting, tech, told, evening, accusing, suit, struck 
+date: 1603233657.1794767 
+--- 
+<div><p class="css-158dogj evys1bk0"><strong class="css-8qgvsz ebyp5n10">1.</strong> <strong class="css-8qgvsz ebyp5n10">The Justice Department </strong>filed a long-awaited antitrust lawsuit against Google, accusing the company of maintaining an illegal monopoly over search.</p><p class="css-158dogj evys1bk0">The suit is <a class="css-1g7m0tk" href="https://www.nytimes.com/2020/10/20/technology/google-antitrust.html" title="">the most aggressive move against a tech giant</a> in a generation. Google, owned by Alphabet, said the lawsuit was &#8220;deeply flawed,&#8221; and told its employees to <a class="css-1g7m0tk" href="https://www.nytimes.com/live/2020/10/20/business/us-economy-coronavirus/google-tells-employees-to-stay-focused-and-stay-quiet" title="">stay focused and quiet</a>.</p><p class="css-158dogj evys1bk0">The government, joined by 11 states, is accusing Google of illegally protecting its dominant position in the market for search and search advertising with the deals it has struck with companies like Apple. Google pays Apple billions of dollars a year to have its search engine as the default option on iPhones and other devices. <a class="css-1g7m0tk" href="https://www.nytimes.com/2020/10/20/technology/antitrust-google.html" title="">Here&#8217;s a quick overview of the lawsuit</a>.</p></div>
