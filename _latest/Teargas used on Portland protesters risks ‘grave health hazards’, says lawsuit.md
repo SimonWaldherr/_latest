@@ -1,0 +1,26 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.guim.co.uk/img/media/c8e3e78cc4dde093a8a8eb52cb7efaa6ab913f8c/0_114_3510_2108/master/3510.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d77e1cca9b3b7ebaa83f6782e4f2c28c 
+title: > 
+  Teargas used on Portland protesters risks ‘grave health hazards’, says lawsuit 
+description: > 
+  It seeks remedies for what it calls “months of sustained, repeated, high-volume use of teargas and other chemical munitions” in response to demonstrations in Portland.It also cites a US Army report from 2014 which showed that recruits exposed to teargas in basic training had a “2.5-times greater risk of being diagnosed with acute respiratory illness”.The complaint also alleges that DHS have resisted attempts to learn more about the chemicals, and that there are no public standards around the manufacture of such weapons.It seeks a declaration that DHS violated NEPA, and an injunction against further use of tear gas until an EA and an EIS are completed.Kelly Simon, interim Legal Director for the ACLU of Oregon, said: “Environmental justice is racial justice. 
+keywords: > 
+  used, portland, lawsuit, environmental, protesters, willamette, saying, risks, teargas, complaint, seeks, human, oregon, health, grave, weapons, hazards, gas, munitions 
+date: 1603237255.5927422 
+--- 
+<div><p>Complaint against local and federal agencies seeks remedies for &#8216;sustained, repeated, high-volume&#8217; use of gas weapons at protests</p><p>A new lawsuit filed by environmental and human rights groups in Oregon alleges that federal agencies&#8217; use of chemical crowd control weapons in <a href="https://www.theguardian.com/us-news/portland" class="u-underline">Portland</a>, like CS gas, has created &#8220;potentially grave health and environmental hazards&#8221;, and that the use of such weapons should be subject to assessments of its environmental impact.</p>
+<p>The complaint filed Tuesday by Northwest Center for Alternatives to Pesticide (NCAP), Willamette Riverkeeper, Cascadia Widlands, Neighbors for Clean Air (NCA), 350 Portland and the ACLU of Oregon names the Department of Homeland Security (DHS) and its Acting Secretary Chad Wolf as defendants.</p>
+<p>It seeks remedies for what it calls &#8220;months of sustained, repeated, high-volume use of teargas and other chemical munitions&#8221; in response to demonstrations in Portland.</p>
+<p>The suit, which if successful may open up a new way of limiting the use of such munitions by law enforcement, cites the National Environmental Protection Act (NEPA), which it says &#8220;obligates Defendants to prepare an Environmental Assessment (&#8220;EA&#8221;), an Environmental Impact Statement (&#8220;EIS&#8221;), to adhere to its own emergency protocols&#8221;.</p>
+<p>In the complaint, the plaintiffs allege the DHS&#8217;s use of gas weapons has been &#8220;so excessive and substantial that visible munitions residue and sediment have accumulated in and on Portland&#8217;s streets, sidewalks, curbs, bioswales, stormwater system, buildings, standing water, and [have] been transported and conveyed to the Willamette River banks and waters&#8221;.</p>
+<p>The complaint cites EPA standards on airborne gases and human health, saying that there &#8220;is no level of CS gas exposure&#8221; that meets the EPA&#8217;s &#8220;no effect&#8221; standard, or the definition for effects which are &#8220;not disabling and are transient and reversible&#8221;, saying that exposure may increase the risks, for human and animals, of ailments including cancer, organ damage, serious eye damage and suffocation.</p>
+<p>It also cites a US Army report from 2014 which showed that recruits exposed to teargas in basic training had a &#8220;2.5-times greater risk of being diagnosed with acute respiratory illness&#8221;.</p>
+<p>It also raises the prospect of environmental damage, saying gas residues have entered the city&#8217;s drainage system, and the Willamette River, and the resultant &#8220;aquatic toxicity&#8221; may harm or kill terrestrial and aquatic animals, including threatened salmon species that spawn in the area.</p>
+<p>The complaint also alleges that DHS have resisted attempts to learn more about the chemicals, and that there are no public standards around the manufacture of such weapons.</p>
+<p>It seeks a declaration that DHS violated NEPA, and an injunction against further use of tear gas until an EA and an EIS are completed.</p>
+<p>Kelly Simon, interim Legal Director for the ACLU of Oregon, said: &#8220;Environmental justice is racial justice. Environmental hazards and police violence disproportionately deny that right to Black, Indigenous, Latinx and other people of color.&#8221;</p>
+<p>The suit is one of many which has been brought against local and federal agencies during months of continuous protest in the city since the killing of George Floyd by a Minneapolis police officer triggered a summer of civil unrest and anti-racism demonstrations.</p>
+<p class="after-article js-after-article"></p>
+</div>
