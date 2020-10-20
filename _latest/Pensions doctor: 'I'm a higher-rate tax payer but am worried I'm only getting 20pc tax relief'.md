@@ -1,0 +1,21 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/pensions-retirement/2020/01/20/150120_ADB_Pensions-doctor_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?impolicy=logo-overlay 
+title: > 
+  Pensions doctor: 'I'm a higher-rate tax payer but am worried I'm only getting 20pc tax relief' 
+description: > 
+  Personal pensions, including workplace group personal pensions, run by pension providers use "relief at source" to administer pension tax relief.Some pension providers prefund the 20pc tax top-up, so you’ll see the contribution and tax relief being paid into your pension at the same time.If this is the case, you’ve already received your full pension tax relief and don’t need to take any action.This means that you would need to complete a self-assessment form or contact your local tax office to claim any extra tax relief due.When using salary sacrifice to fund pension contributions, there’s no tax relief for you to claim in respect of the employer contribution being made. 
+date: 1603200077.375477 
+--- 
+<div><p>Personal pensions, including workplace group personal pensions, run by pension providers use "relief at source" to administer pension tax relief. Your employer will deduct your pension contribution after tax has been deducted. This means that effectively your employer deducts 80pc&#160;of your pension contribution from your net pay and passes this to your pension provider to invest in your pension.</p>
+<p>Your pension provider will request an additional 20pc&#160;tax top-up from HM Revenue and Customers and pay this amount into your pension as well. Some pension providers prefund&#160;the 20pc tax top-up, so you&#8217;ll see the contribution and tax relief being paid into your pension at the same time.</p>
+<p>If your workplace pension is a group personal pension, and you pay tax at higher than basic rate, you&#8217;ll need to claim back the extra tax relief by completing a self-assessment tax return or, in most cases, as an alternative you may be able to contact your local tax office.</p>
+<p>But remember &#8211; the extra tax relief isn&#8217;t paid into your pension. Instead, an adjustment will be made to your tax code, a rebate may be paid or any tax you&#8217;re already due may be reduced.</p>
+<h3>What is shown on payslips?</h3>
+<p>It might be difficult to work out from your payslip what type of workplace scheme your employer is running and how pension tax relief is being administered. Payslips differ, but they will probably have three sections along the lines of "pay and allowances", "deductions", and "balances and totals to date".</p>
+<p>If your pension contribution is shown under pay and allowances&#160;this would indicate that you&#8217;re saving in a scheme using the net pay arrangement. If this is the case, you&#8217;ve already received your full pension tax relief and don&#8217;t need to take any action. If your pension contribution is shown in the deductions&#160;section of your payslip, after your PAYE has been deducted, your scheme is most likely a group personal pension using relief at source.</p>
+<p>This means that you would need to complete a self-assessment form or contact your local tax office to claim any extra tax relief due. The safest course of action is to check with your employer.</p>
+<h3>What about salary sacrifice?</h3>
+<p>Many employers offer <a href="https://www.telegraph.co.uk/pensions-retirement/financial-planning/pensions-doctor-should-use-salary-sacrifice-boost-pension-just/">salary sacrifice</a> arrangements where you agree to exchange part of your salary in return for your employer paying your pension contributions. It&#8217;s likely there would be some indication on your payslip that your gross salary has been reduced as part of a salary sacrifice arrangement and you should be able to cross check any employer contributions being made with your annual benefit statement, or by accessing your pension online. When using salary sacrifice to fund pension contributions, there&#8217;s no tax relief for you to claim in respect of the employer contribution being made.</p>
+</div>

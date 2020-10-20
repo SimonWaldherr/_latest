@@ -1,0 +1,32 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/tax/2020/10/16/A-couple-on-holiday-with-money_trans_NvBQzQNjv4BqxnlSljj15z1o8iKqMGA7tyH0-jRUT4rHK8EgtaGoQwQ.jpg?impolicy=logo-overlay 
+title: > 
+  'Working from home’ from abroad? You may pay tax twice 
+description: > 
+  City banks have already reportedly called back employees working from holiday homes abroad for fear of the tax and regulatory consequences.Britain has tax treaties with a large number of countries, which are designed to prevent you paying tax twice on the same income.However, it is possible to be deemed tax resident in two countries at the same time if the start of the tax year differs.The highest rate of UK income tax is 45pc on earnings of more than £150,000.The treaty offers some relief by allowing you to deduct the tax you pay in Britain from your Spanish tax bill. 
+date: 1603200077.5293605 
+--- 
+<div><p>Tax advisers have warned Britons against the idea of flying to a sunny bolt-hole and working from their favourite holiday spots this winter as increasingly stringent rules force many back to home working.</p>
+<p>People &#8220;working from anywhere&#8221; face fines or investigations from foreign tax authorities if they stay too long, become resident in a foreign country for tax purposes and fail to declare their UK incomes. In some cases they could also be hit with double taxation on the same earnings.</p>
+<p>Roughly six million people are now working exclusively from home, according to the Office for National Statistics.</p>
+<p>Many have been doing so since March, when lockdown began. It has given some the freedom to work from wherever they like, with many needing only a computer and an internet connection to do their jobs.</p>
+<p>This <a href="https://www.telegraph.co.uk/money/consumer-affairs/moved-sicily-now-save-800-month-people-redefining-working-home/">newspaper has spoken to a number </a>of people working from abroad who say they are enjoying a better quality of life. Retaining their old salaries but moving to places where the cost of living is far lower has the added benefit of allowing them to save thousands more than they normally would.</p>
+<p>Now, in the face of a bleak winter, more seem to be looking to make the move. Skyscanner, a flights comparison website, said it had seen a rise in the number of people looking for extended trips. Research compiled for this newspaper showed more than two&#160;thirds of trips booked in September were for one-way travel, up from around half in the same month last year.</p>
+<p>City banks have already reportedly called back employees working from holiday homes abroad for fear of the tax and regulatory consequences. Freshfields, the law firm, has also warned its staff against working from abroad for an extended period, Telegraph Money understands.</p>
+<p>But large numbers of people will be unaware of the pitfalls, according to Simon Goldring of adviser McDermott Will &amp; Emery.</p>
+<p>&#8220;There will be lots of people looking ahead to a winter confined to a makeshift home office and thinking about making an escape to the sun,&#8221; he said. &#8220;But they must remember that the freedom of movement and freedom to work we currently enjoy in the EU is completely separate from tax law. The rules are complex and different in each country.&#8221;</p>
+<p>One individual, who asked for her identity to be concealed in case she was in breach of the rules, has been working from France for her British-based employer since June.</p>
+<p>She said she and her partner initially intended to stay with family in the country for a few months, but after rising Covid cases in Britain had decided to stay and save on&#160;rent.</p>
+<p>She said she was unaware of <a href="https://www.telegraph.co.uk/money/consumer-affairs/moved-sicily-now-save-800-month-people-redefining-working-home/">any tax implications</a> and had struggled to find information online about what to do in her situation.</p>
+<h3>So how does it work?</h3>
+<p>In many of the countries Britons will be thinking about bolting to &#8211; including Spain, France, Italy and Portugal &#8211; you will be deemed resident for tax purposes if you stay for more than roughly half the year, or 183 days.</p>
+<p>It is then your responsibility to declare your earnings and submit a tax return to the relevant authority, or risk an investigation and potential fines.</p>
+<p>Saying you have already paid tax on your income in Britain will not be a valid reason not to pay. Britain has tax treaties with a large number of countries, which are designed to prevent you paying tax twice on the same income. However, it is possible to be deemed tax resident in two countries at the same time if the start of the tax year differs. In Britain the tax year starts in April, but in Spain it starts in January. The highest rate of UK income tax is 45pc on earnings of more than &#163;150,000. In Spain the 45pc tax rate applies to incomes of more than &#8364;60,000 (around &#163;54,000).</p>
+<p>If you end up resident in both tax jurisdictions, the tax treaty &#8220;tiebreaker&#8221; clause takes effect and determines how much you pay and where. The treaty offers some relief by allowing you to deduct the tax you pay in Britain from your Spanish tax bill. But as taxation in Spain is higher, you could be taxed twice on the same amount.</p>
+<p>Even moving nations within the UK could add thousands to your tax bill. Robert Salter of the accountant Blick Rothenberg said young people who wanted to save on high rents in costly cities such as London by moving back in with parents in Scotland could face large tax bills, especially if they earn the enhanced salaries common in the&#160;capital.</p>
+<p>&#8220;Someone earning &#163;50,000 a year who becomes tax resident in Scotland will actually pay about &#163;1,500 more in income taxes than someone who is resident in the rest of the UK,&#8221; he said. &#8220;If someone lives in Scotland for 183 days in the tax year, they will be Scottish tax resident for the whole year and be liable to Scottish taxes on all of their income.&#8221;</p>
+<p>Stephanie King of EY, another accountancy firm, said in countries where no tax treaty was in place with Britain, income tax could be due from day one. Individuals should speak to their employers to understand the rules, she added.</p>
+<p>A list of all the tax treaties Britain has in place with foreign states and all the reliefs that apply can be found at&#160;gov.uk.</p>
+</div>

@@ -1,0 +1,16 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://video-images.vice.com//articles/5f8ea5df811104009639d8db/lede/1603187890348-screen-shot-2020-10-20-at-105559-1.png?image-resize-opts=Y3JvcD0wLjk3ODU5MzI3MjE3MTI1Mzl4dzoxeGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio 
+title: > 
+  Chadwick Boseman: 'Ma Rainey's Black Bottom' Trailer Released 
+description: > 
+  A trailer has been released for historical drama Ma Rainey’s Black Bottom.It was the final role of Black Panther star Chadwick Boseman, who died from cancer earlier this year.The production formed part of a ten-play cycle (known as the Pittsburgh Cycle), which chronicled the African-American experience across the 20th century, with one play for each decade.Ma Rainey’s Black Bottom tells the story of Ma Rainey, nicknamed “the Mother of the Blues”, who was one of the earliest professional blues singers and part of the first generation of musicians to record.Boseman plays Levee, an ambitious young trumpeter who clashes with his bandmates as they wait in a dressing room, interminably, for the session to begin. 
+date: 1603200084.782709 
+--- 
+<div><span class="abc__textblock size--article"><p>A<a href="https://www.youtube.com/watch?v=ord7gP151vk"> trailer has been released</a> for historical drama Ma Rainey&#8217;s Black Bottom. It was the final role of <a href="https://www.vice.com/en_uk/article/mb5bqb/talking-to-black-nerds-about-what-this-black-panther-film-means-to-them">Black Panther</a> star <a href="https://www.vice.com/en/article/k7q9gw/chadwick-boseman-transformed-the-lives-of-black-kids-in-brazils-favelas">Chadwick Boseman</a>, who died from cancer earlier this year.</p>
+</span><p></p><span class="abc__textblock size--article"><p>The film is based on an 1982 play of the same name, which was written by Pulitzer Prize winner August Wilson. The production formed part of a ten-play cycle (known as the Pittsburgh Cycle), which chronicled the African-American experience across the 20th century, with one play for each decade. </p>
+</span><span class="abc__textblock size--article"><p>Ma Rainey&#8217;s Black Bottom tells the story of Ma Rainey, nicknamed &#8220;the Mother of the Blues&#8221;, who was one of the earliest professional blues singers and part of the first generation of musicians to record.</p>
+</span><span class="abc__textblock size--article"><p>Produced by Denzel Washington, the story takes places during a single recording session in Chicago in the late 1920s (it&#8217;s the only part of Wilson&#8217;s cycle not set in Pittsburgh) and concerns the power struggle between Rainey (played by Viola Davis) and her unscrupulous, exploitative white manager. Boseman plays Levee, an ambitious young trumpeter who clashes with his bandmates as they wait in a dressing room, interminably, for the session to begin.</p>
+</span><span class="abc__textblock size--article"><p>The trailer promises rich period details, lavish musical performances and a revealing take on the exploitation of Black artists in the music industry. It will be available on Netflix to stream, and released in select cinemas, from the 18th of December.</p>
+</span></div>
