@@ -1,0 +1,19 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/football/2020/10/19/TELEMMGLPICT000240886978_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay 
+title: > 
+  Exclusive: Uefa ready to consider expanding Champions League to 36 teams from 2024-25 
+description: > 
+  Uefa are ready to consider radical plans to increase the size of the Champions League to 36 clubs from 2024-25.There are understood to be two models for a 36-team Champions League, each involving 10 group matches per team.Under the first model, sides would be divided into six groups of six and play each other home and away.It is believed that there is growing support for the Swiss system, with the perception that the current model used in the Champions League group stages - in which teams play their three group opponents twice - has become stale.Either model is likely to win support from the leading Premier League clubs, who are keen to free up more space in the calendar for European fixtures. 
+date: 1603156959.0377026 
+--- 
+<div><p>Uefa are ready to consider radical plans to increase the size of the Champions League to 36 clubs from 2024-25.&#160;</p>
+<p>The proposal would see each side play 10 group matches and it is understood to be gaining support among clubs from across the European game, including some of its biggest leagues.</p>
+<p>Expansion plans had been floated earlier this year to an initially lukewarm response but they have gained traction, as they are seen as a way to balance the demands of Europe&#8217;s major clubs - including in England - for more marquee fixtures with calls from mid-sized leagues in Europe for extra Champions League berths.</p>
+<p><a href="https://www.telegraph.co.uk/football/2020/10/12/do-project-big-picture-proposals-mean-potential-european-super/">Discussions about the format of European club competitions beyond 2024 </a>are set to resume in the coming weeks. It is hoped that a final decision can be ratified sometime next year. &#160;</p>
+<p>There are understood to be two models for a 36-team Champions League, each involving 10 group matches per team. Under the first model, sides would be divided into six groups of six and play each other home and away.&#160;</p>
+<p>Under the second option, the 36 clubs would each play 10 fixtures against 10 different opponents, with fixtures decided by a seeding system designed to ensure equitable fixture lists for each side, similar to the 'Swiss-system' structure used in US sports leagues.</p>
+<p>It is believed that there is growing support for the Swiss system, with the perception that the current model used in the Champions League group stages - in which teams play their three group opponents twice - has become stale. The proposed Swiss system would allow more clashes between leading clubs in the group stages and thus prove more attractive to broadcasters. This is a crucial consideration, with clubs across the continent facing a financial hit due to Covid-19 and fears that the looming pan-continental recession will lead to a sharp reduction in the money paid for broadcast rights.</p>
+<p>Either model is likely to win support from the leading Premier League clubs, who are keen to free up more space in the calendar for European fixtures. Project Big Picture, <a href="https://www.telegraph.co.uk/football/2020/10/11/world-exclusive-man-utd-liverpool-driving-project-big-picture/">the explosive document for reforming English football revealed by Telegraph Sport last week</a>, proposed to reduce the size of the Premier League to 18 clubs and <a href="https://www.telegraph.co.uk/football/2020/01/16/league-cup-threat-champions-league-edges-towards-expansion/">scrap the League Cup and FA Cup replays to create extra European matchdays.</a></p>
+</div>

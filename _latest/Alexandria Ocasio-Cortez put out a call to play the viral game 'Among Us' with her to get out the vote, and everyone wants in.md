@@ -1,0 +1,29 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8e0b36c21cfb0019468e9a?width=1200&format=jpeg 
+title: > 
+  Alexandria Ocasio-Cortez put out a call to play the viral game 'Among Us' with her to get out the vote, and everyone wants in 
+description: > 
+  Representative Alexandria Ocasio-Cortez put out a call on Twitter for people to stream the popular video game "Among Us" with her to get out the vote."Among Us" is a 2018 hidden role video game from developer InnerSloth that became a Twitch mainstay in 2020.Ocasio-Cortez responded to Twitch streamers HasanAbi and Pokimane after they replied to her original tweet, saying that she'd be in."Among Us" is a four to 10 player hidden role game from developer InnerSloth that you can play online, either with strangers or with friends.It's one of 2020's explosive video game hits, despite the fact that it was originally released in 2018. 
+date: 1603156932.7769804 
+--- 
+<div><ul class="summary-list">
+<li>Representative Alexandria Ocasio-Cortez put out a call on Twitter for people to stream the popular video game "Among Us" with her to get out the vote.</li>
+<li>"Among Us" is a 2018 hidden role video game from developer InnerSloth that became a Twitch mainstay in 2020.</li>
+<li>Ocasio-Cortez responded to Twitch streamers HasanAbi and Pokimane after they replied to her original tweet, saying that she'd be in.</li>
+<li><a href="https://www.insider.com/?hprecirc-bullet">Visit Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-culture-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-culture-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>On Monday, Representative Alexandria Ocasio-Cortez put out a call on Twitter for people to play the explosively popular video game "Among Us" as part of a get out the vote effort, and everyone from Twitch streamer Pokimane to beauty influencer James Charles wanted in.</p><p>A tweet from the representative, whose <a href="https://www.businessinsider.com/alexandria-ocasio-cortez-aoc-plays-league-of-legends-game-ranked-2019-11">love and knowledge of video games was already known</a>, said "anyone want to play Among Us with me on Twitch to get out the vote? (I've never played but it looks like a lot of fun)."</p><p>"Among Us" is a four to 10 player hidden role game from <a href="http://www.innersloth.com/gameAmongUs.php">developer InnerSloth</a> that you can play online, either with strangers or with friends. At the beginning of each game, you're assigned a role. "Crewmates" go about tasks like fixing wiring or running medical scans, while "Imposters" try to kill crewmates and not get caught doing so.&#160;</p><p>It's one of 2020's explosive video game hits, despite the fact that it was originally released in 2018. <a href="https://kotaku.com/among-us-improbable-rise-to-the-top-of-twitch-1844986025">Per Kotaku</a>, the game began gaining popularity internationally, with content creators in South Korea and Brazil picking up on it in 2019. When American Twitch streamer Chance "Sodapoppin" Morris picked up on the game in 2020, it began to explode in the United States as well. Popular among streamers given the game's propensity for sparking passionate debate, it's also enjoyed <a href="https://www.insider.com/among-us-game-online-memes-tiktok-babies-imposter-emergency-meeting-2020-9">renewed fandom on platforms like TikTok as well</a>.</p>
+<p id="gpt-post-culture-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-culture-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Soon after Ocasio-Cortez's tweet, plenty of streamers were in her mentions offering to play, and it looks like a few of them are in.&#160;</p><p>"It'd be an honor," <a href="https://www.twitch.tv/pokimane">Pokimane</a>, a Twitch streamer with approximately 6 million followers on the platform, <a href="https://www.twitch.tv/pokimane">responded</a>.&#160;</p><p>Twitch streamer and political commentator Hasan Piker, who has approximately 580,000 followers on the platform on his <a href="https://www.twitch.tv/hasanabi/about">channel HasanAbi</a>, quote retweeted Pokimane's tweet, saying, "we're already making a lobby @AOC."</p><p>Ocasio-Cortez <a href="https://twitter.com/AOC/status/1318280857212301314?s=20">replied</a> to both <a href="https://twitter.com/AOC/status/1318283320082518023?s=20">streamers</a> that she was in, saying in her reply to Pokimane's tweet that she was going to set up an account and get the necessary equipment.</p>
+<p id="gpt-post-culture-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-culture-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Other streamers and internet personalities were in the replies to Ocasio-Cortez's original tweet as well, including <a href="https://twitter.com/jamescharles/status/1318280567624925184?s=20">beauty influencer James Charles</a> (who recently <a href="https://www.youtube.com/watch?v=cV7OIDEZohU">posted video of his first time playing "Among Us"</a>), <a href="https://twitter.com/mxmtoon/status/1318280439233187842?s=20">pop artist and TikToker mxmtoon</a>, and <a href="https://twitter.com/neekolul/status/1318284166396596232?s=20">streamer Neekolul</a>, who went <a href="https://twitter.com/neekolul/status/1234601269127458817?s=20">viral on Twitter earlier this year</a> for her "ok boomer" video.&#160;&#160;</p><p>Not long after Ocasio-Cortez's original tweet, she was <a href="https://www.twitch.tv/aoc">set up and verified on Twitch</a>. Approximately an hour after she <a href="https://twitter.com/AOC/status/1318293402870493185?s=20">tweeted a link to the channel</a>, it already had over 60,000 followers.&#160;</p> 
+                  </div>

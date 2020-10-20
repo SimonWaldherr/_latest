@@ -1,0 +1,18 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/cycling/2020/10/19/TELEMMGLPICT000242280206_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay 
+title: > 
+  Who is British rider and Giro d'Italia contender Tao Geoghegan Hart? 
+description: > 
+  The British Cycling youth coach was holding a training camp in the summer of 2011 but one of his young riders, Tao Geoghegan Hart, had got stuck in the London riots.“He was trying to get to the train station while all hell was breaking loose outside his front door,” Blunt recalls.Tao’s got a really good perspective on things.”Fast forward nine years and Geoghegan Hart, 25, is riding high at one of the biggest bike races in the world.Geoghegan Hart (‘Tao’ pronounced ‘Tayo’, and ‘Geoghegan’ pronounced ‘Gaygan’ are Irish, Tao meaning Tom in Irish Gaelic, which is his father’s name) always stood out.He’s very level headed.”Sir Bradley Wiggins, a fellow Londoner, called Geoghegan Hart a “geezer” following his win on Sunday, particularly enjoying the way the Ineos Grenadiers rider sized up his two breakaway companions at the finish, adjusted his sunglasses, and then out-sprinted them both. 
+date: 1603156960.9729457 
+--- 
+<div><p>Stuart Blunt remembers the exact moment he knew he had something special on his hands. The British Cycling youth coach was holding a training camp in the summer of 2011 but one of his young riders, Tao Geoghegan Hart, had got stuck in the London riots.&#160;</p>
+<p>&#8220;He was trying to get to the train station while all hell was breaking loose outside his front door,&#8221; Blunt recalls. &#8220;Kids he was going to school with and so on. It must have been a huge distraction. Bless him, he was just focused on his training and his racing. Tao&#8217;s got a really good perspective on things.&#8221;</p>
+<p>Fast forward nine years and Geoghegan Hart, 25, is riding high at one of the biggest bike races in the world. <a href="https://www.telegraph.co.uk/cycling/2020/10/18/tour-flanders-2020-giro-ditalia-stage-15-live-updates-latest/">His brilliant stage victory into the ski station of Piancavallo in the Italian Dolomites </a>on Sunday lifted him from 11th overall to fourth, just one second off the podium and 2min57sec off the overall lead.&#160;</p>
+<p>Those who declared British interest in the maglia rosa over when first Geraint Thomas crashed and broke his pelvis on stage three, and then Simon Yates contracted Covid-19, are having to revise that opinion because this race looks wide open and Geoghegan Hart has as much chance of grabbing the initiative as anyone.</p>
+<p>Blunt would not be at all surprised if he does. Geoghegan Hart (&#8216;Tao&#8217; pronounced &#8216;Tayo&#8217;, and &#8216;Geoghegan&#8217; pronounced &#8216;Gaygan&#8217; are Irish, Tao meaning Tom in Irish Gaelic, which is his father&#8217;s name) always stood out.</p>
+<p>&#8220;I&#8217;ve been lucky enough to work on the talent pathway at British Cycling for 18 years now, and I&#8217;ve worked with some very talented riders,&#8221; he says of the Holloway-born rider who grew up near London Fields in the heart of Hackney. &#8220;You could go through any of them, [Tom] Pidcock, anyone. He&#8217;s right up there. Not only his physical ability but his attitude and his application. He&#8217;s very level headed.&#8221;</p>
+<p>Sir Bradley Wiggins, a fellow Londoner, called Geoghegan Hart a &#8220;geezer&#8221; following his win on Sunday, particularly enjoying the way the Ineos Grenadiers rider sized up his two breakaway companions at the finish, adjusted his sunglasses, and then out-sprinted them both.&#160;</p>
+</div>

@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.usnews.com/dims4/USNEWS/1eb6eee/2147483647/crop/2000x1333%2B0%2B0/resize/1200x1200%3E/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fb7%2F8c%2Fce41d644483895d0a54a2cfd1534%2F200213-stock.jpg 
+title: > 
+  Best Insurance Companies for Medicare Part D Prescription Drug Plans 2021 
+description: > 
+  MEDICARE-ELIGIBLE beneficiaries can enroll in a Medicare Part D Prescription Drug plan from a private insurance company.U.S. News provides a tool for Medicare-eligible beneficiaries to find the right Medicare plans for their needs.All plan information and star ratings come directly from the Center for Medicare and Medicaid Services (CMS) at Medicare.gov .U.S. News analyzed insurance companies’ offerings in each state based on their 2021 CMS star ratings, and below provides a list of U.S. News & World Report's Best Insurance Companies for Medicare Part D Prescription Drug Plans.A Best Insurance Company for Part D Prescription Drug plans is defined as a company whose 2021 plans were all rated as at least three out of five stars by CMS and whose plans have an average rating of 4.5 or more stars within the state. 
+date: 1603156965.1903348 
+--- 
+<div><p>MEDICARE-ELIGIBLE beneficiaries can enroll in a Medicare Part D Prescription Drug plan from a private insurance company. U.S. News provides a tool for Medicare-eligible beneficiaries to find the right Medicare plans for their needs. All plan information and star ratings come directly from the Center for Medicare and Medicaid Services (CMS) at Medicare.gov .</p><p>U.S. News analyzed insurance companies&#8217; offerings in each state based on their 2021 CMS star ratings, and below provides a list of U.S. News &amp; World Report's Best Insurance Companies for Medicare Part D Prescription Drug Plans. A Best Insurance Company for Part D Prescription Drug plans is defined as a company whose 2021 plans were all rated as at least three out of five stars by CMS and whose plans have an average rating of 4.5 or more stars within the state. Read more about our <a href="https://health.usnews.com/health-news/best-medicare-plans/articles/how-us-news-picks-the-best-medicare-plans">methodology</a>. </p></div>
