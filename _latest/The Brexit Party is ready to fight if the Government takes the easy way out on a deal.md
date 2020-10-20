@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/politics/2020/10/16/TELEMMGLPICT000193095086_trans_NvBQzQNjv4Bq30vLXa5szb-8fe_5WO9d89GbjId_ubvX5NK1bHpfsD8.jpeg?impolicy=logo-overlay 
+title: > 
+  The Brexit Party is ready to fight if the Government takes the easy way out on a deal 
+description: > 
+  Despite all of the hard talk and the posturing, I still believe that a deal is the most likely outcome.Both sides will then claim that their red lines have been upheld and both will present this as a victory.It could accept that, however a deal based on the Withdrawal Agreement is dressed up, it will come back to haunt them over the next four years.Britain could reject the Withdrawal Agreement and begin 2021 with some basic agreements on the rights of EU citizens and on border controls.If the government does decide to take the easy way out by opting to do a deal based on the Withdrawal Agreement, I know that many of my excellent colleagues in the Brexit Party will be prepared to re-start the fight. 
+keywords: > 
+  deal, far, rights, party, fishing, ready, agreement, fight, does, support, way, takes, scottish, withdrawal, brexit, johnson, easy 
+date: 1603226217.1835182 
+--- 
+<div><p>Despite all of the hard talk and the posturing, I still believe that a deal is the most likely outcome. The French president, Emmanuel Macron, will make concessions on fishing and the UK will agree to stick to the principles, if not the letter, on state aid rules. Both sides will then claim that their red lines have been upheld and both will present this as a victory. It may well be that a public which is far more concerned with the new lockdowns will accept everything they are told by Johnson, but that is far from certain.&#160;&#160;</p>
+<p>Barnier&#8217;s room for manoeuvre is limited. In Brussels, EU treaties are revered like the Bible. Yet Johnson&#8217;s government does have an alternative. It could accept that, however a deal based on the Withdrawal Agreement is dressed up, it will come back to haunt them over the next four years. Instead, an Australia-style exit really&#160;<i>would</i>&#160;represent a clean break Brexit. Britain could reject the Withdrawal Agreement and begin 2021 with some basic agreements on the rights of EU citizens and on border controls.</p>
+<p>If Johnson went down this path, I would support him 100 per cent and by the time of the next general election, there&#160;<i>would</i>&#160;be a real possibility of a Canada-style free trade agreement. Adopting this approach would also make Nicola Sturgeon&#8217;s support for Scottish independence more difficult because she would have to explain to Scottish voters why she intends to give away fishing rights and join the euro.&#160;&#160;</p>
+<p>If the government does decide to take the easy way out by opting to do a deal based on the Withdrawal Agreement, I know that many of my excellent colleagues in the Brexit Party will be prepared to re-start the fight. As Ukip&#160;proved during David Cameron&#8217;s time in Downing Street, highly motivated insurgent political parties can split the Conservatives very effectively. I genuinely hope it does not come to this, but Johnson should be under no illusions about how serious this situation is.&#160;</p>
+</div>
