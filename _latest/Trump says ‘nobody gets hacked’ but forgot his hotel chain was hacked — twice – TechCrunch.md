@@ -1,0 +1,25 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1229173793.jpg?w=600 
+title: > 
+  Trump says ‘nobody gets hacked’ but forgot his hotel chain was hacked — twice – TechCrunch 
+description: > 
+  Trump says ‘nobody gets hacked’ but forgot his hotel chain was hacked — twiceAccording to President Trump speaking at a campaign event in Tucson, Arizona, on Monday, “nobody gets hacked.” You don’t need someone who covers security day in and day out to call bullshit on this one.“Nobody gets hacked."Nobody gets hacked.To get hacked you need somebody with 197 IQ and he needs about 15 percent of your password.If “nobody gets hacked” as Trump claims, it makes you wonder whatever happened to the 400-pound hacker the president mentioned during his first White House run. 
+date: 1603163189.2553396 
+--- 
+<div><p>Trump says &#8216;nobody gets hacked&#8217; but forgot his hotel chain was hacked &#8212; twice</p><p id="speakable-summary">According to President Trump speaking at a campaign event in Tucson, Arizona, on Monday, &#8220;nobody gets hacked.&#8221; You don&#8217;t need someone who covers security day in and day out to call bullshit on this one.</p>
+<p>&#8220;Nobody gets hacked. To get hacked you need somebody with 197 IQ and he needs about 15 percent of your password,&#8221; Trump said, referencing the recent suspension of C-SPAN political editor Steve Scully, who admitted falsely claiming his Twitter account was hacked this week after sending a tweet to former White House communications director Anthony Scaramucci.</p>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">"Nobody gets hacked. To get hacked you need somebody with 197 IQ and he needs about 15 percent of your password."<a href="https://t.co/6aR8yU2MVg">pic.twitter.com/6aR8yU2MVg</a></p>
+<p>&#8212; Martin (@mshelton) <a href="https://twitter.com/mshelton/status/1318303047647309824?ref_src=twsrc%5Etfw">October 19, 2020</a></p></blockquote>
+<p></p><p>There&#8217;s a lot to unpack in those two-dozen words. But aside from the fact that not all hackers are male (and it&#8217;s sexist to assume that), and glossing over the two entirely contrasting sentences, Trump also neglected to mention that his hotel chain was hacked twice &#8212; once over a year-long period <a href="https://oag.ca.gov/ecrime/databreach/reports/sb24-57993">between 2014 and 2015</a> and again <a href="https://oag.ca.gov/ecrime/databreach/reports/sb24-100019">between 2016 and 2017</a>.</p>
+<p>We know this because the Trump business was legally required to file notice with state regulators after each breach, which they did.</p>
+<p>In both incidents, customers of Trump&#8217;s hotels had their credit card data stolen. The second breach was blamed on a <a href="https://www.sabre.com/insights/releases/sabre-update-on-cybersecurity-incident/">third-party booking system, called Sabre</a>, which also exposed guest names, emails, phone numbers and more.</p>
+<p>The disclosures didn&#8217;t say how many people were affected. Suffice it to say, it wasn&#8217;t &#8220;nobody.&#8221;</p>
+<p>A spokesperson for the Trump campaign did not return a request for comment.</p>
+<p>It&#8217;s easy to ignore what could be considered a throwaway line: To say that &#8220;nobody gets hacked&#8221; might seem harmless on the face of it, but to claim so is dangerous. It&#8217;s as bad as saying something is <a href="https://techcrunch.com/2016/10/08/why-an-unhackable-mobile-phone-is-a-complete-marketing-myth/">&#8220;unhackable&#8221;</a> or <a href="https://techcrunch.com/2019/05/10/eyedisk-encrypted-flash-drive-unhackable/">&#8220;hack-proof.&#8221;</a> Ask anyone who works in cybersecurity and they&#8217;ll tell you that no person or company can ever make such assurances.</p>
+<p>Absolute security doesn&#8217;t exist. But for those who don&#8217;t know any different, it&#8217;s an excuse not to think about their own security. Yes, <a href="https://techcrunch.com/2018/12/25/cybersecurity-101-guide-password-manager/">you should use a password manager</a>. Absolutely <a href="https://techcrunch.com/2018/12/25/cybersecurity-101-guide-two-factor/">turn on two-factor authentication</a> whenever you can. Do the basics, because hackers don&#8217;t need an IQ score of 197 to break into your accounts. All they need is for you to lower your guard.</p>
+<p>If &#8220;nobody gets hacked&#8221; as Trump claims, it makes you wonder whatever happened to <a href="https://www.nytimes.com/2016/09/29/well/live/a-400-pound-hacker-trump-comment-ignites-fat-shaming-debate.html">the 400-pound hacker</a> the president mentioned during his first White House run.</p>
+<p><a href="https://techcrunch.com/tag/2020-election/"><img src="https://techcrunch.com/wp-content/uploads/2019/09/us-2020-election-footer.png"></a></p>
+			</div>
