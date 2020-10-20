@@ -1,0 +1,26 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://sm.mashable.com/t/mashable_me/news/h/heres-how-/heres-how-apple-will-make-your-iphone-12-pickup-coronavirus_5xb5.1200.png 
+title: > 
+  Here’s how Apple will make your iPhone 12 pickup coronavirus-safe 
+description: > 
+  Here’s what you could expect on iPhone 12 launch day.The big iPhone 12 announcement was already delayed this year due to coronavirus-related production issues.Now, just two days after iPhone 12 preorders opened, there are reports that the device is already selling out.The pickup process at each Apple Store will be different, depending on the local coronavirus ordinances in your area.Apple’s offering curbside pickup where an Apple Store employee will bring your product out to your car. 
+date: 1603187289.5493164 
+--- 
+<div><p>Apple&#8217;s new <a href="https://me.mashable.com/tech/11802/apple-unveils-iphone-12-and-iphone-12-mini-with-5g-support">iPhone 12</a> lineup begins dropping Oct. 23. The company&#8217;s latest mobile phone model is a bit different than its previous iterations. For example, this will be the first iPhone to come with 5G.</p>
+<p>Another thing different about this Apple release: it&#8217;s the first flagship iPhone to launch in the midst of the coronavirus pandemic.</p>
+<p>Due to COVID-19, this iPhone launch will look a little different, especially if you plan to pick up your device at the Apple Store. Here&#8217;s what you could expect on iPhone 12 launch day.</p>
+<p>If you&#8217;re planning to buy a new iPhone, it would probably be a safe bet to <a href="https://mashable.com/shopping/oct-16-iphone-12-preorders/">preorder</a> it now. The big iPhone 12 <a href="https://mashable.com/article/iphone-12-liveblog/">announcement</a> was already delayed this year due to coronavirus-related production issues. The event was pushed back a month from its usual date in September. Now, just two days after iPhone 12 preorders opened, there are reports that the device is <a href="https://bgr.com/2020/10/16/iphone-12-pro-sold-out-vs-iphone-12-specs-price/" target="_blank">already</a> selling out.</p>
+<p>Long lines have become a staple outside Apple Stores on iPhone release days. In 2020, Apple is looking to mitigate that by requiring appointments in many of its store locations.&#160;</p>
+<p>The <a href="https://www.apple.com/shop/shipping-pickup" target="_blank">pickup process</a> at each Apple Store will be different, depending on the local coronavirus ordinances in your area. Apple&#8217;s offering curbside pickup where an Apple Store employee will bring your product out to your car. Of course, you can avoid going out at all by scheduling to have your new iPhone 12 arrive at your doorstep via the <a href="https://www.apple.com/shop/shipping-pickup" target="_blank">contactless delivery</a> option.</p>
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">Pretty great experience w/ new <a href="https://twitter.com/Apple?ref_src=twsrc%5Etfw" target="_blank">@Apple</a> store setup in Burlingame. Folks there said it&#8217;s 1st Apple Store in the world to test &#8220;express&#8221; approach <a href="https://t.co/PvW3uxyHhT" target="_blank">pic.twitter.com/PvW3uxyHhT</a></p>
+<p>&#8212; Marci Harris (@marcidale) <a href="https://twitter.com/marcidale/status/1305652581356548097?ref_src=twsrc%5Etfw" target="_blank">September 14, 2020</a></p>
+</blockquote>
+ 
+<p>Some Apple Store locations <a href="https://twitter.com/marcidale/status/1305652581356548097" target="_blank">may look very different</a> compared to your last pre-pandemic visit. The company has rolled out Apple Express storefronts, which basically look like a bank teller window. These designs have product displays with Apple Store employees waiting to help you from behind a plexiglass counter. As <a href="https://9to5mac.com/2020/10/18/apple-store-iphone-12-retail-launch-express-pickup/" target="_blank">9to5Mac reports</a>, the first of these stores opened in September, in Burlingame, California. More have since rolled out to a number of new Apple Stores around the globe.</p>
+<p>If you&#8217;d like to do some in-store shopping at the Apple Store while you&#8217;re there, you may need to actually <a href="https://www.apple.com/retail/instore-shopping-session/" target="_blank">schedule an appointment</a> first. Masks and a temperature check will be required to enter the store as well.</p>
+<p>But, before you head out at all, you should check to see if your <a href="https://www.apple.com/retail/" target="_blank">local Apple Store</a> is even open and servicing customers. Apple is one of the few companies with physical retail locations to close, <a href="https://me.mashable.com/tech/10353/apple-is-reopening-its-stores-heres-what-you-need-to-know">open</a>, and then <a href="https://mashable.com/article/apple-stores-closing-coronavirus-spike-florida-arizona/">re-close stores</a> based on upticks in COVID-19 cases in certain regions. <a href="https://9to5mac.com/2020/09/21/apple-retail-store-coronavirus-tracker/" target="_blank">While most of its stores</a> are open as of Oct. 18, you should still make sure yours is one of them.</p>
+  
+  </div>
