@@ -1,0 +1,15 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ychef.files.bbci.co.uk/live/624x351/p08tsmjy.jpg 
+title: > 
+  Why happiness at work could be big business in India 
+description: > 
+  When India went into lockdown, Delhi-based Rajat Setia found juggling working from home with full-time parenting very stressful.“There were many instances when my little daughter would demand my attention, or where I had to leave in between official calls,” she says.But for Setia, 31,who works as a marketing manager for Indian HR tech firm PeopleStrong, her employers happened to specialise in advising companies on how to measure their employees’ happiness.More like this:• The rise of India’s happiness coaches• Will coronavirus end India’s tea culture?Once she’d mentioned this, she says colleagues made a conscious effort to keep her in the loop and normalise her situation. 
+keywords: > 
+  calls, setia, indias, employees, meetings, happiness, work, business, india, senior, shed, big, feel, parenting 
+date: 1603235552.8557422 
+--- 
+<div><p>When India went into lockdown, Delhi-based Rajat Setia found juggling working from home with full-time parenting very stressful. &#8220;There were many instances when my little daughter would demand my attention, or where I had to leave in between official calls,&#8221; she says.<br><br>But for Setia, 31,who works as a marketing manager for Indian HR tech firm PeopleStrong, her employers happened to specialise in advising companies on how to measure their employees&#8217; happiness. Now was their chance to practice what they preached.<br><br><strong>More like this:</strong><br><strong>&#8226; <a href="https://www.bbc.com/worklife/article/20190725-unhappy-at-work-this-coach-will-help">The rise of India&#8217;s happiness coaches </a></strong><br><strong>&#8226;<a href="https://www.bbc.com/worklife/article/20200626-will-coronavirus-end-indias-tapri-chai-culture"> Will coronavirus end India&#8217;s tea culture? </a></strong><br><strong>&#8226; <a href="https://www.bbc.com/worklife/article/20200925-why-your-in-office-friendships-still-matter">Why in-office relationships still matter </a></strong><br><br>Her company used feedback surveys and virtual townhall meetings with senior management, as well as interactive tools such as a chatbot, to ascertain the overall mood of employees. They then put measures in place to help those who were struggling speak up.</p>
+<p>For Setia, this meant being able to tell senior managers that she was worried her parenting duties would mean she&#8217;d be excluded from important meetings and projects. Once she&#8217;d mentioned this, she says colleagues made a conscious effort to keep her in the loop and normalise her situation.</p>
+<p><br>&#8220;Many times, whenever people heard my daughter's voice during audio or video calls, I was made to feel comfortable with how normal this is and that I shouldn't feel embarrassed,&#8221; she says. &#8220;That cleared a few doubts and stress.&#8221;</p></div>

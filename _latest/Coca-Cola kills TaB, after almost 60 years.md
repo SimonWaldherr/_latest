@@ -1,0 +1,20 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: http://cdn.24.co.za/files/Cms/General/d/705/af6bf334109144b48414582ac5a182c6.png 
+title: > 
+  Coca-Cola kills TaB, after almost 60 years 
+description: > 
+  The TaB brand will be discontinued by Coca-Cola by the end of 2020.Coca-Cola has confirmed that it will stop selling TaB across the world, including in South Africa.In South Africa, TaB was popular as, for many years, it was the only diet brand that didn't contain caffeine.The Coca-Cola Company's local affiliate confirmed to Netwerk24 that TaB will also be discontinued in South Africa.Tab did its job," Kerri Kopp, group director for Diet Coke, Coca-Cola North America, said in the statement. 
+keywords: > 
+  kills, brand, pandemic, cocacola, south, 60, popular, coke, diet, tab, companys, africa 
+date: 1603235543.8277075 
+--- 
+<div><img alt=" " src="https://cdn.24.co.za/files/Cms/General/d/705/af6bf334109144b48414582ac5a182c6.png" title=" "><p class="img_accreditation"><p class="source"></p><p class="photographer"></p></p><p><br></p><ul><li><strong>The TaB brand will be discontinued by Coca-Cola by the end of 2020.</strong></li><li><strong>It was launched in 1963, but eventually eclipsed by Diet Coke.</strong></li><li><strong>In South Africa, it was popular because it didn't contain caffeine.</strong></li><li><strong>For more articles, go to </strong><a href="https://www.businessinsider.co.za/" target="_blank"><strong>www.BusinessInsider.co.za</strong></a><strong>.</strong></li></ul><p>Coca-Cola has confirmed that it will stop selling TaB across the world, including in South Africa.<br></p><p>TaB was launched in 1963 - the company's first sugar-free cooldrink brand, aimed at consumers who wanted to "keep tabs" on their weight.</p><p id="ad-fluid-1">&#13;
+                                         &#13;
+                                    </p>&#13;
+                                <p>It was eventually eclipsed by Diet Coke, which came to the market in 1982.</p><p id="fourth-par-video"></p><p>In South Africa, TaB was popular as, for many years, it was the only diet brand that didn't contain caffeine.</p><p id="ad-300x250-1">&#13;
+                                         &#13;
+                                    </p>&#13;
+                                <p>But Coca-Cola said TaB was one the company's &#8220;select underperforming products&#8221; that will be "retired" by the end of this year. The Coca-Cola Company's local affiliate <a href="https://www.netwerk24.com/Sake/Maatskappye/coke-raak-ontslae-van-tab-ook-in-sa-20201019" target="_blank">confirmed to Netwerk24 </a>that TaB will also be discontinued in South Africa.</p><p>&#8220;If not for Tab, we wouldn&#8217;t have Diet Coke or Coke Zero Sugar. Tab did its job," Kerri Kopp, group director for Diet Coke, Coca-Cola North America, <a href="https://www.foodbusinessafrica.com/coca-cola-company-to-discontinue-production-of-tab-diet-cola-in-its-products-trimming-plans/" target="_blank">said in the statement.</a>&#160;</p><p>US brands like&#160;Coca-Cola Life, Diet Coke Fiesty Cherry and Sprite Lymonade will also be discontinued.</p><p><a href="https://www.nytimes.com/2020/10/16/business/coca-cola-tab.html" target="_blank">Coca-Cola said while it had plans to streamline its brands before the pandemic</a>, the coronavirus disrupted its supply chain and "changing consumer behaviour" caused by the pandemic hastened the decision.<br></p><h2>Receive a daily update on your cellphone with all our latest news:&#160;<a href="https://www.businessinsider.co.za/whatsapp-newsletter/" target="_blank">click here.</a></h2><h2><strong>Get the best of our site emailed to you daily:&#160;</strong><a href="https://www.businessinsider.co.za/Newsletter/Signup" target="_blank">click here</a><strong>.</strong></h2><p><strong>Also from Business Insider South Africa:</strong></p><p></p>&#13;
+            </div>

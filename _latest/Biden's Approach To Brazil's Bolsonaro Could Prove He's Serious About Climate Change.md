@@ -1,0 +1,110 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.huffingtonpost.com/asset/5f8874be2900003600c6a074.jpeg?cache=ndpjgyqnxc&ops=1778_1000 
+title: > 
+  Biden's Approach To Brazil's Bolsonaro Could Prove He's Serious About Climate Change 
+description: > 
+  His climate agenda depends not only on his own ambition but on his ability to alter Brazil and Bolsonaro’s too.during a protest against Bolsonaro's environmental policies in the Brazilian capital of Brasilia.Bolsonaro has faced domestic and international pressure to alter his approach to the environment.In 2019, as fires raged across the Amazon, Bolsonaro denied they were occurring in a speech to the United Nations General Assembly.His top diplomat, Ernesto Araujo, has denied the existence of climate change, and Bolsonaro has taken a combative public stance against world leaders, like France’s Emmanuel Macron, who have pushed him to change course. 
+keywords: > 
+  serious, brazils, bolsonaro, pressure, hes, bolsonaros, prove, bidens, brazil, biden, climate, environmental, international, amazon, approach, change 
+date: 1603235508.9019544 
+--- 
+<div><p>As record numbers of fires scorched the <a href="https://www.huffpost.com/impact/topic/amazon">Amazon</a> rainforest during each of the past two summers, far-right Brazilian President <a href="https://www.huffpost.com/news/topic/jair-bolsonaro" target="_blank" rel="noopener noreferrer">Jair Bolsonaro</a> knew where to turn for refuge from international scorn: the United States. <a href="https://www.huffpost.com/news/topic/donald-trump">President Donald Trump</a> is an ideological ally and one of the few world leaders whose climate skepticism <a href="https://www.huffpost.com/entry/trump-bolsonaro-amazon-fires-climate-change-united-nations_n_5d80eaa7e4b077dcbd64bd42">matches Bolsonaro&#8217;s own</a>.</p><p>At the first presidential debate in early October, however, Democratic nominee <a href="https://www.huffpost.com/news/topic/joe-biden">Joe Biden</a> made clear that if he were to defeat Trump in November&#8217;s election, the U.S. government would no longer sympathize with climate change denial. Biden said he would create a $20 billion international fund to incentivize Brazil to stop tearing down the Amazon. If Bolsonaro rejected the plan, Biden said, Brazil would face &#8220;economic consequences.&#8221;</p><p>The proposal wasn&#8217;t new, but this time it drew Bolsonaro&#8217;s ire. Brazil &#8220;does not accept bribes,&#8221; he said in a statement posted to Twitter and <a href="https://www.huffpost.com/impact/topic/facebook">Facebook</a>. Biden&#8217;s statement, Bolsonaro said, was &#8220;a clear sign of contempt for cordial and fruitful coexistence between two sovereign nations.&#8221;&#160;</p><p>For months, Biden has insisted that climate change will feature prominently in his agenda at home and abroad. Choosing Brazil as his go-to example of Trump&#8217;s failure on the world stage was perhaps the clearest indication yet that he intends to follow through on that pledge.&#160;</p><p>And should he win, Biden is unlikely to back down in the face of Bolsonaro&#8217;s anger. Few countries are more important to the fight for planetary survival than Brazil: Preservation of the Amazon rainforest is one of the simplest ways to reduce carbon emissions and limit the rise of global temperatures. From 2004 to 2014, for instance, Brazil&#8217;s successful efforts to limit deforestation in the Amazon <a href="https://www.huffpost.com/entry/brazil-election-jair-bolsonaro-climate-change_n_5bc62b71e4b055bc947ae270" target="_blank" rel="noopener noreferrer">were almost solely responsible</a> for global emissions reductions. Without Brazil on board, Biden&#8217;s efforts to make international progress on climate won&#8217;t accomplish much even if he makes the U.S. as bold and forward-thinking as it should have been long ago. His climate agenda depends not only on his own ambition but on his ability to alter Brazil and Bolsonaro&#8217;s too.</p><p>&#8220;In any relationship that Joe Biden has with leaders around the world, climate change will be at the top of that agenda, and that includes Brazil,&#8221; said Juan Gonzalez, a longtime Latin America adviser to Biden who served as a deputy assistant secretary of state in the Obama administration. &#8220;Anybody, in Brazil or elsewhere, who thinks they can advance an ambitious relationship with the United States while ignoring important issues like climate change, democracy, and human rights clearly hasn&#8217;t been listening to Joe Biden on the campaign trail.&#8221;</p><p class="content-list-component yr-content-list-text text"><h3>Risking Pariah Status</h3></p>
+<p>Thanks in large part to the countries&#8217; shared economic interests, the U.S.-Brazil relationship has remained strong, if often overlooked, even during times of deep ideological differences and occasional chills. As vice president, Biden played a central role in that relationship at one of its modern low points.&#160;Following 2015 revelations that the U.S. had spied on its South American neighbor,&#160;President Barack Obama sent Biden to repair relations with Brazil&#8217;s then-leader, Dilma Rousseff.&#160;</p>
+<img class="image__src" src="https://img.huffingtonpost.com/asset/5f8874be2900003600c6a074.jpeg?cache=ndpjgyqnxc&amp;ops=scalefit_720_noupscale" alt="Brazilian President Jair Bolsonaro (right) rejected Democratic presidential nominee Joe Biden's pledge to raise $20 billion i">
+<p class="image__meta-wrapper js-image-meta-wrapper">
+<p class="image__credit">
+<p>
+Getty Images
+</p>
+</p>
+
+Brazilian President Jair Bolsonaro (right) rejected Democratic presidential nominee Joe Biden's pledge to raise $20 billion in international funds to help Brazil protect the Amazon rainforest, which has suffered record outbreaks of fires over the last two years.
+
+</p>
+
+
+<p>Biden&#8217;s history with Brazil and his fairly conventional approach to foreign policy have left some officials within Bolsonaro&#8217;s government thinking that not much would change under a Democratic White House. When the U.S. and Brazil reached an agreement on a small trade deal this week, for instance, former Brazilian Trade Secretary Welber Barral said it was the type of economic agreement that would pass &#8220;<a href="https://oglobo.globo.com/economia/acordo-com-eua-nao-abre-mercados-so-reduz-burocracia-diz-ex-secretario-de-comercio-exterior-1-24701298?GLBID=1606207f23ad1af150470508c5a7bc2136f4a4d67486736724a694776796753674b38304130426f386445523373586244745551514b4f74386a6d78503059437153545046737864514c63322d3674795a4d746c45574e4f77764c70773364517572754d5f64413d3d3a303a7269636172646f2e62616c7468617a6172" target="_blank" rel="noopener noreferrer">even in an eventual Joe Biden government</a>.&#8221;&#160;</p><p>But that may underestimate how seriously a Biden administration would take climate change, and Bolsonaro could find himself quickly isolated on the global stage if,&#160;alongside the U.S., he doesn&#8217;t move closer to the international consensus on the issue.&#160;</p><p>&#8220;It would be a mistake to assume that we were somehow going to give Brazil a pass on important issues,&#8221; said Thomas Shannon, who served as the U.S. ambassador to Brazil under President Obama. &#8220;Biden signaled one of them, which is the Amazon &#8213; and deforestation&#8217;s impact on biodiversity and the climate.&#8221;</p><p>U.S. politics have shifted, Shannon said, in ways that Bolsonaro&#8217;s close relationship with Trump may have shielded him from so far. Biden&#8217;s climate agenda, and the central role of the Amazon in it, is a reflection not just of his own priorities but of the Democratic Party&#8217;s.&#160;</p><p>Climate has become a more prominent issue for Democrats in Congress and among their base of voters across the country over the last four years. At the same time, Bolsonaro&#8217;s ties to Trump and the perception that his efforts to roll back environmental regulations worsened <a href="https://www.huffpost.com/entry/brazil-amazon-rainforest-fire-climate-change_n_5d5dc2b5e4b02cc97c87eb98">the outbreak of fires</a> in the Amazon have made him a lightning rod among an increasingly large share of Democratic lawmakers and officials in Washington. (The Brazilian leader&#8217;s rhetoric on social issues and his <a href="https://www.huffpost.com/entry/jair-bolsonaro-coronavirus-brazil-democracy_n_5f3165aec5b6fc009a5b7a20">anti-democratic actions</a> haven&#8217;t helped, either.)</p><p>&#8220;He&#8217;s just been awful,&#8221; Rep. Don Beyer (D-Va.) told HuffPost this summer, a sentiment that some progressives have shared since the start of Bolsonaro&#8217;s presidency but that has intensified on Capitol Hill in the two years since. &#8220;I think, as in so many situations around the world or at home, when you get layers of evidence piled upon one another, people begin to pay attention.&#8221;</p><p>The U.S. and Brazil have a significant trade relationship, and Bolsonaro has sought to expand that economic partnership to Brazil&#8217;s benefit. Although <a href="https://www.bloomberg.com/news/articles/2020-01-15/u-s-to-prioritize-brazil-over-argentina-in-oecd-bid-reversal">he won Trump&#8217;s support</a> for Brazil&#8217;s entry into the Organization for Economic Cooperation and Development, Bolsonaro has not been able to move forward on another major goal: a new trade deal with the United States that goes far beyond the <a href="https://www.uschamber.com/press-release/us-brazil-trade-deal-takes-center-stage-us-chamber-s-us-brazil-connect-summit">smaller agreement</a>&#160;the two countries reached this week.</p><blockquote class="content-list-component js-sparkle pull-quote sparkle--none">
+<p class="quote">There&#8217;s always been illegal logging in the Amazon, there&#8217;s been spotty enforcement, there&#8217;s been a push for development. But [Bolsonaro] has put all these policies on steroids.</p>
+<p class="attribution">U.S. Rep. Earl Blumenauer</p>
+</blockquote>
+
+<p>Bolsonaro interpreted Biden&#8217;s mention of &#8220;economic consequences&#8221; as a threat of broad sanctions, but it&#8217;s more likely that Biden simply won&#8217;t make Brazil&#8217;s economic goals a priority without clear commitments on climate.&#160;</p><p>That&#8217;s a position at least some congressional Democrats may already hold. In June, a group of House Democrats, including Beyer, signed onto a letter <a href="https://www.reuters.com/article/us-usa-trade-brazil-idUSKBN23A37N">opposing any new trade deal with Brazil</a>&#160;&#8213; a move that was driven largely by concerns about Bolsonaro&#8217;s environmental and human rights record, said Rep. Earl Blumenauer (D-Ore.), who chairs the House Ways and Means Committee&#8217;s subcommittee on trade.</p><p>&#8220;There&#8217;s always been illegal logging in the Amazon, there&#8217;s been spotty enforcement, there&#8217;s been a push for development,&#8221; Blumenauer told HuffPost in June, not long after the lawmakers sent their letter to U.S. Trade Representative Robert Lighthizer. &#8220;But [Bolsonaro] has put all these policies on steroids.&#8221;</p><p>&#8220;It is an assault on the global environment,&#8221; Blumenauer said, adding that he was also alarmed by Bolsonaro&#8217;s policies toward Indigenous Brazilians and environmentalists who opposed his government. &#8220;It is a pretty ruthless regime. Why would we want to facilitate them economically?&#8221;</p><p class="content-list-component yr-content-list-text text"><h3>Political Pressure At Home</h3></p>
+<p>If Biden wins, both he and Bolsonaro will face significant domestic pressure to act more urgently on climate change.</p><p>In the U.S., Biden&#8217;s relative aggression on the issue is, in part, a response to the progressive push to do more. That will likely only intensify if he&#8217;s in the White House, given that progressive groups are already skeptical that he will appoint the sort of climate-focused officials they want to see in key Cabinet positions.&#160;</p><p>Progressives will demand that Biden and congressional Democrats who prioritize trade over environmental concerns take a harder line against Bolsonaro, said Andrew Miller, the advocacy director at Amazon Watch, which has brought Brazilian Indigenous leaders and environmental activists to Congress to raise awareness about their right-wing president.&#160;</p><p>Bolsonaro, meanwhile, has faced his own internal pushback from environmental groups and Indigenous organizations, although he rarely pays them much mind. Key actors in Brazil&#8217;s influential agribusiness and financial sectors have also pressured him to change course, amid fears that his anti-environment reputation harms Brazil&#8217;s ability to attract vital foreign investment and threatens trade relationships with Europe.&#160;That pressure, too, will likely increase if Biden wins the White House and makes climate a priority.</p><p>At the same time, substantial portions of the Brazilian state, including Bolsonaro, regard international demands on climate as misdirected and even devious.&#160;</p>
+<img class="image__src" src="https://img.huffingtonpost.com/asset/5f8f020f2400003f0461e171.jpeg?ops=scalefit_720_noupscale" alt="A woman holds a sign reading &quot;Climate Justice Now!&quot; during a protest against Bolsonaro's environmental policies in the Brazil">
+<p class="image__meta-wrapper js-image-meta-wrapper">
+<p class="image__credit">
+<p>
+AP Photo/Eraldo Peres
+</p>
+</p>
+
+A woman holds a sign reading "Climate Justice Now!" during a protest against Bolsonaro's environmental policies in the Brazilian capital of Brasilia. Bolsonaro has faced domestic and international pressure to alter his approach to the environment.
+
+</p>
+
+
+<p>A former Army captain, Bolsonaro has leaned heavily into the idea that international efforts to protect the Amazon rainforest are a colonialist plot to gain control of the country&#8217;s resources, an idea that first became prominent during the military dictatorship that ruled Brazil from 1964 to 1985. In 2019, as fires raged across the Amazon, Bolsonaro denied they were occurring in a speech to the United Nations General Assembly. His top diplomat, Ernesto Araujo, has denied the existence of climate change, and Bolsonaro has taken a <a href="https://www.huffpost.com/entry/brazil-jair-bolsonaro-stop-using-bic-pens-emmanuel-macron-feud_n_5d6a8553e4b01108044fe39a">combative public stance</a> against world leaders, like France&#8217;s Emmanuel Macron, who have pushed him to change course.&#160;</p><p>Inside Bolsonaro&#8217;s government, there is a belief that Brazil has become an international scapegoat thanks to misperceptions, half-truths and historical amnesia. Amid scrutiny over the fires, officials have argued that Brazil has protected more of its land than the U.S. or any of the European countries that criticize it and has done more to shift away from fossil fuels and toward renewable energy sources.&#160;</p><p>Although deforestation rates have spiked under Bolsonaro, the current increases began before he took office. The president has pointed to his mobilization of the military to combat fires in the Amazon and the Pantanal, Brazil&#8217;s vast wetland savanna that also&#160;<a href="https://www.reuters.com/article/us-climate-change-brazil-pantanal-insigh-idUSKBN2651DZ">burned at record rates this year</a>, as evidence that he&#8217;s not ignoring the country&#8217;s environmental challenges but confronting them.</p><p>Brazilians point out that, unlike the U.S. under Trump, their country has not left the Paris climate accords. There is frustration that developed nations like France, Germany and the U.S. have not matched their words about climate with action or followed through on commitments they made to Brazil and other developing countries &#8213; not just under the Paris agreement, but dating back to the Kyoto Protocol of 1992.&#160;</p><p>Environmental minister Ricardo Salles has argued for two years that wealthy countries that long ago destroyed their own environments have little standing to chastise Brazil now for pursuing its economic interests on its own terms. Last year, Brazil <a href="https://www.huffpost.com/entry/brazil-rejects-amazon-wildfire-aid_n_5d651d65e4b008b1fd2118a6">rejected environmental aid packages</a> from the G-7 countries.&#160;</p><p>Still, Brazilian officials insist their country is prepared to partner with others on climate-related issues if those countries are ready to take action instead of solely demanding it from elsewhere.&#160;</p><p>And there will be significant pressure to do so. The Bolsonaro-Trump alliance has also helped Brazilian and U.S. environmental activists forge closer partnerships. They are likely to continue pressing legislators in both governments.</p>
+<img class="image__src" src="https://img.huffingtonpost.com/asset/5f8f08482400003f0461e187.jpeg?ops=scalefit_720_noupscale" alt="Biden has campaigned on climate change and environmentalism, but he'll likely still face pressure from U.S. progressives, who">
+<p class="image__meta-wrapper js-image-meta-wrapper">
+<p class="image__credit">
+<p>
+Drew Angerer via Getty Images
+</p>
+</p>
+
+Biden has campaigned on climate change and environmentalism, but he'll likely still face pressure from U.S. progressives, who have demanded that he act aggressively should he win November's election.
+
+</p>
+
+
+<p>How that pressure &#8220;affects the U.S.-Brazil relationship will in many ways depend on how skillful Brazil and Bolsonaro are in dealing with this [diplomatically],&#8221; Shannon said. &#8220;So far they have not shown themselves to be skillful. They have shown that they&#8217;re defensive, resentful and suspicious.&#8221;</p><p>The Bolsonaro government will likely be willing to talk climate with a Biden administration and even make some changes in an effort to foster stronger relations, said Ricardo Mendes, a Brazilian international consultant, at a <a href="https://www.wilsoncenter.org/event/webcast-trump-or-biden-what-will-it-mean-brazil-and-bolsonaro" target="_blank" rel="noopener noreferrer">discussion hosted by the Woodrow Wilson Center</a> earlier this month in Washington. But it will be difficult, he added, to reconcile the key difference between the Bolsonaro government and its chief environmental critics: The former sees the Amazon as key to Brazil&#8217;s own development, while the latter views its preservation as vital to the planet&#8217;s survival.&#160;</p><p>&#8220;They&#8217;re not talking about the same things,&#8221; Mendes said at the event. &#8220;It&#8217;s not just a PR problem, it&#8217;s not something that will just go away by replacing ministers, it&#8217;s not something that will just go away by controlling the fires. It&#8217;s a different mindset on what needs to be done on the Amazon.&#8221;</p><p class="content-list-component yr-content-list-text text"><h3>What An Aggressive Plan Looks Like<strong>&#160;</strong>
+</h3></p>
+<p>Biden hasn&#8217;t specified what pressure on Brazil might look like, but activists and environmental organizations have ideas. A Biden administration could take aggressive steps to bar imports of products from illegally deforested lands, something that Sen. Brian Schatz (D-Hawaii) has already proposed. That would put intense pressure on agribusiness giants and food companies, as is the case in France, where supermarket chain Casino Group is facing potential penalties and <a href="https://www.mightyearth.org/indigenous-organizations-and-ngo-coalition-warn-top-french-supermarket-casino">lawsuits from environmental groups</a>&#160;over its sale of meat from animals raised on cleared land in the Amazon.</p><p>Investors are another potential pressure point. The Securities and Exchange Commission could make new rules requiring Wall Street titans like BlackRock and JPMorgan Chase to account for environmentally destructive investments. Curbing U.S. incentives to make biofuels, such as corn-based ethanol, could also encourage Brazilian regulators to stop opening up more land to make sugar-based fuels.&#160;</p><p>&#8220;The Biden administration could do a lot more domestically and frame that in terms of a call to arms or a challenge to Bolsonaro to match what they&#8217;re doing,&#8221; said Sarah Lake, the Latin America director at the environmental campaign group Mighty Earth. &#8220;There&#8217;s an opportunity for Biden to pressure companies and create regulation that requires much stricter environmental standards, even for portions of businesses that operate internationally.&#8221;</p><p>There&#8217;s no time to waste, groups like Mighty Earth argue. Scientists have issued dire warnings about the fate of the Amazon if nothing is done now. As much as 40% of the rainforest, <a href="https://www.theguardian.com/environment/2020/oct/05/amazon-near-tipping-point-of-switching-from-rainforest-to-savannah-study" target="_blank" rel="noopener noreferrer">a recent study found</a>, is near the &#8220;tipping point&#8221; that will turn it into savanna. That&#8217;s a loss that would be nearly impossible to reverse &#8213; and that would further imperil the international fight against climate change, even if Biden acts with the sort of resolve that&#8217;s long been lacking in the United States.</p><p id="inline-newsletter_placeholder"></p>
+
+<p class="inline-subscription-module__svg">
+
+ 
+
+	
+
+
+	
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+			
+		
+		
+		
+			
+		
+		
+			
+		
+		
+		
+	
+
+
+
+</p>
+<p class="inline-subscription-module__title">Calling all HuffPost superfans!</p>
+<p class="inline-subscription-module__description">Sign up for membership to become a founding member and help shape HuffPost's next chapter</p>
+<a class="inline-subscription-module__button" href="https://login.huffpost.com/account/create?specId=usernameRegWithNoGender&amp;ncid=huffpost_epv1_vc5rcp5vulq">Join HuffPost</a>
+<p class="teads-entry__content" id="teads-entry-desktop">
+
+
+</p>
+</div>
