@@ -1,0 +1,33 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8f2faab0526700185cc6c8?width=1200&format=jpeg 
+title: > 
+  Uber's CEO says it will have to double prices in some cities if California voters reject its bid to avoid classifying its drivers as employees 
+description: > 
+  If forced to classify workers as employees, however, Uber and its competitors would face massively higher costs.To make up for that, CEO Dara Khosrowshahi said Tuesday, fares would rise — in some cases as much as 100%.If voters reject Proposition 22, which would provide a floating pool of benefits for gig-workers across multiple apps including Uber's competitors, the company would likely be forced to classify drivers as employees.Uber will report its third-quarter financials on November 5, providing the most granular insight yet on its recovery since June.Where we can operate is a question mark, and the size and scale of the business will be substantially reduced." 
+keywords: > 
+  employees, companies, reject, ubers, double, recovery, workers, khosrowshahi, ceo, classifying, uber, business, cities, work, proposition, measure, prices, drivers, voters 
+date: 1603223959.5359457 
+--- 
+<div><ul class="summary-list">
+<li>In two weeks, California voters will decide on Proposition 22.&#160;</li>
+<li>The ballot measure is backed by Uber and other gig-work companies and is in response to the state's law requiring them to classify many workers as employees rather than contractors.&#160;</li>
+<li>If passed, the companies will pay into a floating benefits fund that will follow workers across apps and jobs, while maintaining flexibility.</li>
+<li>If forced to classify workers as employees, however, Uber and its competitors would face massively higher costs.</li>
+<li>To make up for that, CEO Dara Khosrowshahi said Tuesday, fares would rise &#8212; in some cases as much as 100%.&#160;&#160;</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-transportation-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-transportation-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Uber's bid to replace California's gig-worker law with its own proposal is in the final stretch, and the company is warning that prices could skyrocket if the measure fails in two weeks.</p><p>If voters reject Proposition 22, which would provide a floating pool of benefits for gig-workers across multiple apps including Uber's competitors, the company would likely be forced to classify drivers as employees. That means higher costs, which would ultimately be passed on to consumers in the form of fare increases, as the company remains under pressure to turn a profit.</p><p>"The vast majority of our cost is actually driver earnings," Uber CEO Dara Khosrowshahi <a href="https://twitter.com/WSJ/status/1318569772154576896?source=content_type:react%7Cfirst_level_url:news%7Csection:main_content%7Cbutton:body_link">said at a virtual event hosted by The Wall Street Journal on Tuesday.</a> "Prices would go up, we estimate, between 25 and over 100%, depending on what city you are."</p><p>"In larger cities, let's say San Francisco and LA," he continued, "price increases will be in the 20, 30, 40% range. And in certain smaller cities, price increases would be 70, 80, 100%. Those are the estimates that we have. These are not made up estimates."</p>
+<p id="gpt-post-transportation-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-transportation-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Khosrowshahi pointed to Switzerland, where in <a href="https://www.swissinfo.ch/eng/swiss-court-confirms-uber-status-as--employer-/46036976">September</a> a Geneva court ruled couriers were employees, not contractors. "That resulted in 77% of couriers being out of work," he said.</p><p>The flexibility both within Uber's app to work whenever and wherever they'd like, and to work across multiple apps, has been central to the company's argument against classifying drivers as employees, even as <a href="https://www.businessinsider.com/uber-lyft-no-shutdown-california-emergency-stay-court-drivers-contractors-2020-8">a court ordered it to do just that</a> over the summer. Wall Street analysts have estimated the cost of that change <a href="https://www.businessinsider.com/uber-lyft-fight-california-dynamex-bill-drivers-employees-2019-6">could effectively bankrupt the company.</a></p><p>Opponents of the heavily funded ballot measure Prop. 22 say the companies' arguments don't hold water.</p><p>"There is nothing in current state law that would require Uber, Lyft and other gig companies to schedule shifts or limit driver flexibility," Gig Workers Rising said in a statement Monday, as Uber sent in-app messages urging its riders and workers to vote for Prop. 22. "These billion-dollar corporations, like every other business in the state of California, are simply being asked to offer drivers basic benefits like sick leave, overtime pay and workers' compensation, which they can do while maintaining driver flexibility."</p>
+<p id="gpt-post-transportation-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-transportation-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Recent polls suggest the proposition has a good chance of passing. That's good news for Uber and for its shareholders, as rides remain more than 50% below normal volumes, Khosrowshahi said. Third-party data has suggested the rebound in ride requests has plateaued as the US struggles to contain its coronavirus outbreak and other countries see second waves.</p><p>"Recent engagement and macro data suggest the US continues to see a slow recovery, especially on the West Coast, while recovery seems to have flattened in some international cities," JPMorgan analysts said last week.</p><p>Uber will report its third-quarter financials on November 5, providing the most granular insight yet on its recovery since June.</p><p>"We're looking at all of our options," Khosrowshahi said at the conference. "We're in the transportation business, so we're going to do our best to operate in California. Where we can operate is a question mark, and the size and scale of the business will be substantially reduced."</p>
+                  </div>

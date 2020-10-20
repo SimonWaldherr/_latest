@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cdn.cnn.com/cnnnext/dam/assets/180423110307-chris-pratt-super-tease.jpg 
+title: > 
+  Chris Pratt can go from the famous Chrises, according to Twitter 
+description: > 
+  (CNN) Twitter has decided that, if given a choice, it chooses to cancel Chris Pratt.It all started when TV writer/producer Amy Berg tweeted over the weekend, "One has to go," along with pictures of Pratt, Chris Hemsworth, Chris Pine and Chris Evans.The tweet -- about the group known as the four famous Chrises -- elicited plenty of comment, with many saying Pratt had to go.Those who supported canceling Pratt cited everything from his allegedly being a Trump supporter to a claim last year that Pratt supported a church with anti-LGBTQ views.I go to a church that opens their doors to absolutely everyone." 
+keywords: > 
+  pratt, weekend, famous, chrises, chris, supported, wrote, writerproducer, views, group, according, twitter, church 
+date: 1603223923.4131553 
+--- 
+<div><p class="zn-body__paragraph speakable"> (CNN)Twitter has decided that, if given a choice, it chooses to cancel <a href="http://www.cnn.com/2020/08/10/entertainment/chris-pratt-katherine-schwarzenegger-baby/index.html" target="_blank">Chris Pratt.</a></p><a></a><p>It all started when <a href="https://twitter.com/bergopolis/status/1317583965520240640?s=20" target="_blank">TV writer/producer Amy Berg tweeted </a> over the weekend, "One has to go," along with pictures of Pratt, Chris Hemsworth, Chris Pine and Chris Evans.</p><p class="zn-body__paragraph speakable">The tweet -- about the group known as the four famous Chrises -- elicited plenty of comment, with many saying Pratt had to go.</p><a></a><p>Those who supported canceling Pratt cited everything from his allegedly being a Trump supporter to a claim last year that Pratt supported a church with anti-LGBTQ views. Pratt <a href="https://www.cnn.com/2019/02/12/entertainment/chris-pratt-ellen-page-church/index.html" target="_blank">has denied the latter claim.</a> </p><p id="ad_rect_atf_02" class="ad-ad_rect_atf_02 ad-refresh-default"></p><p></p><p></p><ul class="cn cn-list-hierarchical-xs cn--idx-5 cn-zoneAdContainer"></ul><p class="zn-body__paragraph">"It has recently been suggested that I belong to a church which 'hates a certain group of people' and is 'infamously anti --LGBTQ,'" he wrote last year on his Instagram stories. "Nothing could be further from the truth. I go to a church that opens their doors to absolutely everyone."</p><p class="read-more-gradient"></p><p class="read-more-link" id="js-body-read-more">Read More</p></div>

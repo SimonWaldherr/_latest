@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.usnews.com/dims4/USNEWS/84061d5/2147483647/thumbnail/1000x468/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fb7%2F9c%2F079fc52446e3b4e2fd1d0a9b0239%2Fbs17-justice-main.jpg 
+title: > 
+  Best States for Crime & Corrections 
+description: > 
+  The overall crime rate in 2018 was lower than it was in 2017, as was the violent crime rate, according to early estimates.Many states have much higher incarceration rates for minorities than they do for white people.The crime rates vary from state to state, as do rates of incarceration.Four of the 10 states that are best for crime and corrections also rank among the top 10 Best States overall.Explore more about the best states for crime and corrections below. 
+keywords: > 
+  incarceration, prison, minorities, state, states, best, crime, rate, corrections, rates 
+date: 1603223992.8776007 
+--- 
+<div><p>Crime in America <a href="https://ucr.fbi.gov/crime-in-the-u.s/2018/preliminary-report" target="_blank">is declining.</a> The overall crime rate in 2018 was lower than it was in 2017, as was the violent crime rate, according to early estimates. Murder rates in America's largest cities are projected to decline, with exceptions including Washington, D.C., and Houston, the <a href="https://www.brennancenter.org/press-release/early-year-end-data-show-crime-and-murder-rates-declining-nations-largest-cities" target="_blank">Brennan Center for Justice</a> at New York University has reported.</p><p>While state and federal prison populations in the U.S. are <a href="https://www.usnews.com/news/national-news/articles/2019-04-25/doj-touts-10-year-drop-in-incarceration-rates">now slowly decreasing</a> largely due to prison reforms, the U.S. continues to imprison more of its citizens than other developed countries. The large prison system has led to prison overpopulation and increases in the fiscal burden for the states and has disproportionately affected minorities. Many states have much higher incarceration rates for minorities than they do for white people. The crime rates vary from state to state, as do rates of incarceration. And the way states cope with crime is another matter, as some are more successful than others at modernizing prisons and operating efficient correctional systems.</p><p>New Hampshire is the top state for crime and corrections. It&#8217;s followed by Vermont, Maine, Massachusetts and Hawaii to round out the top five. Four of the 10 states that are best for crime and corrections also rank among the top 10 Best States overall.</p><p>Explore more about the best states for crime and corrections below.</p></div>

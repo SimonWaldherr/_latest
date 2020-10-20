@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.usnews.com/dims4/USNEWS/9f380c5/2147483647/crop/4050x1895%2B0%2B464/resize/1000x468/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F25%2F2e%2F75078c444fae843fd0cfb1de1291%2F190508-editorial.rankings_main1.jpg 
+title: > 
+  Overall Best States Rankings 
+description: > 
+  Photos From California to New York: All 50 U.S. States Excel at SomethingAt a time when the federal government is attempting to hand more responsibility for spending and policymaking to the states, these rankings offer the first comprehensive view, state by state, of how some states already are performing best.This highly interactive platform enables users to explore thousands of important benchmarks and easily draw state-to-state comparisons.Build a chart, share it, and ultimately learn what all the states can learn from one another.Among the eight main categories measured in the Best States rankings, more than five dozen subcategories of metrics are taken into account.What follows is a deep dive into all 50 states. 
+keywords: > 
+  learn, whats, state, way, states, best, 50, york, data, rankings, overall 
+date: 1603223991.0795567 
+--- 
+<div><p>Photos From California to New York: All 50 U.S. States Excel at Something</p><p>At a time when the federal government is attempting to hand more responsibility for spending and policymaking to the states, these rankings offer the first comprehensive view, state by state, of how some states already are performing best. This highly interactive platform enables users to explore thousands of important benchmarks and easily draw state-to-state comparisons. Build a chart, share it, and ultimately learn what all the states can learn from one another. </p><p>The site also delivers a freshly updated menu of reporting and analysis on state trends and developments, making it a must-read source for anyone interested in what&#8217;s happening nationally.</p><p>The data driving these rankings were drawn from extensive and reliable governmental and private sources as well as proprietary data including a national survey of what matters most to citizens around the country. Among the eight main categories measured in the Best States rankings, more than five dozen subcategories of metrics are taken into account.</p><p>What follows is a deep dive into all 50 states. Let the Data Explorer lead your way.</p></div>

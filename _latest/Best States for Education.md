@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.usnews.com/dims4/USNEWS/ccb3989/2147483647/thumbnail/1000x468/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fd9%2F95%2F4042722e43f481b38cadca9cb9c2%2F170130-beststates-cateducation-editorial.jpg 
+title: > 
+  Best States for Education 
+description: > 
+  Public education has largely been a local matter for school boards and states that allocate most of their funding.Many states also coordinated with the federal government in Common Core standards for basic curriculum.Massachusetts is the top state for education.Seven of the 10 states with the best education systems also rank among the top 10 Best States overall.Explore more about the best state for education below. 
+keywords: > 
+  student, schools, federal, state, states, education, best, school, public, funding 
+date: 1603223992.3162763 
+--- 
+<div><p>The quality of a community&#8217;s schools is central to any family&#8217;s aspirations. Public education has largely been a local matter for school boards and states that allocate most of their funding. Yet for the past several decades, the federal government has entered the field: With the <a href="https://www.usnews.com/news/articles/2015/12/09/congress-replaces-no-child-left-behind-shifts-power-to-states" target="_blank">No Child Left Behind Act</a>, President George W. Bush put in place requirements that schools demonstrate &#8220;adequate yearly progress&#8221; based on standardized student testing. The law was replaced during the Obama administration with the <a href="https://www.usnews.com/news/articles/2016-05-18/battle-raging-over-implementation-of-every-student-succeeds-act" target="_blank">Every Student Succeeds Act</a>. Many states also coordinated with the federal government in Common Core standards for basic curriculum. Now Republicans are promoting another direction based on charter schools, privately run schools operated with public oversight and funding, and school choice, enabling parents to decide which public or private schools their children attend with public funding. </p><p>Massachusetts is the top state for education. It&#8217;s followed by New Jersey, Florida, Washington and New Hampshire to round out the top five. Seven of the 10 states with the best education systems also rank among the top 10 Best States overall.</p><p>Explore more about the best state for education below.</p></div>

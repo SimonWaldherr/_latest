@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cdn.cnn.com/cnnnext/dam/assets/201020102553-derek-hough-erbert-dance-1019-super-tease.jpg 
+title: > 
+  Derek Hough returns to the floor on 'Dancing with the Stars' 
+description: > 
+  (CNN) Derek Hough returned to the floor on Monday's episode of "Dancing with the Stars" to perform a sexy routine with girlfriend Hayley Erbert.Hough and Erbert, who have been dating for five years, say they have grown even closer during the pandemic.We grew as a couple tremendously," Hough recently said during an appearance on "The Ellen DeGeneres Show.""Tonight I'm performing on the @dancingabc floor for the first time in over 3 Years, and I wouldn't want to be dancing with anyone else .Hough wrote on Instagram in advance of the performance." 
+keywords: > 
+  hough, returns, wouldnt, stars, derek, wrote, tremendously, dancing, trophieshough, uccen, floor, closer, wins 
+date: 1603223921.4489236 
+--- 
+<div><p class="zn-body__paragraph speakable"> (CNN)Derek Hough returned to the floor on Monday's episode of "Dancing with the Stars" <a href="https://www.cnn.com/2020/09/23/entertainment/dwts-first-elimination-trnd/index.html" target="_blank">to perform</a> a sexy routine with girlfriend Hayley Erbert.</p><a></a><p>The two danced a paso doble to Taalbi Brothers' "Uccen." It was Hough's first time dancing <a href="https://www.cnn.com/2020/10/07/entertainment/tyra-banks-dwts-error-trnd/index.html" target="_blank">on the show</a> since 2017. He finished in sixth place on Season 23 in 2016 and holds the wins record by a pro with six mirrorball trophies.</p><p class="zn-body__paragraph speakable">Hough and Erbert, who have been dating for five years, say they have grown even closer during the pandemic. "We came together, we got closer. We grew as a couple tremendously," Hough recently said during an appearance on "The Ellen DeGeneres Show."</p><a></a><p>"Tonight I'm performing on the @dancingabc floor for the first time in over 3 Years, and I wouldn't want to be dancing with anyone else . Also, why am I holding her ear?" Hough wrote on <a href="https://www.instagram.com/p/CGh-eEeg7DA/?utm_source=ig_web_copy_link" target="_blank">Instagram</a> in advance of the performance.</p><p id="ad_rect_atf_02" class="ad-ad_rect_atf_02 ad-refresh-default"></p><p></p><p></p><ul class="cn cn-list-hierarchical-xs cn--idx-5 cn-zoneAdContainer"></ul><p class="el-embed-youtube">" allowfullscreen&gt;</p><a></a><p>The show described their performance as <a href="https://www.instagram.com/p/CGi9b4nBTb9/?utm_source=ig_web_copy_link" target="_blank">"FIRE."</a> </p></div>
