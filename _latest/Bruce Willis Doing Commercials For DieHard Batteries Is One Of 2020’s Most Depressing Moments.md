@@ -1,0 +1,16 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://decider.com/wp-content/uploads/2020/10/BRUCE-WILLIS-DIE-HARD-BATTERY-COMMERCIAL.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Bruce Willis Doing Commercials For DieHard Batteries Is One Of 2020’s Most Depressing Moments 
+description: > 
+  Die Hard, the Christmas classic starring Bruce Willis that spawned four sequels, came out in 1988.We honestly can’t believe it took this long for Willis to do a commercial for DieHard car batteries, but, we’ll paraphrase what Adele said just yesterday, 2020 is literally the year where anything can happen.Willis nimbly squirms through air ducts, flies through plates of glass, and gets chauffered by Argyle the limo driver (De’voreaux White, also reprising his Die Hard role).If the 1980s were peak Willis-as-action-hero, the 2020s are the acknowledgement that Willis is a dad who doesn’t like being bothered when he’s tinkering with his car.The two-minute-long Die Hard spoof premiered last night during Fox’s NFL broadcast. 
+date: 1603195404.9331508 
+--- 
+<div><p><a href="http://decider.com/movie/die-hard">Die Hard</a>, the <a href="https://decider.com/2017/12/01/die-hard-is-not-a-christmas-movie/" rel="noopener noreferrer" target="_blank">Christmas classic</a> starring Bruce Willis that spawned four sequels, came out in 1988. Now, in 2020, it&#8217;s back. We honestly can&#8217;t believe it took this long for Willis to do a commercial for DieHard car batteries, but, we&#8217;ll paraphrase what <a href="https://decider.com/2020/10/19/adele-terrified-to-host-snl-on-october-24/" rel="noopener noreferrer" target="_blank">Adele</a> said just yesterday, 2020 is literally the year where anything can happen. A new commercial, that&#8217;s technically for Advance Auto Parts, features Willis reprising his role as John McClane as he faces his old nemesis Theo (Clarence Gilyard, Jr.) in an effort to replace the DieHard battery in his car. Willis nimbly squirms through air ducts, flies through plates of glass, and gets chauffered by Argyle the limo driver (De&#8217;voreaux White, also reprising his Die Hard role). Pyrotechnic explosions, high speed chases, and references to Christmas all feature prominently in the commercial that winks at all of the action franchise&#8217;s well-worn tropes. If the 1980s were peak Willis-as-action-hero, the 2020s are the acknowledgement that Willis is a dad who doesn&#8217;t like being bothered when he&#8217;s tinkering with his car.</p>
+<p>The two-minute-long Die Hard spoof premiered last night during Fox&#8217;s NFL broadcast. We&#8217;re surprised that they didn&#8217;t wait until the Super Bowl to premiere it, but here&#8217;s hoping we get a sequel that might air during the ad world&#8217;s biggest night featuring a hologram of Hans Gruber.</p>
+<p>As much as we love Bruce Willis and Die Hard, and this commercial scratches the itch for a revival, nothing truly compares to his original commercial work back in the olden days when he shilled for Seagrams Golden Wine Coolers. We&#8217;d be thrilled if he brought back Bruno one of these days.</p>
+<p></p>
+	 
+		</div>

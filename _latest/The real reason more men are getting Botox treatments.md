@@ -1,0 +1,19 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/men/2020/10/20/ss-2020-10-20-11-33_trans_NvBQzQNjv4Bq0RglTN43wyGR-NQABDM7ErkcnEMN6jgniYeqwz6a86k.png?impolicy=logo-overlay 
+title: > 
+  The real reason more men are getting Botox treatments 
+description: > 
+  The first time he got Botox and dermal fillers, in 2018, “I probably was hoping to look 10 years younger,” he says.It made me feel really good.”And it wasn’t just at work that he noticed the attention.Men now feel they are able to look after their appearances – thanks, in part, to social media influencers who are, according to MacGregor, normalising treatment for men.“As soon as there’s enough people, it becomes acceptable.”Patel, too, believes Botox is starting to lose its taboo for men.I don’t think that has made many men feel happy.” Now, with men increasingly investing in skincare, hair treatments and non-surgical procedures, Taylor-Brown feels they are more empowered. 
+date: 1603195410.9894478 
+--- 
+<div><p>Taylor-Brown admits he is something of an outlier. The first time he got&#160;Botox and dermal fillers, in 2018, &#8220;I probably was hoping to look 10 years younger,&#8221; he says. But the results were more subtle:&#160;&#8220;It&#8217;s not like you suddenly end up with things I dislike intensely, like duck lips,&#8221; he says. &#8220;People know that something is different without ever realising.&#8221;&#160;</p>
+<p>When Taylor-Brown returned for a follow-up treatment in 2019, his mindset was different. &#8220;The second time I just wanted to look the best version of myself. So I do understand that it isn&#8217;t about looking younger;&#160;it&#8217;s about looking great at your age.&#8221;</p>
+<p>He says he&#8217;s noticed a change in how people respond to him.&#160;&#8220;I couldn&#8217;t really name it &#8211; it just felt like I was getting a positive reaction. People would generally go, &#8216;Hey! You&#8217;re looking good&#8217;. It made me feel really good.&#8221;</p>
+<p>And it wasn&#8217;t just at work that he noticed the attention.&#160;&#8220;I was getting women smiling at me in the street or in the supermarket for no reason when I was walking along &#8211; and I was thinking, &#8216;That hasn&#8217;t happened for a little while!&#8217;&#8221;</p>
+<p>Taylor-Brown is hoping to get treatment once a year (although his 2020 treatment has been put on hold due to Covid-19). Even though he hasn&#8217;t had it done in a year, he has noticed his face hasn&#8217;t gone back to how it was before; indeed, on our call, I would have guessed he was in his early 40s, given his smooth forehead and coiffed hair, as opposed to 53.</p>
+<p>Men now feel they are able to look after their appearances &#8211; thanks, in part, to social media influencers who are, according to MacGregor, normalising treatment for men. &#8220;It&#8217;s just a mass effect,&#8221; she says. &#8220;As soon as there&#8217;s enough people, it becomes acceptable.&#8221;</p>
+<p>Patel, too, believes Botox is starting to lose its taboo for men. &#8220;In the old days, we&#8217;d often see men almost being dragged in and the partner saying &#8216;what can you do with him?&#8217;&#8221; he laughs. &#8220;But nowadays we&#8217;re seeing more [men] taking charge.&#8221; Men are more &#8220;active&#8221; in the consultation, he finds, and seem more comfortable doing their homework and seeking advice.</p>
+<p>This boom in male grooming has been liberating, Taylor-Brown says. &#8220;It&#8217;s always been the domain of the woman to look as good as possible, and that&#8217;s fine, but for men it was never considered to be a thing you should even think about &#8211; you just looked how you looked. I don&#8217;t think that has made many men feel happy.&#8221; Now, with men increasingly investing in skincare, hair treatments and non-surgical procedures, Taylor-Brown feels they are more empowered.&#160;</p>
+</div>
