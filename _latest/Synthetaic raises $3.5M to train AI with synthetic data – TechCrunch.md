@@ -1,0 +1,23 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1222958278.jpg?w=600 
+title: > 
+  Synthetaic raises $3.5M to train AI with synthetic data – TechCrunch 
+description: > 
+  Synthetaic is a startup workign to create data — specifically images — that can be used to train artificial intelligence.Founder and CEO Corey Jaskolski’s past experience includes work with both National Geographic (where he was recently named Explorer of the Year) and a 3D media startup.In fact, he told me that his time with National Geographic made him aware of the need for more data sets in conservation.The startup also validates its results after an AI has been trained on Synthetaic’s synthesized images, by testing that AI on real data.Jaskolski added that Synthetaic customers don’t need any AI expertise of their own, because the company provides an “end-to-end” solution. 
+keywords: > 
+  create, 3d, startup, data, synthetic, train, images, work, synthetaics, 35m, raises, ai, techcrunch, poachers, synthetaic 
+date: 1603230016.186186 
+--- 
+<div><p id="speakable-summary"><a href="http://www.synthetaic.com">Synthetaic</a> is a startup workign to create data &#8212; specifically images &#8212; that can be used to train artificial intelligence.</p>
+<p>Founder and CEO Corey Jaskolski&#8217;s past experience includes work with both National Geographic (where he was recently <a href="https://www.businesswire.com/news/home/20200922005876/en/Synthetaic-Founder-and-CEO-Corey-Jaskolski-Named-Rolex-National-Geographic-Explorer-of-the-Year">named Explorer of the Year</a>) and a 3D media startup. In fact, he told me that his time with National Geographic made him aware of the need for more data sets in conservation.</p>
+<p>Sound like an odd match? Well, Jaskolski said that he was working on a project that could automatically identify poachers and endangered animals from camera footage, and one of the major obstacles was the fact that there simply aren&#8217;t enough existing images of either poachers (who don&#8217;t generally appreciate being photographed) or certain endangered animals in the wild to train AI to detect them.</p><p class="piano-inline-promo"></p>
+<p>He added that other companies are trying to create synthetic AI training data through 3D worldbuilding (in other words, &#8220;building a replica of the world that you want to have an AI learn in&#8221;), but in many cases, this approach is prohibitively expensive.</p>
+<p>In contrast, the Synthetaic (pronounced &#8220;synthetic&#8221;) approach combines the work of 3D artists and modelers with technology based on <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network">generative adversarial networks</a>, making it far more affordable and scalable, according to Jaskolski.</p>
+<p></p><img class="size-large wp-image-2063614" src="https://techcrunch.com/wp-content/uploads/2020/10/Aerial-Elephants_Synthetic-vs-Real-data.001.jpeg?w=680" alt="Synthetaic elephants" width="680" height="383"><p>To illustrate the &#8220;interplay&#8221; between the two halves of Synthetaic&#8217;s model, he returned to the example of identifying poachers &#8212; the startup&#8217;s 3D team could create photorealistic models of an AK 47 (and other weapons), then use adversarial networks to generate hundreds of thousands of images or more showing that model against different backgrounds.</p>
+<p>The startup also validates its results after an AI has been trained on Synthetaic&#8217;s synthesized images, by testing that AI on real data.</p>
+<p>For Synthetaic&#8217;s initial projects, Jaskolski said he wanted to partner with organizations doing work that makes the world a better place, including Save the Elephants (which is using the technology to track animal populations) and the University of Michigan (which is developing an AI that can identify different types of brain tumors).</p>
+<p>Jaskolski added that Synthetaic customers don&#8217;t need any AI expertise of their own, because the company provides an &#8220;end-to-end&#8221; solution.</p>
+<p>The startup announced today that it has raised $3.5 million in seed funding led by Lupa Systems, with participation from Betaworks Ventures and TitletownTech (a partnership between Microsoft and the Green Bay Packers). The startup, which has now raised a total of $4.5 million, is also <a href="https://techcrunch.com/2020/10/08/betaworks-betalab-first-cohort/">part of Lupa and Betaworks&#8217; Betalab program</a> of startups doing work that could help &#8220;fix the internet.&#8221;</p>
+</div>

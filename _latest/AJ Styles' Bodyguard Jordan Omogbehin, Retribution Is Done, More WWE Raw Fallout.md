@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/images/photos/003/889/151/27b6694cb052936302fd71d240c7b62b_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  AJ Styles' Bodyguard Jordan Omogbehin, Retribution Is Done, More WWE Raw Fallout 
+description: > 
+  0 of 4Credit: WWE.comOn the 2020 season premiere of WWE Raw, the red brand showed just what its new roster could do.Former basketball player Jordan Omogbehin stepped into a WWE ring for the first time.The monstrous behemoth stood behind AJ Styles as The Phenomenal One began to forge a new path on Raw.The Raw women's division struggled to find its footing.But Raw lost track of this as the brand only fleetingly built up the card throughout the night. 
+keywords: > 
+  wwe, omogbehin, lost, brand, bodyguard, track, jordan, night, roster, vs, wwecomon, retribution, styles, womens, aj, raw, fallout 
+date: 1603229961.1518462 
+--- 
+<ol><p class="slideData">0 of 4</p><p></p><img alt="" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Credit: WWE.com</p><p class="">On the 2020 season premiere of WWE Raw, the red brand showed just what its new roster could do. From new characters and stories to impactful matches, it was a night to behold.</p><p class="">One man would never forget this night. Former basketball player Jordan Omogbehin stepped into a <a href="http://bleacherreport.com/wwe">WWE</a> ring for the first time. The monstrous behemoth stood behind AJ Styles as The Phenomenal One began to forge a new path on Raw.</p><p class="">Elsewhere on the show, hopes and dreams were shattered. Mustafa Ali finally got to speak up on behalf of Retribution, but that was only after his stable was battered and embarrassed again. It seems the end is nigh for this group.</p><p class="">The Raw women's division struggled to find its footing. The new-look roster did not impress. Lana lost an embarrassingly short title fight, while Nia Jax and Shayna Baszler steamrolled several teams to remain dominant over any and all challengers.</p><p class="">For those out of the loop, WWE will be presenting Hell in a Cell on Sunday. But Raw lost track of this as the brand only fleetingly built up the card throughout the night. Even Drew McIntyre vs. <a href="http://bleacherreport.com/randy-orton">Randy Orton</a> barely developed.</p><p class="">This show was filled with more lows than highs, but the results could lead to a more interesting future in WWE.</p></ol>

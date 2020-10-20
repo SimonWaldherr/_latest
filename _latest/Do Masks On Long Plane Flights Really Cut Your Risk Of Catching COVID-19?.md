@@ -1,0 +1,47 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://media.npr.org/assets/img/2020/10/20/flying_wide-d5634ce0b932b96a7e40f84cbceddf6849301063.jpg?s=1400 
+title: > 
+  Do Masks On Long Plane Flights Really Cut Your Risk Of Catching COVID-19? 
+description: > 
+  Do Masks On Long Plane Flights Really Cut Your Risk Of Catching COVID-19?Many started to require passengers to wear masks on the plane — and some airlines even enforced the policy.Just yesterday the Centers for Disease Control and Prevention said it now "strongly recommends" all passengers and crew wear masks.In fact, since airlines have started to require masks, Freedman says, scientists have not documented one superspreading event on airlines."Airlines can control people getting onto a plane, but getting off can be chaos because everybody rushes off the plane." 
+keywords: > 
+  flights, covid19, long, plane, infected, passengers, cut, flight, virus, risk, really, catching, mask, freedman, masks 
+date: 1603229980.9910216 
+--- 
+<div><p class="storytitle">
+      <h1>Do Masks On Long Plane Flights Really Cut Your Risk Of Catching COVID-19?</h1>
+   
+   
+   
+</p><img src="https://media.npr.org/assets/img/2020/10/20/flying_custom-1096525fce8ddc7b9b4270153cd96b94de058223-s1100-c15.jpg" class="img lazyOnLoad" alt="">
+        <a class="enlargelink" href="https://media.npr.org/assets/img/2020/10/20/flying_custom-1096525fce8ddc7b9b4270153cd96b94de058223-s1200.jpg">Enlarge this image</a>
+        <p class="caption-wrap">
+         
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </p>
+
+    <p class="credit">
+        
+        James D. Morgan/Getty Images
+        
+    </p>
+<img alt="">
+    <p class="image_data">
+         
+        <p class="credit">
+            
+            James D. Morgan/Getty Images
+            
+        </p>
+    </p>
+<p>Early in the coronavirus pandemic, air travel looked like a risky endeavor. Some scientists even worried that airplanes could be sites of superspreading events. For example, in March a Vietnamese businesswoman with a sore throat and a cough boarded a flight in London. Ten hours later, she landed in Hanoi, Vietnam; she <a href="https://wwwnc.cdc.gov/eid/article/26/11/20-3299_article">infected</a> 15 people on the flight, including more than half of the passengers sitting with her in business class.</p>   <p>Then in April, airlines shifted course. Many started to require passengers to wear masks on the plane &#8212; and some airlines even enforced the policy. Just yesterday the Centers for Disease Control and Prevention <a href="https://www.cdc.gov/quarantine/masks/mask-travel-guidance.html">said</a> it now "strongly recommends" all passengers and crew wear masks.</p>   <p>So the big question is: How well do the masks work? Do they make it safe to fly across country for a family visit?</p>   <p>Scientists are just beginning to answer that question. And their findings offer a glimmer of hope as well as fresh ideas about what's most important for protecting yourself on the plane.</p>   
+    
+
+    <p id="ad-backstage-News_Health_Global_Health" class="ad-backstage"></p>
+
+   <p>The new evidence comes largely from Hong Kong, where health officials have been meticulously testing &#8212; and <a href="https://wars.vote4.hk/en/cases">tracking</a> &#8212; all passengers who land in the city. "They test everybody by PCR on arrival, quarantine them in single rooms for 14 days and then test the passengers again," says infectious disease doctor David O. Freedman at the University of Alabama at Birmingham. So health officials there know which passengers boarded the plane already infected with the virus, and whether or not they could have infected anyone else on the plane. </p>   <p>Freedman and his colleague have been analyzing this data, with a specific focus on one airline: Emirates. </p>   <p>"Since April, Emirates has had a very rigid masking policy," Freedman says. The airlines not only requires passengers and crew members to wear masks, but flight attendants also make sure everyone keeps on their masks, as much as possible, throughout an entire flight.</p>   <p>Freedman looked at all Emirates flights, from Dubai to Hong Kong, between June 16 and July 5. What he found is quite telling. During those three weeks, Emirates had five flights with seven or more infected passengers on each flight, for a total of 58 COVID-positive passengers flying on 8-hour long trips. And yet, nobody else on the planes &#8211; none of the other 1,500 to 2,000 passengers &#8212; picked up the virus, Freedman and his colleague <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7543400/">report</a> in the Journal of Travel Medicine. </p>   <p>"Those were flights with higher risk, and yet there was no transmission," Freedman says.</p>   <p>On another Emirates flight, a whopping 27 COVID-positive people boarded the plane in Dubai. Guess how many other passengers were infected on the 8-hour flight? </p>   <p>"There appear to have been two in-flight transmissions," Freedman says.</p>   <p>Without the masks, he would have expected many more cases. Freedman and his colleague found several other high-risk flights with no transmission, including an executive jet that flew from Tokyo to Tel Aviv, with two of the 11 passengers infected with COVID-19.</p>   <p>"They were all sitting in a very small environment because it was an executive jet," Freedman says. "And yet again, there was no transmission because passengers were meticulously masked. The crew supervised the masking." </p>   <p>In fact, since airlines have started to require masks, Freedman says, scientists have not documented one superspreading event on airlines. "Flights that had significant transmission documented were flights early on in the pandemic."</p>   <p>All together these data suggest the masks are working &#8212; and working well. "There's encouraging evidence from a number of flights that masking does help greatly, but it would be nice to study it better," he says. "The circumstantial evidence is your risk is low on a plane, if there is rigid masking."</p>   <p>And that last part is key. To keep the risk low on planes, everyone needs to keep their mask on while riding the plane.</p>   <p>Why? Planes have excellent air ventilation and filtration systems, which remove coronavirus particles from the air about every six minutes, the U.S. Transportation Command <a href="https://www.ustranscom.mil/cmd/panewsreader.cfm?ID=C0EC1D60-CB57-C6ED-90DEDA305CE7459D">reported </a>Thursday. </p>   <p>"So the only opportunity to breathe the virus in comes from the air that passes by you before it goes through that ventilation system," says engineer Linsey Marr at Virginia Tech. "And so that's only going to happen if you're sitting close to the person who's sick."</p>   <p>In other words, because of a plane's filtration systems, your risk of catching COVID-19 on a flight comes almost entirely from the people sitting around you. And that risk is lower when those fellow passengers wear masks.</p>   <p>The mask will block virus particles from being emitted from their nose and mouths. It will also reduce how much virus you breathe in. And it will prevent big drops of spit and saliva from hitting your nose and mouth, Marr says.</p>   <p>For these reasons, Marr says, when she flies, she carefully chooses which mask to wear.</p>   <p>"I save my best mask for the plane. It has a couple layers of HEPA filters that remove more than ninety nine percent of particles," she says. "It's not my everyday mask. I can't just hang it around my neck. It's more troublesome than that." </p>   <p>You can't really buy the medical-grade N95 masks right now but if you happen to have one, Marr recommends using it &#8212; or even an <a href="https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/default.html">P100 respirator</a>, which includes a plastic facepiece and particulate filters or cartridges that remove 99.97 percent of virus particles. "On the plane, you want the best there is," she reiterates. "But just make sure it fits well and keep in mind, the mask doesn't protect your eyes. So you might want to consider wearing a face shield or goggles or some other kind of eye protection."</p>   <p>Also remember to disinfect surfaces around your seat, such as the armrests, tray tables and seat backs. You can use hand sanitizer or bleach wipes, and try to do it regularly throughout the flight. Avoid touching your face as much as possible, Marr says. And keep chatter to minimum. When you talk, you can emit ten times the droplets and aerosols than when you're quiet.</p>   <p>Finally, Freedman says, don't forget to wear a mask and socially distance throughout the travel process &#8212; while traveling to and from the airport, while waiting in the airport, and while boarding and exiting the plane. </p>   <p>"To me, one of the scariest parts [of flying] is the disembarkation process,' Freedman says. "Airlines can control people getting onto a plane, but getting off can be chaos because everybody rushes off the plane."</p>   <p>For this reason, Freedman says, he and his wife aren't flying this year for Thanksgiving. They're taking Amtrak instead.</p>
+</div>

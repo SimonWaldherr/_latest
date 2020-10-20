@@ -1,0 +1,47 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://media.npr.org/assets/img/2020/10/19/gettyimages-1257726987_wide-0762bf7f00589d198480e36a1d35797645f8f405.jpg?s=1400 
+title: > 
+  Studies Point To Big Drop In COVID-19 Death Rates 
+description: > 
+  Studies Point To Big Drop In COVID-19 Death RatesEnlarge this image toggle caption Mario Tama/Getty Images Mario Tama/Getty ImagesTwo new peer-reviewed studies are showing a sharp drop in mortality among hospitalized COVID-19 patients.The death rate "is still higher than many infectious diseases, including the flu," Horwitz says.Studying changes in death rate is tricky because although the overall U.S. death rate for COVID-19 seems to be dropping, the drop coincides with a change in who is being sickened by the disease.He has conducted his own research of 21,000 hospitalized cases in England, which also found a similarly sharp drop in the death rate.Horwitz and others believe many things have led to the drop in the death rate. 
+keywords: > 
+  studies, death, covid19, horwitz, rate, hospitalized, dropped, health, getting, rates, mortality, point, patients, drop, big 
+date: 1603229979.4865396 
+--- 
+<div><p class="storytitle">
+      <h1>Studies Point To Big Drop In COVID-19 Death Rates</h1>
+   
+   
+   
+</p><img src="https://media.npr.org/assets/img/2020/10/19/gettyimages-1257726987-0728989c46084482f668e802af85dd88948a6fbd-s1100-c15.jpg" class="img lazyOnLoad" alt="">
+        <a class="enlargelink" href="https://media.npr.org/assets/img/2020/10/19/gettyimages-1257726987-0728989c46084482f668e802af85dd88948a6fbd-s1200.jpg">Enlarge this image</a>
+        <p class="caption-wrap">
+         
+
+
+            <b class="toggle-caption"><b>toggle caption</b></b>
+    </p>
+
+    <p class="credit">
+        
+        Mario Tama/Getty Images
+        
+    </p>
+<img alt="">
+    <p class="image_data">
+         
+        <p class="credit">
+            
+            Mario Tama/Getty Images
+            
+        </p>
+    </p>
+<p>Two new peer-reviewed studies are showing a sharp drop in mortality among hospitalized COVID-19 patients. The drop is seen in all groups, including older patients and those with underlying conditions, suggesting that physicians are getting better at helping patients survive their illness.</p>   <p>"We find that the death rate has gone down substantially," says <a href="https://nyulangone.org/doctors/1841334810/leora-horwitz">Leora Horwitz</a>, a doctor who studies population health at New York University's Grossman School of Medicine and an author on one of the studies, which looked at thousands of patients from March to August. </p>   <p>The study, which was of a single health system, finds that mortality has dropped among hospitalized patients by nearly 18 points since the pandemic began. Patients in the study had a 25.6% chance of dying at the start of the pandemic; they now have a 7.6% chance. </p>   <p>That's a big improvement, but 7.6% is still a high risk compared to other diseases, and Horwitz and other researchers caution that COVID-19 remains very dangerous. </p>   <p>The death rate "is still higher than many infectious diseases, including the flu," Horwitz says. And those who recover can suffer complications for months, or even longer. "It still has the potential to be very harmful in terms of long-term consequences for many people."</p>   
+    
+
+    <p id="ad-backstage-News_Health" class="ad-backstage"></p>
+
+   <p>Studying changes in death rate is tricky because although the overall U.S. death rate for COVID-19 seems to be dropping, the drop coincides with a change in who is being sickened by the disease. </p>   <p>"The people who are getting hospitalized now tend to be much younger, tend to have fewer other diseases and tend to be less frail than people who were hospitalized in the early days of the epidemic," Horwitz says.</p>   <p>So have death rates dropped because of improvements in treatments? Or is it because of the change in who's getting sick? To find out, Horwitz and her colleagues looked at over 5,000 hospitalizations in the NYU Langone Health system between March and August. They adjusted for factors including age and other diseases, like diabetes, to rule out the possibility that the numbers had dropped only because younger, healthier people were getting diagnosed. They found that death rates dropped for all groups, even older patients by 18 percentage points on average. </p>   <p>The research, an earlier version of which was shared online <a href="https://www.medrxiv.org/content/10.1101/2020.08.11.20172775v1">as a pre-print</a> in August, will appear next week in the Journal of Hospital Medicine.</p>   <p>"I would classify this as a silver lining to what has been quite a hard time for many people," says <a href="https://www.turing.ac.uk/people/researchers/bilal-mateen">Bilal Mateen</a>, a data science fellow at the Alan Turing Institute in the U.K. He has conducted his own research of 21,000 hospitalized cases in England, which also found a similarly sharp drop in the death rate. The work, which will soon appear in the journal Critical Care Medicine and was <a href="https://www.medrxiv.org/content/10.1101/2020.07.30.20165134v2">released earlier in preprint,</a> shows an unadjusted drop in death rates among hospitalized patients of around 20 percentage points since the worst days of the pandemic.<strong> </strong></p>   <p>Mateen says drops are clear across ages, underlying conditions and racial groups. Although the paper does not provide adjusted mortality statistics, his rough estimates are comparable to those Horwitz and her team found in New York.</p>   <p>"Clearly there's been something [that's] gone on that's improved the risk of individuals who go into these settings with COVID-19," he says.</p>   <p>Horwitz and others believe<strong> </strong>many things have led to the drop in the death rate. "All of the above is often the right answer in medicine, and I think that's the case here too," she says.</p>   <p>Doctors around the country say they're doing a lot of things differently in the fight against COVID and treatment is improving. "In March and April, you got put on a breathing machine and we asked your family if they wanted to enroll you into some different trials we were participating in, and we hoped for the best," says <a href="https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=19727">Khalilah Gates</a>, a critical care pulmonologist at Northwestern Hospital in Chicago. "Six plus months into this, we kind of have a rhythm, and so it has become an everyday standard patient for us at this point in time."</p>   <p>Doctors have gotten better at quickly recognizing when COVID patients are at risk of experiencing blood clots or debilitating "cytokine storms," where the body's immune system turns on itself, says <a href="https://www.centerforhealthsecurity.org/our-people/adalja/">Amesh Adalja</a>, an infectious disease, critical care and emergency medicine physician who works at the Johns Hopkins Center for Health Security. </p>   <p>He says that doctors have developed standardized treatments that have been promulgated by groups like the Infectious Diseases Society of America. </p>   <p>"We know that when people are getting standardized treatment, it makes it much easier to deal with the complications that occur because you already have protocols in place," Adalja says. "And that's definitely what's happened in many hospitals around the country."</p>   <p>But Horwitz and Mateen say that factors outside of doctors' control are also playing a role in driving down mortality. Horwitz believes that mask wearing may actually be helping by reducing the initial dose of virus a person receives, thereby reducing the overall severity of illness for many patients. </p>   <p>And Mateen says that his data strongly suggest that keeping hospitals below their maximum capacity also helps to increase survival rates. When cases surge and hospitals fill up, "staff are stretched, mistakes are made, it's no one's fault &#8212; it's that the system isn't built to operate near 100%," he says.</p>   <p>For these reasons, Horwitz and Mateen believe that masking and social distancing will continue to play a big role in keeping the mortality rate down, especially as the U.S. and U.K. move into the fall and winter months. </p>   <p>Gates adds that the takeaway definitely should not be to cast the mask aside. There is still no cure for this disease, and even patients who recover can have long term side-effects. "A lot of my patients are still complaining of shortness of breath," she says. "Some of them have persistent changes on their CT scans and impacts on their lung functions."</p>   <p>And many people will continue to die, even if the rate has dropped. A <a href="https://www.npr.org/sections/health-shots/2020/10/16/924240204/how-bad-will-coronavirus-be-this-winter-model-projects-170-000-more-u-s-deaths">recent estimate</a> by the Institute for Health Metrics and Evaluation suggests the total death count could reach well over 300,000 Americans by February.</p>   <p>"I do think this is good news," Horwitz says, of her research findings.<strong> </strong>"but it does not make the coronavirus a benign illness."</p>
+</div>
