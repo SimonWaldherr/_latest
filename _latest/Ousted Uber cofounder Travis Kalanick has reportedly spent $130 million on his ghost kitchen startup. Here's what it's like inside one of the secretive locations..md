@@ -1,0 +1,30 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5dc596437eece5049316b702?width=1200&format=jpeg 
+title: > 
+  Ousted Uber cofounder Travis Kalanick has reportedly spent $130 million on his ghost kitchen startup. Here's what it's like inside one of the secretive locations. 
+description: > 
+  Travis Kalanick, the ousted Uber cofounder, opened a San Francisco location for CloudKitchens, a startup that rents commercial space and turns it into shared kitchens for restaurateurs in late 2019.We paid the kitchen in San Francisco a visit in 2019 to see what it's like.Travis Kalanick, the ousted Uber cofounder, has pivoted from the ride-hailing industry to another kind of shareable market: "ghost kitchens."The WSJ reported in 2019 that a CloudKitchens location had been established at 60 Morris St. in San Francisco, though you'll find with a quick Google search of "CloudKitchens San Francisco" that it doesn't necessarily want to be found.Nevertheless, we paid Kalanick's San Francisco ghost kitchen a visit in 2019 to see what it was like. 
+keywords: > 
+  reportedly, startup, francisco, million, space, locations, spent, cloudkitchens, restaurants, secretive, kitchen, uber, san, kitchens, location, ousted, kalanick, commercial, travis, 2019 
+date: 1603221864.7286959 
+--- 
+<div><ul class="summary-list">
+<li>Travis Kalanick, the ousted Uber cofounder, opened a San Francisco location for CloudKitchens, a startup that rents commercial space and turns it into shared kitchens for restaurateurs in late 2019.</li>
+<li>Kalanick has shelled out more than $130 million on 40 such commercial properties,&#160;according to a new report from the Wall Street Journal.</li>
+<li>His CloudKitchens concept is right in line with a growing trend in the food-delivery world that has restaurants and chefs turning to rentable kitchen stations in a shared space to prepare food for delivery.</li>
+<li>We paid the kitchen in San Francisco a visit in 2019 to see what it's like. Check it out.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p>Travis Kalanick, the ousted Uber cofounder, has pivoted from the ride-hailing industry to another kind of shareable market: "ghost kitchens."</p>
+<p id="gpt-slideshow-sai-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-slideshow-sai-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Part of Kalanick's acquisition of the real-estate company City Storage Systems, CloudKitchens &#8212; a startup he's been rather <a href="https://www.businessinsider.com/travis-kalanick-cloudkitchens-2019-2">hush-hush</a> about &#8212; rents commercial space to offer delivery-only restaurants and chefs a place to prepare food without having to worry about maintaining the dine-in portion of a brick-and-mortar location. And according to a Tuesday report from the <a href="https://www.wsj.com/articles/uber-founder-turns-real-estate-mogul-for-ghost-kitchen-startup-11603186200">Wall Street Journal</a>, Kalanick has shelled out more than $130 million on 40 such commercial properties, such as warehouses and shuttered restaurants, across the US for the enterprise.</p><p>There are many names for these kitchens &#8212; commissary, <a href="https://www.cnbc.com/2019/10/07/ubers-travis-kalanicks-bet-on-ghost-kitchens-ushers-in-venture-capital-interest.html">virtual, dark, cloud</a>, or ghost kitchens &#8212; but the idea is that restaurateurs can rent out space in them to prepare food that can be delivered through platforms like DoorDash or, yes, UberEats, which was launched during Kalanick's time at the company. Kalanick was CEO of Uber until 2017, and in December sold 90% of his stock in the company before saying he would <a href="https://www.businessinsider.com/uber-cofounder-travis-kalanick-to-leave-companys-board-2019-12">leave the company's board</a>.</p><p>Commissary kitchens are "essentially WeWork for restaurant kitchens," <a href="https://techcrunch.com/2019/10/17/cloud-kitchens-is-an-oxymoron/">as TechCrunch's Danny Crichton wrote</a>. These "smart kitchens," as they're called on the <a href="https://www.cloudkitchens.com/smart-commercial-kitchen/">CloudKitchens website</a>, can come with everything a restaurant or chef needs, like sinks, WiFi, and electricity.</p><p>They've become a hot trend in the food-delivery arena, allowing existing restaurants to be closer to a market without shelling out the cash needed for a brick-and-mortar location. They also allow chefs to work without having to deal with the risky business of opening a new restaurant. And the kitchens can also <a href="https://www.cloudkitchens.com/smart-commercial-kitchen/">do marketing</a> for these businesses, another perk.</p>
+<p id="gpt-slideshow-sai-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-slideshow-sai-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Kalanick's CloudKitchens is right in line with the growing trend &#8212; so much so that Saudi Arabia's sovereign-wealth fund funneled $400 million into the startup in January 2019 in what was the first known financial backing by the country since the murder of the American journalist Jamal Khashoggi, <a href="https://www.wsj.com/articles/saudis-back-travis-kalanicks-new-startup-11573122604?mod=article_inline">The Wall Street Journal reported</a>.</p><p>CloudKitchens did not immediately respond to Business Insider's request for comment.</p><p>The <a href="https://www.wsj.com/articles/meet-travis-kalanicks-secret-startup-cloudkitchens-11573122602">WSJ</a> reported in 2019 that a CloudKitchens location had been established at 60 Morris St. in San Francisco, though you'll find with a quick Google search of "CloudKitchens San Francisco" that it doesn't necessarily want to be found.</p><p>Nevertheless, we paid Kalanick's San Francisco ghost kitchen a visit in 2019 to see what it was like. Check it out.</p>
+
+                    </div>
