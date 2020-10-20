@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static.independent.co.uk/2020/10/20/01/People_Jeff_Bridges_94752.jpg 
+title: > 
+  Jeff Bridges says he has lymphoma, cites good prognosis 
+description: > 
+  Jeff Bridges says he is being treated for lymphoma and his prognosis is good.The actor channeled his The Dude character from “The Big Lebowski” in a statement on social media about the diagnosis Monday evening.He expressed gratitude to his family, friends and medical team and promised to keep fans posted on his recovery.Bridges is a seven-time Oscar nominee known for his roles in “Starman,” “True Grit,” “The Last Picture Show” and many other films.He won an Academy Award in 2010 for “Crazy Heart” and was most recently nominated for playing a grizzled lawman in “Hell or High Water.”The affable Bridges is considered Hollywood royalty, the son of actors Lloyd and Dorothy Bridges, who both died in 1998. 
+date: 1603170184.637895 
+--- 
+<div><p class="sc-pHJJA iocNwz above-article-prompt-donations"></p><p> <a href="/topic/jeff-bridges">Jeff Bridges</a> says he is being treated for <a href="/topic/lymphoma">lymphoma</a> and his prognosis is good.</p><p>The <a href="/topic/actor">actor</a> channeled his The Dude character from &#8220;The Big Lebowski&#8221; in a statement on social media about the diagnosis Monday evening.</p><p>He said he understands the disease is serious. He expressed gratitude to his family, friends and medical team and promised to keep fans posted on his recovery.</p><p></p><p id="article-im-prompt"></p><p>Bridges is a seven-time Oscar nominee known for his roles in &#8220;Starman,&#8221; &#8220;True Grit,&#8221; &#8220;The Last Picture Show&#8221; and many other films. He won an Academy Award in 2010 for &#8220;Crazy Heart&#8221; and was most recently nominated for playing a grizzled lawman in &#8220;Hell or High Water.&#8221;</p><p></p><p>The affable Bridges is considered Hollywood royalty, the son of actors Lloyd and Dorothy Bridges, who both died in 1998.</p><p></p><p>The actor is currently working on &#8220;The Old Man,&#8221; a television series slated to premiere on FX on Hulu in 2021.</p></div>
