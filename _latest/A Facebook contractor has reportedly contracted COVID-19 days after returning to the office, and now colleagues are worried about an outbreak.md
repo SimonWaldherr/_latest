@@ -1,0 +1,32 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8f1bd00b1909001922458e?width=1200&format=jpeg 
+title: > 
+  A Facebook contractor has reportedly contracted COVID-19 days after returning to the office, and now colleagues are worried about an outbreak 
+description: > 
+  A Facebook content moderator has reportedly contracted COVID-19 just days after their employer instructed them to return to the office, per a report from The Intercept.Other contract workers at Accenture's Austin office are now fearful of being infected themselves in a potential officewide outbreak.A Facebook contractor in Austin has reportedly contracted the coronavirus disease just days after being instructed to return to the office, according to a report from The Intercept's Sam Biddle.The staff member works at Accenture, a company that contracts workers to moderate content on Facebook.It also told contractors that the risk of being infected is "not necessarily something to worry about," though workers are indeed fearful of a potential outbreak. 
+keywords: > 
+  contracted, contractors, told, days, covid19, contractor, worried, office, work, content, return, reportedly, outbreak, company, offices, facebook, returning, workers 
+date: 1603220091.8727612 
+--- 
+<div><ul class="summary-list">
+<li>A Facebook content moderator has reportedly contracted COVID-19 just days after their employer instructed them to return to the office, per a report from The Intercept.</li>
+<li>Other contract workers at Accenture's Austin office are now fearful of being infected themselves in a potential officewide outbreak.</li>
+<li>The news comes as tech companies begin to instruct contractors to return to offices, with some reporting poor working conditions such as improper sanitation.</li>
+<li>Many firms maintain that contractors must return to company offices due to the sensitive nature of their work, while Facebook's corporate employees have been told they can work remotely through June 2021.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-sai-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-sai-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>A Facebook contractor in Austin has reportedly contracted the coronavirus disease just days after being instructed to return to the office, according to a report from <a href="https://theintercept.com/2020/10/20/facebook-coronavuris-content-moderator-accenture/">The Intercept's Sam Biddle.</a></p><p>The staff member works at Accenture, a company that contracts workers to moderate content on Facebook. The company <a href="https://www.businessinsider.com/facebook-moderators-return-to-office-2020-10">instructed its contractors to return to the office</a> starting on October 12, four days before the worker tested positive for COVID-19 according to the report.</p><p>"We have learned that one of our people working at Facebook Domain 8 on the 12th floor has tested positive for COVID-19," reads an internal Accenture email viewed by The Intercept.&#160;</p><p>The worker is now self-quarantining, per the report, and the company has asked anyone who came into contact with them to do the same. Accenture told workers that it is responding by "thoroughly sanitizing our offices per the recommendations from public health experts and our own protocols," according to The Intercept. It also told contractors that the risk of being infected is "not necessarily something to worry about," though workers are indeed fearful of a potential outbreak.</p>
+<p id="gpt-post-sai-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-sai-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>In a statement provided to Business Insider, a Facebook spokesperson said the company's "focus for reopening any office is on how it can be done in a way that keeps our reviewers safe. To do this we are putting strict health and safety measures in place, making sure they're followed, and addressing and disclosing any confirmed cases of illness." The company said protocols include mandatory temperature checks upon arrival to the office, face masks, and daily deep-cleanings of work stations.</p><p>Accenture did not immediately respond to Business Insider's request for comment.</p><p>News of a reported infection comes as tech's content moderators are forced to return to offices given the nature of their work and as Facebook's corporate employees, such as engineers, have been told to work from their homes through at least June 2021.</p><p>Moderators are tasked with sifting through scores of graphic, violent content that appear on the social media platform, a job contractors have said is so traumatizing that <a href="https://www.businessinsider.com/facebook-pay-52-million-content-moderators-ptsd-settlement-report-2020-5">they've fought to get compensation</a> to cover expenses related to mental health treatments. Such a job is done on secure computer servers that are located in offices and that contain sensitive data that firms say contractors cannot access from home.</p>
+<p id="gpt-post-sai-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-sai-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>"If the content is too graphic to be worked from home, [then] they need to do better not allowing it on their platform to begin with," one Facebook content moderator told The Intercept.</p><p>Tech companies have long outsourced operations &#8212; including content moderation &#8212; and many have criticized the firms, saying they're exploiting workers to cut costs. The pandemic, however, has shone a brighter light on the business practice as reports of poor working conditions have surfaced.</p><p>A report last week detailed how Amazon contractors in a Philippines call center <a href="https://www.businessinsider.com/amazon-ring-contractors-scared-poor-working-conditions-2020-10">are scared to go to work</a>, even though they complained of "subhuman" working conditions six months ago. Amazon said it does not allow them to work from home due to "the data security and privacy of our customers."</p> 
+                  </div>

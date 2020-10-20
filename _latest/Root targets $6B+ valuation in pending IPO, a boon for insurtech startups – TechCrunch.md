@@ -1,0 +1,20 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1197797863.jpeg?w=600 
+title: > 
+  Root targets $6B+ valuation in pending IPO, a boon for insurtech startups – TechCrunch 
+description: > 
+  This morning Root Insurance, a neoinsurance provider that has attracted ample private capital for its auto-insurance business, is targeting a valuation of as much as $6.34 billion in its pending IPO.In the wake of Lemonade’s strong public offering and rich revenue multiples, it was not impossible to see another, similar startup test the same waters.Root’s $6.34 billion valuation upper limit at its current price range matches expectations for its bulk.And what does Root’s IPO price range mean for insurtech startups?Will we see Root’s IPO price rise? 
+keywords: > 
+  valuation, 6b, billion, pending, ipo, price, techcrunch, similar, targeting, startups, targets, startup, shares, roots, boon, insurtech, root 
+date: 1603220135.0246964 
+--- 
+<div><p id="speakable-summary">This morning <a href="https://www.joinroot.com/">Root</a> Insurance, a neoinsurance provider that has <a href="https://techcrunch.com/2019/09/09/root-insurance-valuation-hits-3-65-billion-in-latest-round-led-by-dst-global-and-coatue/">attracted ample private capital</a> for its auto-insurance business, is targeting a valuation of as much as $6.34 billion in its pending IPO.</p>
+<p>The former startup follows insurtech leader <a href="https://www.lemonade.com/">Lemonade</a> to the public markets during a year in which IPOs have been well-received by <a href="https://techcrunch.com/2020/09/16/go-public-now-while-software-valuations-make-no-sense-part-ii/">investors focused more on growth than profitability</a>. In the wake of <a href="https://techcrunch.com/2020/07/02/high-flying-ipos-for-lemonade-and-accolade-may-encourage-other-unicorns-to-go-public/">Lemonade&#8217;s strong public offering</a> and rich revenue multiples, it was not impossible to see another, similar startup test the same waters.</p>
+<p>Root&#8217;s $6.34 billion valuation upper limit at its current price range <a href="https://techcrunch.com/2020/09/24/as-tech-stocks-dip-is-insurtech-startup-root-targeting-an-ipo/">matches expectations for its bulk</a>. The company is targeting $22 to $25 per share in its debut.</p>
+<p>The startup will raise over $500 million from the shares it is selling in its regular offering. Concurrent placements worth $500 million from Dragoneer and Silver Lake raise that figure to north of $1 billion and could help boost general demand for shares in the company. Snowflake&#8217;s epic IPO came with <a href="https://techcrunch.com/2020/09/08/snowflakes-ipo-could-value-it-as-high-as-24b-salesforce-and-berkshire-to-invest/">similar private placements</a> from well-known investors in what <a href="https://techcrunch.com/2020/09/19/was-snowflakes-ipo-mispriced-or-just-misunderstood/">became the transaction of the year</a>.</p>
+<p>Will we see Root boost its target? And what does Root&#8217;s IPO price range mean for insurtech startups? Let&#8217;s dig into the numbers.</p>
+<h2>Root&#8217;s numbers</h2>
+<p>We&#8217;ve dug into Root&#8217;s business a few times now, <a href="https://techcrunch.com/2020/09/24/as-tech-stocks-dip-is-insurtech-startup-root-targeting-an-ipo/">both before</a> and <a href="https://techcrunch.com/2020/10/06/inside-roots-ipo-filing/">after it formally filed its IPO documents</a>. This morning we will merge both sets of work, snag a fresh revenue multiple from Lemonade, apply it to Root&#8217;s own numbers, observe any valuation deficit and ask ourselves what&#8217;s next for the debuting company.</p>
+<p>Will we see Root&#8217;s IPO price rise? Here&#8217;s how to think about the question:</p><p class="extra-crunch-offer-container"></p>			</div>
