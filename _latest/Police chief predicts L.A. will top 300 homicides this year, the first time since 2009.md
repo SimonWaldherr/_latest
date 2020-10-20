@@ -1,0 +1,25 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ca-times.brightspotcdn.com/dims4/default/17fd430/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F06%2F07%2Fb3e4a3fabdef0a94c2e8cccf75e2%2Fla-me-ln-woman-lapd-sexual-assault-20140110-001 
+title: > 
+  Police chief predicts L.A. will top 300 homicides this year, the first time since 2009 
+description: > 
+  Los Angeles Police Chief Michel Moore predicted Tuesday that the city will see more than 300 homicides this year — a grisly milestone not reached in L.A. in more than a decade.The last time the city broke 300 homicides was in 2009, when there were 312 killings in the city.However, homicides have generally followed a downward trend since 2002, when there were 647 killings in the city.They have exploded in South L.A. and in parts of Central L.A.AdvertisementIn the Los Angles Police Department‘s South Bureau, which covers South L.A., homicides are up by 50% from last year.The pandemic has badly undercut the city budget, and LAPD officials are also working to plan for additional budget cuts, officials have said. 
+keywords: > 
+  chief, homicides, pandemic, predicts, city, shootings, lapd, 300, killings, 2009, la, moore, violence, south 
+date: 1603231870.3793173 
+--- 
+<div><p>Los Angeles Police Chief Michel Moore predicted Tuesday that the city will see more than 300 homicides this year &#8212; a grisly milestone not reached in L.A. in more than a decade.</p><p>Moore said there had been 266 homicides in the city as of Saturday, representing a nearly 25% increase over the same period last year and surpassing the total number of homicides in all of 2019, when there were 253 killings in the city, and 2018, when there were 260 total killings. </p><p>Speaking during a virtual meeting of the Police Commission, Moore called the pace of violence in 2020 a &#8220;terrible loss&#8221; and an &#8220;erosion&#8221; of progress that had been made reducing gun violence in the city in recent years.</p><p>The last time the city broke 300 homicides was in 2009, when there were 312 killings in the city.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad3c4bca32-71ba-44f3-855c-297d01a6c30a" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>In previous decades, the city saw significantly more killings. Some years in the 1980s and 1990s had more than 1,000 killings. </p><p>However, homicides have generally followed a downward trend since 2002, when there were 647 killings in the city.</p><p>This year, a different trend has emerged.</p><p>After a brief lull in killings that police attributed in part to lockdowns associated with the COVID-19 pandemic early in the year, homicides and shootings began to rise again and then spiked this summer. They have exploded in South L.A. and in parts of Central L.A.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad8bf7afb6-7592-4440-b7bb-679defaddcb3" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p></p><p id="nativo_1"></p><p>In the Los Angles Police Department&#8216;s South Bureau, which covers South L.A., homicides are up by 50% from last year. </p><p>Moore noted that similar upticks in violence have been seen in cities all across the country, including in Houston, Chicago and New York, and said he believes a variety of factors related to the pandemic are helping to drive the violence up in L.A.</p><p>He said economic struggles have increased across the city&#8217;s population, and that the threat of the virus has undercut efforts to provide services and interventions for individuals who have been victims of shootings and may be vulnerable to becoming perpetrators of retaliatory violence. He also said more people seem to be carrying guns around.</p><p>Through Oct. 10, violent crime arrests were down 11%, but Moore said officers have not stopped proactively working to reduce gun violence. He said weapons seizures in the South Bureau have increased. </p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adf603689c-b91e-4261-86e5-6eed229b0abc" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>In addition to homicides, nonfatal shootings are also up. The number of victims who had been shot in the city as of Oct. 10 was up more than 21% compared with the same time last year, according to LAPD data.</p><p>The increase in violence comes as the LAPD works to reorganize after a $150-million budget cut forced it to begin reducing its ranks of sworn officers by several hundred. Moore said more details about that reorganization will be available in coming weeks. </p><p>The pandemic has badly undercut the city budget, and LAPD officials are also working to plan for additional budget cuts, officials have said.</p></div>
