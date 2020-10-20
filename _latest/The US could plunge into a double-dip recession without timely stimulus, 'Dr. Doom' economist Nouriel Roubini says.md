@@ -1,0 +1,38 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8ee48ec21cfb0019468f4a?width=1200&format=jpeg 
+title: > 
+  The US could plunge into a double-dip recession without timely stimulus, 'Dr. Doom' economist Nouriel Roubini says 
+description: > 
+  The US economic recovery is becoming "extremely anemic" and risks falling into a double-dip recession, famed economist Nouriel Roubini said Monday.The Federal Reserve has done nearly all it can, and Congress now needs to step up with sweeping stimulus support, the economist nicknamed "Dr. Doom" added.The stimulus deadlock heading toward Election Day risks sending the US economy on another downward spiral, famed economist Nouriel Roubini said Monday.If, and when, we're going to get it is very uncertain, and that's one thing that's slowing down the US economy," Roubini said.In the event Republicans maintain their Senate majority, the country could face "more gridlock" and a smaller-than-hoped stimulus deal, Roubini said. 
+date: 1603210190.0136995 
+--- 
+<div><ul class="summary-list">
+<li><strong>The US economic recovery is becoming "extremely anemic" and risks falling into a double-dip recession, famed economist Nouriel Roubini said Monday.</strong></li>
+<li><strong>The Federal Reserve has done nearly all it can, and Congress now needs to step up with sweeping stimulus support, the economist nicknamed "Dr. Doom" added.</strong></li>
+<li><strong>"We know we need the stimulus, we know it needs to be large," he said while speaking at <a href="https://onlinexperiences.com/scripts/Server.nxp">Business Insider's Global Trends Festival</a>, adding uncertainty around its arrival is slowing the nation's rebound.</strong></li>
+<li><strong>A Democratic sweep of the White House and the Senate would likely fuel a multitrillion-dollar relief bill and reaccelerate the recovery, Roubini said, while a&#160;divided government will only extend the legislative deadlock.</strong></li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-economy-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-economy-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>The stimulus deadlock heading toward Election Day risks sending the US economy on another downward spiral, famed economist Nouriel Roubini said Monday.</p><p>Those holding out for a V-shaped recovery are set to be disappointed, the economist nicknamed "Dr. Doom" said while speaking at <a href="https://onlinexperiences.com/scripts/Server.nxp">Business Insider's Global Trends Festiva</a>l. It's more likely the US recovery is turning "extremely anemic" after its summer surge, he added.</p><p>While indicators tracking consumer spending and industry growth continue to tick higher, they've done so at a slowing pace. The Federal Reserve has done almost all it can to provide its own policy support, and it's now up to Congress to reaccelerate the nation's bounce-back, the economist said.</p><p>"We know we need the stimulus, we know it needs to be large. If, and when, we're going to get it is very uncertain, and that's one thing that's slowing down the US economy," Roubini said.</p>
+<p id="gpt-post-economy-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-economy-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p><strong>Read more:</strong> <a href="https://www.businessinsider.com/investing-book-recommendations-11-picks-championship-contenders-reaping-big-returns-2020-10">We spoke to 4 US Investing Championship contenders who raked in a combined return of 1,349% in just 9 months. Here are the 11 books they say transformed them into trading juggernauts.</a></p><p>The economist's comments come as Democrats and the White House near their deadline to reach a stimulus compromise. House Speaker Nancy Pelosi continues to push her party's $2.2 trillion package, and Treasury Secretary Steven Mnuchin has slowly inched closer to Democrats' proposal while backing a $1.8 trillion bill. Separately, President Donald Trump has repeatedly called for a measure even larger than Democrats'.</p><p>Still, Senate Republicans continue to balk at the larger bills and are instead slated to vote on a $500 billion package. With Democrats poised to block the piecemeal bill, many are now delaying stimulus forecasts until after the November elections are decided.</p><p>The holdup doesn't diminish the need for fresh fiscal support, Roubini said. The pace of recovery is "subpar," the unemployment rate remains elevated, and many Americans are without work or with little income.</p>
+<p id="gpt-post-economy-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-economy-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p><strong>Read more:</strong> <a href="https://www.businessinsider.com/investing-trends-covid-turbocharged-deglobalization-deutsche-2020-10">'COVID-19 has turbocharged the de-globalization movement', Deutsche Bank says. Here are 5 factors that give small companies an edge over mega caps</a></p><p>Uncertainty surrounding the size, arrival time, and scope of new stimulus could be cleared up in just two weeks. The outcome of the US presidential election will determine whether a Biden administration can push for a multitrillion-dollar package, or if today's stalemate continues into 2021.</p><p>Democratic presidential nominee Joe Biden holds a commanding lead in most polls, suggesting Democrats may also take control of the Senate come January. In the event Republicans maintain their Senate majority, the country could face "more gridlock" and a smaller-than-hoped stimulus deal, Roubini said. Failure to approve adequate relief funds will lead the economy to weaken again, he added.&#160;</p><p>"Biden, first of all, is a centrist. Second, he's chosen a vice presidential candidate, Kamala Harris, who's also a centrist," Roubini said.</p>
+<p id="gpt-post-economy-mobile_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-economy-desktop_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>He continued:&#160;"As long as his agenda is not hijacked by the left of the party, and I think it's going to be more mainstream, I think that's going to be good for the economy and also good for the markets."</p><p><strong>Now read more markets coverage from Markets Insider and Business Insider:</strong></p><p><strong><a href="https://markets.businessinsider.com/news/stocks/netflix-q3-earnings-preview-streaming-competition-subscriber-growth-revenue-cuties-2020-10-1029698265">'Stronger than ever': Here's what 4 Wall Street banks expect from Netflix's 3rd-quarter earnings report</a></strong></p><p><strong><a href="https://markets.businessinsider.com/news/stocks/bond-market-outlook-restructuring-financial-crisis-junk-debt-surge-blackrock-2020-10-1029699211">Corporate restructuring needs could surpass 2008 levels amid a surge in junk debt, BlackRock says</a></strong></p>
+<p id="gpt-post-economy-mobile_in_post_ad-fluid-5" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-economy-desktop_in_post_ad-fluid-5" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p><strong><a href="https://www.businessinsider.com/stocks-picks-to-buy-12-underowned-companies-earnings-season-surge-2020-10">Bank of America shares 12 under-owned stocks likely to soar on earnings this quarter with investing conditions ripe for the picking</a></strong></p>
+                  </div>

@@ -1,0 +1,11 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://media3.s-nbcnews.com/j/newscms/2020_43/3421484/cover2x1_4b92087a05d176281e831f976ba3d5ff.nbcnews-fp-1200-630.png 
+title: > 
+  Two weeks until Election Day, Democrats have a big lead in early voting 
+description: > 
+  Two weeks before Election Day, early votes have come in from almost every state and Democrats have a clear edge in ballots already cast, according to NBC News’ Early Voting tracker.Nearly half of those votes — almost 14.2 million ballots — have come from Democrat-affiliated voters.Republican-affiliated voters have returned almost 10.1 million ballots.The early voting data is provided by the political data firm TargetSmart.Nine states have each already seen more than 1 million ballots cast. 
+date: 1603210163.4967506 
+--- 
+<div><p class="endmarkEnabled">Two weeks before Election Day, early votes have come in from almost every state and Democrats have a clear edge in ballots already cast, according to <a href="https://www.nbcnews.com/politics/2020-elections/president-results?icid=election_nav">NBC News&#8217; Early Voting tracker</a>.</p><p class="endmarkEnabled">More than 29 million people from 45 states have voted as of Tuesday morning, either by mail or in-person. Nearly half of those votes &#8212; almost 14.2 million ballots &#8212; have come from Democrat-affiliated voters. Republican-affiliated voters have returned almost 10.1 million ballots. And while not every Democrat will vote for former Vice President Joe Biden and not every Republican will vote for President Donald Trump, Democrats currently have a 14-point edge in returned ballots.</p><p></p><p id="taboolaReadMoreBelow"></p><p class="endmarkEnabled">The early voting data is provided by the political data firm TargetSmart. Nationwide numbers on party affiliation are based on a combination of state-provided registration data, when available, and TargetSmart&#8217;s model of party affiliation.</p><p class="endmarkEnabled">Nine states have each already seen more than 1 million ballots cast. That list includes several of the 2020 battleground states, like Florida, Georgia, North Carolina, Michigan and Ohio.</p></div>

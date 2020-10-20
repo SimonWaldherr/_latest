@@ -1,0 +1,19 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1010650972.jpg?w=711 
+title: > 
+  As Blizzard sunsets StarCraft II, some of its key creators raise cash for a new gaming studio – TechCrunch 
+description: > 
+  As Blizzard sunsets StarCraft II, some of its key creators raise cash for a new gaming studioEven as Blizzard pulls the plug on new updates for its StarCraft II game, nearly a decade after its launch, gaming investors are financing the next new thing coming from key members of the game’s early development team.Blizzard vets Tim Morten, the former production director for StarCraft II; and Tim Campbell, the lead campaign designer for WarCraft III; have launched a new studio with a number of colleagues from Blizzard to bring real time strategy games to a bigger audience.“Frost Giant Studios is on a mission to bring one of the most beloved genres to a broader audience,” said Scott Rupp, Founding General Partner at Bitkraft Ventures.Think of it as taking some of the best elements of the battle royal genre and bringing them into real-time strategy games with an eye toward playability and competitive opportunities in esports.Building a worthy successor will take time, but we’re incredibly excited and grateful to carry real-time strategy forward at Frost Giant Studios,” said Tim Morten, Frost Giant Studios CEO. 
+date: 1603210230.6446528 
+--- 
+<div><p>As Blizzard sunsets StarCraft II, some of its key creators raise cash for a new gaming studio</p><p dir="ltr">Even as Blizzard pulls the plug on new updates for its StarCraft II game, nearly a decade after its launch, gaming investors are financing the next new thing coming from key members of the game&#8217;s early development team.</p>
+<p dir="ltr">Blizzard vets Tim Morten, the former production director for StarCraft II; and Tim Campbell, the lead campaign designer for WarCraft III; have launched a new studio with a number of colleagues from Blizzard to bring real time strategy games to a bigger audience.</p>
+<p dir="ltr">The new company, <a href="https://www.frostgiant.com/">Frost Giant Studios</a>, has picked up $4.7 million in seed funding from the gaming and synthetic media focused investment firm, Bitkraft Ventures, along with participation from 1 Up Ventures, GC Tracker, Riot Games, and Griffin Gaming Partners, the company said.</p><p class="piano-inline-promo"></p>
+<p dir="ltr">&#8220;Frost Giant Studios is on a mission to bring one of the most beloved genres to a broader audience,&#8221; said Scott Rupp, Founding General Partner at Bitkraft Ventures. &#8220;We are excited to see some of the most experienced leaders in real-time strategy game development come together to build a game that will secure the future growth of the RTS genre while staying true to the core player fantasy of RTS.&#8221;</p>
+<p dir="ltr">Building on their experience developing StarCraft II over the past ten years, the Frost Giant Studios strategy is focused on making gameplay better, easier, and more collaborative.</p>
+<p dir="ltr">Think of it as taking some of the best elements of the battle royal genre and bringing them into real-time strategy games with an eye toward playability and competitive opportunities in esports.</p>
+<p dir="ltr">&#8220;Real-time strategy players are an incredibly passionate community, and they deserve not just a great new game, but one they can share broadly with friends. Building a worthy successor will take time, but we&#8217;re incredibly excited and grateful to carry real-time strategy forward at Frost Giant Studios,&#8221; said Tim Morten, Frost Giant Studios CEO.</p>
+<p dir="ltr">
+			</p></div>

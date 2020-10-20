@@ -1,0 +1,22 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://pagesix.com/wp-content/uploads/sites/3/2020/10/102020-kristin-cavallari-index.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Kristin Cavallari knew viral Stephen Colletti post would cause a ‘commotion’ 
+description: > 
+  Reflecting on a certain Instagram shot shared in August — in which she cozied up to former “Laguna Beach” love Stephen Colletti — the Uncommon James founder, 33, anticipated an influx of responses, she just underestimated how much.Today, however, Cavallari said she and Conrad, 34, are “totally fine.”“I love Stephen, I’ve always loved Stephen, and clearly, you know, 15 years later we’re still really good friends,” Cavallari also said on the podcast.I’m going through a divorce, obviously.I mean, my kids will always be first, but beyond my kids, I’m making myself a priority right now,” Cavallari said.I’m taking care of me and I’m figuring out ultimately what I’m going to want in life, and I’m going through the motions and the process of figuring that all out.” 
+date: 1603210209.8766518 
+--- 
+<div><p>Kristin Cavallari knows viral content when she posts it.</p>
+<p><a href="https://pagesix.com/2020/08/04/laguna-beach-exes-kristin-cavallari-stephen-colletti-reunite/">Reflecting on a certain Instagram shot</a> shared in August &#8212; in which she cozied up to former &#8220;Laguna Beach&#8221; love Stephen Colletti &#8212; the Uncommon James founder, 33, anticipated an influx of responses, she just underestimated how much.</p>
+<p>&#8220;I knew it was going to create a little commotion, I didn&#8217;t know to what degree,&#8221; Cavallari said on Monday&#8217;s installment <a href="https://podcasts.apple.com/us/podcast/bleav-presents-on-the-list-with-brett-gursky/id1442147220?mt=2" target="_blank" rel="noopener noreferrer">of the &#8220;On The List with Brett Gursky&#8221; podcast</a>.</p>
+<p>&#8220;That&#8217;s my most-liked photo on Instagram ever. More than my kids. More than anything in my life. That photo with Stephen,&#8221; she continued. &#8220;I mean, I think it&#8217;s really neat that people are still so invested and it really takes people back to that time.&#8221;</p>
+<p>Cavallari and Colletti, 34, first graced audiences with their presence in 2004 as original cast members on MTV&#8217;s &#8220;Laguna Beach.&#8221; The pair was entangled in a love triangle with Lauren Conrad during the show&#8217;s first two seasons. Today, however, Cavallari said she and Conrad, 34, are &#8220;totally fine.&#8221;</p>
+<p>&#8220;I love Stephen, I&#8217;ve always loved Stephen, and clearly, you know, 15 years later we&#8217;re still really good friends,&#8221; Cavallari also said on the podcast. &#8220;But no, I brought my kids to Laguna Beach, I saw a lot of people, I didn&#8217;t just see Stephen &#8230; So it was a really fun trip, but that&#8217;s all there is to it.&#8221;</p>
+<p>In the wake of <a href="https://pagesix.com/2020/04/26/kristin-cavallari-jay-cutler-break-up-after-10-years-together/">her April split from husband Jay Cutler</a>, 37, Cavallari is focusing on her family life, namely the couple&#8217;s three children: sons Camden, 8, Jaxon, 6, and 5-year-old daughter Saylor.</p>
+ 
+<p>&#8220;I mean, it&#8217;s sad when you close a chapter of your life and Jay and I were together for 10 years and we have three kids together. I will always love Jay in some capacity and so it&#8217;s tough,&#8221; she said.</p>
+<p>As for dating, although Cavallari <a href="https://pagesix.com/2020/10/12/kristin-cavallari-spotted-kissing-jeff-dye-after-jay-cutler-split/">was recently linked</a> to comedian Jeff Dye, the reality star said she is &#8220;not ready to jump into a relationship.&#8221;</p>
+<p>&#8220;Here&#8217;s what I&#8217;m doing right now. I&#8217;m going through a divorce, obviously. I&#8217;m putting myself first. I mean, my kids will always be first, but beyond my kids, I&#8217;m making myself a priority right now,&#8221; Cavallari said. &#8220;I don&#8217;t want anything &#8230; I&#8217;m not ready to jump into a relationship, I&#8217;m not. I&#8217;m taking care of me and I&#8217;m figuring out ultimately what I&#8217;m going to want in life, and I&#8217;m going through the motions and the process of figuring that all out.&#8221;</p>
+			</div>

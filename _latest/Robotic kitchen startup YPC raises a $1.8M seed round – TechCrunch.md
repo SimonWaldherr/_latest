@@ -1,0 +1,16 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-20-at-11.05.59-AM.png?w=764 
+title: > 
+  Robotic kitchen startup YPC raises a $1.8M seed round – TechCrunch 
+description: > 
+  Montreal-based YPC Technologies today announced that it has raised a $1.8 million seed round.Led by Hike Ventures and Real Ventures, the funding includes participation from Toyota AI Ventures and Uphill Capital, among others, designed to help the company pilot its kitchen robotics technology.Toyota’s funding came as part of the company’s “Call of Innovation,” which finds it investing in early state AI, robotics and other cutting edge technologies.One of the subscription-based service’s selling points is that it requires a relatively small amount of space, versus a standard commercial kitchen.The company also points out that the system is designed to work collaboratively with humans, replacing repetitive tasks rather than staff positions outright. 
+date: 1603210230.6142578 
+--- 
+<div><p class="p1">Montreal-based <a href="https://www.ypc-technologies.com/">YPC Technologies</a> today announced that it has raised a $1.8 million seed round. Led by Hike Ventures and Real Ventures, the funding includes participation from Toyota AI Ventures and Uphill Capital, among others, designed to help the company pilot its kitchen robotics technology.</p>
+<p class="p1">Toyota&#8217;s funding came as part of the company&#8217;s &#8220;Call of Innovation,&#8221; which finds it investing in early state AI, robotics and other cutting edge technologies. &#8220;At TRI, we&#8217;re always searching for ways to amplify human ability and help improve quality of life,&#8221; TRI&#8217;s Gil Pratt said in a statement. &#8220;Through the call for innovation, we got a first-hand look at how startups like&#160;YPC&#160;Technologies&#160;are addressing the needs of people in urban communities, and we&#8217;re encouraged and excited by their efforts.&#8221;</p>
+<p class="p1">Robotics and automation generation has been a fairly hot category for VC investment, amid the on-going COVID-19 shut down. Food robotics, in particular, have been a focus. And it makes sense, certainly. After all, providing people with sustenance is about as essential as services get. The startup&#8217;s solution is built around a robotic arm that can prepare recipes with a variety of different ingredients &#8212; similar to other models we&#8217;ve seen.</p>
+<p class="p1">One of the subscription-based service&#8217;s selling points is that it requires a relatively small amount of space, versus a standard commercial kitchen. That makes is a bit more versitile in applications, allowing it to be deployed in not only restaurants but smaller facilities like ghost kitchens and hotels.</p>
+<p class="p1">The company also points out that the system is designed to work collaboratively with humans, replacing repetitive tasks rather than staff positions outright.</p>
+			</div>

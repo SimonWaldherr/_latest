@@ -1,0 +1,29 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-BLU.jpg?w=533 
+title: > 
+  As startups accelerate in record Q3, Europe and Asia rack up huge VC results – TechCrunch 
+description: > 
+  As startups accelerate in record Q3, Europe and Asia rack up huge VC results Investment outside North America just had its best quarter in yearsVenture capital activity in Europe and Asia saw a strong return to form in Q3, data indicates.The COVID-tailwind, as it is sometimes called, does not appear to be specific to the United States or North America.Instead, given what the venture capital data states, we can infer that startups the world around are enjoying a similar boost.1Let’s get into the numbers to better understand what’s up in Europe and Asia.(As an aside, if you have data on African startups’ venture capital results, please email me as I am starting to poke around for a more global picture.But as a combined pair, venture capital outside North America might have just had its best quarter in years, if not ever. 
+date: 1603210230.6830761 
+--- 
+<div><p>As startups accelerate in record Q3, Europe and Asia rack up huge VC results Investment outside North America just had its best quarter in years</p><p id="speakable-summary">Venture capital activity in Europe and Asia saw a strong return to form in Q3, data indicates.</p>
+<p>The two continents enjoyed more venture capital investment into their local startups than in some time, underscoring that <a href="https://techcrunch.com/2020/10/19/late-stage-deals-made-q3-2020-a-standout-vc-quarter-for-us-based-startups/">strong VC results the United States saw in the third quarter</a> were not a fluke, but part of a broader trend.</p>
+
+<p><strong>The Exchange explores startups, markets and money. Read it <a href="https://techcrunch.com/subscribe/?tpcc=theexchange">every morning on Extra Crunch</a>, or get <a href="https://techcrunch.com/newsletters">The Exchange newsletter</a> every Saturday.</strong></p>
+
+<p>Data <a href="https://www.cbinsights.com/research/report/venture-capital-q3-2020/">compiled by CB Insights</a>&#160;shows a global acceleration in the number of dollars venture capitalists are putting to work around the globe as 2020 chews through its second half. The record figures that Q3 supplied stand in stark contrast to the <a href="https://techcrunch.com/2020/03/30/the-second-wave-of-unicorn-layoffs-is-brutal/">fear that overtook startup-land in late Q1 and early Q2</a>, when COVID-19 <a href="https://techcrunch.com/2020/04/10/amid-unicorn-layoffs-boston-startups-reflect-on-the-future/">threw some young technology companies surprise turbulence</a>.</p>
+<p><a href="https://techcrunch.com/subscribe/?tpcc=theexchange"><img class="alignright wp-image-1995210 size-medium" src="https://techcrunch.com/wp-content/uploads/2020/05/exchange-banner-sq-blu.jpg?w=300" alt="" width="300" height="300"></a>But the dip in venture capital activity was short-lived. As many startups sold software, they found their wares <a href="https://techcrunch.com/2020/03/06/as-coronavirus-pandemic-spreads-demand-for-remote-work-startups-spikes/">suddenly in greater demand</a>; across a host of verticals, startups benefited from an <a href="https://techcrunch.com/2020/06/05/the-accelerating-digital-transformation-redux/">accelerated digital transformation</a> as the world adapted to a new work environment. Aside from clear winners <a href="https://techcrunch.com/2020/09/01/zooms-q2-report-details-some-of-the-most-extraordinary-growth-ive-ever-seen/">like video conferencing tools</a>, other categories from <a href="https://techcrunch.com/2020/09/11/vcs-pour-funding-into-edtech-startups-as-covid-19-shakes-up-the-market/">remote learning</a> to <a href="https://www.marketwatch.com/story/crowdstrike-stock-retreats-from-2020-rally-following-earnings-beat-11599077862#:~:text=CrowdStrike%20expects%20an%20adjusted%20fiscal,%24195.9%20million%2C%20according%20to%20FactSet.">security tooling</a> also got a bump.</p>
+<p>The COVID-tailwind, as it is sometimes called, does not appear to be specific to the United States or North America. Instead, given what the venture capital data states, we can infer that startups the world around are enjoying a similar boost.1</p>
+<p>Let&#8217;s get into the numbers to better understand what&#8217;s up in Europe and Asia. (As an aside, if you have data on African startups&#8217; venture capital results, please email me as I am starting to poke around for a more global picture. <a href="https://techcrunch.com/2020/10/15/stripe-acquires-nigerias-paystack-for-200m-to-expand-into-the-african-continent/">Recent deal activity</a> makes it plain that American media needs to do more and better reporting on the continent.)</p>
+<h2>A strong Q3</h2>
+<p>The venture capital world&#8217;s center of gravity still lands somewhere in the United States, but here&#8217;s how the three continents managed in Q3 2020, looking at their raised venture capital dollars:</p>
+<ul>
+<li>North America: $37 billion</li>
+<li>Asia: $24 billion</li>
+<li>Europe: $9 billion</li>
+</ul>
+<p>Asia&#8217;s result was its best since at least Q4 2018, as far back as our dataset goes. Europe&#8217;s total tied its high-water mark set in Q2 2019. But as a combined pair, venture capital outside North America might have just had its best quarter in years, if not ever.</p>
+<p>Here&#8217;s the data in graphical format:</p>
+<p></p><img class="wp-image-2063185 size-large" src="https://techcrunch.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-20-at-9.28.44-AM.png?w=680" alt="" width="680" height="339"><p></p><p class="extra-crunch-offer-container"></p>			</div>

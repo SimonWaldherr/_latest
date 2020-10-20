@@ -1,0 +1,32 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cbsnews1.cbsistatic.com/hub/i/r/2019/11/21/7ca6c861-29d4-4c29-adb7-69dde38171a0/thumbnail/1200x630g7/5c34f3e4119378204a50e1628203775d/ap-18178656296074.jpg 
+title: > 
+  Department of Justice sues Google, alleging it maintains a search monopoly 
+description: > 
+  The Department of Justice filed a suit against Google on Tuesday for violating antitrust regulations.The Justice Department alleges that Google, which is a division of Alphabet, paid billions of dollars to Apple and other mobile-phone manufacturers, and web browser companies in order for those companies to maintain Google as their default search engine.The Justice Department won't immediately seek to have Google broken up, but it could eventually seek to force a change in how Alphabet operates, which could eventually include splitting up Google's various businesses.It maintains that its services face ample competition and have unleashed innovations that help people manage their lives.Google insists that it holds no special power forcing people to use its free services or preventing them from going elsewhere. 
+date: 1603210168.1337378 
+--- 
+<div><p>The Department of Justice filed a suit against Google on Tuesday for violating antitrust regulations.</p>
+
+    
+<p id="mpu-plus-top-right-rail" class="ad-mpu-plus-top-right-rail ad-wrapper ">
+    </p>
+<p>The Justice Department <a href="https://twitter.com/TheJusticeDept/status/1318531994305941505?s=20" target="_blank" rel="nofollow noopener">alleges that Google</a>, which is a division of Alphabet, paid billions of dollars to Apple and other mobile-phone manufacturers, and web browser companies in order for those companies to maintain Google as their default search engine. Those payments and similar arrangements have allowed Google to maintain a lock on the web-search market, which has long been the foundation of its business, according to the suit. In one of the alleged arrangements, Google made it so that its browser could not be deleted from mobile phones that came pre-loaded with the company's Android operating software. The case was filed in federal court in Washington, D.C.</p><p>Investors appeared to brush off any changes that could come from the government's suit. Shares of Alphabet rose $22, or 1.5%, on the news on Tuesday to $1,552. </p>
+
+  
+  
+<span class="img item__thumb item__thumb--crop-0"><img src="https://cbsnews1.cbsistatic.com/hub/i/r/2019/11/19/186936ea-2db7-4a48-b750-74f38f653dc6/thumbnail/130x130/3b7d3f89bd089e1d4a2376e43d0f0efa/newsletter-breakingnews.jpg#" alt=" " height="130" width="130" class=" lazyload"></span><h4 class="item__dek">Get Breaking News Delivered to Your Inbox</h4>
+
+<p class="embed__resizer"></p>
+    
+  
+
+<p>Alphabet did not immediately return a request for comment from CBS MoneyWatch for this story.</p><p>The lawsuit marks the government's most significant act to protect competition since its groundbreaking case against Microsoft more than 20 years ago. It could be an opening salvo ahead of other major government antitrust actions, given the ongoing investigations of major tech companies including Apple, Amazon and Facebook at both the Justice Department and the Federal Trade Commission.&#160;</p><p>The House subcommittee on antitrust released a <a href="https://www.cbsnews.com/news/amazon-apple-facebook-google-house-report-recommends-restructuring-restricting-acquisitions-antitrust-laws/" target="_blank">sweeping report</a> earlier this month that recommended overhauling federal laws to make it easier to go after the four big tech companies, as well as potentially restructuring those companies or breaking them up into their component divisions.</p> 
+<p>Lawmakers and consumer advocates have long accused Google, whose corporate parent Alphabet Inc. has a market value just over $1 trillion, of abusing its dominance in online search and advertising to stifle competition and boost profits. Critics contend that multibillion-dollar fines and mandated changes in Google's practices imposed by European regulators in recent years weren't severe enough and that structural changes are needed for Google to change its conduct.</p><p>The Justice Department won't immediately seek to have Google broken up, but it could eventually seek to force a change in how Alphabet operates, which could eventually include splitting up Google's various businesses.</p><p>Google, along with its search engine, owns the leading web browser in Chrome; the world's largest smartphone operating system in Android; the top video site in YouTube and the most popular digital mapping system. Some critics have singled out YouTube and Android as among Google businesses that should be considered for divestiture.</p><p>The Trump administration has <a href="https://www.cbsnews.com/news/peter-thiel-calls-for-u-s-goverment-to-take-down-google/" target="_blank">long had Google in its sights</a>. A top economic adviser to President Donald Trump said two years ago that the White House was considering whether Google searches should be subject to government regulation. Trump has often criticized Google, recycling unfounded claims by conservatives that the search giant is biased against conservatives and suppresses their viewpoints, interferes with <a href="/race-to-2020/">U.S. elections</a> and prefers working with the Chinese military over the Pentagon.</p>
+
+    
+<p id="leader-middle-plus-content" class="ad-leader-middle-plus-content ad-wrapper ">
+    </p>
+<p>Google controls about 90% of global web searches. The company has been bracing for the government's action and is expected to fiercely oppose any attempt to force it to spin off its services into separate businesses.</p><p>The company, based in Mountain View, California, has long denied claims of unfair competition. Google argues that although its businesses are large, they are useful and beneficial to consumers. It maintains that its services face ample competition and have unleashed innovations that help people manage their lives.</p><p>Most of Google's services are offered for free in exchange for personal information that helps it sell its ads. Google insists that it holds no special power forcing people to use its free services or preventing them from going elsewhere.</p><p>This is a developing story. CBS News' Stephen Gandel and Irina Ivanova contributed reporting.<br></p></div>
