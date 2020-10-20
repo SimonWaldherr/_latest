@@ -1,0 +1,19 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ca-times.brightspotcdn.com/dims4/default/5d02f11/2147483647/strip/true/crop/4921x2584+0+92/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff9%2Fa5%2F24daf7e949429b9c836b32daa493%2Fa3c6f85c712c4e958d1c0149d74e9d0d 
+title: > 
+  Debate commission adopts new rules to mute Trump and Biden’s mics at next match-up 
+description: > 
+  President Trump and Democrat Joe Biden will have their microphones cut off in Thursday’s debate while their rival delivers their opening two-minute answer to each of the debate topics.The 90-minute debate is divided into six 15-minute segments, with each candidate granted two minutes to deliver uninterrupted remarks before proceeding to an open debate.The nonpartisan Commission on Presidential Debates announced the rule changes Monday, three weeks after a chaotic opening faceoff between the two presidential contenders that featured frequent interruptions — mostly by Trump.The commission has faced pressure from the Trump campaign to avoid changing the rules, while Biden’s team was hoping for a more ordered debate.Trump campaign manager Bill Stepien says Trump “is committed to debating Joe Biden regardless of last-minute rule changes from the biased commission in their latest attempt to provide advantage to their favored candidate.”The Biden campaign did not immediately comment on the new rule. 
+date: 1603160055.3849094 
+--- 
+<div><p>President  Trump and Democrat Joe Biden will have their microphones cut off in Thursday&#8217;s debate while their rival delivers their opening two-minute answer to each of the debate topics.</p><p>The 90-minute debate is divided into six 15-minute segments, with each candidate granted two minutes to deliver uninterrupted remarks before proceeding to an open debate. The open discussion portion of the debate will not feature a mute button, but interruptions by either candidate will count toward their time in the second and final debate Thursday.</p><p>The nonpartisan Commission on Presidential Debates announced the rule changes Monday, three weeks after a <a class="link" href="https://www.latimes.com/politics/story/2020-09-30/trump-biden-first-presidential-debate-analysis">chaotic opening faceoff between the two presidential contenders</a> that featured frequent interruptions &#8212; mostly by Trump.</p><p>The commission has faced pressure from the Trump campaign to avoid changing the rules, while Biden&#8217;s team was hoping for a more ordered debate. In a statement, the commission said it &#8220;had determined that it is appropriate to adopt measures intended to promote adherence to agreed upon rules and inappropriate to make changes to those rules.&#8221;</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adf9da5d7f-c7e8-4598-822c-427e1fdf94ea" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p> Trump plans to attend Thursday&#8217;s debate  despite the rule changes  opposed by his campaign. </p><p>Trump campaign manager Bill Stepien says Trump &#8220;is committed to debating Joe Biden regardless of last-minute rule changes from the biased commission in their latest attempt to provide advantage to their favored candidate.&#8221;</p><p>The Biden campaign did not immediately comment on the new rule.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad5c97751d-ab54-4b6f-8d18-861f58792afa" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p></p><p id="nativo_1"></p></div>
