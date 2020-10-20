@@ -1,0 +1,20 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8d9a029e9fe4001900a096?width=1200&format=jpeg 
+title: > 
+  Rudy Giuliani said he released his Hunter Biden story to the New York Post because he knew other outlets would scrutinize it too much 
+description: > 
+  President Donald Trump's personal lawyer Rudy Giuliani told The New York Times on Sunday that he gave the New York Post a copy of a hard drive said to belong to Hunter Biden because other news outlets would have scrutinized it too much.Several of the Post's journalists voiced concerns about its reporting in interviews with The Times and New York magazine's Intelligencer, saying the sourcing was "flimsy" and didn't meet "journalistic standards."The Post last week detailed emails purportedly written by Hunter Biden and taken from a laptop left at a repair shop.They suggested that Joe Biden used his power as vice president to help his son curry favor with a Ukrainian energy company.He did say, however, that there was a "50/50" chance that one of his associates, a Ukrainian government official named Andrii Derkach, was a Russian spy. 
+date: 1603190851.9299183 
+--- 
+<div> 
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>President Donald Trump's personal lawyer Rudy Giuliani <a href="https://www.nytimes.com/2020/10/18/business/media/new-york-post-hunter-biden.html?auth=login-google&amp;referringSource=articleShare">told The New York Times</a> on Sunday that he gave the New York Post a copy of a hard drive said to belong to Hunter Biden because other news outlets would have scrutinized it too much.</p><p>Giuliani told The Times that he chose the Post because "either nobody else would take it, or if they took it, they would spend all the time they could to try to contradict it before they put it out."</p><p>Several of the Post's journalists <a href="https://www.businessinsider.com/new-york-post-skepticism-in-publishing-hunter-biden-stories-report-2020-10">voiced concerns about its reporting</a> in interviews with The Times and <a href="https://nymag.com/intelligencer/2020/10/new-york-post-insiders-slag-flimsy-hunter-biden-stories.html">New York magazine's Intelligencer</a>, saying the sourcing was "flimsy" and didn't meet "journalistic standards."</p><p>The Post last week detailed emails purportedly written by Hunter Biden and taken from a laptop left at a repair shop. They suggested that Joe Biden used his power as vice president to help his son curry favor with a Ukrainian energy company.</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>But the Post's reporting was <a href="https://www.businessinsider.com/new-york-post-hunter-joe-biden-giuliani-red-flags-disinformation-2020-10">filled with holes and red flags that raised questions about its authenticity</a>, including whether the emails are real, how they were obtained, and who obtained them. The FBI <a href="https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10">is investigating</a> whether the emails were part of a foreign intelligence operation.</p><p>In an <a href="https://www.thedailybeast.com/rudy-giuliani-says-theres-only-5050-chance-i-worked-with-a-russian-spy-to-dig-dirt-on-bidens">interview with The Daily Beast</a> over the weekend, Giuliani described concerns that the leaks were part of a Russian disinformation campaign as "a bunch of bulls---."</p><p>He did say, however, that there was a "50/50" chance that one of his associates, a Ukrainian government official named Andrii Derkach, was a Russian spy.</p> 
+                  </div>
