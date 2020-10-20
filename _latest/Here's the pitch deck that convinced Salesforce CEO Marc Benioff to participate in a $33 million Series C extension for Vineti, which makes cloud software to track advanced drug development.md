@@ -1,0 +1,27 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f88eef9d260780019341bea?width=1200&format=jpeg 
+title: > 
+  Here's the pitch deck that convinced Salesforce CEO Marc Benioff to participate in a $33 million Series C extension for Vineti, which makes cloud software to track advanced drug development 
+description: > 
+  Here's the pitch deck that convinced Benioff and other investors to participate in Vineti's Series C extension.The startup raised a $33 million extension to its Series C round, which includes Salesforce CEO Marc Benioff as a new investor, in order to keep up product development.The extension was led by Cardinal Health, which also led the previous $35 million Series C, which closed in February.DuRoss declined to share the company's latest valuation but said there was a "sizable" increase in value between the prior Series B round and the Series C, including the Series C extension.Here's the pitch deck that convinced Benioff and other investors to participate in Vineti's Series C extension. 
+date: 1603173661.427907 
+--- 
+<div><ul class="summary-list">
+<li>Vineti, a cloud software startup that manages the development of drugs like cell and gene therapies or cancer vaccines raised a $33 million extension to its Series C round, and signed on Salesforce CEO Marc Benioff as a new investor.&#160;</li>
+<li>CEO and cofounder Amy DuRoss said Vineti raised the round after it saw how its customer, mainly pharma and biotech companies, had to delay trials for drug development due to the pandemic.&#160;</li>
+<li>Vineti's product manages supply chain logistics, manufacturing, and clinical data for large pharma companies and small biotech startups alike.</li>
+<li><strong>Here's the pitch deck that convinced Benioff and other investors to participate in Vineti's Series C extension.</strong></li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-slideshow-enterprise-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-slideshow-enterprise-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>As the coronavirus pandemic created a slowdown in the development and commercialization of some drugs and therapies that had nothing to do with the pandemic, startup Vineti &#8212; which creates cloud software tools for drug development &#8212; found itself in need of cash. The startup raised a $33 million extension to its Series C round, which includes Salesforce CEO Marc Benioff as a new investor, in order to keep up product development.</p><p>Vineti's original Series C round in February was oversubscribed, and there were many investors who were interested but didn't participate, so there were already discussions about expanding it, CEO and cofounder Amy DuRoss told Business Insider. When she started seeing how her customers were affected she decided it was the right time to expand the round.&#160;</p><p>"So the investor community and the scientific community is like running full-force at this market. On the other hand, because of the global pandemic, things have slowed," DuRoss said.&#160;</p><p>The extension was led by Cardinal Health, which also led the previous $35 million Series C, which closed in February. Existing investors like Canaan Partners, Threshold Ventures, Casdin Capital, Novartis Pharma AG, McKesson Ventures, and LifeForce Capital, also participated.&#160;</p><p>Vineti's product manages supply chain logistics, manufacturing, and clinical data for large pharma companies and small biotech startups alike. DuRoss compares it to software that can track purchases made online.&#160;</p><p>Many of the companies that Vineti sells its technology to have had to slow down trials due to the pandemic. The trials for the drugs they are developing often require people to be near hospitals nd ICUs during certain phases, but those were necessarily prioritized for COVID-19 patients. However, once trials can resume, DuRoss believes that there will be "even more pent up demand" for Vineti's tools."</p><p>"We needed to keep building at the same level we were expecting to build, no matter what," she added.&#160;</p><p>DuRoss said the startup convinced Benioff to invest in the extension because she and other execs had a pre-existing relationship with him. Vineti's CTO, Phil Calvin, was previously the head of platform engineering at Salesforce, and Benioff previously invested in another company that DuRoss worked at, Navigenics.&#160;</p>
+<p id="gpt-slideshow-enterprise-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-slideshow-enterprise-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>"In addition to Marc's interest in our field and in personalized medicine and in supporting improvements in the supply chain overall, I do think he [also] had uber confidence in our CTO. I know that played a role," she said.&#160;</p><p>Vineti was founded in 2016, employs over 147 people, and has raised $115 million to-date. DuRoss declined to share the company's latest valuation but said there was a "sizable" increase in value between the prior Series B round and the Series C, including the Series C extension.</p><p><strong>Here's the pitch deck that convinced Benioff and other investors to participate in Vineti's Series C extension. </strong></p>
+
+                    </div>

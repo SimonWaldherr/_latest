@@ -1,0 +1,40 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f89fb509e9fe40019009e1c?width=1200&format=jpeg 
+title: > 
+  A startup is jumping into the $11 billion 5G endpoints market with a new, cheap networking device that runs with open source software 
+description: > 
+  On Monday, the networking startup FreedomFi launched a $300 open source appliance called FreedomFi Gateway that allows users to easily build their own private 5G and LTE networks.FreedomFi has launched a $300 open source appliance called FreedomFi Gateway that makes it possible for anyone to build an LTE or 5G private network using open source software and small cell radios."This is an area that will absolutely become dominated by open source," Renski told Business Insider.FreedomFi wants Gateway to become like LinuxSince it's open source, FreedomFi Gateway isn't linked to any networking vendors, but it's also flexible enough to work with any vendors users work with.Pretty much everything we build is open source," Renski said. 
+date: 1603173659.6444473 
+--- 
+<div><ul class="summary-list">
+<li>On Monday, the networking startup FreedomFi launched a $300 open source appliance called FreedomFi Gateway that allows users to easily build their own private 5G and LTE networks.</li>
+<li>This device can be used to increase connectivity in rural areas, help businesses build their own private networks, and more.</li>
+<li>Boris Renski, cofounder and CEO of FreedomFi, hopes this project can be influential in the 5G industry in the same way that the open source Linux operating system was highly influential.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-enterprise-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-enterprise-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Networking startup FreedomFi is launching a new appliance that aims to make the process of building private cellular networks easier and less expensive.&#160;</p><p>FreedomFi has launched a $300 <a href="https://www.businessinsider.com/open-source-companies-recession-coronavirus-2020-3">open source</a> appliance called FreedomFi Gateway that makes it possible for anyone to build an LTE or 5G private network using <a href="https://www.businessinsider.com/open-source-contributions-career-coronavirus-downturn-2020-4">open source</a> software and small cell radios. Private cellular networks give a person or a company secure wireless Internet connectivity and they're particularly useful in remote areas without access to Wi-Fi networks. Users can set up their network's security rules and then start running the 5G network. This product is now available in public beta, FreedomFi announced Monday.&#160;</p><p>This project could benefit people who live in rural areas where Internet connectivity is limited, says Boris Renski, cofounder and CEO of FreedomFi, because it helps strengthen connection in those areas. It can also give businesses faster, more secure networks, too.</p><p>FreedomFi has already forged partnerships with WiConnect Wireless, which is expanding its LTE network in rural Wisconsin, and Dishnet Africa, which plans to build LTE network services across various regions in Africa.&#160;</p><p>The emerging 5G industry is a hot one: Gartner forecasts that 5G endpoints will be an $11 billion market this year, while 5G infrastructure will account for an additional <a href="https://www.gartner.com/en/newsroom/press-releases/gartner-says-worldwide-5g-network-infrastructure-spending-to-almost-double-in-2020">$8 billion</a>.</p><p>"This is an area that will absolutely become dominated by open source," Renski told Business Insider. "5G makes it possible to build software-based cellular networks."</p><h2><strong>FreedomFi Gateway is based on an open source project called Magma</strong></h2><p>FreedomFi Gateway is based on a network operating project called Magma that is available <a href="https://www.businessinsider.com/burger-king-tencent-open-source-projects-anyscale-ray-intel-2020-10">open source</a>, meaning that anyone can use, contribute to, or download the project for free.&#160;</p><p>Renski started working on Magma two years ago when he was still CMO at the cloud computing startup Mirantis. While working with Magma, Renski decided he wanted to focus on 5G full-time, so he left to start FreedomFi this January.&#160;</p><p>
+      <img class="lazy-image " src="" alt="Boris Renski, co-founder and CEO of FreedomFi">
+    
+    
+      <img src="https://i.insider.com/5f8a0b73d260780019341f97?width=600&amp;format=jpeg&amp;auto=webp">
+    
+    
+    
+        Boris Renski, co-founder and CEO of FreedomFi
+      
+
+        
+          FreedomFi
+        
+    
+</p><p>"The biggest driver was the experience of growing Mirantis from zero to a sizable organization in a slightly different area that is just as prone to being revolutionized by open source as what I saw firsthand happen in the enterprise data center space," Renski said. "I was super excited to replay the same playbook and reapply everything I learned."</p>
+<p id="gpt-post-enterprise-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-enterprise-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>The proceeds for FreedomFi Gateway will be invested into building the Magma project. Sponsors that contribute $300 to Magma will receive a beta FreedomFi gateway. Sponsors that contribute $1,000 will receive additional support from FreedomFi over Zoom.&#160;</p><h2><strong>FreedomFi wants Gateway to become like Linux</strong></h2><p>Since it's <a href="https://www.businessinsider.com/microsoft-programming-languages-visual-basic-c-net-typescript-2020-9">open source</a>, FreedomFi Gateway isn't linked to any <a href="https://www.businessinsider.com/google-cloud-anthos-for-telecom-att-2020-3">networking vendors</a>, but it's also flexible enough to work with any vendors users work with. That way, a user doesn't need to rely on a single vendor and can have more control over how they build their network infrastructure.&#160;</p><p>"You can mix and match with different vendors, and it works out of the box. Pretty much everything we build is open source," Renski said. "If [users] get to a very significant scale and want to continue themselves and own the entire thing themselves, nothing is stopping them from doing it."</p><p>Renski says that with this project, he wants to help shift 5G to a completely different, <a href="https://www.businessinsider.com/house-antitrust-report-aws-open-source-products-2020-10">open source</a> model, the way open source <a href="https://www.businessinsider.com/microsoft-linux-kernel-windows-10-2019-5">Linux</a> became such an <a href="https://www.businessinsider.com/microsoft-linux-azure-windows-cloud-2019-7">influential operating system</a>.</p><p><strong>Read more: </strong><a href="https://www.businessinsider.com/microsoft-linux-azure-windows-cloud-2019-7">A Microsoft engineer says that the use of Linux has overtaken Windows on its own Microsoft Azure cloud</a></p><p>"We had the front row seat to see how transformation of open source was in the enterprise data center space," Renski said. "We want to lead transformation in the telecom space."</p><p><strong>Got a tip?</strong>&#160;Contact this reporter via email at&#160;<a href="mailto:rmchan@businessinsider.com">rmchan@businessinsider.com</a>, Signal at&#160;646.376.6106,&#160;Telegram at @rosaliechan, or&#160;Twitter DM at&#160;<a href="https://twitter.com/rosaliechan17">@rosaliechan17</a>. (PR pitches by email only, please.) Other types of secure messaging available upon request.&#160;</p>
+                  </div>
