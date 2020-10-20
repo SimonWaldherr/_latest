@@ -1,0 +1,24 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/06/Screenshot-2020-06-18-16.33.01.jpg?w=764 
+title: > 
+  Adobe Lightroom gets a new color grading tool, auto versions, graphical watermarking and more – TechCrunch 
+description: > 
+  At its core, the new color wheels replace the existing ‘split toning’ controls in Lightroom.“Color Grading is an extension of Split Toning — it can do everything Split Toning did, plus much more,” Adobe’s Max Wendt explains in today’s announcement.Overall, though, I think this new system is more intuitive than the current split toning feature that a lot of users regularly ignored.The new color grading feature will be available across platforms and in Lightroom Classic, as well as Camera Raw.The other new feature Adobe is highlighting with this release is graphical watermarks (available on Windows, Mac, iOS, iPadOS, Android and Chrome OS), that augments the existing text-based watermarking in Lightroom. 
+date: 1603205083.8250558 
+--- 
+<div><p id="speakable-summary">At its MAX conference, Adobe today announced the launch of the latest version of <a href="https://www.adobe.com/products/photoshop-lightroom.html">Lightroom</a>, its popular photo management and editing tool. The highlights of today&#8217;s release are the introduction of <a href="https://blog.adobe.com/en/2020/10/20/introducing-color-grading.html">a new color grading tool</a> that&#8217;s more akin to what you&#8217;d find in a video editor like Adobe Premiere or DaVinci Resolve, auto versioning that&#8217;s saved in the cloud (and hence not available in Lightroom Classic) and graphical watermarks, in addition to a number of other small feature updates across the application.</p>
+<p>Adobe had already teased the launch of the new color grading feature last month, which was probably a good idea given how much of a change this is for photographers who have used Lightroom before. Adjusting color is, after all, one of the main features of Lightroom and this is a major change.</p>
+<p></p><p class="piano-inline-promo"></p>
+<p>At its core, the new color wheels replace the existing &#8216;split toning&#8217; controls in Lightroom.</p>
+<p>&#8220;Color Grading is an extension of Split Toning &#8212; it can do everything Split Toning did, plus much more,&#8221; Adobe&#8217;s Max Wendt explains in today&#8217;s announcement. &#8220;Your existing images with Split Toning settings will look exactly the same as they did before, your old Split Toning presets will also still look the same when you apply them, and you can still get the same results if you had a familiar starting point when doing Split Toning manually.&#8221;</p>
+<p>My guess is that it&#8217;ll take a while for many Lightroom users to get a hang of these new color wheels. Overall, though, I think this new system is more intuitive than the current split toning feature that a lot of users regularly ignored.</p>
+<p>The new color grading feature will be available across platforms and in Lightroom Classic, as well as Camera Raw.</p>
+<p></p>
+<p>The other new feature Adobe is highlighting with this release is graphical watermarks (available on Windows, Mac, iOS, iPadOS, <a class="crunchbase-link" href="https://crunchbase.com/organization/android" target="_blank">Android </a> and Chrome OS), that augments the existing text-based watermarking in Lightroom. This does exactly what the name implies and the watermarks are automatically applied when you share or export and image.</p>
+<p></p><p>The most important overall quality of life feature the team is adding is auto versions (also available on Windows, Mac, iOS, iPadOS, Android and Chrome OS). This makes it far easier to save different versions of an image &#8212; and these versions are synced across platforms. That way, you can easily go back and forth between different edits and revert those as necessary, too.</p>
+<p></p><p>With its new &#8216;best photos&#8217; feature, Adobe is now also using its Ai smarts to find the best photos you&#8217;ve taken, but only on iOS, iPadOS, and Android, Chrome OS and the web. It&#8217;ll look at the technical aspects of your photo, as well as whether your subjects have their eyes open and face forward, for example, and the overall framing of the image. Users can decide how many of their images make the cut by toggling a threshold slider.</p>
+<p>Another nifty new feature for <a class="crunchbase-link" href="https://crunchbase.com/organization/canon" target="_blank">Canon </a> shooters who use Lightroom Classic is the addition of a tethered live view for Canon &#8211; with support for other cameras coming soon. With this, you get a real-time feed from your camera, making it easier to collaborate with others in real time.</p>
+<p>&#160;</p>
+			</div>

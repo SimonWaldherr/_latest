@@ -1,0 +1,18 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1188674062.jpg?w=601 
+title: > 
+  Robin.io launches a free version of its cloud-native Kubernetes storage solution – TechCrunch 
+description: > 
+  Robin .io promises that it brings cloud-native data management capabilities to containerized applications with support for standard operations like backup and recovery, snapshots, rollbacks and more.It does all of that while offering bare-metal performance and support for all major clouds.The service is essentially agnostic to the actual database being used and offers support for the likes of PostgreSQL, MySQL, MongoDB, Redis, MariaDB, Cassandra, Elasticsearch and others.“Robin Cloud Native Storage works with any workload on any Kubernetes-based platform and on any cloud,” said Robin founder and CEO Partha Seetala.The enterprise plan includes 24×7 support and doesn’t limit the number of nodes or storage capacity. 
+date: 1603205083.01082 
+--- 
+<div><p id="speakable-summary"><a href="https://robin.io/">Robin.io</a>, a cloud-native <a href="https://robin.io/storage/">application and data management solution</a> with enterprise customers like USAA, Sabre, SAP, Palo Alto Networks and Rakuten Mobile, today announced the launch of its new free(-mium) version of its service, in addition to a major update to the core of its tool.</p>
+<p><a class="crunchbase-link" href="https://crunchbase.com/organization/getrobin" target="_blank">Robin </a>.io promises that it brings cloud-native data management capabilities to containerized applications with support for standard operations like backup and recovery, snapshots, rollbacks and more. It does all of that while offering bare-metal performance and support for all major clouds. The service is essentially agnostic to the actual database being used and offers support for the likes of PostgreSQL, <a class="crunchbase-link" href="https://crunchbase.com/organization/mysql" target="_blank">MySQL, </a> MongoDB, Redis, MariaDB, Cassandra, Elasticsearch and others.</p>
+<p></p><p class="piano-inline-promo"></p>
+<p>&#8220;Robin Cloud Native Storage works with any workload on any Kubernetes-based platform and on any cloud,&#8221; said Robin founder and CEO Partha Seetala. &#8220;With capabilities for storing, taking snapshots, backing up, cloning, migrating and securing data &#8212; all with the simplest of commands &#8212; Robin Cloud Native Storage offers developers and DevOps teams a super simple yet highly performant tool for quickly deploying and managing their enterprise workloads on Kubernetes.&#8221;</p>
+<p>The new free version lets teams manage up to 5 nodes and 5TB of storage. The promise here is that this a free-for-life offering and the company obviously expects that it allows enterprises to get a feel for the service and then upgrade to its paid enterprise plans over time.</p>
+<p>Talking about those enterprise plans, the company also today announced that it is moving to a consumption-based pricing plan, starting at $0.42 per node-hour (though it also offers annual subscriptions). The enterprise plan includes 24&#215;7 support and doesn&#8217;t limit the number of nodes or storage capacity.</p>
+<p>Among the new features to Robin&#8217;s core storage service are data management support for Helm Charts (where <a href="https://github.com/helm/helm">Helm</a> is the Kubernetes package manager), the ability to specify where exactly the data should reside (which is mostly meant to keep it close to the compute resources) and affinity policies that ensure availability for stateful applications that rely on distributed databases and data platforms.</p>
+			</div>
