@@ -1,0 +1,24 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2019/10/disrupt-Lisa-Callahan-lockheed-0163.jpg?w=604 
+title: > 
+  After historic OSIRIS-REx asteroid sample collection, Lockheed Martin VP Lisa Callahan will join us at TC Sessions: Space – TechCrunch 
+description: > 
+  It’ll be a virtual, live-streamed two-day show, including conversations with some of the best and brightest in the space industry.Callahan’s work at Lockheed covers all the work they do to support NASA and other civil exploration efforts of space, including both robotic and human transportation and science investigations.That includes OSIRIS-REx, the asteroid study and sample return mission that earlier today made a historic descent to the surface of rocky solar system visitor Bennu, an asteroid that’s over 200 thousand miles from Earth.OSIRIS-REx already made plenty of history, including becoming the closest orbit to an asteroid ever conducted by a spacecraft.We’ll talk about what these achievements mean for the space industry, and the future of space exploration – and human spaceflight – in December with Callahan. 
+keywords: > 
+  vp, including, osirisrex, sessions, work, sample, robotic, lockheed, return, today, techcrunch, tc, asteroid, martin, space, mission, lisa, surface 
+date: 1603240967.0203023 
+--- 
+<div><p id="speakable-summary">This December 16 and 17, we&#8217;re hosting our very first TC Sessions: Space event. It&#8217;ll be a virtual, live-streamed two-day show, including conversations with some of the best and brightest in the space industry. We&#8217;re thrilled to be hosting <a class="crunchbase-link" href="https://crunchbase.com/person/lisa-callahan" target="_blank">Lisa Callahan, </a> Vice President and General Manager of Commercial Civil Space at Lockheed Martin, at the event, and she&#8217;ll join us to discuss her company&#8217;s history-making work in robotic space exploration &#8211; including the asteroid mining sample collection at asteroid Bennu that happened today &#8211; as well as the future of human space exploration.</p>
+<p>Callahan&#8217;s work at Lockheed covers all the work they do to support NASA and other civil exploration efforts of space, including both robotic and human transportation and science investigations. That includes OSIRIS-REx, the asteroid study and sample return mission that earlier today made a historic descent to the surface of rocky solar system visitor Bennu, an asteroid that&#8217;s over 200 thousand miles from Earth.</p>
+<p>OSIRIS-REx already made plenty of history, including becoming the closest orbit to an asteroid ever conducted by a spacecraft. But today it topped all of that with a &#8216;tap-and-go&#8217; descent to the rocky surface, scooping samples that it will now attempt to return to Earth for direct study by scientists. That&#8217;s exactly the kind of ambitious extra-planetary robotic research that Callahan and her division at Lockheed have made possible with their work in advanced spacecraft and robotics design.</p><p class="piano-inline-promo"></p>
+<p>Callahan is also directly involved in NASA&#8217;s plans to return humans to the surface of the Moon &#8211; including sending a woman on a lunar landing mission for the first time ever. <a class="crunchbase-link" href="https://crunchbase.com/organization/lockheed-martin" target="_blank">Lockheed Martin </a> is the manufacturing partner for NASA&#8217;s Orion lander, which will transport the first American woman and the next American man to the Moon for their historic mission in 2024.</p>
+<p>We&#8217;ll talk about what these achievements mean for the space industry, and the future of space exploration &#8211; and human spaceflight &#8211; in December with Callahan.</p>
+<p>	
+	
+	 
+	</p>
+<p>You can get <a href="https://techcrunch.com/events/tc-sessions-space-2020/?promo=editpost1#tickets">Early-Bird tickets right now</a>, and save $150 before prices go up on November 13 &#8212; and you can even get a fifth person free if you bring a group of four from your company. Special discounts for current members of the government/military/nonprofit and student tickets are also available <a href="https://techcrunch.com/events/tc-sessions-space-2020/?promo=editpost1#tickets">directly on the website</a>. And if you are an early-stage space startup looking to get exposure to decision makers, you can even <a href="https://techcrunch.com/events/tc-sessions-space-2020/?promo=editpost1&amp;display=true#tickets">exhibit for the day for just $2,000</a>.</p>
+<p>Is your company interested in partnering at TC Sessions: Space 2020? <a href="http://info.techcrunch.com/SponsorshipsInterest.html?_ga=2.56756970.1567041312.1581968303-732172026.1578844339">Click here</a> to talk with us about available opportunities.</p>
+			</div>
