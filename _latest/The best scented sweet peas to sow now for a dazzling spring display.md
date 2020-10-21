@@ -1,0 +1,27 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/gardening/2020/10/15/ga-grow-high_1_trans_NvBQzQNjv4Bqyntj27Do1A_uEF6jNSG5NjQ2fQls62HNhIwsSqb17Zk.jpg?impolicy=logo-overlay 
+title: > 
+  The best scented sweet peas to sow now for a dazzling spring display 
+description: > 
+  People complain that only the old varieties are scented, and ask why modern varieties can’t have the fabulous fragrance of the old-timers.Of course, many sweet pea varieties from a century ago or earlier have a superb scent – but some have almost none.The modern sweet pea is still sweet.” So it was wrong then and it’s wrong now.Three of the best scented sweet peas of all time are relatively recent.Sow sweet peas now. 
+keywords: > 
+  display, scent, peas, modern, blue, sweet, grandiflora, sow, scented, best, dazzling, flowers, pea, varieties, white, spring 
+date: 1603268084.0445204 
+--- 
+<div><p>What&#8217;s all this nonsense about modern sweet peas having no scent? People complain that only the old varieties are scented, and ask why modern varieties can&#8217;t have the fabulous fragrance of the old-timers. And you know what? It&#8217;s rubbish.</p>
+<p>Of course, many sweet pea varieties from a century ago or earlier have a superb scent &#8211; but some have almost none. As long ago as 1927, in a book called<a href="https://www.abebooks.co.uk/book-search/title/sweet-peas-for-amateurs/author/norman-lambert-and-h-h-thomas/page-1/"> Sweet Peas For Amateurs</a>, the authors say: &#8220;So much is written, and so much said unnecessarily, about the loss of scent in the modern sweet pea that it is hardly worth the controversy. The modern sweet pea is still sweet.&#8221; So it was wrong then and it&#8217;s wrong now.</p>
+<p>Three of the best scented sweet peas of all time are relatively recent. &#8216;Matucana&#8217; was found in Peru in about 1955, &#8216;Albutt Blue&#8217; was released in 1999, while &#8216;High Scent&#8217; was introduced by the legendary New Zealand sweet pea breeder <a href="https://www.drkeithhammett.co.nz/">Keith Hammett</a> in 2003. Since then, he&#8217;s even introduced another called &#8216;More Scent&#8217;! They all make me swoon.</p>
+<p>Sow sweet peas now. Doing so in October, rather than in the spring, will give you earlier flowers and more of them &#8211; for longer. Sow six seeds in a 12cm pot of seed-sowing compost and stand the pots in a cold frame or a sheltered space outside. And be sure to protect them from mice and slugs. You will find four main types of sweet pea to choose from:</p>
+<p>Grandifloras are the oldest, their small flowers are without ruffles or waves and the shortish stems usually carry three flowers &#8211; but they are often strongly scented.</p>
+<p>Modern grandifloras have larger, unruffled flowers with longer stems and more flowers, usually well scented.</p>
+<p>Spencer sweet peas derive from &#8216;Countess Spencer&#8217;, introduced in 1901. The large, heavily ruffled flowers, many well-scented, appear in fours or fives.</p>
+<p>Semi-grandifloras are intermediate between modern grandifloras and Spencers, with gently waved, usually well-scented flowers on long stems.</p>
+<p>Eighteen different compounds make up sweet pea scent and, because the balance varies, different varieties appeal to different people. But here are my recommendations, working from pale to dark: In the white and cream range &#8216;Mrs Collier&#8217; (grandiflora) is elegant and prolific in gentle cream, sometimes over-enthusiastically described as &#8220;primrose&#8221;. &#8216;Cathy&#8217; (semi-grandiflora) has large frilly white flowers on long stems.</p>
+<p>Grading into pinks, &#8216;Gwendoline&#8217; (Spencer) has large, rose pink, well-waved flowers that shade to white at the base, and is superb for the garden, for cutting and for showing; &#8216;Prima Donna&#8217; (grandiflora) is pale rose pink.</p>
+<p>In stronger colours &#8216;King Edward VII&#8217; (grandiflora) is vivid red, with faint purple tones; it adds bright sparks to posies. &#8216;Scarlett&#8217; (modern grandiflora) is more crimson with a pink haze. &#8216;Flora Norton&#8217; (grandiflora) a soft sky blue, is good in a posy with &#8216;Prima Donna&#8217; and other pastels, while &#8216;Turquoise Lagoon&#8217; (modern grandiflora) is unique in maturing from mauve to turquoise. Darker still is the strong growing &#8216;Almost Black&#8217;, with dark maroon-navy blue flowers.</p>
+<p>Finally, the most scented: &#8216;Matucana&#8217; (grandiflora), in maroon purple and bluish mauve, is probably best, but I really like &#8216;Little Red Riding Hood&#8217; (modern grandiflora) in contrasting vivid scarlet and white.</p>
+<p>&#8216;High Scent&#8217; (modern grandiflora) could be the runner-up, a long-stemmed, rich cream with flowers neatly edged in rich violet. &#8216;Albutt Blue&#8217; and &#8216;Anniversary&#8217; are the best-scented Spencers. With so many options, how can anyone say that sweet peas today have no scent?</p>
+<p>Suppliers: English Sweet Peas (<a href="https://www.englishsweetpeas.co.uk/">englishsweetpeas.co.uk</a>; 01621 858868). Matthew man&#8217;s Sweet Peas (<a href="https://www.sweetpeasonline.co.uk/">sweetpeasonline.co.uk</a>; 0121 706 7833). Mr Fothergill&#8217;s (<a href="https://www.mr-fothergills.co.uk/">mr-fothergills.co.uk</a>; 0333 7773936). Roger Parsons (<a href="https://www.rpsweetpeas.com/">rpsweetpeas.com</a>; 01243 673770).</p>
+</div>

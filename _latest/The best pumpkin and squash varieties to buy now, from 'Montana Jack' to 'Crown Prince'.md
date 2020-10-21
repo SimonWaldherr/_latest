@@ -1,0 +1,27 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/gardening/2020/10/16/TELEMMGLPICT000242044715_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay 
+title: > 
+  The best pumpkin and squash varieties to buy now, from 'Montana Jack' to 'Crown Prince' 
+description: > 
+  Pumpkins, squashes and gourds have enjoyed rather wet conditions this October.Pumpkins, squashes and gourds are tender annuals, most of which come from three species of Cucurbita: pepo, maxima and moschata.And all have yellow flowers with male and female carried separately on the same plant.One indicator is that pumpkins are yellow or orange and round whereas squashes come in many wonderful colours and shapes.Bottle gourds, named after their flask-like shape, are derived from Lagenaria siceraria and have white flowers but are not edible. 
+keywords: > 
+  yellow, montana, prince, wonderful, shape, squashes, buy, best, pumpkins, varieties, crown, seed, squash, pumpkin, gourds, flowers, orange, white, jack 
+date: 1603268083.1400843 
+--- 
+<div><p>Pumpkins, squashes and gourds have enjoyed rather wet conditions this October.&#160;These striking fruits (strictly speaking, berries) are not for the faint-hearted but the recent surge in their popularity is no doubt thanks to their combination of vibrant colour, exuberant vigour and extraordinary shape. The fact that the smaller ones and those with bushier growth will fit into small gardens must widen their appeal.</p>
+<p>Pumpkins, squashes and gourds are tender annuals, most of which come from three species of Cucurbita: pepo, maxima and moschata. They are native to the warmer parts of the Americas, especially Mexico, where they have been grown since 7,000 BC. Their willingness to interbreed has given rise to many cultivars and for centuries they have been cropped commercially, particularly in the United States and France.</p>
+<p>Most have trailing stems as well as large, lobed, sandpapery leaves, though the shape differs depending on the original species. And all have yellow flowers with male and female carried separately on the same plant. Where pumpkins end and squashes start is not clear cut. One indicator is that pumpkins are yellow or orange and round whereas squashes come in many wonderful colours and shapes.</p>
+<p>In layman's terms they fall into four groups: summer squashes, such as pattypans and crooknecks, as well as courgettes, none of which store for long; autumn squashes, such as marrows and vegetable spaghetti (so-called because its flesh comes away in strands), which last in good condition for a couple of months; winter squashes, which store for up to a year and include both pumpkins and butternuts; and ornamental gourds, which are grown for their looks, although several, such as the tiny 'Jack-be-Little' and the wonderful 'Turk's Turban', are also edible.</p>
+<p>These can be dried and used for decoration, lasting for many months in good condition.</p>
+<p>Bottle gourds, named after their flask-like shape, are derived from Lagenaria siceraria and have white flowers but are not edible. In countries such as Peru they are often intricately decorated.</p>
+<p>The fruit can be quite smooth, ridged or as warty as an old toad; they can be green, turning orange with age, or any other colour from red to white, greyish-blue or almost black. And striped. Size ranges from a 1.5lb 'Baby Boo' to 'Atlantic Giant', which has weighed in at more than 1,000lbs.</p>
+<p>Caroline Boisset is a long-time devotee. A trained horticulturist and author who lives in the East Midlands, she became hooked years ago, by chance, after she bought a single packet of seed of 'Rouge Vif d'Etampes' while visiting her parents near Paris.</p>
+<p>The plan had been to use them as groundcover in her new kitchen garden. But the orange pumpkins grew so well that she began asking friends and family to bring back new seed from their travels to the US, France and Australia. In 1995, she won a Gold Medal for her display at the <a href="https://www.rhs.org.uk/">RHS</a>.</p>
+<p>Caroline grows about 20 different cultivars each year but, all told, the tally is 100. She sows pumpkin seed in a cold greenhouse, never earlier than April, two to a 6in pot in garden compost, with the seed on edge, and protects them against mice.</p>
+<p>She plants out the seedlings immediately the frosts are over into well prepared and fertilised soil. She plants seven to a 7ft by 14ft plot and they flower in three to four weeks.</p>
+<p>This is the moment to keep them well-watered, with a weekly foliar feed; if they dry out, growth stops. They set fruit themselves and often spontaneously drop surplus flowers. When the trailing stems encroach on the path, she turns them back towards the plant.</p>
+<p>In October a slight frost often melts the leaves, leaving the fat pumpkins sitting on the ground. She cuts them with a handle (a bit of stem) attached, brings them in to a light, north-facing conservatory to cure completely, then stores them in an airy pantry. This way they should keep long enough to try out most of the delicious sounding recipes in her book.</p>
+<h4>Caroline Boisset's recommendations</h4>
+</div>
