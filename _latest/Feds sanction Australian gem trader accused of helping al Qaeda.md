@@ -1,0 +1,22 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/al-qaeda-treasury.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Feds sanction Australian gem trader accused of helping al Qaeda 
+description: > 
+  The feds slapped sanctions on an Australian gem dealer who allegedly helped move money around the world for al Qaeda, the notorious terrorist group behind the 9/11 attacks.The Treasury Department accused Ahmed Luqman Talib of working as a financial facilitator for al Qaeda, saying his work dealing gemstones gave him “the ability to move funds internationally” for the Muslim extremist group’s benefit.“Terrorist groups such as [al Qaeda] use financial facilitators to move money around the world to help carry out terrorist activity,” Treasury Secretary Steven Mnuchin said in a statement.“The United States has made significant progress in degrading [al Qaeda’s] support networks around the world,” Secretary of State Mike Pompeo said Monday.“We will not relent in our efforts to target [al Qaeda’s] terrorist activities and those who support them.”With Post wires 
+keywords: > 
+  qaedas, terrorist, gem, trader, al, talib, qaeda, groups, australian, department, sanction, accused, helping, financial, treasury, world, feds 
+date: 1603272481.3702822 
+--- 
+<div><p>The feds slapped sanctions on an Australian gem dealer who allegedly helped move money around the world for al Qaeda, the notorious terrorist group behind the 9/11 attacks.</p>
+<p>The Treasury Department accused Ahmed Luqman Talib of working as a financial facilitator for al Qaeda, saying his work dealing gemstones gave him &#8220;the ability to move funds internationally&#8221; for the Muslim extremist group&#8217;s benefit.</p>
+<p>The Treasury on Monday sanctioned both Talib &#8212; who did business in Brazil, Sri Lanka, Turkey and other countries &#8212; and his Melbourne-based gemstone company, Talib and Sons. The move bans Americans from doing business with them and freezes their assets in the US.</p>
+<p>&#8220;Terrorist groups such as [al Qaeda] use financial facilitators to move money around the world to help carry out terrorist activity,&#8221; Treasury Secretary Steven Mnuchin said in a statement. &#8220;The Treasury Department remains committed to disrupting [al Qaeda&#8217;s] financial activities and networks around the world and appreciates the collaboration with our Australian partners.&#8221;</p>
+<p>The feds did not release further details about Talib&#8217;s alleged connections to al Qaeda or whether he had assets or other business dealings in the US. But experts <a href="https://www.nytimes.com/2020/10/19/us/politics/treasury-sanctions-qaeda-gems.html" rel="noopener noreferrer" target="_blank">told the New York Times</a> that the sanction suggests terrorists are using creative methods to finance their nefarious operations.</p>
+<p>&#8220;Governments and private sector have made it harder to move funds via formal and informal financial systems,&#8221; Matthew Levitt, the Washington Institute&#8217;s director of counterterrorism and intelligence, told the paper. &#8220;It is interesting to see terrorists relying on gemstones, which are easy to move and hold value.&#8221;</p>
+<p>Monday&#8217;s sanctions came about two months after the Department of Justice in August <a href="https://apnews.com/article/financial-markets-ap-top-news-technology-middle-east-islamic-state-group-2d4a02a5ba390b1285ad6ba7a80c9f61" rel="noopener noreferrer" target="_blank">seized</a> roughly $2 million in cryptocurrency that aided militant groups including al Qaeda and the Islamic State. Officials at the time called it the biggest-ever seizure of virtual currencies tied to terrorism.</p>
+<p>&#8220;The United States has made significant progress in degrading [al Qaeda&#8217;s] support networks around the world,&#8221; Secretary of State Mike Pompeo <a href="https://www.state.gov/the-united-states-designates-al-qaida-financial-facilitator/" rel="noopener noreferrer" target="_blank">said</a> Monday. &#8220;We will not relent in our efforts to target [al Qaeda&#8217;s] terrorist activities and those who support them.&#8221;</p>
+<p>With Post wires</p>
+			</div>
