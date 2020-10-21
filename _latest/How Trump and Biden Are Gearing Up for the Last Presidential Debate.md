@@ -1,0 +1,19 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/21/us/politics/21debatesetup/21debatesetup-facebookJumbo.jpg 
+title: > 
+  How Trump and Biden Are Gearing Up for the Last Presidential Debate 
+description: > 
+  The president has signaled he intends to focus on Mr. Biden’s son Hunter and his business dealings, after an unsubstantiated New York Post report on that subject.But some advisers fear he will not be able to control himself and will attack the younger Mr. Biden in a way that engenders sympathy for the Biden family, a dynamic that unfolded in the first debate when Mr. Trump mocked Hunter Biden’s history of battling drug addiction.“The president, in order to have a successful debate, has to go on offense without being offensive,” said Brett O’Donnell, a Republican strategist who has coached candidates in debates.“The American people care more about their own family than they do about the family of Hunter Biden.Keep up with Election 2020“They said if you let him talk, he’ll lose his chain of thought,” Mr. Trump said. 
+keywords: > 
+  debates, know, hunter, presidential, debate, biden, gearing, trump, mr, president, commission, family 
+date: 1603316608.4042482 
+--- 
+<div><p class="css-158dogj evys1bk0">The president has signaled he intends to focus on Mr. Biden&#8217;s son Hunter and his business dealings, after <a class="css-1g7m0tk" href="https://www.nytimes.com/2020/10/18/business/media/new-york-post-hunter-biden.html" title="">an unsubstantiated New York Post report</a> on that subject. But some<strong class="css-8qgvsz ebyp5n10"> </strong>advisers fear he will not be able to control himself and will attack the younger Mr. Biden in a way that engenders sympathy for the Biden family, a dynamic that unfolded in the first debate when Mr. Trump mocked Hunter Biden&#8217;s history of battling drug addiction.</p><p class="css-158dogj evys1bk0">&#8220;The president, in order to have a successful debate, has to go on offense without being offensive,&#8221; said Brett O&#8217;Donnell, a Republican strategist who has coached candidates in debates. &#8220;The American people care more about their own family than they do about the family of Hunter Biden. Especially during the pandemic.&#8221;</p><p class="css-158dogj evys1bk0">Mr. Trump has spent days attacking the Commission on Presidential Debates, which organizes the events and announced this week that the microphones of both candidates would <a class="css-1g7m0tk" href="https://www.nytimes.com/2020/10/19/us/politics/trump-biden-muted-debate.html" title="">be muted</a> at times, as well as the moderators the commission has chosen. In an interview with &#8220;Fox and Friends&#8221; on Tuesday morning, the president continued along that path, but suggested he was listening to his advisers for now.</p><p class="notification-copy">
+      <h2>Keep up with Election 2020</h2>
+    </p>
+    <p id="notification-target"></p>
+      <p id="debate-target"></p>
+      <p id="polling-target"></p>
+    <p class="css-158dogj evys1bk0">&#8220;They said if you let him talk, he&#8217;ll lose his chain of thought,&#8221; Mr. Trump said. &#8220;But I also understand that as he&#8217;s going down the line and issuing lies, you know, generally it&#8217;s OK to, you know, really attack that.&#8221;</p><p class="css-158dogj evys1bk0">Mr. Biden, for his part, is working to protect his advantage by relying on arguments that have defined his pitch for months: that he is the candidate best equipped to lead the nation out of the pandemic and its attendant economic fallout, and that he can restore stability and a measure of civility to the office after Mr. Trump&#8217;s turbulent tenure. He and his team, though, are bracing for ugly attacks, and some allies hope that the candidate, who is fiercely protective of his children, will avoid growing so angry onstage that he appears rattled.</p></div>
