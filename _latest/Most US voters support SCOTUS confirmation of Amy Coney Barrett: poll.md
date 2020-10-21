@@ -1,0 +1,22 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/Amy-Coney-Barrett-8.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Most US voters support SCOTUS confirmation of Amy Coney Barrett: poll 
+description: > 
+  WASHINGTON — A slim majority of US voters support the confirmation of Judge Amy Coney Barrett, President Trump’s nominee to the Supreme Court, according to a new poll.The survey by Morning Consult/Politico published Wednesday found that Barrett’s standing with American voters actually went up during her four-day grilling by Democratic lawmakers at last week’s confirmation hearings — with 51 percent of those surveyed supporting her nomination.Her steely resolve during last week’s confirmation hearings also appeared to win her more public support — a 3 percentage-point increase in approval, which was at 48 percent the week before, according to the study of 1,994 registered voters.While many political pundits braced for a repeat of Justice Brett Kavanaugh’s ugly 2016 confirmation hearings, which were dogged by sexual assault allegations, Barrett is more popular than either of Trump’s previous two nominees to the court.According to the Morning Consult/Politico poll, Barrett has the highest level of support measured at any time during the confirmation processes for Justices Neil Gorsuch and Kavanaugh. 
+keywords: > 
+  amy, voters, poll, support, political, confirmation, weeks, coney, trumps, barrett, court, hearings, nominee, scotus 
+date: 1603308319.498001 
+--- 
+<div><p>WASHINGTON &#8212; A slim majority of US voters support the confirmation of <a href="https://nypost.com/2020/09/26/amy-coney-barrett-applauded-as-legal-trailblazer-and-brilliant/">Judge Amy Coney Barrett</a>, President Trump&#8217;s nominee to the Supreme Court, according to a new poll.</p>
+<p>The survey by Morning Consult/Politico <a href="https://morningconsult.com/2020/10/21/supreme-court-hearings-barrett-confirmation-polling/" rel="noopener noreferrer" target="_blank">published Wednesday</a> found that Barrett&#8217;s standing with American voters actually went up during her four-day grilling by Democratic lawmakers at last week&#8217;s confirmation hearings &#8212; with 51 percent of those surveyed supporting her nomination.</p>
+<p>That&#8217;s up 14 points from when Trump announced the mom of seven as his nominee in the Rose Garden on Sept. 26, when just 37 percent of people believed Barrett should be confirmed.</p>
+<p>Her steely resolve during <a href="https://nypost.com/2020/09/26/amy-coney-barrett-woman-of-faith-who-says-religion-has-no-place-in-rulings/">last week&#8217;s confirmation hearings</a> also appeared to win her more public support &#8212; a 3 percentage-point increase in approval, which was at 48 percent the week before, according to the study of 1,994 registered voters.</p>
+<p>Barrett&#8217;s confirmation to the highest court in the land seems nearly certain ahead of <a href="https://nypost.com/2020/10/20/senate-will-vote-on-amy-coney-barrett-supreme-court-nomination-on-monday/">a vote in the Senate next Monday</a>, but her nomination in the wake of Justice Ruth Bader Ginsburg&#8217;s death last month sparked a political maelstrom.</p>
+<p>Democratic lawmakers argue the appeals court judge will take a sledgehammer to both <a href="https://nypost.com/2020/10/12/democrats-turn-acb-hearing-into-emotional-obamacare-appeal/" rel="noopener noreferrer" target="_blank">the Affordable Care Act and Roe v. Wade</a> while giving the bench a conservative majority for decades to come.</p>
+<p>Critics have also argued that Barrett&#8217;s confirmation should wait until after the US election, with American voters heading to the polls in just 13 days, while others have skewered <a href="https://nypost.com/2020/09/27/trump-blasts-criticism-of-amy-coney-barrett-over-catholic-faith/">her Catholic views</a> and biracial family.</p>
+<p>While many political pundits <a href="https://nypost.com/2020/10/13/democrats-cant-kavanaugh-unflappable-amy-coney-barrett-goodwin/" rel="noopener noreferrer" target="_blank">braced for a repeat</a> of Justice Brett Kavanaugh&#8217;s ugly 2016 confirmation hearings, which were dogged by sexual assault allegations, Barrett is more popular than either of Trump&#8217;s previous two nominees to the court.</p>
+<p>According to the Morning Consult/Politico poll, Barrett has the highest level of support measured at any time during the confirmation processes for Justices Neil Gorsuch and Kavanaugh.</p>
+			</div>

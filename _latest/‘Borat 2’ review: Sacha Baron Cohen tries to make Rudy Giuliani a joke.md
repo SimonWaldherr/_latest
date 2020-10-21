@@ -1,0 +1,28 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/borat-02.jpg?quality=90&strip=all&w=1200 
+title: > 
+  ‘Borat 2’ review: Sacha Baron Cohen tries to make Rudy Giuliani a joke 
+description: > 
+  Fourteen years after (fake) Kazakh journalist Borat Sagdiyev journeyed across America, he’s back in the states and catching Rudy Giuliani with his hand down his pants.Google “Borat lawsuits.”Now, Borat is as well-known a comedy character as Ron Burgundy or Wayne and Garth, and therefore isn’t really tricking anybody.Baron Cohen tries to work around this by adopting bonkers disguises: fat suits, wigs, facial hair.What hasn’t changed a bit is Baron Cohen’s escaped-from-the-asylum performance, and Borat is still one of the most lovable and abhorrent characters ever.In a late scene, Borat walks into a synagogue, offensively dressed as a Jewish person, and makes small talk with two nice old ladies. 
+keywords: > 
+  borat, nice, joke, baron, wa, giuliani, tutar, scene, film, sacha, rudy, cohen, man, 2020, thats, review, tries 
+date: 1603308318.5630462 
+--- 
+<div><p>Fourteen years after (fake) Kazakh journalist Borat Sagdiyev <a href="https://nypost.com/2006/11/02/kazakh-it-to-me-please-for-you-enjoy-funniest-film-of-the-year/" rel="noopener noreferrer" target="_blank">journeyed across America</a>, he&#8217;s back in the states and catching Rudy Giuliani with his hand down his pants. But more on that later.</p>
+<p>The US in 2020 has so much fodder, right? The race to the White House, a pandemic, a divided populace. &#8220;Borat Subsequent Moviefilm&#8221; checks off all of those irresistible headlines, but in a manner much too plotted and deliberate. The sequel scores a &#8220;very nice!&#8221; &#8212; but it comes short of &#8220;wa wa wee wa.&#8221;</p>
+<p>After dragging Kazakhstan&#8217;s reputation, such as it is, through the mud with his internationally huge first film, Borat has spent years on the chain gang. In 2020, the country&#8217;s premier has an urgent new mission for him: Return to America and bribe Vice President Mike Pence with a gift, so the Kazakh leader can join &#8220;the strongman club.&#8221;</p>
+<p>The trinket? Jonny the Monkey: Kazakhstan&#8217;s minister of culture and No. 1 porn star.</p>
+<p>Unwisely, director Jason Woliner&#8217;s film is nearly all political. Once he arrives in the US, most scenes take place in the South and each tackles a major issue &#8212; abortion, feminism, coronavirus, President Trump, the Clintons. That&#8217;s all fine, but I missed the fish-out-of-water cultural commentary. Nothing here matches the hilarity of Borat&#8217;s escaped chicken running wild on an NYC subway train, or the rube crudely attempting to learn &#8220;NOT!&#8221; jokes. How do you top &#8220;the running of the Jew&#8221;?</p>
+<p>After Jonny is off the table as a gift option for the VP &#8212; shield your eyes, PETA! &#8212; Borat decides to instead give his 15-year-old daughter Tutar (Maria Bakalova) to Pence (&#8220;America&#8217;s most famous ladies man&#8221;). Tutar, who lives in a cage, gets a makeover and a plastic surgery consult, goes to a debutante ball and learns some autonomy from a bewildered babysitter.</p>
+<p>The world has changed since Sacha Baron Cohen made the first &#8220;Borat.&#8221; Back in 2006, nobody knew who he was, and the actor was so good an improviser that he convinced tons of people that this ridiculous man was legit. Google &#8220;Borat lawsuits.&#8221;</p>
+ 
+<p>Now, Borat is as well-known a comedy character as Ron Burgundy or Wayne and Garth, and therefore isn&#8217;t really tricking anybody. Baron Cohen tries to work around this by adopting bonkers disguises: fat suits, wigs, facial hair. Even with him incognito, you can&#8217;t help but feel that most of the targets are in on the joke.</p>
+<p>Borat calmly asks a Southern hardware store employee which propane tank he&#8217;d need to kill 50 gypsies. The man responds, &#8220;The bigger one.&#8221; Not so much an indictment of down-South masculinity as a guy playing ball with a film crew. That vicious reality of the first film is gone.</p>
+<p>The moments that will have people talking are when Borat sneaks into CPAC 2020 during Pence&#8217;s speech, carrying Tutar over his shoulder, and is escorted out by security, and a later scene in which his daughter <a href="https://pagesix.com/2020/07/08/rudy-giuliani-called-the-nypd-on-sacha-baron-cohen-over-prank-interview/" rel="noopener noreferrer" target="_blank">interviews Giuliani in Manhattan</a>. That part claims to show the former mayor in a compromising position in bed with Tutar, but after rewatching it 10 times, it looks to me like an exaggeration through editing. Funny, though.</p>
+<p>This all might sound harsh for a review that comes to the conclusion that you should watch the movie, but that&#8217;s because it&#8217;s still leagues better than most of the comedy trash we&#8217;re handed by Hollywood. What hasn&#8217;t changed a bit is Baron Cohen&#8217;s escaped-from-the-asylum performance, and Borat is still one of the most lovable and abhorrent characters ever.</p>
+<p>In a late scene, Borat walks into a synagogue, offensively dressed as a Jewish person, and makes small talk with two nice old ladies.</p>
+<p>&#8220;Very nice weather we have been controlling,&#8221; he says casually.</p>
+<p>Decent movie, same old Borat.</p>
+			</div>

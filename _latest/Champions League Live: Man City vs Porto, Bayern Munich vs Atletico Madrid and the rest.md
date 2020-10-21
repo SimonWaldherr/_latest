@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.dailymail.co.uk/1s/2020/10/21/19/34676166-0-image-a-11_1603305452673.jpg 
+title: > 
+  Champions League Live: Man City vs Porto, Bayern Munich vs Atletico Madrid and the rest 
+description: > 
+  Manchester City's bid to win the Champions League gets underway when they host Porto for their first group stage game.Despite recent dominance domestically Pep Guardiola's side have stumbled on Europe's biggest stage in recent years, going out to surprise exits by Lyon and Tottenham Hotspur in the quarter-finals in the last two seasons.Elsewhere, reigning champions Bayern Munich welcome Atletico Madrid to the Allianz Arena as Europa League finalists Inter Milan host Borussia Monchengladbach.Follow Sportsmail's DAN RIPLEY for live UCL coverage including score, lineups and updates prior and throughout the game, with full coverage of Man City vs Porto. 
+keywords: > 
+  champions, win, live, welcome, stage, madrid, city, recent, rest, munich, vs, league, coverage, man, host, porto 
+date: 1603308287.5900493 
+--- 
+<div><p class="sport item html_snippet module">  </p> <p class="home item html_snippet module">      </p> <p class="mol-para-with-font"><a target="_blank" class="" href="/sport/teampages/manchester-city.html" id="mol-0c009f90-13c3-11eb-9fa1-2f2b0bcd7edb">Manchester City's&#160;</a>bid to win the<a target="_blank" class="" href="/sport/champions_league/index.html" id="mol-0c0385c0-13c3-11eb-9fa1-2f2b0bcd7edb"> Champions League</a>&#160;gets underway when they host Porto for their first group stage game.</p><p class="mol-para-with-font">Despite recent dominance domestically Pep Guardiola's side have stumbled on Europe's biggest stage in recent years, going out to surprise exits by Lyon and Tottenham Hotspur in the quarter-finals in the last two seasons.&#160;</p><p class="mol-para-with-font">Elsewhere, reigning champions <a target="_blank" class="" href="/sport/teampages/bayern-munich.html" id="mol-0c03acd0-13c3-11eb-9fa1-2f2b0bcd7edb">Bayern Munich</a> welcome <a target="_blank" class="" href="/sport/teampages/atletico-madrid.html" id="mol-0c03faf0-13c3-11eb-9fa1-2f2b0bcd7edb">Atletico Madrid</a> to the Allianz Arena as Europa League finalists Inter Milan host Borussia Monchengladbach.</p><p class="mol-para-with-font">Follow Sportsmail's DAN RIPLEY for live UCL coverage including score, lineups and updates prior and throughout the game, with full coverage of Man City vs Porto.&#160;</p></div>
