@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/21/climate/21CLI-CATTLE-promo/21CLI-CATTLE-promo-facebookJumbo.jpg 
+title: > 
+  Belching Cows and Endless Feedlots: Fixing Cattle’s Climate Issues 
+description: > 
+  That’s possible because cattle have a multichambered stomach where microbes ferment grass and other tough fibrous vegetation, making it digestible.“The way I look at it, I’ve got 46,000 fermentation vats going out there,” Mr. Shields said.But this process, called enteric fermentation, also produces methane, a potent planet-warming gas that the cattle mostly belch into the air.And with about 95 million cattle in the United States, including more than 25 million that are fattened for slaughter each year at feedlots, the methane adds up.Researchers within and outside the industry are working on ways to reduce emissions from fermentation, through feed supplements or dietary changes. 
+keywords: > 
+  belching, shields, animals, issues, methane, feed, emissions, endless, climate, fermentation, cattles, cows, million, gas, cattle, feedlots, way, fixing 
+date: 1603275518.0400262 
+--- 
+<div><p class="css-158dogj evys1bk0">HAPPY, Texas &#8212; Randy Shields looked out at a sea of cattle at the sprawling Wrangler Feedyard &#8212; 46,000 animals milling about in the dry Panhandle air as a feed truck swept by on its way to their pens.</p><p class="css-158dogj evys1bk0">Mr. Shields, who manages the yard for Cactus Feeders, knows that at its most basic, the business simply takes something that people can&#8217;t eat, and converts it into something they can: beef. That&#8217;s possible because cattle have a multichambered stomach where microbes ferment grass and other tough fibrous vegetation, making it digestible.</p><p class="css-158dogj evys1bk0">&#8220;The way I look at it, I&#8217;ve got 46,000 fermentation vats going out there,&#8221; Mr. Shields said.</p><p class="css-158dogj evys1bk0">But this process, called enteric fermentation, also produces methane, a potent planet-warming gas that the cattle mostly belch into the air. And with about 95 million cattle in the United States, including more than 25 million that are fattened for slaughter each year at feedlots, the methane adds up.</p><p class="css-158dogj evys1bk0">Researchers within and outside the industry are working on ways to reduce emissions from fermentation, through feed supplements or dietary changes. Other efforts aim to lower emissions from the animals&#8217; waste &#8212; a source of methane as well as another powerful greenhouse gas, nitrous oxide &#8212; through improved manure storage and handling.</p></div>

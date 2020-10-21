@@ -1,0 +1,28 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.pedestrian.tv/content/uploads/2020/10/21/Fentanyl-cocaine-ketamine-sydney-nsw-2.jpg 
+title: > 
+  A Health Warning Has Been Issued After Fentanyl Likely Found In Sydney Supplies Of Coke & Ket 
+description: > 
+  It looks like cocaine and ketamine are being cut with fentanyl-related substances, prompting NSW Health and other organisations to issue a health warning to anyone taking recreational drugs.Several people in NSW who recently took cocaine or ketamine ended up being poisoned by acetylfentanyl, a close relative of fentanyl that’s extremely potent to the point of being life threatening.While fentanyl is a strong opioid designed for medical use, acetylfentanyl has similar effects but no medical use.It can be up to 16 times stronger than morphine, and because it’s visually indistinguishable from both coke and ket, most people will only realise they’ve taken it once it’s too late.While acetylfentanyl is dangerous on its own, the risk of overdosing is even higher if combined with other drugs, such as when it’s been used to cut coke and ket. 
+keywords: > 
+  ketamine, cocaine, effects, fentanyl, supplies, nsw, coke, likely, cut, warning, ket, acetylfentanyl, health, taken, sydney, issued 
+date: 1603275532.8976552 
+--- 
+<div><p>It looks like cocaine and ketamine are being cut with fentanyl-related substances, prompting NSW Health and other organisations to issue a health warning to anyone taking recreational drugs.</p><p>Several people in NSW who recently took cocaine or ketamine ended up being poisoned by acetylfentanyl, a close relative of fentanyl that&#8217;s extremely potent to the point of being life threatening.</p><p>&#8220;The onset of toxicity can be so rapid that if someone went into a toilet to snort a line, they may die in the toilet stall,&#8221; Professor <strong>Andrew Dawson</strong>, Clinical Director at the NSW Poisons Information Centre, told PEDESTRIAN.TV.</p><p>While fentanyl is a strong opioid designed for medical use, acetylfentanyl has similar effects but no medical use.</p> <p id="ad-slot-mobile-mrec-4126507054" class="ad-slot ad-slot-ad-rendering mrec-cont padd_mrec" width="300" height="250"></p>
+ 
+<p>It can be <a href="https://www.who.int/medicines/access/controlled-substances/5.2_Acetylfentanyl_CRev.pdf">up to 16 times stronger</a> than morphine, and because it&#8217;s visually indistinguishable from both coke and ket, most people will only realise they&#8217;ve taken it once it&#8217;s too late.</p><p>READ MORE</p>
+<a href="https://www.pedestrian.tv/news/french-government-cocaine-coke-coronavirus-hoax/"><p>Sorry To The French People Who Thought Cocaine Would Protect Them From Coronavirus</p></a>
+<p>&#8220;There are no easy telltales when looking at cocaine or ketamine to tell whether is has been cut with or substituted by fentanyl or fentanyl analogues&#8230; this is what makes it so dangerous,&#8221; Dawson added.</p><p>&#8220;The side effects of acetylfentanyl include drowsiness, loss of consciousness and slowed breathing, and when taken unknowingly can cause life-threatening effects.&#8221;</p><blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Cocaine &amp; ketamine containing Fentanyl responsible for multiple hospitalisations &#9888;&#65039;October 2020&#9888;&#65039;&#65532; NSW Health has released a warning about the presence of fentanyl and acetyl-fentanyl in cocaine and ketamine circulating around NSW <a href="https://t.co/eBTHAGDbzU">pic.twitter.com/eBTHAGDbzU</a></p>
+<p>&#8212; NUAA (@nuaansw) <a href="https://twitter.com/nuaansw/status/1317253920180166657?ref_src=twsrc%5Etfw">October 16, 2020</a></p></blockquote><p></p> <p id="ad-slot-out-of-page-mobile-976954463" class="ad-slot ad-slot-ad-rendering padd_mrec ad-slot-out-of-page ad-slot-out-of-page-mobile"></p>
+ 
+<p>Dawson suggested acetylfentanyl is likely being used to cut coke and ket simply because it has such a strong high, making it cheaper and easier to import because dealers only need to use a small amount.</p><p>That being said, because acetylfentanyl is an opioid, the high is actually pretty different from coke, which a stimulant, and ket, which is a different kind of depressant to opioids.</p><p>While acetylfentanyl is dangerous on its own, the risk of overdosing is even higher if combined with other drugs, such as when it&#8217;s been used to cut coke and ket.</p><p>READ MORE</p>
+<a href="https://www.pedestrian.tv/news/cops-mistook-human-ashes-for-ketamine-chucked-bloke-in-the-slammer/"><p>Cops Mistook Human Ashes For Ketamine, Chucked Bloke In The Slammer</p></a>
+<p id="ad-slot-mobile-mrec-1323526620" class="ad-slot ad-slot-ad-rendering mrec-cont padd_mrec" width="300" height="250"></p>
+ 
+<p>&#8220;It&#8217;s important that people realise an overdose can occur with very small doses of fentanyl-related substances,&#8221; Dawson said.</p><p>&#8220;The severity of effects will depend on the amount of fentanyl or acetylfentanyl within a particular substance, how much people take and whether they regularly consume opioids.&#8221;</p><p>He added that people who take it alone are even more at risk &#8220;as they have no one around who can call for help.&#8221;</p><p>Anyone who&#8217;s taken acetylfentanyl (accidentally or otherwise) and is experiencing side effects is urged to call 000 for an ambulance.</p> <i>Image:
+Getty Images / UniversalImagesGroup </i><br>
+ 
+</div>

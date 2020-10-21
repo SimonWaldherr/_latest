@@ -1,0 +1,46 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.pedestrian.tv/content/uploads/2020/10/21/brie-larson-chris-pratt-fb.jpg 
+title: > 
+  The Chris Pratt Drama Continues As Folks Ask Why MCU Stars Didn’t Defend Brie Larson Like This 
+description: > 
+  If you can’t keep up with what’s happening in this quick-moving drama (I don’t blame you), Brie Larson is an open advocate for diversity in the film industry – from people on-screen through to its critics.Hell, when the first trailer for Captain Marvel came out Brie Larson copped abuse, from sexists who wanted her to smile more in the preview.Let's all take a moment to appreciate @DonCheadleThe only Marvel Cast member to publicly defend Brie Larson.Where was this energy when Brie Larson was massively harassed for months just for advocating for diversity in the industry?Suddenly Chris Pratt gets some criticism and they all come to his defense? 
+keywords: > 
+  didnt, drama, stars, pratt, defend, continues, mcu, marvel, folks, zendaya, energy, tessa, online, chris, larson, thompson, brie 
+date: 1603275533.0071247 
+--- 
+<div><p>After&#160;<strong>Chris Pratt</strong>&#8216;s Marvel co-stars and pals <strong>Mark Ruffalo</strong> and <strong>Robert Downey Jr&#160;</strong>(and now <strong><a href="https://twitter.com/JamesGunn/status/1318665313454489601?s=20" target="_blank" rel="nofollow noopener noreferrer">James Gunn</a></strong> and <a href="https://twitter.com/zoesaldana/status/1318722737053913088" target="_blank" rel="nofollow noopener noreferrer"><strong>Zoe Saldana</strong></a>) jumped in to <a href="https://www.pedestrian.tv/entertainment/chris-pratt-robert-downey-jr-mark-ruffalo-worst-chris/" target="_blank" rel="nofollow noopener noreferrer">defend him when he was voted as the &#8216;Worst Chris&#8217; of the Hollywood Chrises</a>, many people have taken a very innocently-posted meme to look critically at his behaviour and importantly, question why the hell this kind of support hasn&#8217;t also been extended to women co-stars like <strong>Brie Larson</strong>.</p><p class="brightcove-video-related"></p>
+<p class="bightcove-close-video-cross" alt="Close video"></p>
+<p class="bightcove-close-video-swipe"></p>
+<p class="vjs-playlist-player-container">
+
+</p>
+<p class="brightcove-video-title"></p>
+<p id="ad-slot-mobile-mrec-3220174725" class="ad-slot ad-slot-ad-rendering mrec-cont padd_mrec" width="300" height="250"></p>
+ 
+<p>As the whole Chris Pratt mess unravelled, things turned from everyone poking fun at him for being the one Chris who wouldn&#8217;t be missed from a selection of famous Chrises, into a full online argument drama about his political leanings, his association with the Hillsong Church, and everything else that he could potentially stand for (or not).</p><blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Chris Pratt hoping no one notices his absence here <a href="https://t.co/6SW0A40Kd0">https://t.co/6SW0A40Kd0</a> <a href="https://t.co/K8VkYryzYR">pic.twitter.com/K8VkYryzYR</a></p>
+<p>&#8212; Jonathan Boo-hle (@jm_boehle) <a href="https://twitter.com/jm_boehle/status/1317865966861156352?ref_src=twsrc%5Etfw">October 18, 2020</a></p></blockquote><p></p><p>But as the chatter about Chris Pratt and the drama that has now surrounded him continues, many people are beginning to question: where exactly was all this energy from Hollywood&#8217;s big names before now, when their women co-stars were being severely harassed online by (predominantly) men?</p><p>If you can&#8217;t keep up with what&#8217;s happening in this quick-moving drama (I don&#8217;t blame you), Brie Larson is an open advocate for diversity in the film industry &#8211; from people on-screen through to its critics. Last year she <a href="https://variety.com/2019/film/news/brie-larson-marvel-diversity-representation-1203198196/" target="_blank" rel="nofollow noopener noreferrer">called for the Marvel Cinematic Universe to work on its diversity</a>, which copped her a lot of hatred online from Marvel fans.</p> <p id="ad-slot-out-of-page-mobile-2164576707" class="ad-slot ad-slot-ad-rendering padd_mrec ad-slot-out-of-page ad-slot-out-of-page-mobile"></p>
+ 
+<p>Hell, when the first trailer for&#160;Captain Marvel came out Brie Larson copped abuse, from <a href="https://www.pedestrian.tv/film-tv/captain-marvel-brie-larson-smile-sexism-response/" target="_blank" rel="nofollow noopener noreferrer">sexists who wanted her to smile more in the preview</a>. Literally by-the-book sexism right there.</p> <p id="ad-slot-mobile-mrec-1920425129" class="ad-slot ad-slot-ad-rendering mrec-cont padd_mrec" width="300" height="250"></p>
+ 
+<p>From what can be seen, none of the ~Avengers Assemble~ gang stepped in to defend her, and <a href="https://www.indiewire.com/2019/05/don-cheadle-brie-larson-body-language-expert-criticism-1202130256/" target="_blank" rel="nofollow noopener noreferrer">one of the only male co-stars to say anything was&#160;<strong>Don Cheadle</strong></a>.</p><blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Let's all take a moment to appreciate <a href="https://twitter.com/DonCheadle?ref_src=twsrc%5Etfw">@DonCheadle</a> <br>The only Marvel Cast member to publicly defend Brie Larson. <a href="https://t.co/JqcGoM2EQd">pic.twitter.com/JqcGoM2EQd</a></p>
+<p>&#8212; ????Bruised Wayne???? (@Bruisedwayne69) <a href="https://twitter.com/Bruisedwayne69/status/1318708814070374400?ref_src=twsrc%5Etfw">October 21, 2020</a></p></blockquote><p></p><p>Fans flooded Twitter to point out this alarming lapse in support for the women of Hollywood that Downey Jr and Ruffalo have worked with &#8211; namely Brie,&#160;<strong>Tessa Thompson</strong>, and&#160;<strong>Zendaya</strong> &#8211; who have bared the brunt of online harassment, bullying, and to some extents death threats.</p><blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Where was this energy when Brie Larson was massively harassed for months just for advocating for diversity in the industry? And they all knew about it. Suddenly Chris Pratt gets some criticism and they all come to his defense? The bar is hell. <a href="https://t.co/4mmlfxFkig">pic.twitter.com/4mmlfxFkig</a></p>
+<p>&#8212; ???????????????????? (@itsjustanx) <a href="https://twitter.com/itsjustanx/status/1318679314745929729?ref_src=twsrc%5Etfw">October 20, 2020</a></p></blockquote><p></p><blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Where was this energy when people attacked Tessa Thompson for being casted as valkyrie, where was this energy when Zendaya was attacked for being casted as MJ, where was this energy when Brie Larson was being attacked for speaking up on the lack of diversity in the industry. <a href="https://t.co/CZaAQtkPEc">https://t.co/CZaAQtkPEc</a></p>
+<p>&#8212; &#1611; (@Iesfilm) <a href="https://twitter.com/Iesfilm/status/1318673980702650368?ref_src=twsrc%5Etfw">October 20, 2020</a></p></blockquote><p></p><blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">All these Marvel dudes were REAL quiet when Zendaya, Tessa Thompson, and Brie Larson were getting mercilessly harassed by dudebros, but Chris Pratt gets RIGHTFULLY called out on his bullshit, and they suddenly have a lot to say. </p>
+<p>They can all get in the dumpster with him. <a href="https://t.co/hH1dnyUpno">pic.twitter.com/hH1dnyUpno</a></p>
+<p>&#8212; Steph Evz (@Steph_Evz) <a href="https://twitter.com/Steph_Evz/status/1318697802738794496?ref_src=twsrc%5Etfw">October 20, 2020</a></p></blockquote><p></p><p>And as the sun rises, and the tides move in and out, the Internet has done what it truly does best and turned the big call out into a range of very good memes about defending Brie Larson. Funny tweets for justice? We do love it.</p><blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">the mcu cast when brie larson, zendaya, emily vanvamp, and tessa thompson get harrassed every day for years by racists and sexists vs the mcu cast when lgbt and poc call out chris pratt for being a white supremacist <a href="https://t.co/olFWjIkj2e">pic.twitter.com/olFWjIkj2e</a></p>
+<p>&#8212; leah &#9790; (@spectorcorpse) <a href="https://twitter.com/spectorcorpse/status/1318689374855438344?ref_src=twsrc%5Etfw">October 20, 2020</a></p></blockquote><p></p><blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Defending Brie Larson from misogyny vs defending Chris Pratt's homophobic church <a href="https://t.co/TTqzCtdV2K">pic.twitter.com/TTqzCtdV2K</a></p>
+<p>&#8212; Rhino (@RhinoReally) <a href="https://twitter.com/RhinoReally/status/1318711839388168193?ref_src=twsrc%5Etfw">October 21, 2020</a></p></blockquote><p></p><blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Avengers cast Avengers cast<br>when Brie Larson when people joke<br>is harassed about Chris Pratt<br>for 3 years being Republican <a href="https://t.co/08neKSYA1o">pic.twitter.com/08neKSYA1o</a></p>
+<p>&#8212; Soundwave (@LocalSoundwave) <a href="https://twitter.com/LocalSoundwave/status/1318717062878023682?ref_src=twsrc%5Etfw">October 21, 2020</a></p></blockquote><p></p><p>The drama continues.</p> <i>Image:
+Getty Images / Steve Granitz / Gregg DeGuire </i><br>
+ 
+</div>
