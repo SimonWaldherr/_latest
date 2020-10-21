@@ -1,0 +1,21 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://pagesix.com/wp-content/uploads/sites/3/2020/10/kate-middleton-princess-diana-red-coat.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Kate Middleton channels Princess Diana in red coat 
+description: > 
+  Click to email this to a friend (Opens in new window)Click to share on Twitter (Opens in new window)Click to share on Facebook (Opens in new window)Kate Middleton’s latest look is a royal classic.With its double-breasted, longline silhouette and contrasting black buttons, her scarlet outerwear looked remarkably similar to a Catherine Walker coat her late mother-in-law, Princess Diana, wore in Birmingham back in 1984.Like Diana, the duchess accessorized with classic black pumps — hers are Gianvito Rossi “Piper” heels ($695) — and a ladylike black purse, Grace Han’s “Love Letter” bag ($2,062).It’s hardly the first time the duchess has matched Princess Diana.She’s made a habit of selecting outfits that nod to Diana’s iconic style after giving birth to her children and often wears jewelry and tiaras beloved by the late Princess of Wales — along with her sapphire engagement ring. 
+keywords: > 
+  opens, red, share, late, wore, coat, duchess, project, kate, diana, princess, channels, black, middleton, windowclick 
+date: 1603244384.56477 
+--- 
+<div><p>Click to email this to a friend (Opens in new window)</p><p>Click to share on Twitter (Opens in new window)</p><p>Click to share on Facebook (Opens in new window)</p><p>Kate Middleton&#8217;s latest look is a royal classic.</p>
+<p>The Duchess of Cambridge, 38, stepped out in London with Prince William on Tuesday for the launch of the <a href="https://pagesix.com/2020/05/07/kate-middleton-wears-yellow-raey-dress-to-launch-new-photography-project/">&#8220;Hold Still&#8221; photography project</a>, clad in a long red coat from Alexander McQueen, one of her longtime favorite fashion houses.</p>
+<p>With its double-breasted, longline silhouette and contrasting black buttons, her scarlet outerwear looked remarkably similar to a Catherine Walker coat her late mother-in-law, Princess Diana, wore in Birmingham back in 1984.</p>
+<p>Like Diana, the duchess accessorized with classic black pumps &#8212; hers are <a href="https://www.net-a-porter.com/en-us/shop/product/gianvito-rossi/piper-85-suede-pumps/1202165" target="_blank" rel="nofollow noopener noreferrer">Gianvito Rossi &#8220;Piper&#8221; heels</a> ($695) &#8212; and a ladylike black purse, <a href="https://gracehan.shop/collections/love-letter-collection/products/love-letter-small-top-handle-black" target="_blank" rel="nofollow noopener noreferrer">Grace Han&#8217;s &#8220;Love Letter&#8221; bag</a> ($2,062).</p>
+<p>She also wore her <a href="https://pagesix.com/2020/08/05/kate-middletons-face-mask-is-adorable-and-affordable/">favorite floral face mask</a>, an <a href="https://www.amaiakids.co.uk/products/adult-reusable-cotton-face-mask-pepper-liberty?variant=32480581976146" target="_blank" rel="nofollow noopener noreferrer">Amaia design that retails for under $20</a>.</p>
+ 
+<p>A passion project of the Duchess of Cambridge&#8217;s, &#8220;Hold Still&#8221; features snapshots that capture the state of the UK amid the coronavirus pandemic. Middleton <a href="https://pagesix.com/2020/05/07/kate-middleton-wears-yellow-raey-dress-to-launch-new-photography-project/">announced the project</a> in May, and helped judge the finalists.</p>
+<p>It&#8217;s hardly the first time the duchess has matched Princess Diana. She&#8217;s made a habit of <a href="https://pagesix.com/2018/04/23/kate-middletons-post-baby-look-is-another-tribute-to-princess-diana/">selecting outfits that nod to Diana&#8217;s iconic style</a> after giving birth to her children and often <a href="https://pagesix.com/2019/11/07/kate-middleton-put-a-special-spin-on-princess-dianas-sapphire-earrings/">wears jewelry</a> <a href="https://pagesix.com/2019/12/12/kate-middleton-sparkles-in-princess-dianas-tiara-and-the-queens-necklace/">and tiaras</a> beloved by the late Princess of Wales &#8212; along with her <a href="https://nypost.com/2019/05/09/a-guide-to-the-worlds-most-stunning-gems/">sapphire engagement ring</a>.</p>
+			</div>

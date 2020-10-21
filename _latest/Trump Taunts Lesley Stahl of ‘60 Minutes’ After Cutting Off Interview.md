@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/20/us/politics/20trump-cbs1/20trump-cbs1-facebookJumbo.jpg 
+title: > 
+  Trump Taunts Lesley Stahl of ‘60 Minutes’ After Cutting Off Interview 
+description: > 
+  President Trump abruptly cut off an interview with the “60 Minutes” star Lesley Stahl at the White House on Tuesday and then taunted her on Twitter, posting a short behind-the-scenes video of her at the taping and noting that she had not been wearing a mask in the clip.Mr. Trump then threatened to post his interview with Ms. Stahl ahead of its intended broadcast time on Sunday evening, calling it “FAKE and BIASED.”The spectacle of a president, two weeks from Election Day, picking a fight with the nation’s most popular television news program began on Tuesday after Mr. Trump grew irritated with Ms. Stahl’s questions, according to two people familiar with the circumstances of the taping.One person briefed on what took place said that Mr. Trump had spent more than 45 minutes filming with Ms. Stahl and her CBS News crew, and that the taping had not wrapped up when the president’s aides had expected it to. 
+keywords: > 
+  stahl, trump, president, white, lesley, taping, ms, interview, taunts, wrapped, cutting, 60, mr, minutes 
+date: 1603244346.3806334 
+--- 
+<div><p class="css-158dogj evys1bk0"><a class="css-1g7m0tk" href="https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html" title="">President Trump</a> abruptly cut off an interview with the &#8220;60 Minutes&#8221; star Lesley Stahl at the White House on Tuesday and then taunted her on Twitter, posting a short behind-the-scenes video of her at the taping and noting that she had not been wearing a mask in the clip.</p><p class="css-158dogj evys1bk0">Mr. Trump then threatened to post his interview with Ms. Stahl ahead of its intended broadcast time on Sunday evening, calling it &#8220;<a class="css-1g7m0tk" href="https://twitter.com/realDonaldTrump/status/1318675787973840896" title="" rel="noopener noreferrer" target="_blank">FAKE and BIASED</a>.&#8221;</p><p class="css-158dogj evys1bk0">The spectacle of a president, two weeks from Election Day, picking a fight with the nation&#8217;s most popular television news program began on Tuesday after Mr. Trump grew irritated with Ms. Stahl&#8217;s questions, according to two people familiar with the circumstances of the taping.</p><p class="css-158dogj evys1bk0">One person briefed on what took place said that Mr. Trump had spent more than 45 minutes filming with Ms. Stahl and her CBS News crew, and that the taping had not wrapped up when the president&#8217;s aides had expected it to.</p></div>

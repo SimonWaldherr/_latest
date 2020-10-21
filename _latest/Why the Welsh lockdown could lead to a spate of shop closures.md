@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/fashion/2020/10/20/GettyImages-1228687869-xlarge_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RURf_Wk3V23H2268P_XkPxc.jpg?imwidth=1200 
+title: > 
+  Why the Welsh lockdown could lead to a spate of shop closures 
+description: > 
+  First Minister Mark Drakeford has assured the Welsh population that the “time-limited firebreak” would be “a short, sharp, shock to turn back the clock, slow down the virus and buy us more time”.“We reopened in June and since then I have been working every minute of the day to make up for lost ground,” says Kath Smith, the owner and founder of Cardiff-based boutique Calon Rhiwbeina.“I don't think we’ve contributed to the spike in infection as we’re so careful and always steam clothes in between customers, so I’m not sure why we’re having to close down.But already shops including H&M, Peacocks and Laura Ashley have shut down outlets around the country, and a lockdown like this could make big retailers question whether they should consolidate to areas with higher sales.“At the moment, most of them believe that's London and the area around it.” 
+keywords: > 
+  retail, lockdown, wales, lead, spate, shop, country, brands, closures, weve, welsh, virus, worried, outlets, working 
+date: 1603244393.1321497 
+--- 
+<div><p>First Minister Mark Drakeford has assured the Welsh population that the &#8220;time-limited firebreak&#8221; would be &#8220;a short, sharp, shock to turn back the clock, slow down the virus and buy us more time&#8221;. However, the fashion industry is worried it could be extended into the <a href="https://www.telegraph.co.uk/fashion/news/fashion-sales-wont-return-normal-christmas-2023-say-retail-analysts/">Christmas period</a>, and are asking why clothing stores are being given the same treatment as hospitality when studies suggest that the virus is rarely passed on in a retail environment.</p>
+<p>&#8220;We reopened in June and since then I have been working every minute of the day to make up for lost ground,&#8221; says Kath Smith, the owner and founder of Cardiff-based boutique Calon Rhiwbeina. &#8220;I don't think we&#8217;ve contributed to the spike in infection as we&#8217;re so careful&#160;and always steam clothes in between customers, so I&#8217;m not sure why we&#8217;re having to close down. I understand they&#8217;re trying to make it as uncomplicated as possible, I just hope it&#8217;s a blip as we can&#8217;t cope with too many of these.&#8221;</p>
+<p>While inner-city Cardiff has reported lower footfall on its high streets than usual over the last few months, sales have been robust for brands <a href="https://www.telegraph.co.uk/fashion/brands/primania-returns-primark-must-visit-first-day-shops-reopening/">such as Primark</a> in retail parks around Wales. But already shops including H&amp;M, Peacocks and Laura Ashley have shut down outlets&#160;around the country,&#160;and&#160;a lockdown like this could make big retailers question whether they should consolidate to&#160;areas with higher sales.</p>
+<p>&#8220;At times like this brands with lots of outlets around the country will have the natural inclination to look at places with a positive future and concentrate on them,&#8221; says Andrew Phipps, a retail expert at Cushman &amp; Wakefield. &#8220;At the moment, most of them believe that's London and the area around it.&#8221;</p>
+</div>
