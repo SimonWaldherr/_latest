@@ -1,0 +1,31 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/201021-biden-johnson3.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Biden says Sen. Johnson should be ‘ashamed’ for probe into alleged corruption 
+description: > 
+  “Hunter Biden’s laptop is not part of some Russian disinformation campaign,” DNI John Ratcliffe told Fox News on Monday.The Justice Department agreed with Ratcliffe’s assessment and confirmed that the FBI is now in possession of Hunter Biden’s laptop.Hunter Biden allegedly dropped the laptop off at a Wilmington, Del., computer repair store in April 2019 and never returned to pick it up.In one email sent to Hunter Biden, an adviser on the board of Burisma thanked the son for giving him the “opportunity” to meet his father.The email was sent when Hunter Biden had a lucrative seat on the board and his father was the vice president and in charge of American policy in Ukraine. 
+keywords: > 
+  presidential, probe, laptop, hes, dealings, father, ashamed, sen, hunter, corruption, johnson, nominee, bidens, intelligence, alleged, biden 
+date: 1603287690.3702826 
+--- 
+<div><p>Sign up for our special edition newsletter to get updates on the 2020 presidential election and more</p><p>Democratic presidential nominee Joe Biden said GOP Sen. Ron Johnson, whose committee investigated Hunter Biden&#8217;s business dealings, should be &#8220;ashamed&#8221; for claiming that Biden and his son <a href="https://nypost.com/2020/10/15/emails-reveal-how-hunter-biden-tried-to-cash-in-big-with-chinese-firm/">profited off the former vice president&#8217;s influence</a>.</p>
+<p>During an interview Tuesday on <a href="https://www.wisn.com/article/one-on-one-with-joe-biden/34431537" rel="noopener noreferrer" target="_blank">WISN 12 in Milwaukee</a>, Biden was asked whether there was any legitimacy to a <a href="https://www.hsgac.senate.gov/media/majority-media/-a-scandal-in-and-of-itself-johnson-hits-mainstream-media-for-ignoring-biden-conflicts-of-interest" rel="noopener noreferrer" target="_blank">statement released Monday by Johnson</a> on Senate Homeland Security Committee letterhead, saying the Biden family profited off his name and faulting the media for &#8220;<a href="https://nypost.com/2020/10/18/fcc-staffer-ayatollah-khamenei-can-still-tweet-but-the-post-cant/">suppressing</a>&#8221; the story.</p>
+<p>&#8220;None whatsoever,&#8221; Biden said.</p>
+<p>&#8220;This is the same garbage Rudy Giuliani, Trump&#8217;s henchman. It&#8217;s a last ditch effort in this desperate campaign to smear me and my family,&#8221; he continued.</p>
+<p>The Post <a href="https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/">reported</a> last Wednesday on a trove of emails found on Hunter Biden&#8217;s laptop that show his father was aware of his business dealings in Ukraine and China.</p>
+<p>&#8220;Even the man who served with him on that committee&#8230; The former nominee for the Republican Party, said there&#8217;s no basis to this. And the vast majority of the intelligence people have come out and said, there&#8217;s no basis at all. Ron should be ashamed of himself,&#8221; Biden said.</p>
+<p>Sen. Mitt Romney, who serves on the Homeland Security panel and was the 2012 Republican presidential nominee, in September <a href="https://www.startribune.com/romney-says-biden-probe-not-legitimate-role-of-government/572431922/" rel="noopener noreferrer" target="_blank">criticized Johnson&#8217;s probe</a> into Hunter Biden, saying &#8220;it&#8217;s not the legitimate role of government or Congress &#8230; to be used in an effort to damage political opponents.&#8221;</p>
+ 
+<p>And while some former intelligence community officials have called the emails found on Hunter Biden&#8217;s laptop that connect his father to his business dealings in Ukraine part of a &#8220;Russian disinformation campaign,&#8221; the Justice Department and the director of national intelligence shot down that notion.</p>
+<p>&#8220;Hunter Biden&#8217;s laptop is not part of some Russian disinformation campaign,&#8221; DNI John Ratcliffe <a href="https://nypost.com/2020/10/19/john-ratcliffe-info-on-hunter-biden-laptop-not-russian-disinformation/">told Fox News</a> on Monday.</p>
+<p>The Justice Department <a href="https://nypost.com/2020/10/20/doj-agrees-hunter-biden-emails-are-not-russian-disinformation-report/">agreed</a> with Ratcliffe&#8217;s assessment and confirmed that the FBI is now in possession of Hunter Biden&#8217;s laptop.</p>
+<p>Hunter Biden allegedly dropped the laptop off at a Wilmington, Del., computer repair store in April 2019 and never returned to pick it up.</p>
+<p>In one email sent to Hunter Biden, an adviser on the board of Burisma thanked the son for giving him the &#8220;opportunity&#8221; to meet his father.</p>
+<p>The email was sent when Hunter Biden had a lucrative seat on the board and his father was the vice president and in charge of American policy in Ukraine.</p>
+ 
+<p>In the interview, Biden also said he&#8217;s happy the Commission on Presidential Debates has <a href="https://nypost.com/2020/10/19/commission-will-mute-mics-during-final-debate-between-trump-biden/">decided to mute</a> the microphones of each candidate after the first debate between him and President Trump turned into a chaotic shouting match.</p>
+<p>&#8220;There should be more limitations on us not interrupting one another,&#8221; Biden said. &#8220;And so I hope he&#8217;s going to come prepared to talk about what he&#8217;s for.&#8221;</p>
+<p>Biden added that he expects Trump to launch &#8220;personal attacks,&#8221; &#8220;because he doesn&#8217;t want to talk about why he&#8217;s taking away healthcare at the very time we&#8217;re in the middle of a pandemic, why he has no plan for healthcare, why he hasn&#8217;t provided the money to allow businesses to have the ability to reopen, why he&#8217;s not dealing with unemployment, etc.,&#8221; he said.</p>
+			</div>
