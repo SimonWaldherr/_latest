@@ -1,0 +1,56 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cnnespanol.cnn.com/wp-content/uploads/2020/10/rusia-pruebas-misil-propulsión-nuclear.jpg?quality=100&strip=info 
+title: > 
+  Rusia se prepara para reanudar pruebas de misil de propulsión nuclear 
+description: > 
+  Rusia pareció pausar las pruebas del misil después de 2018, cuando desmanteló el sitio de lanzamiento.Antecedentes de las pruebas del misil de crucero de propulsión nuclear de RusiaRusia realizó al menos un vuelo de prueba del misil de crucero de propulsión nuclear desde el mismo sitio cerca del Círculo Polar Ártico en noviembre de 2017.Y el martes, el Ministerio de Defensa de Rusia publicó un video del lanzamiento del misil crucero Oniks realizado desde una base militar en el Ártico.Washington y Moscú trabajan para extender el tratado New STARTLa evidencia de que Rusia puede estar preparándose para reanudar las pruebas de su misil de crucero de propulsión nuclear se produce en momentos en que Washington y Moscú trabajan para extender el tratado New START.Rusia ha declarado anteriormente que su misil de crucero de propulsión nuclear no está cubierto por el tratado New START. 
+keywords: > 
+  se, crucero, misil, del, y, reanudar, en, las, el, nuclear, que, pruebas, para, propulsión, rusia, prepara 
+date: 1603248219.3503516 
+--- 
+<div><p class="share follow flush-left invisible">
+	</p>
+																	
+					<img class="image" src="https://cnnespanol.cnn.com/wp-content/plugins/lazy-load-0.7/images/1x1.trans.gif" alt="rusia-pruebas-misil-propulsio&#769;n-nuclear"><img class="image" src="https://cnnespanol.cnn.com/wp-content/uploads/2020/10/rusia-pruebas-misil-propulsio%CC%81n-nuclear.jpg?quality=100&amp;strip=info&amp;w=940&amp;h=530&amp;crop=1" alt="rusia-pruebas-misil-propulsio&#769;n-nuclear">		
+			
+									<p><strong>(CNN) &#8211;-</strong> Nuevas im&#225;genes de sat&#233;lite obtenidas por CNN indican que Rusia se est&#225; preparando para reanudar los vuelos de prueba de su misil de crucero de propulsi&#243;n nuclear en un sitio de lanzamiento previamente desmantelado cerca del C&#237;rculo Polar &#193;rtico, seg&#250;n expertos que han analizado las fotos.</p>
+<p>Las im&#225;genes, capturadas por Planet Labs en septiembre, muestran altos niveles de actividad en un sitio conocido como Pankovo. Este sitio previamente fue utilizado por Rusia para probar su misil de crucero de propulsi&#243;n nuclear Burevestnik, seg&#250;n Michael Duitsman y Jeffrey Lewis, investigadores del Instituto Middlebury de Estudios Internacionales.</p>
+<p>Rusia pareci&#243; pausar las pruebas del misil despu&#233;s de 2018, cuando desmantel&#243; el sitio de lanzamiento. Pero &#171;las nuevas fotograf&#237;as satelitales indican que la pausa termin&#243;&#187;, agregaron los investigadores.</p><p id="ad_nat_btf_01" class="cnn_adtag cnn_adtag--dfp"></p><p><img class="alignnone size-full wp-image-907819" src="https://cnnespanol.cnn.com/wp-content/plugins/lazy-load-0.7/images/1x1.trans.gif" alt="rusia-prueba-misil-nuclear-dos" width="1024" height="576"><img class="alignnone size-full wp-image-907819" src="https://cnnespanol.cnn.com/wp-content/uploads/2020/10/rusia-prueba-misil-nuclear-dos.jpg?quality=100&amp;strip=info" alt="rusia-prueba-misil-nuclear-dos" width="1024" height="576"></p>
+<p>&#171;La actividad y la nueva construcci&#243;n son consistentes con la reanudaci&#243;n de los vuelos de prueba del misil de crucero de propulsi&#243;n nuclear Burevestnik&#187;, escribieron Lewis y Duitsman en un nuevo informe. Se&#241;alaron que las im&#225;genes muestran que Rusia ha reconstruido la plataforma de lanzamiento del sitio. Y revelan &#171;grandes cantidad de contenedores en dos &#225;reas de apoyo, incluido el probable edificio de control de misiles&#187;.</p>
+<h2>Antecedentes de las pruebas del misil de crucero de propulsi&#243;n nuclear de Rusia</h2>
+<p>Rusia realiz&#243; al menos un vuelo de prueba del misil de crucero de propulsi&#243;n nuclear desde el mismo sitio cerca del C&#237;rculo Polar &#193;rtico en noviembre de 2017. Seg&#250;n reportes, llev&#243; a cabo muchas otras pruebas en los meses siguientes, aunque ninguna se consider&#243; exitosa, seg&#250;n Lewis y Duitsman.</p><p class="ad-heading-text">publicidad</p><p id="ad_out_vid_01" class="ad"></p><p>En marzo de 2018, el presidente ruso, Vladimir Putin, public&#243; un video de una prueba de misiles de crucero de propulsi&#243;n nuclear. Esto permiti&#243; a investigadores de c&#243;digo abierto, incluidos analistas del Instituto Middlebury, identificar la ubicaci&#243;n, agregaron.</p>
+<p>Dos funcionarios estadounidenses le dijeron a CNN que saben que Rusia se ha estado preparando para probar misiles como parte de su programa de armas avanzadas.</p>
+<p><img class="alignnone size-full wp-image-907820" src="https://cnnespanol.cnn.com/wp-content/plugins/lazy-load-0.7/images/1x1.trans.gif" alt="rusia-prueba-misil-nuclear-tres" width="1024" height="576"><img class="alignnone size-full wp-image-907820" src="https://cnnespanol.cnn.com/wp-content/uploads/2020/10/rusia-prueba-misil-nuclear-tres.jpg?quality=100&amp;strip=info" alt="rusia-prueba-misil-nuclear-tres" width="1024" height="576"></p>
+<p>A principios de este mes, el Kremlin dijo que <a href="http://en.kremlin.ru/events/president/news/64169">hab&#237;a probado con &#233;xito un misil de crucero hipers&#243;nico</a> desde un barco naval en el Mar Blanco. Y el martes, el Ministerio de Defensa de Rusia <a href="https://business.facebook.com/watch/?v=348845379716177">public&#243; un video</a> del lanzamiento del misil crucero Oniks realizado desde una base militar en el &#193;rtico.</p>
+<p>El Ministerio de Defensa no respondi&#243; a la solicitud de CNN de comentarios sobre si se avecina una prueba del misil Burevestnik.</p>
+<h2>Washington y Mosc&#250; trabajan para extender el tratado New START</h2>
+<p id="fave-video1" class="first"></p>
+					 
+			<p>La evidencia de que Rusia puede estar prepar&#225;ndose para reanudar las pruebas de su misil de crucero de propulsi&#243;n nuclear se produce en momentos en que Washington y Mosc&#250; trabajan para extender el tratado New START. Este es un acuerdo clave de control de armas que expirar&#225; en los pr&#243;ximos meses.</p>
+<p>El principal negociador estadounidense, Marshall Billingslea, <a href="https://twitter.com/USArmsControl/status/1317200300990750725">sugiri&#243; en un tuit el viernes</a> que las conversaciones entre los dos pa&#237;ses hab&#237;an llegado a un punto muerto.</p>
+<p>Pero el martes, el Ministerio de Relaciones Exteriores de Rusia <a href="https://edition.cnn.com/2020/10/20/europe/russia-nuclear-arsenal-us-treaty-intl/index.html">dijo</a> que est&#225; dispuesto a aceptar congelar sus arsenales nucleares para extender el New START si Estados Unidos no plantea ning&#250;n otro requisito. Se trata de una oferta que el portavoz del Departamento de Estado acogi&#243; con urgencia. Al respecto dijo que Estados Unidos est&#225; &#171;preparado para reunirse de inmediato para concretar un acuerdo verificable&#187;.</p>
+<p><a href="https://cnnespanol.cnn.com/2020/10/12/gobierno-de-trump-renueva-su-impulso-para-un-acuerdo-de-armas-nucleares-con-rusia-antes-de-las-elecciones/">Trump ha estado instando a su equipo de Seguridad Nacional a asegurar un acuerdo nuclear</a> con Rusia antes de las elecciones de noviembre, dijeron a CNN fuentes familiarizadas con los esfuerzos. Inicialmente hab&#237;a querido incluir a China en el acuerdo, pero China ha rechazado repetidamente participar en cualquier discusi&#243;n.</p>
+<h2>&#191;Qu&#233; podr&#237;a suceder sin un tratado?</h2>
+<p>Rusia ha declarado anteriormente que su misil de crucero de propulsi&#243;n nuclear no est&#225; cubierto por el tratado New START. No obstante, no extender el acuerdo podr&#237;a llevar al surgimiento de una carrera armamentista entre los dos pa&#237;ses, seg&#250;n Lewis.</p>
+<p>&#171;El marco de control de armas que asegur&#243; el periodo posterior a la Guerra Fr&#237;a se ha desintegrado por completo. Si el tratado New START expira en unos meses, no habr&#225; l&#237;mites para las fuerzas nucleares estadounidenses y rusas por primera vez en 50 a&#241;os. En su lugar hay una floreciente carrera armamentista a medida que Rusia desarrolla un arma apocal&#237;ptica tras otra para derrotar las defensas antimisiles de Estados Unidos&#187;, dijo a CNN.</p>
+<p>&#171;Estados Unidos y Rusia parecen estar tropezando con una nueva carrera armamentista. Esta es una de varias armas peligrosas y desestabilizadoras como salidas de ciencia ficci&#243;n que Rusia est&#225; desarrollando para derrotar las defensas de misiles de Estados Unidos&#187;, agreg&#243; Lewis, en referencia al misil de crucero de propulsi&#243;n nuclear.</p>
+<p>Por ahora, sin embargo, el desarrollo de misiles de crucero de propulsi&#243;n nuclear es una forma en que Rusia puede eludir los t&#233;rminos del New START. Y adem&#225;s lograr un alcance intercontinental que puede representar un desaf&#237;o para las defensas nacionales de misiles, seg&#250;n Vipin Narang, experto en proliferaci&#243;n nuclear y profesor asociado en el MIT.</p>
+<h2>Qu&#233; implica el misil de crucero de propulsi&#243;n nuclear de Rusia</h2>
+<p>&#171;Un misil de crucero de propulsi&#243;n nuclear da un alcance intergal&#225;ctico a un misil con capacidad nuclear, que evade radares y de vuelo bajo, que puede representar un desaf&#237;o para las defensas nacionales de misiles&#187;, dijo a CNN. Y agreg&#243; que las indicaciones de que Rusia podr&#237;a estar preparando otra prueba muestran &#171;lo mucho que nuestras defensas antimisiles impulsan sus desarrollos y el miedo que les tienen, no hoy, sino ma&#241;ana&#187;.</p>
+<p>Tambi&#233;n son muy controvertidos &#171;porque es una locura poner un reactor nuclear sin blindaje en un misil para darle energ&#237;a&#187;, agreg&#243; Narang. Y se&#241;al&#243; que las consecuencias de probar este tipo de armas pueden ser catastr&#243;ficas si algo sale mal.</p>
+<p>Ese pareci&#243; ser el caso en 2019 cuando, <a href="https://www.cnn.com/2019/08/10/europe/russia-jet-propulsion-blast-radiation-intl/index.html">informaron medios estatales rusos</a>, cinco trabajadores de una agencia nuclear murieron en una explosi&#243;n en un sitio de pruebas militar en el norte de Rusia.</p>
+<p>La explosi&#243;n fue detectada por estaciones s&#237;smicas. Y ocurri&#243; durante pruebas en un sistema de propulsi&#243;n l&#237;quida que involucraba is&#243;topos, dijo el Ministerio de Defensa ruso. En otras palabras, la prueba probablemente tuvo alguna dimensi&#243;n nuclear. Y el secretismo del Gobierno de Putin solo ha alimentado a&#250;n m&#225;s las especulaciones sobre la causa del accidente.</p>
+<p>En ese momento, Lewis le dijo a CNN que las im&#225;genes de sat&#233;lite suger&#237;an que el incidente podr&#237;a haber estado relacionado con las pruebas de un misil de crucero de propulsi&#243;n nuclear.</p>
+<p>Ryan Browne, Kylie Atwood y Mary Ilyushina de CNN contribuyeron a este informe
+									
+									
+
+									
+									
+	</p> 
+
+									
+									<p class="OUTBRAIN"></p>
+											</div>

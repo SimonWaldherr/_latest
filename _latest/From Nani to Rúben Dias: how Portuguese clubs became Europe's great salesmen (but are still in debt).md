@@ -1,0 +1,21 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/football/2020/10/20/TELEMMGLPICT000242200776_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg?impolicy=logo-overlay 
+title: > 
+  From Nani to Rúben Dias: how Portuguese clubs became Europe's great salesmen (but are still in debt) 
+description: > 
+  Even in the financially dysfunctional landscape of European football, Manchester City versus Porto on Wednesday is as nonsensical as the Champions League gets.In that same period, City have splurged way beyond their incomings 14 seasons out of 16.Benfica and Porto, previously kings of Europe three times between them, now reduced to feeding the nouveau riche royalty of the modern game.The pathway has been set in stone since the mid 2000s when Nani left Sporting Lisbon for Manchester United, increasing his wages 17-fold.City's Bernardo Silva had played for Benfica just once before he was shipped off to Monaco in 2014. 
+keywords: > 
+  porto, great, debt, million, league, benfica, wolves, clubs, way, salesmen, dias, rúben, city, nani, europes, silva, manchester, talent, portuguese 
+date: 1603248293.5008588 
+--- 
+<div><p>Even in the&#160;financially dysfunctional landscape of European football, Manchester City versus Porto on Wednesday is as nonsensical as the Champions League gets.</p>
+<p>Since Jose Mourinho held aloft the trophy in 2004, Porto have spent less than they've earned in player trading in all but one campaign. In that same period, City have splurged way beyond their incomings 14 seasons out of 16. Yet, somehow, it is the lavish-spending City, more than &#163;1 billion down on net transfers, who have enjoyed five straight seasons in overall operating profit.</p>
+<p>Porto, meanwhile, lick their wounds from &#163;40 million losses over six months even before Covid. The Portuguese football model has been punching above its weight at every level for years. Broadcasting deals for the nation are worth &#163;250 million compared with &#163;3.5 billion in the Premier League, yet the 2016 European Championship winners appear to have produced yet another golden generation.</p>
+<p>The Premier League is again the main beneficiary this year, with Bruno Fernandes,&#160;most notably <a href="https://www.telegraph.co.uk/football/2020/06/01/manchester-united-can-become-threatening-playing-paul-pogba/">transforming Manchester United's midfield</a> since <a href="https://www.telegraph.co.uk/football/2020/05/06/bruno-fernandes-transfer-fifa-investigate-claims-manchester/">his arrival from Sporting Lisbon</a>.</p>
+<p>Fernandes was in part developed in Italy, but since then the lion's share of &#163;150 million-worth of talent developed by Portugal's two dominant sides, Porto and Benfica, has landed in England.</p>
+<p>Wednesday's City side is likely to include the &#163;61.2 million defender R&#250;ben Dias, who was signed from Benfica, with the Argentine centre-back Nicolas Otamendi moving the other way for &#163;13.7 million. Debt-ridden Porto have been more eager to cash in, selling the 18-year-old F&#225;bio Silva, after just 12 league appearances last season, to Wolves for &#163;35 million.</p>
+<p>Pandemic-defying prices have been secured, but there remains a sense in Portugal that this talent hothouse for Europe's elite is a raw deal for the Primeira Liga. Benfica and Porto, previously kings of Europe three times between them, now reduced to feeding the nouveau riche royalty of the modern game.</p>
+<p>The pathway has been set in stone since the mid 2000s when Nani left Sporting Lisbon for Manchester United, increasing his wages 17-fold. Since then clubs have become increasingly willing to swoop on reputation alone. City's Bernardo Silva had played for Benfica just once before he was shipped off to Monaco in 2014. Six years on, the relatively unproven Fabio Silva is the latest teenager on the production line of Jorge Mendes, the super agent whose first ever client happened to be the Wolves head coach, Nuno Esp&#237;rito Santo.</p>
+</div>

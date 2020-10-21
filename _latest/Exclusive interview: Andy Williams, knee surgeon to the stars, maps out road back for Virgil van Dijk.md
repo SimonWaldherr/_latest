@@ -1,0 +1,19 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/football/2020/10/20/TELEMMGLPICT000215263782_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay 
+title: > 
+  Exclusive interview: Andy Williams, knee surgeon to the stars, maps out road back for Virgil van Dijk 
+description: > 
+  “Most sports people are generally upbeat and positive which makes them a joy to work with.They always think they can beat nature so if you tell them ‘six months’ they reckon they will be back in three."One club doctor said, ‘Andy, the problem with you is that you are so honest with them’.They are brave people but if they are missing the game, missing the camaraderie, some of them do get depressed.I tell the players, ‘You are going to get quite depressed, you will think you have lost it. 
+keywords: > 
+  return, second, road, exclusive, right, months, interview, knee, williams, virgil, maps, work, think, tell, van, injury, surgeon, stars, acl 
+date: 1603248293.857667 
+--- 
+<div><p>Ings recovered, as sportspeople who use Williams tend to do. There is, he admits, an element of psychology, to his work. &#8220;Most sports people are generally upbeat and positive which makes them a joy to work with. The problem is they are unrealistic. They always think they can beat nature so if you tell them &#8216;six months&#8217; they reckon they will be back in three.</p>
+<p>"One club doctor said, &#8216;Andy, the problem with you is that you are so honest with them&#8217;. I saw a player with his agent and the agent thought I was not confident enough because I said there was a risk of re-breaking the new ACL. There is this sort of bravado in football but you have to be straight.</p>
+<p>&#8220;The other thing is to realise that they are very sad, worried and emotional. A lot of the guys are in a foreign country. They are brave people but if they are missing the game, missing the camaraderie, some of them do get depressed. There are one or two footballers who have significant mental issues and one I know took an overdose three weeks after his ACL operation. He recovered and became a Premier League footballer, highly intelligent, but there was something in him that made him very vulnerable.&#8221;</p>
+<p><a href="https://www.telegraph.co.uk/football/2019/05/03/year-ox-inside-story-alex-oxlade-chamberlains-extraordinary/">One of Williams&#8217; most famous cases is that of Oxlade-Chamberlain</a>, who suffered multiple injuries in a Champions League semi-final in April 2018. &#8220;He blew his ACL and the outside of his knee &#8211; it was horrendous. I am always honest so I said to him, &#8216;Look, without question this could be career-threatening. But I have been doing this a very long time and my return to play record for this injury is 90 per cent at the same level and the average time is 13 months out.&#8217; It was a remarkable case but he&#8217;s showing signs that he will get back to a full return. He went through hell and back. He&#8217;s got balls."</p>
+<p>Another aspect of managing expectations for his clients comes with explaining how long it will take them to regain the form and fitness at which they were operating before injury struck. "With a standard ACL they improve for 18 months to two years. They might be back on the pitch in eight months but they are not right; they are slow; they haven&#8217;t got that spark. But second season back they can. I tell the players, &#8216;You are going to get quite depressed, you will think you have lost it. You are back but you won&#8217;t be right until the second season&#8217;."</p>
+<p><strong>Oxlade-Chamberlain's knee injury explained</strong></p>
+</div>

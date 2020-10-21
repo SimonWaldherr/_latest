@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/football/2020/10/20/TELEMMGLPICT000240246766_trans_NvBQzQNjv4BqaRL1kC4G7DT9ZsZm6Pe3PUPXbRlaI4_qh_dM2Z5d688.jpeg?impolicy=logo-overlay 
+title: > 
+  Top English clubs must beware of an expanding European game - it could come at the Premier League's expense 
+description: > 
+  Or are the reports of a thaw between Fifa president Infantino and his counterpart Aleksander Ceferin accurate?In which case, the theory is that Fifa would grant Ceferin a greater share of the match-calendar post 2024 for an expanded Champions League in return for an expanded biennial Fifa Club World Cup.That is the warning the top English clubs must heed, however bad it gets for them with fans locked out.Whatever broadcast deal an expanded European super league strikes it will ultimately come at a cost to the Premier League.All attempts to expand the Champions League – either by Uefa or Fifa – are, at heart, an attempt by covetous rivals to narrow the gap on the Premier League. 
+keywords: > 
+  sky, leagues, game, expanded, league, uefa, fifa, clubs, champions, expense, european, domestic, reported, beware, president, english, world, expanding, come, premier 
+date: 1603248294.3573148 
+--- 
+<div><p>Certainly change is coming, although all parties involved &#8211; including Fifa &#8211; stopped short on Tuesday of saying whether that change was the new Fifa initiative reported by Sky News or a Champions League beefed up under Uefa&#8217;s aegis, <a href="https://www.telegraph.co.uk/football/2020/10/19/exclusive-uefa-ready-consider-expanding-champions-league-36/">as reported by Telegraph Sport</a>. Formal talks are due to begin soon. There are already live negotiations on the revenue distribution for the 2021-2024 Uefa rights cycle with clubs keen to cut the solidarity payments to domestic leagues &#8211; currently around six to seven per cent.</p>
+<p>What is the Champions League&#8217;s future? Is it, as per Sky News, the Fifa takeover? Or are the reports of a thaw between Fifa president Infantino and his counterpart Aleksander Ceferin accurate? In which case, the theory is that Fifa would grant Ceferin a greater share of the match-calendar post 2024 for an expanded Champions League in return for an expanded biennial Fifa Club World Cup.</p>
+<p>Beware the hand of Florentino Perez, the Real Madrid president who runs the club as if he owns it. The Spanish champions and their old La Liga duopoly partner Barcelona are facing a dire financial shortfall built up over years of overspending and now exacerbated by Covid. Having taken all that they can from their domestic game they will do what it takes, along with the likes of Juventus chairman Andrea Agnelli, to extract more value from European competitions.</p>
+<p>That is the warning the top English clubs must heed, however bad it gets for them with fans locked out. Whatever broadcast deal an expanded European super league strikes it will ultimately come at a cost to the Premier League. The English top-flight remains the most attractive in the world to broadcasters. It enjoys the biggest domestic and overseas television deals as a result. All attempts to expand the Champions League &#8211; either by Uefa or Fifa &#8211; are, at heart, an attempt by covetous rivals to narrow the gap on the Premier League. &#160;</p>
+</div>

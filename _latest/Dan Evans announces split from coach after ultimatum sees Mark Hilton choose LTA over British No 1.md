@@ -1,0 +1,22 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/tennis/2020/10/20/TELEMMGLPICT000239381660_trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFNnSTnP2MdInW5qSl1TD3U.jpeg?impolicy=logo-overlay 
+title: > 
+  Dan Evans announces split from coach after ultimatum sees Mark Hilton choose LTA over British No 1 
+description: > 
+  Unlike any other national federation in the world, the LTA employ coaches who are then “seconded” – in a word beloved of Timson – to the leading players.It seems that Evans was unhappy with this halfway house, preferring to run his business independently of the LTA.But when presented with the ultimatum, Hilton plumped for the safer option of a steady salary rather than the up and downs of coaching on the tour.Hilton and Evans have been close for years, having first met when a teenage Evans was training at the Nottingham Tennis Centre.“The job which he will go back into with the LTA is maybe not so stressful. 
+keywords: > 
+  split, coach, unhappy, hilton, ultimatum, timson, mark, world, choose, maybe, tennis, sees, evans, dan, lta, touring 
+date: 1603248292.3442645 
+--- 
+<div><p>British No 1 Dan Evans is hunting for a new coach after giving the incumbent &#8211; former British No 3 Mark Hilton &#8211; an ultimatum: hand in his role at the Lawn Tennis Association and commit to the touring lifestyle in earnest, or return to the performance team at the National Tennis Centre in west London.</p>
+<p>The situation arose because of a unique arrangement set up by the recently-departed LTA performance director Simon Timson (whose successor Michael Bourne himself arrived in Roehampton at the start of this week). Unlike any other national federation in the world, the LTA employ coaches who are then &#8220;seconded&#8221; &#8211; in a word beloved of Timson &#8211; to the leading players.</p>
+<p>It seems that Evans was unhappy with this halfway house, preferring to run his business independently of the LTA. But when presented with the ultimatum, Hilton plumped for the safer option of a steady salary rather than the up and downs of coaching on the tour.</p>
+<p>One might question whether it is right for the LTA to become involved in player-coach relations. Certainly there are plenty of other coaches, outside the system, who are unhappy about the safety nets provided to the likes of Jeremy Bates (who works with Katie Boulter), Biljana Veselinovic (Harriet Dart) and Alex Lisiecki (Jay Clarke).</p>
+<p>Once again, the situation speaks to the critical comments made by Heather Watson in Paris last month &#8211; when she suggested that &#8220;more players need to get help rather than just helping your selected players... and money should be spread around so there&#8217;s more competition for everyone.&#8221;</p>
+<p>Speaking to reporters after his first-round win over Salvatore Caruso in Antwerp, Evans said that he is already in conversation with a possible replacement for Hilton &#8211; the experienced Australian Chris Johnstone, who has worked with former world No 6 Wayne Ferreira among many others &#8211; and hopes to team up with Johnstone for a trial period in Australia in January.</p>
+<p>Hilton and Evans have been close for years, having first met when a teenage Evans was training at the Nottingham Tennis Centre. They began touring together in 2016, only for Evans&#8217;&#160;career to be interrupted by a 12-month ban for recreational cocaine use, but came together again when the ban had elapsed. As a 39 year-old with a strong fitness ethic, Hilton still hits well enough to be a satisfactory sparring partner on the practice court.</p>
+<p>&#8220;I put him in a difficult position asking him to do that,&#8221; said Evans, in reference to his request that Hilton give up his safety net with the LTA. &#8220;His answer was simply 'No', and listen, that is perfectly fine.</p>
+<p>&#8220;He has family, he is married,&#8221; added Evans. &#8220;The job which he will go back into with the LTA is maybe not so stressful. It&#8217;s a bit less travelling and that&#8217;s maybe what he wanted to do. There&#8217;s a good deal of security there working for the governing body and maybe a few months down the line he thought he might have got sacked. It can happen, you know.&#8221;</p>
+</div>

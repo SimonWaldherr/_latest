@@ -1,0 +1,19 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/rugby-union/2020/10/20/TELEMMGLPICT000179794163_trans_NvBQzQNjv4Bq0Z2m9fTZlPCaE9lzDAtkDoP1V2Nq-BajaHJs8sx_LWg.jpeg?impolicy=logo-overlay 
+title: > 
+  Owen Farrell 'working on tackle technique', reveals Eddie Jones, as he names fresh faces in England squad to take on Barbarians 
+description: > 
+  England head coach Eddie Jones says that captain Owen Farrell has been working on his technique after serving a five-match suspension for a high tackle.Farrell was shown a red card for his swinging clothesline on teenager Charlie Atkinson during Saracens’ Premiership match against Wasps on September 9.Playing under Jones for England, Farrell was lucky to escape sanction for high tackles on South Africa centre André Esterhuizen and Australia lock Izack Rodda in the 2018 autumn internationals.“He’s always working on his tackle technique,” Jones said.Full-back Elliot Daly will not face his club colleagues after withdrawing from training with what Jones described as a “bump on his leg”. 
+keywords: > 
+  hes, working, tackle, farrell, names, reveals, owen, fresh, players, captain, jones, england, technique, squad, high 
+date: 1603248292.508315 
+--- 
+<div><p>England head coach Eddie Jones says that captain Owen Farrell has been working on his technique after serving a five-match suspension for a high tackle.&#160;</p>
+<p>Farrell was shown a red card for his swinging clothesline on teenager Charlie Atkinson during Saracens&#8217; Premiership match against Wasps on September 9. That <a href="https://www.telegraph.co.uk/rugby-union/2020/09/08/owen-farrell-free-captain-england-autumn-internationals-five/">ban ruled Farrell out of the rest of the domestic season</a>, meaning he has only played 141 minutes of competitive rugby since March heading into England&#8217;s autumn campaign,&#160;beginning with the uncapped fixture against the Barbarians on Sunday.</p>
+<p>Jones, who appeared as a character witness at Farrell&#8217;s disciplinary hearing, was keen to put the incident in the past but has reminded him of his responsibilities as captain. &#8220;Owen and I have ongoing conversations,&#8221; Jones said. &#8220;There&#8217;s not a day where we don&#8217;t talk, or text each other. And now he&#8217;s in camp, it&#8217;s face-to-face. He&#8217;s aware of his responsibilities as England captain &#8211; he made a mistake in a game; we&#8217;ve moved on from that and now his job&#8217;s to be the best England captain he can be and that&#8217;s what he&#8217;s striving to do.&#8221;</p>
+<p>While the Atkinson high tackle represented the first red card of Farrell&#8217;s career, it is far from the first time that his tackle technique has come under the microscope. Playing under Jones for England, Farrell was lucky to escape sanction for high tackles on South Africa centre Andr&#233; Esterhuizen and Australia lock Izack Rodda in the 2018 autumn internationals.</p>
+<p>&#8220;He&#8217;s always working on his tackle technique,&#8221; Jones said. &#8220;I went to the gym this morning and I was walking through before we were going to catch up, he was doing some extra work with John Clarke. That&#8217;s a constant work-on for not only Owen, but a lot of our players. The laws of the high tackle have become increasingly tighter, which is for the welfare of the players and all of our players are conscious of their responsibility.&#8221;</p>
+<p><a href="https://www.telegraph.co.uk/rugby-union/2020/10/20/england-squad-announcement-live-latest-updates-eddie-jones-reveals/">Jones has named a 32-man training squad</a> to face a Barbarians team mainly consisting of Saracens players. Full-back Elliot Daly will not face his club colleagues after withdrawing from training with what Jones described as a &#8220;bump on his leg&#8221;.</p>
+</div>
