@@ -1,0 +1,26 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2017/06/gettyimages-681666984.jpg?w=600 
+title: > 
+  Amazon’s Whole Foods now offers one-hour pickup to Prime members at all locations – TechCrunch 
+description: > 
+  Amazon is now offering Prime members one-hour grocery pickup at all Whole Foods Market locations across the U.S., the company announced this morning.Target in August also expanded grocery pickup services nationwide, then reaching nearly 85% of its U.S. locations, ahead of its planned schedule.Meanwhile, one report released this summer said Instacart had claimed over half of the U.S. online grocery market.The retailer, however, believes the online grocery market is still nascent and it has time to catch up to rivals.Amazon today noted than more than 40% of its Whole Foods Market pickup orders every month are from customers trying the service for the first time. 
+keywords: > 
+  techcrunch, pickup, grocery, prime, members, online, amazons, offers, locations, services, orders, amazon, market, foods, walmart, onehour 
+date: 1603295726.4951036 
+--- 
+<div><p id="speakable-summary">Amazon is now offering Prime members one-hour grocery pickup at all Whole Foods Market locations across the U.S., the company announced this morning. Prime members can use the Amazon app or website to place orders from the Whole Foods Market tab to shop, then select their one-hour pickup window at checkout on orders of $35 or more.</p>
+<p>Before heading to the Whole Foods location, customers can use the Amazon app to let staff know the they&#8217;re on their way. Upon arrival, Amazon says the majority of customers will only have to wait one minute to receive their orders &#8212; a daunting commitment that other online retailers can struggle to meet.</p>
+<p>The expansion is meant to help Amazon better compete with online grocery rivals, particularly Walmart, Target and Instacart. Walmart, for example, saw its<a href="https://techcrunch.com/2020/08/18/pandemic-helped-drive-walmart-e-commerce-sales-up-97-in-second-quarter/"> e-commerce operations, partially driven by online grocery, grow 97% in Q2</a> compared with the industry&#8217;s <a href="https://www.forbes.com/sites/shelleykohan/2020/08/19/walmarts-e-commerce-grows-97-compared-to-industrys-27/#4468370b28ca">27% growth</a>. It also attributed the jump to COVID-19 impacts, including the release of government stimulus checks.</p><p class="piano-inline-promo"></p>
+<p>Target in August<a href="https://techcrunch.com/2020/08/20/target-grocery-pickup-service-expands-nationwide/"> also expanded grocery pickup services nationwide</a>, then reaching nearly 85% of its U.S. locations, ahead of its planned schedule. Online order pickup, including through its Drive Up and delivery services, accounted for the majority of Target&#8217;s digital growth in its last quarter, as well, with curbside pickup growing more than 734%.</p>
+<p>Meanwhile, one report released this summer said Instacart had&#160;<a href="https://www.grocerydive.com/news/instacart-claims-more-than-half-of-online-grocery-market/579509/">claimed</a> over half of the U.S. online grocery market. (Other reports, however,<a href="https://www.supermarketnews.com/online-retail/study-walmart-surpasses-amazon-online-grocery-share"> put Walmart ahead of Amazon</a> and all other Instacart-like delivery services.)</p>
+<p>Amazon&#8217;s grocery strategy, meanwhile, remains somewhat disjointed.</p>
+<p>It&#8217;s operating two online services &#8212; Whole Foods, which can be shopped via Amazon.com, and Amazon Fresh. It also recently launched Whole Foods locations that <a href="https://techcrunch.com/2020/09/03/that-whole-foods-is-an-amazon-warehouse-get-used-to-it/">serve as grocery warehouses,</a> and <a href="https://techcrunch.com/2020/08/27/amazon-opens-its-first-amazon-fresh-physical-grocery-store-in-la/">opened</a> its first Amazon Fresh physical store in August. Earlier this year, it opened <a href="https://techcrunch.com/2020/02/25/amazon-opens-its-first-cashierless-grocery-store/">an Amazon Go Grocery store</a>, featuring its cashierless technology, too.</p>
+<p>For consumers, the growing number of competing grocery brands from Amazon can be confusing.</p>
+<p>The retailer, however, believes the online grocery market is still nascent and it has time to catch up to rivals.</p>
+<p>Amazon today noted than more than 40% of its Whole Foods Market pickup orders every month are from customers trying the service for the first time. It also doesn&#8217;t think the surge of online grocery shopping retailers are seeing now during the pandemic will decline anytime soon. Like many industries, the pandemic simply accelerated consumer adoption trends that were already growing.</p>
+<p>&#8220;According to recent data from Global Data Research, almost 68 percent of consumers say they will continue to use curbside pickup even when the pandemic has subsided,&#8221; Amazon said in its announcement.</p>
+<p>In addition to pickup, Prime members in over 2,000 cities and towns can also order free, two-hour delivery of over 170,000 items from Amazon Fresh and Whole Foods Market on orders of $35 or more, Amazon also noted.</p>
+<p>&#160;</p>
+			</div>
