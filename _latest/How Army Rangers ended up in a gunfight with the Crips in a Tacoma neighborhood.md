@@ -1,0 +1,34 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8dc0ea9e9fe4001900a1cf?width=1200&format=jpeg 
+title: > 
+  How Army Rangers ended up in a gunfight with the Crips in a Tacoma neighborhood 
+description: > 
+  Bill Foulk, an Army Ranger at Fort Lewis, Washington, bought a house in Tacoma in 1989, he wanted to protect what he saw as an investment property.The city was a hub for gang activity at the time, and Foulk's efforts to clean up his neighborhood led him, and some fellow Army Rangers, into a shootout with members of the Crips street gang.Bill Foulk was an Army Ranger at Fort Lewis, Washington, when he purchased a cheap house in a rough Tacoma neighborhood as an investment in 1989.Foulk told The Associated Press that gang members began to threaten him when they noticed he was filming their movements.The Rangers' weapons were confiscated by authorities, but the Army considered the event necessary for their self-defense. 
+keywords: > 
+  gang, crips, tacoma, rangers, weapons, washington, city, gunfight, members, house, ranger, neighborhood, ended, army 
+date: 1603255357.1991732 
+--- 
+<div><ul class="summary-list">
+<li>After Sgt. Bill Foulk, an Army Ranger at Fort Lewis, Washington, bought a house in Tacoma in 1989, he wanted to protect what he saw as an investment property.</li>
+<li>The city was a hub for gang activity at the time, and Foulk's efforts to clean up his neighborhood led him, and some fellow Army Rangers, into a shootout with members of the Crips street gang.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-defense_contributor-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-defense_contributor-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Sgt. Bill Foulk was an <a href="http://www.military.com/army-rangers/join.html">Army Ranger</a> at <a href="http://www.military.com/base-guide/fort-lewis">Fort Lewis</a>, Washington, when he purchased a cheap house in a rough Tacoma neighborhood as an investment in 1989.</p><p>To protect that investment, he was determined to help push the drugs and gangs out by any means necessary. He had no idea he was about to see combat from his living room.</p><p>The late 1980s and 1990s <a href="https://ojjdp.ojp.gov/sites/g/files/xyckuh176/files/jjbulletin/9808/history.html">saw a new peak</a> in gang violence in America. Unlike other periods of gang activity, easy access to cars and deadlier weapons made these years particularly dangerous for some areas of the country.</p><p>The late 1980s were also the peak of the crack epidemic in the United States. <a href="https://www.bjs.gov/content/pub/pdf/dcf89.pdf">Drug-related crime surged 180%</a> throughout the decade, according to the Bureau of Justice Statistics. Tacoma was considered ground zero for gang activity in Washington state.</p>
+<p id="gpt-post-defense_contributor-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-defense_contributor-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Foulk grew concerned that a house on Ash Street, his block, was being used to deal crack cocaine. He purchased his own house for $10,000 ($20,875 in 2019 dollars), with the idea that property values would rise. He was set on ensuring the "drug-ridden" neighborhood would become safe from gangs and drug dealers &#8212; sooner rather than later.</p><p>He began to videotape the people who visited the suspected drug house. He wasn't wrong. The occupants were members of the Crips, the violent street gang that was spreading from California to Washington in search of new markets for drugs.</p><p>Foulk told The Associated Press that gang members began to threaten him when they noticed he was filming their movements. When he feared that the gang was about to take action against him, he called friends from the 2nd Ranger Battalion to his house to have a "party" and be present in case the house was attacked.</p><p>Again, he wasn't wrong.</p>
+<p id="gpt-post-defense_contributor-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-defense_contributor-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Just after the Rangers arrived on September 23, 1989, some 15 to 20 gang members began to shoot up the 32-year-old's house while his buddies were inside. Luckily, the Rangers had brought their own personal weapons to the party. The Crips were probably surprised when their would-be victim's house began to return fire.</p><p>For an estimated 10 to 30 minutes, the two groups exchanged intense fire in a "<a href="https://www.nytimes.com/1989/09/27/us/off-duty-soldiers-trade-gunfire-at-a-house-linked-to-drug-sales.html">gun battle</a>" on the streets of residential Tacoma. Witnesses said "hundreds of rounds from handguns, shotguns and semiautomatic weapons were fired." Somehow, no one was hurt.</p><p>The police arrived on the scene, and the shooting stopped. All but two members of the gang fled. Those two were arrested, but only one was actually charged.</p><p>The Rangers' weapons were confiscated by authorities, but the Army considered the event necessary for their self-defense.</p>
+<p id="gpt-post-defense_contributor-mobile_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-defense_contributor-desktop_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>"From everything I am told by the city police, the Rangers were right," Maj. Clyde Newman of the 2nd Ranger Battalion told the AP. "They were having a party, and they were attacked.''</p><p>The incident was a <a href="http://www.southsoundtalk.com/2019/04/05/ranger-ash-street-shootout-remains-part-of-tacomas-gang-lore/">turning point</a> for the city of Tacoma. It brought national attention to the gang issues in city streets and prompted residents to take a more active role in policing their neighborhoods.</p><p>As of October 2020, the house that Foulk and the Rangers were defending is worth $447,000, according to real estate website Redfin. And the hilltop neighborhood that saw the outbreak of violence is one of Tacoma's quietest.</p><p>&#8212; Blake Stilwell can be reached at <a href="mailto:blake.stilwell@military.com">blake.stilwell@military.com</a>. He can also be found on Twitter <a href="https://twitter.com/blakestilwell">@blakestilwell</a> or <a href="https://www.facebook.com/StilwellAngel/">on Facebook</a>.</p>
+                  </div>
