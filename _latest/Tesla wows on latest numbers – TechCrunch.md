@@ -1,0 +1,27 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/09/tesla-glitch2.jpg?w=712 
+title: > 
+  Tesla wows on latest numbers – TechCrunch 
+description: > 
+  Tesla’s latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter.Now we have the answer as Tesla reported profits of $809 million on revenues of $8.77 billion for the third quarter.“We continue to believe that the energy business will ultimately be as large as our vehicle business,” the company said.And the solar business is also improving, according to Tesla.And delivery numbers were up 53% quarter on quarter, as the globally spreading COVID-19 pandemic took its toll on sales and production operations for Tesla at its main U.S. factory. 
+keywords: > 
+  numbers, wall, teslas, company, tesla, business, quarter, techcrunch, wows, latest, manufacturing, solar, vehicles, deliveries 
+date: 1603314836.0723467 
+--- 
+<div><p id="speakable-summary"><a class="crunchbase-link" href="https://crunchbase.com/organization/tesla-motors" target="_blank">Tesla&#8217;s </a> latest quarterly numbers beat analyst expectations on both revenue and earnings per share, bringing in $8.77 billion in revenues for the third quarter.</p>
+<p>With the report that Tesla <a href="https://techcrunch.com/2020/10/02/tesla-delivers-139300-vehicles-in-q3-beating-expectations/">had already beaten Wall Street&#8217;s expectations for deliveries earlier this month</a>, the question for today&#8217;s earnings call was how much efficiency (and by extension profit) the electric car and battery company was able to wring out of its manufacturing processes.</p>
+<p>Now we have the answer as <a href="https://www.tesla.com/">Tesla</a> reported profits of $809 million on revenues of $8.77 billion for the third quarter. That&#8217;s up from 39% from the year ago period. Wall Street had expected $8.36 billion in revenue for the quarter, according to estimates published by CNBC.</p><p class="piano-inline-promo"></p>
+<p>Revenue grew 30% year-on-year, something the company attributed to substantial growth in vehicle deliveries and operating income also grew to $809 million showing improving operating margins to 9.2%.</p>
+<p>And while the automotive business is clearly still the star of the show, both Tesla&#8217;s solar and storage businesses also showed marked improvements in the third quarter.</p>
+<p>Energy storage reached a company record 759 Megawatt hours in the wuarter and the company said that megapack production for its large scale batteries is growing while Powerwall demand remains strong.</p>
+<p>&#8220;We continue to believe that the energy business will ultimately be as large as our vehicle business,&#8221; the company said.</p>
+<p>And the solar business is also improving, according to Tesla. &#8220;Our recently introduced strategy of low cost solar (at $1.49/watt in the US after tax credit) is starting to have an impact. Total solar deployments more than doubled in Q3 to 57 MW compared to the prior quarter, with Solar Roof deployments almost tripling sequentially.&#8221;</p>
+<p>Earlier this month, the company tipped its hand on the good news around deliveries saying that it had already delivered&#160;139,300 vehicles in the third quarter, slightly above Wall Street&#8217;s expectations and a notable improvement from last quarter, as well as the same period a year ago.</p>
+<p>The delivery beat marked a 43% improvement from the same quarter last year, when the company reported deliveries of 97,000 electric vehicles. And delivery numbers were up 53% quarter on quarter, as the globally spreading COVID-19 pandemic took its toll on sales and production operations for Tesla at its main U.S. factory.</p>
+<p>The quarter also saw Tesla unveil a sweeping new vision for its battery manufacturing plans. During the shareholder presentation Tesla chief executive Elon Musk said that he expected deliver up to 40% more electric vehicles than in 2019 and laid out the roadmap for better battery manufacturing efficiency.</p>
+<p>Tesla&#8217;s earnings beat comes amid mounting competition from some of the world&#8217;s largest automakers. Yesterday <a href="https://techcrunch.com/2020/10/20/gmc-reveals-the-hummer-ev-1000-hp-350-mile-range-and-0-60-in-around-3-seconds/">GMC unveiled its Hummer EV</a> and, in September, Ford announced that it would be <a href="https://techcrunch.com/2020/09/29/ford-drops-the-price-of-its-all-electric-mustang-mach-e-to-stay-fully-competitive-2/">slashing the price on its Mustang Mach E</a> to &#8220;stay fully competitive&#8221;.</p>
+<p>Meanwhile startups like <a class="crunchbase-link" href="https://crunchbase.com/organization/federated-sample" target="_blank">Lucid </a> Motors are proving that they could be serious contenders to Tesla&#8217;s market dominance. Lucid&#8217;s <a href="https://techcrunch.com/2020/10/14/lucid-reveals-the-price-of-its-base-air-sedan-77500-minus-7500-us-tax-credit/">recent pricing for its Air sedan</a> was enough to force Tesla chief executive and head of public relations, Elon Musk, to<a href="https://techcrunch.com/2020/10/14/elon-musks-tweets-the-model-s-will-be-price-at-69420-because-hes-a-child/"> parry back with a (&#8230; creatively selected&#8230;) price cut on the company&#8217;s own models</a>.</p>
+<p>This story is developing and will be updated.&#160;</p>
+			</div>
