@@ -1,0 +1,29 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2020/10/anderson-silva-ufc-200.jpg?w=1000&h=576&crop=1 
+title: > 
+  'Sad' Anderson Silva confirms retirement at UFC on ESPN+ 39: 'For sure, this is the last fight' 
+description: > 
+  Anderson Silva has confirmed that without a doubt, his UFC on ESPN+ 39 main event with Uriah Hall on Halloween will mark his final octagon appearance.Silva (34-10 MMA, 17-6 UFC), the former longtime UFC middleweight champion, will have a farewell fight with Hall (15-9 MMA, 8-7 UFC) in the Oct. 31 headliner, which takes place at UFC Apex in Las Vegas and streams on ESPN+.“This is the last fight,” Silva told MMA Junkie on Tuesday.His octagon debut came in in June 2006, when he delivered a memorable 49-second blowout of Chris Leben at UFC Fight Night 5.“My first title belt in Japan when I fight in Shooto, when I fight Hayato Sakurai,” Silva said. 
+keywords: > 
+  title, sad, fight, espn, final, hall, 39, mma, sakurai, confirms, best, sure, retirement, ufc, hes, anderson, silva 
+date: 1603258595.9623396 
+--- 
+<div><p><a href="https://mmajunkie.usatoday.com/tag/anderson-silva">Anderson Silva</a> has confirmed that without a doubt, his UFC on ESPN+ 39 main event with Uriah Hall on Halloween will mark his final octagon appearance.</p>
+<p>Silva (34-10 MMA, 17-6 UFC), the former longtime UFC middleweight champion, will have a farewell fight with Hall (15-9 MMA, 8-7 UFC) in the Oct. 31 headliner, which takes place at UFC Apex in Las Vegas and streams on ESPN+.</p>
+<p>After not fighting <a href="https://mmajunkie.usatoday.com/2019/05/ufc-237-results-jared-cannonier-buckles-anderson-silvas-knee-with-kick-wins-by-tko">since a May 2019 loss</a> to Jared Cannonier, UFC president Dana White said earlier this year that he was trying to find the best way to usher the 45-year-old Silva <a href="https://mmajunkie.usatoday.com/2020/06/anderson-silva-retirement-ufc-contract-dana-white-final-fight">gracefully into retirement</a>. White originally said he&#8217;d allow &#8220;The Spider&#8221; to fight the final two bouts on his contract, but then the situation changed into just one final contest.</p>
+<p>Silva originally <a href="https://mmajunkie.usatoday.com/2020/08/ufc-champ-anderson-silva-retirement-fight-uriah-hall-dana-white-halloween">seemed somewhat resistant</a> to the idea of exiting the sport, but he said he&#8217;s now fully accepted the situation.</p>
+<p>&#8220;This is the last fight,&#8221; Silva told MMA Junkie on Tuesday. &#8220;For sure, this is the last fight. Probably. I love the sport. I&#8217;ve prepared my mind for this. I&#8217;ve prepared for fight my entire life, but yes, this is my last fight in UFC.&#8221;</p>
+<p>Silva made his MMA debut in 1997 fighting on a small card in his native Brazil. He&#8217;s competed for eight different organizations over more than two decades, but the UFC has been his home for longest. His octagon debut came in in June 2006, when he delivered a memorable 49-second blowout of Chris Leben at UFC Fight Night 5.</p>
+<p>Fighting has been a cornerstone of Silva&#8217;s identity for more than half of his life, and he admits that coming to terms with having just one walk to the octagon left hasn&#8217;t be easy.</p>
+<p>&#8220;I think (I&#8217;ll miss) the training (the most),&#8221; Silva said. &#8220;Preparing my mind, preparing my body. This I think is most important and I feel sad because I don&#8217;t have this anymore. This is the last one.&#8221;</p>
+<p>Although the tail end of Silva&#8217;s career has been rough &#8211; with just one victory in his past eight bouts, including a no-contest &#8211; there&#8217; is no taking away the special legacy he created, even with <a href="https://mmajunkie.usatoday.com/2018/07/usada-suspends-anderson-silva-one-year-after-tainted-supplement-found">a pair of failed drug tests</a> taken into consideration. Silva is guaranteed to find himself in the UFC Hall of Fame one day, and his accomplishments will sit high in the records books for years to come.</p>
+<p>Despite remarkable feats such as setting the promotion&#8217;s consecutive wins record (16), and having the second most title defenses (10) in company history behind Demetrious Johnson (11), Silva said his most memorable career moment didn&#8217;t happen under the UFC banner.</p>
+<p>For Silva, his unanimous decision win over Hayato Sakurai at &#8220;Shooto: To The Top 7&#8221; in August 2001 holds the most special place in his heart.</p>
+<p>&#8220;My first title belt in Japan when I fight in Shooto, when I fight Hayato Sakurai,&#8221; Silva said. &#8220;This is my best memory ever. It&#8217;s my first title belt.&#8221;</p>
+<p>Nearly 20 years after that encounter with Sakurai, Silva is on the cusp of his last dance in the UFC. He said Hall is a &#8220;very interesting&#8221; opponent for him, especially after a matchup between the two <a href="https://mmajunkie.usatoday.com/2016/05/anderson-silva-knocked-out-of-saturdays-ufc-198-bout-with-uriah-hall">fell apart at UFC 198</a> in May 2016.</p>
+<p>The ideal scenario for Silva would be to deliver one final spectacular performance that lives up to the image he&#8217;s built for himself in the UFC. He said he&#8217;s trying to keep focused on the fight, and not all the outside elements in terms of everything he experiences leading up to and on fight night being the last.</p>
+<p>Silva said he&#8217;s a fan of the matchup with Hall, however, and thinks it&#8217;s caters well to him riding out into the sunset on a high.</p>
+<p>&#8220;I can&#8217;t say, &#8216;Oh, this fight goes to the ground, this fight is done in the standup,'&#8221; Silva said. &#8220;It&#8217;s two good strikers. Uriah&#8217;s a very, very athletic guy and has a good technique in the striking and I try to do my best. I try do to the best show for my fans.&#8221;</p>
+</div>
