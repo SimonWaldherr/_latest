@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/images/photos/003/889/374/hi-res-e31ac075198b16a79ff7aa38a43299fd_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  Report: Odell Beckham Jr. Banned from LSU for 2 Years After Handing Players Cash 
+description: > 
+  Gerald Herbert/Associated PressOdell Beckham Jr.'s celebration with LSU players after the 2020 College Football Playoff National Championship has reportedly led the program to ban the former Tigers star.Per Sports Illustrated's Ross Dellenger and Pat Forde, Beckham received a two-year ban from school facilities for handing players cash as part of LSU's self-imposed sanctions related to booster payments.This article will be updated to provide more information on this story as it becomes available.Get the best sports content from the web and social in the new B/R app.Get the app and get the game. 
+keywords: > 
+  jr, beckham, odell, web, players, twoyear, updated, lsu, banned, cash, ban, starper, social, report, tigers, handing, app 
+date: 1603306116.8982449 
+--- 
+<div><p></p><img alt="FILE - In this Tuesday, Jan. 14, 2020 photo, Cleveland Browns wide receiver and former LSU star Odell Beckham Jr. walks off the field after the NCAA College Football Playoff national championship game between Clemson and LSU in New Orleans. The New Orleans Police Department said Saturday, Jan 18, 2020, that a misdemeanor simple battery warrant for Beckham has been rescinded. (AP Photo/Gerald Herbert, File)" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Gerald Herbert/Associated Press</p><p class=""><a href="http://bleacherreport.com/odell-beckham-jr">Odell Beckham Jr.</a>'s celebration with LSU players after the 2020 College Football Playoff National Championship has reportedly led the program to ban the former Tigers star.</p><p class="">Per Sports Illustrated's <a href="https://twitter.com/RossDellenger/status/1318969473907462147?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet" target="_blank" rel="noopener noreferrer">Ross Dellenger and Pat Forde</a>, Beckham received a two-year ban from school facilities for handing players cash as part of LSU's self-imposed sanctions related to booster payments.</p><p class="">&#160; &#160;</p><p class="">This article will be updated to provide more information on this story as it becomes available.</p><p class="">Get the best sports content from the web and social in the&#160;<a href="https://br.app.link/gRkqebdcsC" target="_blank" rel="noopener noreferrer"><strong>new B/R app</strong></a>. Get the app and get the game.</p></div>
