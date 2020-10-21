@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/images/photos/003/889/125/0636f31b94ae789c0f9fe5ca51869d69_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  NFL Backups Who Can Break Out in Season's 2nd Half 
+description: > 
+  0 of 8Reed Hoffmann/Associated PressIt feels like the NFL is on the cusp of a second-half takeover from a wave of backups.This might be no better personified than by Miami Dolphins rookie quarterback Tua Tagovailoa, who finally hit the field in Week 6, making him the last of the big three—along with Joe Burrow and Justin Herbert—from the 2020 draft to see action.He's now leading the backups-turned-starters charge after ESPN's Adam Schefter reported he's earned the starting gig for Week 8 after Miami's bye.Across the league, rookies and backups (based on snap counts and sometimes rotational splits, not necessarily depth charts) should start to see more playing time because of injuries to others and underperformers in front of them.These are the names to know a few weeks out from the season's second half. 
+keywords: > 
+  tua, threealong, tagovailoa, nfl, underperformers, takeover, week, hes, wave, seasons, break, half, weeks, themthese, 2nd, backups 
+date: 1603319342.3378756 
+--- 
+<ol><p class="slideData">0 of 8</p><p></p><img alt="" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Reed Hoffmann/Associated Press</p><p class="">It feels like the <a href="http://bleacherreport.com/nfl">NFL</a> is on the cusp of a second-half takeover from a wave of backups.&#160;</p><p class="">This might be no better personified than by Miami Dolphins rookie quarterback <a href="http://bleacherreport.com/tua-tagovailoa">Tua Tagovailoa</a>, who finally hit the field in Week 6, making him the last of the big three&#8212;along with Joe Burrow and Justin Herbert&#8212;from the 2020 draft to see action. He's now leading the backups-turned-starters charge after <a href="https://twitter.com/AdamSchefter/status/1318575563984994305" target="_blank" rel="noopener noreferrer">ESPN's Adam Schefter</a>&#160;reported he's earned the starting gig for Week 8 after Miami's bye.&#160;</p><p class="">Across the league, rookies and backups (based on snap counts and sometimes rotational splits, not necessarily depth charts) should start to see more playing time because of injuries to others and underperformers in front of them.&#160;</p><p class="">These are the names to know a few weeks out from the season's second half.</p></ol>

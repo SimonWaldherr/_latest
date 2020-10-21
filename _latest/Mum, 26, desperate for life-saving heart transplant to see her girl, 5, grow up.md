@@ -1,0 +1,45 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i2-prod.mirror.co.uk/incoming/article22883267.ece/ALTERNATES/s1200/1_Amy-Morris-and-Lillie-Mae.jpg 
+title: > 
+  Mum, 26, desperate for life-saving heart transplant to see her girl, 5, grow up 
+description: > 
+  The 26-year-old single mother is in desperate need of a heart transplant –above all, so that she can be there for her child.Maybe the school I want her to go to, little things that are important to me.”Brave Amy has already had one ­life-saving heart transplant at the age of eight, but she has now gone into total heart failure.But she was put back on the list in June, and is now praying that a new heart is found for her.“I’m just praying that a donor can be found, and I can get a new heart before it’s too late.Amy had her first heart operation when she was just six weeks old to put a band around her heart. 
+keywords: > 
+  amy, 26, lifesaving, list, donor, lilliemae, heart, mum, desperate, organ, girl, hospital, little, grow, transplant, things 
+date: 1603319386.9741101 
+--- 
+<div><p class="skinny-form-custom-background"></p><span class="skinny-header"><p>Our free email newsletter sends you the biggest headlines from news, sport and showbiz</p></span><p>Thank you for subscribing</p><p class="bold">We have more newsletters</p><a class="show-more" href="https://communicatoremail.com/F/QVgi9PbuQPTrjCOF~PhHv_/">Show me</a><span class="privacy"><a></a><p>See our <a href="/privacy-notice/">privacy notice</a> </p></span><p class="invalid">Invalid Email</p><p>Like many parents, Amy Morris is already thinking about the &#173;secondary school she wants her little girl to attend.</p> <p>She is thinking about the friends Lillie-Mae will make and all the hopes she has for her future.</p> <p>But in reality, she is making these plans in advance because she knows she might not be around to watch her five-year-old daughter grow up.</p> <p>The 26-year-old single mother is in desperate need of a heart transplant &#8211;above all, so that she can be there for her child.</p> <p>&#8220;I am making arrangements so I still have some involvement in her growing up should I not be physically here to do that,&#8221; Amy says.</p> <p>&#8220;Having to organise things in case the transplant doesn&#8217;t come has been quite difficult.</p> <p>"I&#8217;ve had lots of discussions at length with my mum and dad about what I want for her. Maybe the school I want her to go to, little things that are important to me.&#8221;</p> <p>Brave Amy has already had one &#173;life-saving heart transplant at the age of eight, but she has now gone into total heart failure.</p> 
+
+
+
+<p class="spacer"></p>
+<img alt="">
+
+ 
+<p class="credit"> (Image: Amy Morris)</p>
+
+ <p>     </p> <p>She was taken off the transplant list for four months during the height of the Covid pandemic, as health bosses feared there would not be enough intensive care equipment to carry out transplants.</p> <p>But she was put back on the list in June, and is now praying that a new heart is found for her.</p> <p>Amy, who lives in Bolton, Greater Manchester, says: &#8220;I need to stay alive for my little girl. She knows that I&#8217;m poorly but she doesn&#8217;t know how critical the situation is.</p> <p>&#8220;I&#8217;m just praying that a donor can be found, and I can get a new heart before it&#8217;s too late.</p> <p>"I can&#8217;t leave Lillie-Mae. I have to fight on for her.&#8221;</p> <p>Amy was born with a condition called transposition of the great arteries, which means that the two main blood vessels leaving the heart, the pulmonary artery, which takes blood to the lungs, and the aorta, which takes blood from the heart to the body, are swapped over.</p> <p>Amy had her first heart operation when she was just six weeks old to put a band around her heart.</p> <p>Then she had another surgery done at 18 months old at Birmingham Children&#8217;s Hospital to switch the vessels over.</p> <p>&#8220;The surgery went really well and I was healthy until I got to eight years old. Then I deteriorated fast and went into complete heart failure,&#8221; she says.</p> 
+
+
+
+<p class="spacer"></p>
+<img alt="">
+
+ 
+<p class="credit"> (Image: Amy Morris)</p>
+
+   <p>She was listed as urgent at Manchester Children&#8217;s Hospital and she was kept alive for nine months in hospital by intravenous drugs that were used to keep her heart beating.</p> <p>Eventually in October 2003, she was given her new heart and made a fantastic recovery.</p> <p>&#8220;I was only in hospital for 18 days and I&#8217;d done so well that I was allowed to go home.</p> <p>"The power of organ donation is something you can never truly &#173;understand until you&#8217;re thrown into it.</p> <p>"I was really sick and poorly but the transformation, even just hours after the surgery, was amazing.</p> <p>"My colour was better, I had an effortless recovery. There have been no limitations. I&#8217;ve done everything my peers did, never sheltered from anything.&#8221;</p> <p>For the next 15 years, Amy&#8217;s heart, which came from a 58-year-old donor, worked well.</p> <p>She was even able to give birth to her daughter despite doctors advising her not to get pregnant.</p> <p>&#8220;I had always been told by the doctors not to have a baby as they thought it would put too much strain on my transplanted heart,&#8221; she says.</p> <p>&#8220;I thought I would never be a mum. But I was in the third year of my degree when I discovered that I&#8217;d fallen pregnant by accident.</p> <p>&#8220;It was such a shock and, after what the doctors had said, it was such a worry, but I was monitored very closely, and Lillie-Mae was born without any complications.&#8221;</p> <p>The gift of organ donation has given Amy the chance to thrive as a mother.</p> 
+
+
+
+<p class="spacer"></p>
+<img alt="">
+
+ 
+<p class="credit"> (Image: Amy Morris)</p>
+
+ <p>&#8220;Lillie-Mae is the biggest achievement of my life,&#8221; she says. &#8220;We do everything together, she&#8217;s my little best friend, my mini-me.</p> <p>"Before I was poorly we&#8217;d go on holiday, we&#8217;d go swimming, she loved to go camping. I can&#8217;t get down and play with her any more and she understands that.</p> <p>"So she&#8217;ll bring me things, like books and board games, and calls them &#8216;sit down games&#8217;.&#8221;</p> <p>In July 2018, Amy suddenly started to feel unwell again and, as a single mum working 40 hours a week, things got too much and she had to quit her job as an admissions worker at a hospital.</p> <p>She went to the Freeman Hospital in Newcastle for tests and it showed she had developed a condition called transplant vasculopathy, an accelerated form of heart disease.</p> <p>&#8220;I was so shocked,&#8221; she says. &#8220;My &#173;transplanted heart had been working fine, even though it was 15 years old.&#8221;</p> <p>Doctors tried to put stents into her heart to relieve the condition, but those failed, and she was put on the transplant list in March.</p> <p> Since going back on the list after &#173;lockdown, her condition has worsened, and she now needs a wheelchair to <br> move around. </p> <p>But Amy&#8217;s incredible attitude means she is cherishing every moment she can with her daughter.</p> <p class="loading-circle primary-theme-spinner"></p>
+<p class="my-logo primary-loader-icon"></p>
+<p> &#8220;I appreciate the things other people take for granted,&#8221; she says. &#8220;Every moment, every birthday, every <a href="https://www.mirror.co.uk/all-about/halloween">Halloween</a>, every Christmas. </p> <p>" I &#173;appreciate it all because I don&#8217;t know if it&#8217;s going to be my last one. So I do go over and above with everything I do for her &#8211; some people might call it being spoiled but I don&#8217;t know how long I have got with her.&#8221;</p> <p>Amy hopes one day she&#8217;ll be able to take Lillie-Mae to Disneyland Paris and to Lapland to meet Father Christmas.</p> <p>The Mirror campaigned to change the law to an opt-out organ donation system. It is known as Max and Keira&#8217;s law in honour of Max Johnson, who received a heart, and Keira Ball, who donated it, both aged nine.</p> <p>Amy wants her story to encourage families to talk about the importance of organ donation and has a message for anyone who is unsure. &#8220;You have to ask yourself, if one of your relatives was dying and was in desperate need of an organ, would you take one? And if the answer is yes, then why would you not want to do that for another family?&#8221;</p> <p>And even if she doesn&#8217;t get her second heart transplant, Amy will always be grateful her first one allowed her to have Lillie-Mae.</p> <p>&#8220;My donor has given me everything,&#8221; she says. &#8220;Lillie-Mae will go on and be the legacy from that donor &#8211; because of them, I was able to have her. She has a piece of me and a piece of them, which she will carry on into the world.&#8221;</p></div>

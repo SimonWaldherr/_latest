@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/images/photos/003/889/050/00a2faecd977cf6e9c989180887d9f85_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  Stock Up, Stock Down on 10 Notable 2021 NFL Draft Prospects 
+description: > 
+  0 of 10Eric Christian Smith/Associated PressThe ongoing COVID-19 pandemic could make the 2021 NFL draft more unpredictable than ever."It's rough—it's an inexact process, even when we have all the information," an AFC scout told Yahoo Sports' Terez Paylor in August.Although every major conference will squeeze in at least a few games this season, multiple prospects opted out and have already declared for the draft.As such, NFL evaluators won't have recent film for those players.Five prospects fall on each side of that coin based on how they were viewed coming into the current cycle, with a pair of quarterbacks leading the way. 
+keywords: > 
+  prospects, wont, nfl, told, players, way, water, 2021, draft, notable, scout, stock, fall 
+date: 1603319343.0146596 
+--- 
+<ol><p class="slideData">0 of 10</p><p></p><img alt="" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Eric Christian Smith/Associated Press</p><p class="">The ongoing COVID-19 pandemic could make the 2021 <a href="http://bleacherreport.com/nfl">NFL</a> draft more unpredictable than ever.</p><p class="">"It's rough&#8212;it's an inexact process, even when we have all the information," an AFC scout told Yahoo Sports'&#160;<a href="https://sports.yahoo.com/with-2020-college-season-near-a-shutdown-nfl-teams-brace-for-toughest-scouting-challenge-in-decades-233917635.html" target="_blank" rel="noopener noreferrer">Terez Paylor</a>&#160;in August. "So this is going to muddy the water quite a bit."</p><p class="">Although every major conference will squeeze in at least a few games this season, multiple prospects opted out and have already declared for the draft. As such, NFL evaluators won't have recent film for those players.</p><p class="">"Scouts who, last fall, were able to scout for 2020 players and take note of 2021-plus players will really show their value," an NFC executive told Paylor.</p><p class="">Among the conferences playing, scouting departments can see which players are exceeding or performing below expectations. Five&#160; prospects fall on each side of that coin based on how they were viewed coming into the current cycle, with a pair of quarterbacks leading the way.</p></ol>
