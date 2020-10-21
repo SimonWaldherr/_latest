@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7JB6GGQQ4QI6XNAERUPGOXWHAE.jpg&w=1440 
+title: > 
+  Coronavirus live updates: Prospects for relief bill dim as McConnell urges White House to reject deal 
+description: > 
+  Before dropping their teens off at college this year, many parents had a version of “the talk” — except this one focused more on the coronavirus pandemic than sex.“It’s extremely scary,” said Jennifer Velarde, 47, who in August sent her first child to away to college about an hour from their Twin Cities home.“We have to put a lot of faith that … he knows what’s right and wrong and how to protect himself, and not only himself, but his peers and his professors and then us.” 
+keywords: > 
+  version, talk, house, urges, prospects, sexits, reject, college, teens, sent, whats, relief, updates, white, mcconnell, dim, wrong, velarde, twin, live 
+date: 1603257048.5306478 
+--- 
+<div><p class="font--body font-copy gray-darkest ma-0 pb-md ">Before dropping their teens off at college this year, many parents had a version of &#8220;the talk&#8221; &#8212; except this one focused more on the coronavirus pandemic than sex.</p><p class="font--body font-copy gray-darkest ma-0 pb-md ">&#8220;It&#8217;s extremely scary,&#8221; said Jennifer Velarde, 47, who in August sent her first child to away to college about an hour from their Twin Cities home. &#8220;We have to put a lot of faith that &#8230; he knows what&#8217;s right and wrong and how to protect himself, and not only himself, but his peers and his professors and then us.&#8221;</p><p class="font--body font-copy gray-darkest ma-0 pb-md ">But despite parents&#8217; efforts to prepare their children and the extensive safety protocols set up by colleges and universities, the novel coronavirus has <a href="https://www.washingtonpost.com/education/2020/08/25/college-coronavirus-cases/?itid=lk_inline_manual_5&amp;itid=lk_inline_manual_19">infiltrated campuses nationwide</a>, turning many into covid-19 hot spots in just a matter of weeks. With cases continuing to rise, forcing <a href="https://www.washingtonpost.com/education/2020/08/25/college-coronavirus-cases/?itid=lk_inline_manual_5&amp;itid=lk_inline_manual_19">switches to online-only classes</a> and <a href="https://www.washingtonpost.com/nation/2020/09/04/gettysburg-college-dorm-lockdown-covid/?itid=lk_inline_manual_5&amp;itid=lk_inline_manual_19">strict dorm lockdowns</a>, parents have found themselves trying to figure out how to communicate their concerns from afar.</p></div>
