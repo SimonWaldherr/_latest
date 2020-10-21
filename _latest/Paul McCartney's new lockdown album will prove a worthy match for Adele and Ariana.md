@@ -1,0 +1,17 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/music/2020/10/21/TELEMMGLPICT000242482533_trans_NvBQzQNjv4BqIxWYyzUoZYDlzx7V3_UGV-zhFulEOqBcK3sz8PFfZk4.jpeg?impolicy=logo-overlay 
+title: > 
+  Paul McCartney's new lockdown album will prove a worthy match for Adele and Ariana 
+description: > 
+  McCartney went on to a decade of further world-beating success with his new band Wings.It was only when that band began to fall apart that the singer-songwriter embarked on a second one-man album.It demonstrated that McCartney still had the pop skills to compete with contemporary artists.One fan site lists 54 instruments McCartney has played during his career, including mandolin, bouzouki, flugelhorn, trumpet, harpsichord and vibraphone.In his sixth decade as a recording artist no one should be looking to a McCartney album for cutting edge pop. 
+keywords: > 
+  mccartney, went, ariana, album, adele, pop, played, mccartneys, solo, lockdown, worthy, band, skills, paul, quirky, prove, instruments, match 
+date: 1603300827.368392 
+--- 
+<div><p>McCartney went on to a decade of further world-beating success with his new band Wings. It was only when that band began to fall apart that the singer-songwriter embarked on a second one-man album. McCartney II came out in 1980, and marked a big departure, embracing new wave and synth pop. Free of band dynamics, it allowed McCartney the freedom to experiment with drum machines and electronica, spawning such quirky cuts as Coming Up, Temporary Secretary and Waterfalls.</p>
+<p>It demonstrated that McCartney still had the pop skills to compete with contemporary artists. He went on to make a further 14 solo albums, albeit employing other musicians as his backing band. He has toured with the same line-up for 20 years. His most recent album, Egypt Station, was number one on both sides of the Atlantic in 2018.</p>
+<p>Forty years on, circumstances have forced McCartney to rely on his multi-instrumental skills once again. McCartney III has been built from live takes of the singer&#160;on vocals and guitar or piano, overdubbing his bass playing, drumming, and assorted other instruments. Beatles producer Sir George Martin once described McCartney as the most naturally gifted musician he had ever known. One fan site lists 54 instruments McCartney has played during his career, including mandolin, bouzouki, flugelhorn, trumpet, harpsichord and vibraphone. Even in The Beatles, McCartney occasionally took over on drums, and played all instruments on Why Don&#8217;t We Do It In The Road from the White Album, in 1968.</p>
+<p>McCartney&#8217;s previous solo albums marked significant turning points in his career. They have been quirky and offbeat, rather than grandstanding and overworked, the sound of a man pursuing his muse rather than chasing hits. This is unlikely to mark a major shift for such a venerable star, however. In his sixth decade as a recording artist no one should be looking to a McCartney album for cutting edge pop. But he remains one of the greatest musical talents of our times, and anything he records with freedom, fun and inspiration is sure to be a joy. The legend &#8220;written, performed and produced by Paul McCartney&#8221; is a guarantee of quality.</p>
+</div>
