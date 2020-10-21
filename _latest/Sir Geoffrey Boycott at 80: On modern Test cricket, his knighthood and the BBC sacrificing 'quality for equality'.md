@@ -1,0 +1,26 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/cricket/2020/10/20/1910_BOYCOTT_LEAD_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSM8Sv5nIxQonD2k-JCC_U.jpg?impolicy=logo-overlay 
+title: > 
+  Sir Geoffrey Boycott at 80: On modern Test cricket, his knighthood and the BBC sacrificing 'quality for equality' 
+description: > 
+  “When I had cancer I took 32 apricot kernels that have cyanide in them.“If we can just go to sleep in our own bed and not wake up one morning that would be ideal.She said, ‘Have you got a Knighthood, Dad?’ I tried not to lie.It took away some of the enjoyment.It should have been one of the nicest days of my life, and Emma's and Rachael’s too.” 
+keywords: > 
+  sacrificing, boycott, tell, knighthood, equality, cancer, true, life, tried, week, cricket, took, sir, emma, away, quality, test, modern, geoffrey 
+date: 1603261529.1207106 
+--- 
+<div><p>It is this side of his personality &#8212;&#160;the one with the harsher edges smoothed away, more open to admitting his own vulnerability &#8212;&#160;which the public rarely gets the chance to glimpse.</p>
+<p>Yet it is there in every aspect of his life, right down to his willingness,&#160;post-cancer diagnosis, to embrace feng shui, and his devotion to chamomile and green tea, which help wash down his daily diet of 15 complementary medicinal tablets. &#8220;When I had cancer I took 32 apricot kernels that have cyanide in them. If you take too many you kill yourself but it helps fight the cancer cells. You try anything.&#8221;</p>
+<p>He has been free from cancer for years but, in common with many his age, is not impervious to what might lie ahead. There is genuine emotion in his voice when he describes the plight of a former team-mate who has succumbed to dementia and now occasionally fails to recognise his own wife. "To finish up like that... tragic," he murmurs.</p>
+<p>Neither does he flinch from thoughts of his own mortality, or what might come after. &#8220;If we can just go to sleep in our own bed and not wake up one morning that would be ideal. I would love to believe in God and that there is a hereafter and a heaven. But I can&#8217;t.</p>
+<p>"For years now, I have had great difficulty in believing because you look around and there are so many people with terrible ailments and I find that very distressing. I think, well, if there was a God he would not let all these people suffer. I have been to Martin House Hospice in our village [Boston Spa]. It is a hospice for children who are not going to have a life. There are rooms for their mothers to stay for their last few nights. You go there and if your back is bad or you&#8217;re not feeling great, you think, &#8216;Hang on &#8212;&#160;remember those kids.&#8217;"</p>
+<p>He has already decided what he wants to happen when he passed away although &#8212;&#160;in true Boycott fashion &#8212;&#160;his daughter was having none of it.</p>
+<p>&#8220;I told Emma, when she was 10 or 11, &#8216;When I go, just cremate me. Take me to Scarborough, give my ashes to a fisherman, tell him to row out into the North Sea and pop me in there.&#8217; Emma said, &#8216;Don&#8217;t be silly, Daddy, you can&#8217;t swim.&#8217;&#8221;</p>
+<h3>'My knighthood was spoilt for me. It was sad'</h3>
+<p>Of those &#8220;highs and valleys&#8221; he mentioned, <a href="https://www.telegraph.co.uk/cricket/2019/09/10/geoffrey-boycott-andrew-strauss-given-knighthoods-theresa-mays/">the knighthood</a> was the most extreme example. Confirmation that he had been made Sir Geoffrey in September 2019 fulfilled a lifelong ambition, but there was a sour postscript courtesy of the torrent of criticism the award received due to his conviction for assaulting a girlfriend, Margaret Moore, in France in 1998.</p>
+<p>He knew what was coming, which is why he did not tell his family for more than a week after Theresa May had called him at the end of her time as Prime Minister to say she was putting him forward for the gong.</p>
+<p>&#8220;She called me while I was out to dinner in Manchester. It was such a surprise I didn&#8217;t even tell Rachael or Emma. I kept it a secret. I thought let&#8217;s wait. In my life things have a habit of blowing up. Then a week later they were out shopping when I got another call. It was Emma. She said, &#8216;Have you got a Knighthood, Dad?&#8217; I tried not to lie. I said, &#8216;Why? Maybe!&#8217; They said they were getting calls from various press saying it was going to be announced tomorrow morning. I wasn't sure it was true until then.</p>
+<p>&#8220;Some of the media, not all of them, tried to spoil it for me. The Australians call it the tall poppy syndrome. You get to the top and they lop off your head. With my life I am never totally sure about anything. When I am doing well, there is something around the corner. I am wary now.</p>
+<p>"But, yes, it spoilt it. It was sad. It took away some of the enjoyment. It should have been one of the nicest days of my life, and Emma's and Rachael&#8217;s too.&#8221;</p>
+</div>

@@ -1,0 +1,30 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f3a68f8e89ebf001f045221?format=jpeg 
+title: > 
+  Warren Buffett's Berkshire Hathaway agrees to $4.1 million settlement with US Treasury after a rogue subsidiary allegedly violated Iran sanctions 
+description: > 
+  Paul Morigi/Getty Images for Fortune/Time IncWarren Buffett's Berkshire Hathaway has agreed to a $4.1 million settlement with the US Treasury after one of its subsidiaries was accused of 144 apparent violations of Iran sanctions.Berkshire voluntarily disclosed the apparent violations on Iscar's behalf, the Treasury said.Warren Buffett's Berkshire Hathaway has agreed to pay $4.1 million to settle its potential civil liability for 144 apparent violations of Iran sanctions by a rogue subsidiary, the US Treasury said in a statement on Tuesday.Berkshire voluntarily disclosed the apparent violations on Iscar's behalf, it added.Berkshire Hathaway and Iscar Turkey didn't immediately respond to a request for comment from Business Insider. 
+keywords: > 
+  warren, subsidiary, hathaway, tools, business, rogue, settlement, company, berkshire, apparent, violated, turkish, iscar, iran, million, violations, treasury, sanctions 
+date: 1603261497.9016056 
+--- 
+<div><p><strong>&#13;
+	<img alt="Warren Buffett" height="1500" width="3000" charset="" class="img-responsive imported-news-entry-img" src="https://i.insider.com/5f3a68f8e89ebf001f045221?format=jpeg">&#13;
+&#13;
+<p class="copyright">Paul Morigi/Getty Images for Fortune/Time Inc</p>&#13;
+&#13;
+</strong></p><ul><li><strong>Warren Buffett's Berkshire Hathaway has agreed to a $4.1 million settlement with the US Treasury after one of its subsidiaries was accused of 144 apparent violations of Iran sanctions.</strong></li><li><strong>The billionaire investor's company bought Iscar, an Israeli maker of metal-cutting tools, in 2006.</strong></li><li><strong>Iscar's Turkish division exported $383,000 worth of its products to third-party distributors, knowing the goods were destined for Iran and some would be sold to customers linked to the Iranian government, the Treasury said.</strong></li><li><strong>Several senior managers of Iscar Turkey hid their dealings from Berkshire and authorities by using private email addresses, entering false names into internal records, and lying to investigators, Treasury officials said.</strong></li><li><strong>Berkshire voluntarily disclosed the apparent violations on Iscar's behalf, the Treasury said.</strong></li><li><strong></strong><strong><a href="https://www.businessinsider.com/international?r=US&amp;IR=T?utm_source=markets&amp;utm_medium=ingest" target="_blank">Visit Business Insider's homepage for more stories</a>.</strong></li></ul><p>Warren Buffett's Berkshire Hathaway has agreed to pay $4.1 million to settle its potential civil liability for 144 apparent violations of Iran sanctions by a rogue subsidiary, the US Treasury <a href="https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20201020" target="_blank">said in a statement on Tuesday</a>.</p><p>The billionaire investor's company acquired Iscar, an Israeli maker of metal-cutting tools, in 2006. Iscar Turkey, the group's Turkish division, exported 144 shipments of cutting tools and related items worth a total of $383,000 to two third-party Turkish distributors, Treasury officials said.</p><p>Several of Iscar Turkey's senior managers knew the goods would be shipped to a distributor in Iran and sold to Iranian users including some linked to the Iranian government, potentially violating US sanctions on Iran, the Treasury said. They also bought goods made by other Berkshire subsidiaries to fill the orders, the government department added. &#13;
+    </p><p class="htl-ad ">&#13;
+    </p>&#13;
+&#13;
+    <p class="htl-ad ">&#13;
+    </p>&#13;
+<p><strong>Read More:</strong>&#160;<a href="https://www.businessinsider.com/stock-picks-to-buy-6-financial-firms-recovery-bank-america-2020-10?utm_source=markets&amp;utm_medium=ingest" target="_blank" rel="noopener noreferrer">BANK OF AMERICA: Buy these 6 financial-sector stocks that offer the most attractive risk-reward combo as the economy improves</a></p><p>The alleged perpetrators hid their dealings from Berkshire and authorities by communicating via private email addresses, using false names in internal records, and lying to investigators, the Treasury said. Berkshire voluntarily disclosed the apparent violations on Iscar's behalf, it added.</p><p>Berkshire Hathaway and Iscar Turkey didn't immediately respond to a request for comment from Business Insider.</p><h2>'A business without magic'</h2><p>Berkshire spent $4 billion to buy 80% of Iscar in 2006, and purchased the remaining 20% for another $2 billion in 2013. It was the first company that Buffett bought outside of the US.</p><p>"It's a business without magic except for that imparted by the people who run it," Buffett said in his <a href="https://www.berkshirehathaway.com/letters/2006ltr.pdf" target="_blank">2006 letter to Berkshire shareholders</a>. &#13;
+    </p><p class="htl-ad ">&#13;
+    </p>&#13;
+&#13;
+    <p class="htl-ad ">&#13;
+    </p>&#13;
+<p><strong>Read More:&#160;</strong><a href="https://www.businessinsider.com/investing-outlook-crowded-trades-overweight-underweight-stocks-ubs-asset-managers-2020-10?utm_source=markets&amp;utm_medium=ingest" target="_blank" rel="noopener noreferrer">These are the 10 most crowded trades among global money managers, UBS says. The biggest underweight stocks might surprise you</a></p><p>The Israeli company&#160;specializes in developing tools that make its customers' machines more efficient.</p><p>"Iscar makes money because it enables its customers to make more money," Buffett wrote. "There is no better recipe for continued success."</p><a></a><p>Read the original article on <a href="https://www.businessinsider.com/warren-buffett-berkshire-hathaway-agree-million-settlement-iran-sanctions-iscar-2020-10" target="_blank">Business Insider</a> </p></div>
