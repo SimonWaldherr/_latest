@@ -1,0 +1,48 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ca-times.brightspotcdn.com/dims4/default/59dea86/2147483647/strip/true/crop/2453x1288+247+6/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2Fe2%2F10f6b2a8406a9674e0862ff419d8%2Fla-photos-1staff-632737-sp-dodgers-25-rcg.JPG 
+title: > 
+  Dodgers’ use of Julio Urías goes from abundance of caution to workhorse 
+description: > 
+  If this were 2019, the Dodgers would have given Urías, 24, at least three days and probably four days to recover from such a workload.AdvertisementAfter the Dodgers’ 8-3 Game 1 victory, Roberts named Tony Gonsolin to start Game 2.“It’s going to be a bullpen, whatever kind of game using various arms.”Ace Walker Buehler will start Game 3 on Friday night on regular rest.Ideally, the Dodgers would have Urías start Game 4, which would align him for another possible relief appearance on three days’ rest in Game 7 if the series goes the distance.AdvertisementTony Gonsolin will start Game 2 of the World Series for the Dodgers on Wednesday. 
+keywords: > 
+  abundance, roberts, goes, julio, urías, start, days, caution, series, hes, rest, dodgers, world, game, workhorse 
+date: 1603273881.8548799 
+--- 
+<div><p>The <a class="link" href="https://www.latimes.com/sports/dodgers" target="_blank">Dodgers </a>have removed the last layer of bubble wrap from left-hander Julio Ur&#237;as, the pitching prodigy who was eased into the major leagues as a teenager in 2016 and stamped with a &#8220;fragile: handle-with-care&#8221; label for a solid year after returning from major shoulder surgery in 2018.</p><p>Ur&#237;as threw a career-high 101 pitches over five innings of a 15-3 victory over Atlanta in Game 3 of the National League Championship Series last Wednesday and returned on three days&#8217; rest to record the final nine outs &#8212; throwing 39 pitches &#8212; in <a class="link" href="https://www.latimes.com/sports/dodgers/story/2020-10-18/dodgers-braves-nlcs-game-7-world-series-mlb-season" target="_blank">Sunday night&#8217;s 4-3 Game 7 win over the Braves</a>.</p><p>If this were 2019, the Dodgers would have given Ur&#237;as, 24, at least three days and probably four days to recover from such a workload.</p><p>But Dodgers manager Dave Roberts said before Tuesday night&#8217;s <a class="link" href="https://www.latimes.com/sports/dodgers/story/2020-10-20/dodgers-lineup-for-world-series-game-1-austin-barnes-catch-clayton-kershaw" target="_blank">World Series opener against Tampa Bay</a> that Ur&#237;as was &#8220;available&#8221; in Game 1 and &#8220;certainly an option&#8221; to start Game 2 on Wednesday night.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad41c9ff43-3a46-4595-a8c0-937dcdb58623" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p></p><p></p><p>After the Dodgers&#8217; 8-3 Game 1 victory, Roberts named Tony Gonsolin to start Game 2. The right-hander threw two innings and 41 pitches in Sunday night&#8217;s NLCS clincher, so it is expected to be a short start, with the bullpen pitching the bulk of the game.</p><p>&#8220;If you&#8217;re looking at starters who can potentially take down a lot of innings [Wednesday], we just don&#8217;t have versatility,&#8221; Roberts said. &#8220;It&#8217;s going to be a bullpen, whatever kind of game using various arms.&#8221; </p><p>Ace Walker Buehler will start Game 3 on Friday night on regular rest. Ideally, the Dodgers would have Ur&#237;as start Game 4, which would align him for another possible relief appearance on three days&#8217; rest in Game 7 if the series goes the distance.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adb1dd89ef-9e73-42d3-86ab-90b03b4b13a8" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p></p><p id="nativo_1"></p>
+    
+        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Tony Gonsolin will start Game 2 of the World Series for the Dodgers on Wednesday." width="840" height="560">
+    
+    
+    
+        <p class="figure-caption">Tony Gonsolin will start Game 2 of the World Series for the Dodgers on Wednesday.</p><p class="figure-credit">(David J. Phillip / Associated Press)</p>
+        
+<p>But the fact that the Dodgers were even willing to consider pitching Ur&#237;as on one day of rest Tuesday night or two days&#8217; rest Wednesday night shows how differently they perceive Ur&#237;as, who sometimes chafed at the strict pitch counts and regulated work schedules the team imposed on him.</p><p>&#8220;Yeah, I just think it&#8217;s time,&#8221; Roberts said. &#8220;It&#8217;s taken a long time for us to get to that point [of] him overcoming injury, and I think we&#8217;ve been kind of cautious with him. But right now, he&#8217;s as strong as he&#8217;s ever been, and he&#8217;s got experience. And it certainly helped that he was pretty efficient in Game 7.&#8221;</p><p>Ur&#237;as, speaking through an interpreter Tuesday, said he feels good &#8220;physically and mentally&#8221; and is willing and ready to pitch whenever the Dodgers need him.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adf2a74994-7e22-4a96-aa9b-75415bbabdd2" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>&#8220;As long as I&#8217;m healthy, I will give 100%,&#8221; Ur&#237;as said. &#8220;God&#8217;s timing is perfect. With the way the team has used me, it requires patience. But I was just waiting for my moment, and that [Game 7 save] was my moment.&#8221;</p><p>Ur&#237;as admitted he was a little surprised to be sent out for the ninth inning Sunday night when closer Kenley Jansen was ready in the bullpen. Ur&#237;as needed only 29 pitches to retire the side in order in the seventh and eighth, and Roberts said he wanted to stick with the hot hand.</p><p>&#8220;I would be lying if I didn&#8217;t say it was a bit strange to me, especially knowing that Kenley was out there and recognizing the way he works,&#8221; Ur&#237;as said. &#8220;He&#8217;s a guy who really helps us out.</p><p>&#8220;He sets an example, and if I&#8217;m able to pitch the ninth inning, it&#8217;s because he&#8217;s shown us how to do it, and seeing him do it really helps us. But the moment they told me to go out for the ninth inning, I focused on getting those three outs.&#8221;<br><b><h2 id="baby-steps" class="subhead">Baby steps</h2>
+</b></p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad0751b97c-3031-459f-8c6b-88675c327afa" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>As much of a thrill as it is for AJ Pollock to play in his first World Series, the Dodgers left fielder said the experience is even better because his wife, Kate, and 7-month-old daughter, Maddi, are in Texas to share it with him.</p><p>Maddi was born three months premature March 19 &#8212; she weighed just 1.6 pounds at birth &#8212; and spent her first 128 days in the neonatal intensive care unit of a Phoenix-area hospital dealing with health issues. But Pollock said before Game 1 that Maddi is doing &#8220;great&#8221; and is &#8220;loving life&#8221; in the bubble.</p><p>&#8220;She&#8217;s used to being in a bubble her whole life, so this is no change for her,&#8221; Pollock said. &#8220;She&#8217;s growing, she&#8217;s happy, she&#8217;s smiling. She has no idea what&#8217;s going on. I&#8217;m just loving when I get to come home and play with her.</p><p>&#8220;And she&#8217;s just been a bright spot when you&#8217;re looking to kill some time. It&#8217;s amazing being around her and being able to just do the simple stuff with her in the beginning of the day before I leave for the park.&#8221;</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adcdc8b588-8d2d-4f50-8577-bd059e7b9a86" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p></p><p><b><h2 id="roster-moves" class="subhead">Roster moves</h2>
+</b></p><p>The Dodgers carried the same 15 pitchers and 13 position players on their World Series roster that they did in the NLCS. The Rays opted for 15 position players and 13 pitchers and made two changes from the previous round, replacing right-hander Aaron Slegers and left-hander Jose Alvarado with outfielder Brett Phillips and left-hander Ryan Sherriff, a native of Culver City.</p><p>Tampa Bay manager Kevin Cash said Sherriff, who has held left-handed hitters to a .125 average (six for 48) in his career, will provide another weapon against a Dodgers lineup that features four left-handed sluggers &#8212; Corey Seager, Max Muncy, Cody Bellinger and Joc Pederson.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad859b9a3e-c3c4-44e1-b91b-0162ce20858d" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p><b><h2 id="short-hops" class="subhead">Short hops</h2>
+</b></p><p>Muncy was struck in the face by a baseball while taking grounders at third base during batting practice before Game 1. He walked to the clubhouse for treatment and returned about 10 minutes later to take batting practice, with Roberts saying before the game that Muncy was &#8220;fine.&#8221; &#8230; The Dodgers are in the World Series for the third time in four years, the 63rd time in major league history a team has reached the World Series three times in a four-year span. According to the Elias Sports Bureau, only two teams, the Detroit Tigers from 1907-1909 and the New York Giants from 1911-1913, failed to win a championship.<br></p></div>

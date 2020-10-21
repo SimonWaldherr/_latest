@@ -1,0 +1,18 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static.independent.co.uk/2020/10/21/08/nigeria.jpg 
+title: > 
+  Protesters ‘shot dead' in Lagos as Nigerian army opens fire on anti-police brutality rally 
+description: > 
+  Protesters against police brutality in Nigeria have reportedly been shot dead after soldiers opened fire in Lagos.Amnesty International said it had received credible reports of deaths resulting from "excessive use of force" on protesters in Nigeria's biggest city.Authorities in Lagos said the state government had ordered an investigation into the incident.Reports of deaths came just hours after Lagos state governor Babajide Sanwo-Olu warned the growing protests against police brutality had "degenerated into a monster that is threatening the well-being of our society".Protests continued on Tuesday in many cities including Nigerian capital Abuja, where troops have been deployed. 
+keywords: > 
+  lagos, antipolice, warned, opens, protests, dead, state, ordered, nigerias, rally, protesters, nigeria, inmates, security, brutality, shot, nigerian, army 
+date: 1603273903.6741784 
+--- 
+<div><p class="sc-pHJJA iocNwz above-article-prompt-donations"></p><p>Protesters against <a href="/topic/police-brutality">police brutality</a> in <a href="/topic/nigeria">Nigeria</a> have reportedly been shot dead after soldiers opened fire in <a href="/topic/lagos">Lagos</a>.
+</p><p><a href="/topic/amnesty-international">Amnesty International</a> said it had received credible reports of deaths resulting from "excessive use of force" on protesters in Nigeria's biggest city. &#160;</p><p></p><p>A witness told the BBC he had counted around 20 bodies and at least 50 people injured.
+</p><p></p><p id="article-im-prompt"></p><p>Video broadcast on Nigeria&#8217;s Channels TV appeared to capture audio of shots being fired at the scene.</p><p></p><p>Authorities in Lagos said the state government had ordered an investigation into the incident.
+</p><p>Reports of deaths came just hours after Lagos state governor Babajide Sanwo-Olu <a rel="nofollow" href="https://twitter.com/jidesanwoolu/status/1318504576937578497">warned</a> the growing protests against police brutality had "degenerated into a monster that is threatening the well-being of our society".</p><p>A police statement also had warned that security forces would now "exercise the full powers of the law to prevent any further attempt on lives and property of citizens".</p><p></p><p>The protests began two weeks ago after a video circulated showing a man being beaten, apparently by police officers of the Special Anti-Robbery Squad, known as SARS.
+</p><p>Protesters took to the streets of cities across Nigeria, under the banner #EndSARS. &#160;</p><p>In response, the government announced it would disband the unit, which human rights groups have for several years blamed for widespread abuses, including torture and killings.
+</p><p id="taboola-carousel-thumbnails"></p><p>On Tuesday, authorities said nearly 2,000 prison inmates had broken out after crowds attacked two correctional facilities a day earlier. It was unclear how many inmates were in the prisons before the attacks.</p><p>The police inspector-general said it was deploying anti-riot police across Nigeria, which is Africa's most populous nation, and ordered forces to strengthen security around prisons.</p><p>Protests continued on Tuesday in many cities including <a href="https://www.independent.co.uk/topic/nigeria">Nigerian</a> capital Abuja, where troops have been deployed.</p><p><i>Additional reporting by agencies</i></p><p class="sc-ptCms fzKffT"></p></div>
