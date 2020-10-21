@@ -1,0 +1,28 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-869583494.jpg?w=560 
+title: > 
+  How Yext reinvented itself on its way to going public – TechCrunch 
+description: > 
+  How Yext reinvented itself on its way to going publicLast week, Yext CEO Howard Lerman dropped by Extra Crunch Live for a chat about his former startup, pivoting and becoming the CEO of a public company.Yext, which focuses on business information and enterprise search products, went public in 2017, making it one of the first companies to demo at a TechCrunch event and eventually list.What happened next was “a little complicated” in Lerman’s own words, but Yext started a new company “under the old company,” sold the old company to IAC (TechCrunch coverage here).That money went to “the balance sheet of NewCo,” and Yext built “this whole new idea to synchronize information across the web.What’s fascinating about the Yext story is how the company has reinvented itself a few times, all while scaling before and after its IPO. 
+keywords: > 
+  public, million, business, week, company, way, yext, reinvented, going, lerman, techcrunch, went, product, powerlistings, information 
+date: 1603294081.3830056 
+--- 
+<div><p>How Yext reinvented itself on its way to going public</p><p id="speakable-summary">Last week, <a href="http://yext.com">Yext</a> CEO Howard Lerman dropped <a href="https://techcrunch.com/2020/04/16/announcing-the-extra-crunch-live-event-series/">by Extra Crunch Live</a> for a chat about his former startup, pivoting and becoming the CEO of a public company.</p>
+<p><a class="crunchbase-link" href="https://crunchbase.com/organization/yext" target="_blank">Yext, </a> which focuses on business information and enterprise search products, <a href="https://techcrunch.com/2017/03/13/new-york-based-yext-files-for-ipo/">went public in 2017</a>, making it one of the first companies to demo at a TechCrunch event and eventually list.</p>
+<p>The full recording is embedded below, along with a number of at-length quotes if you prefer to read. But here, above the paywall, I wanted to share my favorite bit from the conversation.</p>
+<p>It&#8217;s about how Yext got into the business information game &#8212; what it calls PowerListings &#8212; from its product roots from around the time it raised <a href="https://techcrunch.com/2009/10/01/the-25-million-demo-yext-scores-a-big-round-from-ivp-after-techcrunch50-debut/">a $25 million Series C</a>.</p>
+<p>Back at <a href="http://techcrunch.com/2009/09/14/tc50-yext-offers-local-businesses-a-smart-inbox-for-phone-calls/">the TechCrunch50 event</a>, Yext demoed a service that could record and transcribe phone calls and provide some extra analysis. Here&#8217;s how Lerman described the moment (quotes tidied up for readability):</p>
+<blockquote><p>I launched this at TechCrunch50 in 2009, we actually had a really cool technology. We figured out a way [&#8230;] where we could put a tracked phone number on a business listing, record it, transcribe it [and] then run a semantic analysis on the call to determine &#8216;was it a good call or not?&#8217;</p></blockquote>
+<p>That demoed product worked well for Yext, as Lerman explained:</p>
+<blockquote><p>Within nine days of this launch, of actually putting this out there, we had a $25 million round from IVP.</p></blockquote>
+<p>At the time Yext put together a $20 million business that Lerman said was built &#8220;very quickly.&#8221; But, he continued, things went sideways from there:</p>
+<blockquote><p>At the same time, it turned out that that was not a very good business model to scale to 100 million of revenue &#8212; and beyond. And I learned that probably six months after [and] you&#8217;ve got to be intellectually honest with yourself. You see this happening: you see the churn, you see the customer acquisition costs happening, and I was faced with the choice. And one of the things that I think we did that was commendable was we started an entirely new business within the existing cap table of this company. And to this very day, we have some of the same shareholders that were with us in 2008.</p></blockquote>
+<p>What happened next was &#8220;a little complicated&#8221; in Lerman&#8217;s own words, but Yext started a new company &#8220;under the old company,&#8221; sold the old company to IAC (<a href="https://techcrunch.com/2012/08/20/iac-buys-yexts-pay-per-call-ad-business-felix-for-around-30-million/">TechCrunch coverage here</a>). That money went to &#8220;the balance sheet of NewCo,&#8221; and Yext built &#8220;this whole new idea to synchronize information across the web. And that was the PowerListings franchise [which] was the foundation of what we have to this very day.&#8221;</p>
+<p>Yext has a big focus on search today, but PowerListings is still part of its product family.</p>
+<p>What&#8217;s fascinating about the Yext story is how the company has reinvented itself a few times, all while scaling before and after its IPO. Usually we read about business stories that are oversimplified. The Yext story makes it clear that even a few changes don&#8217;t mean that something is wrong. You can shake up your startup and still go public.</p>
+<p>If you need some help getting past the paywall, <a href="https://techcrunch.com/subscribe/?tpcc=yextpost">head here</a>. Else, carry on and hit play on the video and enjoy the quotes.</p>
+<p>Extra Crunch Live continues this week, with more VCs and founders swinging by for long, in-depth chats.</p>
+<h2>Howard Lerman<p class="extra-crunch-offer-container"></p>			</h2></div>
