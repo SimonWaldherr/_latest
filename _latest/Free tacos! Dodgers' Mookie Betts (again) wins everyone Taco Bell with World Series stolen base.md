@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.gannett-cdn.com/presto/2020/10/21/USAT/ea1ddaff-7cc7-48f0-8114-a38da91095ba-USP_MLB__World_Series-Tampa_Bay_Rays_at_Los_Angele.jpg?crop=2216,1247,x0,y0&width=2216&height=1247&format=pjpg&auto=webp 
+title: > 
+  Free tacos! Dodgers' Mookie Betts (again) wins everyone Taco Bell with World Series stolen base 
+description: > 
+  For the second time in three years, Mookie Betts has won free tacos for America.Taco Bell's annual "Steal a Base, Steal a Taco" promotion has been a great success through the years, setting Twitter ablaze anticipating the first stolen base of the World Series – which earns everyone a free Doritos Locos taco.An inning earlier, fans – and the announcers – thought the tacos were in the bag when the Dodgers' Chris Taylor slid safely ahead of a tag into second base.However, it was deemed a wild pitch rather than a stolen base.The free tacos will be available in restaurants on Oct. 28. 
+keywords: > 
+  world, second, series, base, free, taco, wins, betts, steal, stolen, tacos, dodgers, mookie, inning 
+date: 1603250102.1579564 
+--- 
+<div><p class="teal-video-wrap"></p><p class="gnt_em_vt"></p><p class="gnt_em_vb gnt_em_vb__te"></p><p class="gnt_ar_b_p">For the second time in three years, Mookie Betts has won free tacos for America.</p><p class="gnt_ar_b_p">Taco Bell's annual&#160;"Steal a Base, Steal a Taco" promotion has been a <a href="https://www.usatoday.com/story/money/food/2020/10/19/taco-bell-world-series-2020-free-tacos-stolen-base-dodgers-rays/3702750001/" target="_blank" rel="noopener" class="gnt_ar_b_a">great success through the years</a>, setting Twitter ablaze anticipating the first stolen base of the World Series &#8211; which earns everyone a free Doritos Locos taco.</p><p class="gnt_ar_b_p">The Los Angeles Dodgers outfielder stole second base in the fifth inning of Game 1 against the Tampa Bay Rays on Tuesday, two years after his steal in the 2018 World Series triggered the freebie. Betts was then a member of the Boston Red Sox, facing the Dodgers.</p><p class="gnt_ar_b_p">An inning earlier, fans &#8211; and the announcers &#8211; thought the tacos were in the bag when the Dodgers'&#160;Chris Taylor slid safely ahead of a tag into second base. However, it was deemed a wild pitch rather than a stolen base.</p><p class="gnt_ar_b_p">The free tacos will be available in restaurants on Oct. 28.</p><a class="gnt_em gnt_em__lp gnt_em_gl gnt_em__el" href="/picture-gallery/sports/mlb/2020/10/20/2020-world-series-photos-dodgers-rays/5998279002/"><img class="gnt_em_gl_i" alt="" width="660" height="372"><p class="gnt_em_gl_i_nt"></p><p class="gnt_em_gl_vg"></p><p class="gnt_em_t gnt_em_t__hb"></p></a></div>
