@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i2-prod.mirror.co.uk/incoming/article22871683.ece/ALTERNATES/s1200/1_Coronavirus-in-Britain-London-United-Kingdom-14-Oct-2020.jpg 
+title: > 
+  Coronavirus LIVE: Boris Johnson confirms fate of Manchester's £60m lockdown fund at PMQs 
+description: > 
+  Boris Johnson confirmed during PMQs today that Greater Manchester will receive £60m to support businesses and households who will suffer during the Tier 3 lockdown.The Prime Minister said the money will still be distributed to individual boroughs after talks with the wider region collapsed yesterday.Mayor Andy Burnham reacted with fury at a press conference yesterday after talks collapsed with Tier 3 to be imposed from Friday.Meanwhile, South Yorkshire will also be placed into Tier 3 coronavirus restrictions, taking the total in England under the strictest rules up to roughly seven million from this weekend.Get all the updates on coronavirus in the UK and across the world throughout the day below 
+keywords: > 
+  pmqs, live, confirms, million, lockdown, coronavirus, tier, fund, fate, come, south, johnson, restrictions, talks, support, yorkshire, boris, collapsed, manchesters 
+date: 1603283254.4434006 
+--- 
+<div><p>Boris Johnson confirmed during PMQs today that Greater Manchester will receive &#163;60m to support businesses and households who will suffer during the Tier 3 lockdown. </p> <p>The Prime Minister said the money will still be distributed to individual boroughs after talks with the wider region collapsed yesterday.</p> <p>The Government's funding for areas under the highest restrictions has come under intense scrutiny. </p> <p>Mayor Andy Burnham reacted with fury at a press conference yesterday after talks collapsed with Tier 3 to be imposed from Friday. </p> <p>Meanwhile, South Yorkshire will also be placed into Tier 3 coronavirus restrictions, taking the total in England under the strictest rules up to roughly seven million from this weekend.</p> <p>Regional Dan Jarvis said: "Following extensive discussions with ministers, local council leaders and I have agreed with Government that South Yorkshire will move into Tier 3, the 'very high' alert level for coronavirus restrictions."</p> <p>He said the restrictions, which will cover around 1.4 million people in Barnsley, Doncaster, Rotherham and Sheffield, will come into force on Saturday morning after a &#163;41m support package from the Government was agreed.</p> <p><strong> Get all the updates on coronavirus in the UK and across the world throughout the day below </strong></p></div>

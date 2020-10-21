@@ -1,0 +1,22 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2015/06/30-swift-goes-open-source.jpg?w=600 
+title: > 
+  Study finds most big open-source startups outside Bay Area, many European, and avoiding VC – TechCrunch 
+description: > 
+  Over 90% of the fastest-growing open-source companies in 2020 were founded outside the San Francisco Bay Area, and 12 out of the top 20 originate in Europe, according to a new study.The “ROSS Index”, created by Runa Capital lists the fastest-growing open-source startups with public repositories on Github every quarter.Admittedly, ‘Github stars’ are not a totally perfect metric to measure the product-market fit of open-source companies.In September 2020 Accel revealed its Open100 market map, which included many open-source startups.It has invested in several open-source startups, including Nginx (acquired by F5 Networks for $670M), MariaDB and N8N, and recently raised a $157M fund aimed at open-source startups. 
+keywords: > 
+  web, 2020, startups, outside, github, techcrunch, fastestgrowing, big, vc, index, european, list, venture, finds, companies, bay, opensource, study 
+date: 1603283260.2526088 
+--- 
+<div><p id="speakable-summary">Over 90% of the fastest-growing open-source companies in 2020 were founded outside the San Francisco Bay Area, and 12 out of the top 20 originate in Europe, according to a new study. The &#8220;<a href="https://runacap.com/ross-index/">ROSS Index</a>&#8221;, created by <a href="https://www.crunchbase.com/organization/runa-capital">Runa Capital</a> lists the fastest-growing open-source startups with public repositories on Github every quarter.</p>
+<p>Interestingly, the company judged to be the fastest-growing on the latest list, <a href="https://plausible.io/about">Plausible</a>, is an &#8216;open startup&#8217; (all its metrics are published, including revenues) and states on its website that it is &#8220;not interested in raising funds or taking investment. Not from individuals, not from institutions and not from venture capitalists. Our business model has nothing to do with collecting and analyzing huge amounts of personal information from web users and using these behavioral insights to sell advertisements.&#8221; It says it builds a self-sustainable &#8220;privacy-friendly alternative to very popular and widely used surveillance capitalism web analytics tools&#8221;.</p>
+<p>Admittedly, &#8216;Github stars&#8217; are not a totally perfect metric to measure the product-market fit of open-source companies. However, the research shows a possible interesting trend away from the VC-backed startups of the last ten years.</p><p class="piano-inline-promo"></p>
+<p>There have been previous attempts to create similar lists. In 2017 <a class="crunchbase-link" href="https://crunchbase.com/organization/battery-ventures" target="_blank">Battery Ventures </a> published its own BOSS Index, but the index was abandoned. In September 2020 <a href="https://www.accel.com/noteworthy/the-future-of-open-source-launching-the-open100">Accel revealed its Open100 market map</a>, which included many open-source startups.</p>
+<p>This list of companies is likely to will change significantly every quarter, however, since maintaining a very high growth rate on Github for several quarters is rare. That&#8217;s why the participants of the ROOS Index will likely change frequently.</p>
+<p>For instance, this recent finding by ROOS has only four companies that were mentioned in the previous list (Q2 2020): <a href="https://www.crunchbase.com/organization/hugging-face">Hugging Face</a>, Meili, <a href="https://www.crunchbase.com/organization/prisma-io">Prisma</a> and <a href="https://www.crunchbase.com/organization/framer">Framer</a>.</p>
+<p>Of course, open-source doesn&#8217;t mean these companies will never monetize or not go on to raise venture capital.<br>
+&#8232;<br>
+And <a class="crunchbase-link" href="https://crunchbase.com/organization/runa-capital" target="_blank">Runa Capital </a> clearly has an interest in publishing the list. It has invested in several open-source startups, including Nginx (acquired by F5 Networks for $670M), MariaDB and N8N, and recently raised a $157M fund aimed at open-source startups.</p>
+			</div>

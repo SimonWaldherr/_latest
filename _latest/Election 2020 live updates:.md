@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JODGVXQTM4I6XISYMFFM6K4QNU.jpg&w=1440 
+title: > 
+  Election 2020 live updates: 
+description: > 
+  Biden entered October with nearly three times as much cash as Trump, amassing a major financial advantage for his campaign committee thanks to an injection of cash from Democratic donors in the final sprint to Election Day.Biden’s campaign committee entered October with an estimated $180 million, compared with Trump’s $63 million, according to federal filings made public Tuesday night — a dramatic reversal in financial resources that unfolded in recent months as Democratic donors in September poured a record amount of money into supporting Biden.The latest figures reveal the scale of the money imbalance in the final month of the campaign and the extent of the Trump campaign’s financial woes, which have coincided with his drop in the polls over his handling of the novel coronavirus.An increasing number of donors have met the maximum amount they can contribute to the Trump campaign, and the campaign in recent months has maintained a virtual fundraising schedule that has been less aggressive than Biden’s. 
+keywords: > 
+  live, 2020, trump, million, final, entered, money, campaign, updates, months, election, donors, financial, recent 
+date: 1603283202.5114224 
+--- 
+<div><p>Biden entered October with nearly three times as much cash as Trump, amassing a major financial advantage for his campaign committee thanks to an injection of cash from Democratic donors in the final sprint to Election Day.</p><p>Biden&#8217;s campaign committee entered October with an estimated $180 million, compared with Trump&#8217;s $63 million, according to federal filings made public Tuesday night &#8212; a dramatic reversal in financial resources that unfolded in recent months as Democratic donors in September poured a record amount of money into supporting Biden.</p><p class="font--body font-copy gray-darkest ma-0 pb-md ">The latest figures reveal the scale of the money imbalance in the final month of the campaign and the extent of the Trump campaign&#8217;s financial woes, which have coincided with his drop in the polls over his handling of the novel <a href="https://www.washingtonpost.com/coronavirus/?itid=lk_inline_manual_4&amp;itid=lk_inline_manual_41">coronavirus</a>. An increasing number of donors have met the maximum amount they can contribute to the Trump campaign, and the campaign in recent months has maintained a virtual fundraising schedule that has been less aggressive than Biden&#8217;s.</p></div>
