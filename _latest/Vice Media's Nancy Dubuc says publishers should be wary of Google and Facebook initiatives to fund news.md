@@ -1,0 +1,27 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f9052e1212113001873fe73?width=1200&format=jpeg 
+title: > 
+  Vice Media's Nancy Dubuc says publishers should be wary of Google and Facebook initiatives to fund news 
+description: > 
+  Google and Facebook have been forking over money to news publishers, but Vice Media CEO Nancy Dubuc said publishers should be wary of those moves.Google and Facebook talk about billion-dollar efforts to funnel money to media companies, but Vice Media CEO Nancy Dubuc says publishers should be wary of those initiatives.Facebook has also paid publishers, including Business Insider, for supplying news and video content like Facebook Watch shows.Dubuc also spoke about how the digital media company is diversifying its revenue and the future of ad-supported business models.Similar to other publishers, Vice Media laid off staff May, impacting 5% of its headcount. 
+keywords: > 
+  media, business, company, facebook, medias, google, dubuc, advertising, vice, publishers, value, initiatives, fund, nancy, wary 
+date: 1603298927.5733104 
+--- 
+<div><ul class="summary-list">
+<li>Google and Facebook have been forking over money to news publishers, but Vice Media CEO Nancy Dubuc said publishers should be wary of those moves.</li>
+<li>Speaking at Business Insider's Global Trends Festival on Tuesday, Dubuc argued that the $1 billion Google pledged is not significant for the media industry and that it's unclear what criteria the tech company is using to feature publishers.</li>
+<li>She also spoke about how she's diversifying Vice Media's revenue beyond advertising, preparing the company to weather the advertising hit from the pandemic.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-media-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-media-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Google and Facebook talk about billion-dollar efforts to funnel money to media companies, but Vice Media CEO Nancy Dubuc says publishers should be wary of those initiatives.</p><p>"The intention is good, but we've got to move beyond intention and into real transformation," she said during Business Insider's <a href="https://trendsfestival.com/en/schedule.html">Global Trends Festival</a> on Tuesday.&#160;</p><p>Google recently announced plans to <a href="https://www.wsj.com/articles/google-pledges-1-billion-in-licensing-payments-to-news-publishers-11601546401">pay publishers more than $1 billion over the next three years</a> to use and license content for a product called Google News Showcase that show snippets of news stories. <a href="https://www.businessinsider.com/facebook-is-building-a-dedicated-news-tab-for-publishers-2019-6">Facebook has also paid publishers</a>, including Business Insider, for supplying news and video content like Facebook Watch shows.</p><p>Dubuc argued that Google's investment is not significant based on the size of the media industry and the tech company. She also said that the criteria to be featured in Google's Showcase is not clear and that there isn't a straight value exchange for publishers. At the same time, Google's initiatives help Google grow, she said.</p><p>"There is no transparency, so we can keep having these conversations and we want to be good partners. Historically we've had a great relationship with YouTube and Google &#8212; but what is the value exchange for the information that these companies are gaining to build their algorithm and products off of their learnings from [media] companies?" she said. "They're able to continue to launch new products and gain exponential size and momentum based on what we're making but not having any transparency. I think there's an imbalance in the value equation that no longer feels right."</p><p>Dubuc also spoke about how the digital media company is diversifying its revenue and the future of ad-supported business models.</p><p>One of her biggest mandates since joining Vice Media in 2018, replacing Shane Smith, has been to diversify revenue beyond advertising, to the likes of video and TV deals.</p><p>"We were fortunate enough to see digital and advertising headwinds long before this year," she said. "The challenge is making sure you have an innovative, adaptable, and flexible organization and that you have the right type of diversification."</p>
+<p id="gpt-post-media-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-media-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>She said that effort has helped Vice weather a rocky advertising market this year as advertisers slashed ad budgets at the beginning of the coronavirus and <a href="https://www.businessinsider.com/integral-ad-science-doubleverify-help-brands-avoid-coronavirus-news-2020-3">blocked ads from appearing on stories about the coronavirus and protests</a>. Similar to other publishers, Vice Media laid off staff May, <a href="https://techcrunch.com/2020/05/15/vice-lays-off-155-as-covid-19-continues-to-slam-media-revenue/">impacting 5% of its headcount.</a></p><p>"News consumption is increasing [but] it doesn't mean necessarily that the monetization of that consumption has caught up," Dubuc said.</p><p>&#160;</p>
+                  </div>

@@ -1,0 +1,27 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f8ee78d9e9fe4001900a4a3?width=1200&format=jpeg 
+title: > 
+  Malls' survival depends on them getting a better mix of stores and making them more interesting to shoppers, the CEO of one major operator says 
+description: > 
+  Lou Conforti, the CEO of Washington Prime Group, says that malls have become "a lazy a-- business."He said that in order to survive, malls need to diversify their tenant base and think about innovative ways to bring in potential customers.Lou Conforti, the CEO of mall operator Washington Prime Group, says the mall business has gotten "lazy" over the years.The fix, Conforti said, is getting malls to host a mix of stores that better serve shoppers' needs.This summer, Washington Prime hosted a series of socially distanced exercise classes as well as a drive-in movie series in some of its parking lots. 
+keywords: > 
+  conforti, malls, lazy, interesting, survival, space, washington, mall, major, need, group, shoppers, mix, prime, getting, making, operator, stores, tenants 
+date: 1603298928.1751585 
+--- 
+<div><ul class="summary-list">
+<li>Lou Conforti, the CEO of Washington Prime Group, says that malls have become "a lazy a-- business."&#160;</li>
+<li>He said that in order to survive, malls need to diversify their tenant base and think about innovative ways to bring in potential customers.&#160;</li>
+<li>"I used to joke when I would speak at conferences and say, 'Unless four out of 10 of us are wearing Victoria's Secret undergarments, we're way too long that category,'" Conforti said.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-retail-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-retail-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Lou Conforti, the CEO of mall operator Washington Prime Group, says the mall business has gotten "lazy" over the years.&#160;</p><p>"This has been a very passive industry," Conforti said in a <a href="https://www.businessinsider.com/malls-lazy-need-innovation-new-tenants-washington-prime-ceo-2020-10">recent interview</a> with Business Insider. "We were rent collectors versus problem solvers or curators."&#160;</p><p>Conforti doesn't even like to use the word "mall" because of its "negative connotation" that they are all doomed. He prefers "retail venue" instead.</p><p><a href="https://www.cnbc.com/2020/10/15/mall-values-could-b.html">Industry experts predict that hundreds of malls will close</a> in the coming years as retail bankruptcies lead to store closures and put pressure on shopping centers to fill empty space.&#160;The fix, Conforti said, is getting malls to host a mix of stores that better serve shoppers' needs.</p><p>He pointed to a company analysis from several years ago that found that 43% of Washington Prime's inline tenants &#8212; which excludes department stores &#8212; were junior clothing and accessories.&#160;</p><p>"I used to joke when I would speak at conferences and say, 'unless four out of 10 of us are wearing Victoria's Secret undergarments, we're way too long that category,'" Conforti said. "It was just a lazy a-- business."&#160;</p><p>"It's just imperative that we diversify our tenancy," he added.&#160;</p><p>Malls also need to make more active changes to survive the current consumer climate. A big part of that is coming up with unique, innovative ways to draw potential shopperes to properties.&#160;</p>
+<p id="gpt-post-retail-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-retail-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>At the beginning of the year, <a href="https://www.businessinsider.com/malls-lazy-need-innovation-new-tenants-washington-prime-ceo-2020-10">Washington Prime launched a new initiative</a> called Fulventory, offering its tenants the ability to turn empty mall spaces into fulfillment centers and allow customers to buy online and pickup or return in-store. Existing mall tenants can also use the space to run clearance sales on excess inventory.&#160;</p><p>This summer, Washington Prime hosted a series of&#160;<a href="https://investor.washingtonprime.com/investor-relations/news-and-views/news/news-details/2020/Summer-Sweat-Series-Promotes-Physical-and-Mental-Wellbeing-at-Washington-Prime-Group-Town-Centers-/default.aspx">socially distanced exercise classes</a>&#160;as well as a&#160;<a href="https://investor.washingtonprime.com/investor-relations/news-and-views/news/news-details/2020/Washington-Prime-Group-Brings-Community-Together-with-Cinema-Under-the-Stars/default.aspx">drive-in movie series</a>&#160;in some of its parking lots.&#160;It also struck a deal to bring Amazon Lockers to a number of its properties in 2016.</p><p>The company's portfolio includes a mix of open-air and traditional enclosed shopping centers. It was spun off from Simon Property Group in 2014.&#160;</p><p>Going forward, Conforti said, Washington Prime's mission is to "provide installations, activities, events, and then provide relevant, adaptive reuse, and then just respect our demographic constituencies via relevant goods and services."&#160;&#160;</p><p>"We need to have a lot of dynamism in this space," he added. "So we beta test the s--- out of stuff."</p>
+                  </div>

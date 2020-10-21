@@ -1,0 +1,30 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f904263d25aab0018402c73?format=jpeg 
+title: > 
+  Social media stocks Pinterest, Twitter, and Facebook surge after Snap crushes earnings expectations 
+description: > 
+  Xinhua/Wang Ying/ Getty ImagesSocial media stocks surged on Wednesday after Snap reported third quarter earnings that crushed analyst expectations.Social media stocks surged on Wednesday following Snap's blockbuster third quarter earnings report that bested analyst expectations.Here's where six Wall Street analysts expect Snap to go following its strong earnings report.Besides Snap's strong earnings report, Pinterest benefited from analyst upgrades from Bank of America and Goldman Sachs.Pinterest, Twitter, and Facebook are expected to report third quarter earnings results next week. 
+keywords: > 
+  surge, media, earnings, trades, report, snaps, strong, facebook, twitter, surged, social, stocks, pinterest, snap, quarter, expectations 
+date: 1603298928.5133276 
+--- 
+<div>&#13;
+	<img alt="trader, NYSE" height="1000" width="2000" charset="" class="img-responsive imported-news-entry-img" src="https://i.insider.com/5f904263d25aab0018402c73?format=jpeg">&#13;
+&#13;
+<p class="copyright">Xinhua/Wang Ying/ Getty Images</p>&#13;
+&#13;
+<ul><li><strong>Social media stocks surged on Wednesday after Snap reported third quarter earnings that crushed analyst expectations.&#160;</strong></li><li><strong>Pinterest, Twitter, and Facebook all moved higher as the readthrough from Snap's earnings report was that advertisers are increasingly switching to digital platforms with strong user engagement.</strong></li><li><strong>Pinterest's double-digit surge on Wednesday could also be driven by analyst upgrades from Bank of America and Goldman Sachs.</strong></li><li><strong><a href="https://www.businessinsider.com/international?utm_source=markets&amp;utm_medium=ingest?utm_source=markets&amp;utm_medium=ingest" target="_blank" rel="noopener">Visit Business Insider's homepage for more stories</a>.</strong></li></ul><p>Social media stocks surged on Wednesday following <a href="https://markets.businessinsider.com/news/stocks/snap-stock-price-soars-snapchat-smashes-profit-user-growth-forecasts-2020-10-1029703487?utm_source=markets&amp;utm_medium=ingest" target="_blank">Snap's blockbuster third quarter earnings report</a> that bested analyst expectations.</p><p><a href="https://markets.businessinsider.com/stocks/snap-stock?utm_source=markets&amp;utm_medium=ingest" target="_blank">Snap</a> surged as much as 35% to $38.49 in Wednesday trades. Here's where <a href="https://markets.businessinsider.com/news/stocks/snap-q3-earnings-stock-analysts-raised-price-target-reaction-commentary-2020-10-1029705206?utm_source=markets&amp;utm_medium=ingest" target="_blank">six Wall Street analysts expect Snap to go</a>&#160;following its strong earnings report.&#160;</p><p><a href="https://markets.businessinsider.com/stocks/pins-stock?utm_source=markets&amp;utm_medium=ingest" target="_blank">Pinterest</a>, <a href="https://markets.businessinsider.com/stocks/twtr-stock?utm_source=markets&amp;utm_medium=ingest" target="_blank">Twitter</a>, and <a href="https://markets.businessinsider.com/stocks/fb-stock?utm_source=markets&amp;utm_medium=ingest" target="_blank">Facebook</a> moved substantially higher as the readthrough from Snap's earnings report was that advertisers are increasingly moving their spend to digital platforms with strong user engagement.</p><p>"Our field checks, along with&#160;Snap's 3Q results, suggest that advertiser demand strengthened over the course of the quarter, particularly for smaller platforms like Pinterest, Twitter, and Snap," Goldman Sachs said in a note on Wednesday. &#13;
+    </p><p class="htl-ad ">&#13;
+    </p>&#13;
+&#13;
+    <p class="htl-ad ">&#13;
+    </p>&#13;
+<p><strong>Read More:</strong>&#160;<a href="https://www.businessinsider.com/investors-cybersecurity-startups-kleiner-bain-netskope-biocatch-2020-10?utm_source=markets&amp;utm_medium=ingest?utm_source=markets&amp;utm_medium=ingest?utm_source=markets&amp;utm_medium=ingest" target="_blank" rel="noopener noreferrer">Investors are pouring money into 'zero-trust' startups that help catch hackers in the act - here's where 5 insiders are placing their bets</a></p><p>Pinterest jumped as much as 15% in Wednesday trades to record highs. Besides Snap's strong earnings report, Pinterest benefited from analyst upgrades from Bank of America and Goldman Sachs.&#160;</p><p>Goldman said Pinterest could surge an additional 22% from current levels to $61 as the social media company benefits from monetization and user momentum.</p><p>Bank of America said Pinterest could surge 16% from current levels to $58 as it is well positioned to benefit from the inflection of more advertising spend being shifted to online.&#160;</p><p>Twitter surged as much as 9% in Wednesday trades, as investors viewed Snap's earnings as a positive for other social media platforms. &#13;
+    </p><p class="htl-ad ">&#13;
+    </p>&#13;
+&#13;
+    <p class="htl-ad ">&#13;
+    </p>&#13;
+<p>Facebook continued to shrug off <a href="https://www.businessinsider.com/doj-google-antitrust-case-revealed-2020-10?utm_source=markets&amp;utm_medium=ingest" target="_blank">the DOJ antitrust lawsuit that was leveled against Google</a> on Tuesday, and surged as much as 6% to $283.05 in Wednesday trades. Facebook, like other mega-cap tech companies, is being probed by the FTC for antitrust violations.&#160;</p><p>Pinterest, Twitter, and Facebook are expected to report third quarter earnings results next week.&#160;</p><a></a><p>Read the original article on <a href="https://www.businessinsider.com/social-media-stocks-pinterest-twitter-facebook-price-snap-earnings-upgrade-2020-10" target="_blank">Business Insider</a> </p></div>
