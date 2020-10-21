@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/images/photos/003/889/371/hi-res-78bd0ac2fc167f97d39da52b8fbefc14_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  Ryan Fitzpatrick Talks Benching for Tua Tagovailoa, Says It 'Broke His Heart' 
+description: > 
+  Lynne Sladky/Associated PressSo much for the Miami Dolphins and Ryan Fitzpatrick having a mutual understanding on Tua Tagovailoa's takeover of the starting quarterback job.Fitzpatrick met with reporters Wednesday and laid bare his emotions after being benched, saying the decision "broke his heart."It was a hard thing for me to hear yesterday, just digesting the news.My heart just hurt all day," Fitzpatrick said.Get the best sports content from the web and social in the new B/R app. 
+keywords: > 
+  app, heart, ryan, web, understanding, broke, tagovailoa, benching, tua, thing, fitzpatrick, talks, takeover, updated, tagovailoas, yesterday 
+date: 1603304627.364831 
+--- 
+<div><p></p><img alt="Miami Dolphins quarterback Ryan Fitzpatrick (14) looks to pass the ball during the first half of an NFL football game against the New York Jets, Sunday, Oct. 18, 2020, in Miami Gardens, Fla. (AP Photo/Lynne Sladky)" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Lynne Sladky/Associated Press</p><p class="">So much for the <a href="http://bleacherreport.com/miami-dolphins">Miami Dolphins</a> and <a href="http://bleacherreport.com/ryan-fitzpatrick">Ryan Fitzpatrick</a> having a mutual understanding on Tua Tagovailoa's takeover of the starting quarterback job.</p><p class="">Fitzpatrick <a href="https://twitter.com/CameronWolfe/status/1318965865526792196" target="_blank" rel="noopener noreferrer">met with reporters</a> Wednesday and laid bare his emotions after being benched, saying the decision "broke his heart."</p><p class=""> "I was shocked by it. It definitely caught me off guard. It was a hard thing for me to hear yesterday, just digesting the news. My heart just hurt all day," Fitzpatrick <a href="https://twitter.com/ArmandoSalguero/status/1318965313296388097" target="_blank" rel="noopener noreferrer">said</a>.</p><p class="">&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;</p><p class="">This article will be updated to provide more information soon.</p><p class="">Get the best sports content from the web and social in the&#160;<a href="http://www.bleacherreport.com/mobile?_branch_match_id=223297926359744871" target="_blank" rel="noopener noreferrer">new B/R app</a>. Get the app and get the game.</p></div>

@@ -1,0 +1,26 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f905e89212113001873feb9?width=1200&format=jpeg 
+title: > 
+  A slim majority of Americans now support confirming Amy Coney Barrett, including 32% of Democratic voters, new poll shows 
+description: > 
+  A slim majority of voters, including 32% of Democrats, now say the Senate should vote to confirm Amy Coney Barrett to the Supreme Court, according to a new Morning Consult poll.51% of voters said the Senate should confirm Barrett, the poll found, a 14 percentage point increase since late September.A slim majority of US voters now support confirming Amy Coney Barrett to the Supreme Court, according to a new Morning Consult poll.Overall, 51% of voters said the Senate should vote to confirm Barrett, while 28% said the Senate should not vote to confirm her.After Ruth Bader Ginsburg died in September, President Donald Trump nominated Barrett to fill the late justice's seat. 
+keywords: > 
+  supreme, court, democratic, shows, support, confirming, democrats, vote, coney, majority, barrett, slim, nominated, including, voters, confirmation, confirm, senate, poll 
+date: 1603304632.6073658 
+--- 
+<div><ul class="summary-list">
+<li>A slim majority of voters, including 32% of Democrats, now say the Senate should vote to confirm Amy Coney Barrett to the Supreme Court, according to a new Morning Consult poll.</li>
+<li>51% of voters said the Senate should confirm Barrett, the poll found, a 14 percentage point increase since late September.&#160;</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>A slim majority of US voters now support confirming Amy Coney Barrett to the Supreme Court, according to <a href="https://morningconsult.com/2020/10/21/supreme-court-hearings-barrett-confirmation-polling/">a new Morning Consult poll.</a></p><p>Voters were asked whether the Senate should vote to confirm Barrett's nomination to the high court. Overall, 51% of voters said the Senate should vote to confirm Barrett, while 28% said the Senate should not vote to confirm her. This represents a 14 percentage point rise in support for Barrett's confirmation since she was nominated to the Supreme Court on September 26, according to Morning Consult's polling.</p><p>The percentage of Democrats supporting Barrett's confirmation has more than doubled since she was nominated in late September, the polling showed.&#160;</p><p>On September 26, just 14% of Democrats said the Senate should confirm Barrett. The share of Democrats who now say the Senate should confirm Barrett has risen to 32% &#8212; an 18 percentage point jump. Meanwhile, 48% of Democrats still say the Senate should not vote to confirm her.&#160;</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>The vast majority of Republicans (79%) said the Senate should vote to confirm Barrett. Support among GOP voters for Barrett's confirmation has steadily risen since she was nominated, rising eight percentage points overall from September 26 to now.&#160;</p><p>The rise in support for Barrett among voters, including Democrats, suggests that the Supreme Court nominee's performance during her confirmation hearings earned the backing of a significant chunk of Americans. However, Barrett was also heavily criticized by congressional Democrats during the hearings for <a href="https://www.businessinsider.com/barrett-evaded-questions-so-gop-senators-answered-for-her-2020-10">her evasiveness during questioning</a>, and general refusal to share her positions on <a href="https://www.businessinsider.com/barrett-wont-say-presidents-should-commit-peaceful-transfer-of-power-2020-10">an array of issues</a>.&#160;</p><p>After Ruth Bader Ginsburg died in September, President Donald Trump nominated Barrett to fill the late justice's seat. The move immediately prompted criticism from Democrats given the proximity of her nomination to the 2020 election. In 2016, Senate Republicans blocked President Barack Obama's nominee to the Supreme Court, Merrick Garland, on the basis it came too close to the election. Republicans, who controlled the Senate at the time, did not even hold confirmation hearings for Garland.&#160;</p><p>Garland was nominated 237 days before the 2016 election. Comparatively, Barrett was nominated 38 days before Election Day in 2020, and Republicans have rushed to see her confirmed with Trump trailing former Vice President Joe Biden in national polls. The Senate is poised to hold a confirmation vote for Barrett on Monday. With a 53-47 majority in the Senate, the GOP is expected to easily confirm Barrett to the nation's highest court.</p>
+                  </div>

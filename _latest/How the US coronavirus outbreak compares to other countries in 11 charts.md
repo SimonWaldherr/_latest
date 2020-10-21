@@ -1,0 +1,54 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f9064af212113001873fef0?width=1200&format=jpeg 
+title: > 
+  How the US coronavirus outbreak compares to other countries in 11 charts 
+description: > 
+  The United States has the most coronavirus cases and deaths of any country in the world.Here's how the nation's coronavirus outbreak compares to other countries on 11 key metrics.But a stronger way to compare coronavirus infections and deaths between countries is to look at the figures per capita.As cases climb, deaths will likely followOn average, coronavirus deaths tend to lag at least two weeks behind infections.Experts say testing doesn't fully account for the rising number of coronavirus infections in the US. 
+keywords: > 
+  capita, outbreak, coronavirus, million, deaths, terms, compares, infections, daily, countries, cases, 11, ranks, charts 
+date: 1603304632.325753 
+--- 
+<div><ul class="summary-list">
+<li>The United States has the most coronavirus cases and deaths of any country in the world.</li>
+<li>The US ranks eighth in total cases per capita and ninth in deaths per capita.</li>
+<li>Experts predict <a href="https://www.businessinsider.com/us-third-wave-coronavirus-cases-hospitalizations-surge-2020-10">the worst of the nation's third surge</a> of new cases is yet to come.&#160;</li>
+<li>Here's how the nation's coronavirus outbreak compares to other countries on 11 key metrics.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-science-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-science-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>When Dr. Anthony Fauci was asked whether the US had <a href="https://www.businessinsider.com/fauci-says-cant-deny-us-has-worst-covid-19-outbreak-2020-8">the world's worst coronavirus outbreak</a> in August, he responded: "The numbers don't lie."</p><p>"When you look at the number of infections and the number of deaths, it really is quite concerning," Fauci, the&#160;director of the National Institute of Allergy and Infectious Diseases, <a href="https://www.cnbc.com/2020/08/05/dr-fauci-agrees-the-us-has-the-worst-coronvirus-outbreak-in-the-world-the-numbers-dont-lie.html">told CNN's Sanjay Gupta</a>.</p><p>Indeed, the US has more coronavirus cases than any other country: more than 8.2 million. Given the difficulty of identifying and recording cases &#8212; especially infections contracted early in the pandemic &#8212; researchers estimate that <a href="https://www.businessinsider.com/real-us-coronavirus-cases-compared-to-official-count-2020-7">the real tally is far higher</a>.</p><p class="insider-raw-embed"></p><p>The US also has the highest number of deaths: more than 220,000. That's almost double the amount recorded in India, the country with the world's third-highest death count.</p>
+<p id="gpt-post-science-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-science-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Like cases, deaths are likely also undercounted in the US: A <a href="https://jamanetwork.com/journals/jama/fullarticle/2771761?guestAccessKey=92828e1e-363a-491b-83af-ec3ce0cde3f6&amp;utm_source=For_The_Media&amp;utm_medium=referral&amp;utm_campaign=ftm_links&amp;utm_content=tfl&amp;utm_term=101220">recent study</a> suggested that 75,000 additional deaths should have been attributed to COVID-19 from March to July.</p><p class="insider-raw-embed"></p><p>But a stronger way to compare coronavirus infections and deaths between countries is to look at the figures per capita. This controls for the US's large population. In cases per capita, the US ranks eighth in the world (excluding countries, territories, and microstates with populations with under 1 million).</p><p>Nearly 25,000 out of every 1 million people in the US have been infected with the coronavirus.</p><p class="insider-raw-embed"></p><p>The US ranks ninth in terms of deaths per capita: For every 1 million people, 68 people have died of the virus. That puts it behind Spain and Mexico but ahead of the United Kingdom.</p><p class="insider-raw-embed"></p><p>These metrics account for all cases and deaths recorded so far. But when it comes to the scale of the US's current outbreak, its cases look worse than many other countries' tallies.</p>
+<p id="gpt-post-science-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-science-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<h2>The latest US outbreak tops the charts</h2><p>The US has entered its third surge of infections, which some experts predict could be its largest yet. All but five states have seen new daily cases climb over the past two weeks, according to data from John Hopkins University.</p><p>Part of the reason for this, experts say, is that cases never dropped sufficiently.</p><p>"If the rates never get that low, and basic public-health measures are not universally adopted, and then you bring people indoors to share a meal together, you're kind of putting together the perfect storm," Ingrid Katz, an assistant professor at Harvard Medical School, <a href="https://www.businessinsider.com/us-third-wave-coronavirus-cases-hospitalizations-surge-2020-10">previously told Business Insider</a>. "Unfortunately this was completely anticipated."</p><p>The US now ranks first in the world in terms of new daily cases. The country is seeing a weekly average of more than 59,000 new cases per day &#8212; a nearly 40% increase from October 1.</p><p class="insider-raw-embed"></p><p>When controlling for population size, the US ranks 24th in the world in terms of new daily cases per capita. On average each week, nearly 170 daily cases are recorded for every 1 million people.</p>
+<p id="gpt-post-science-mobile_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-science-desktop_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>European nations like the UK, France, and Ireland rank higher in new cases per capita, since infections in those countries have <a href="https://www.businessinsider.com/europes-spike-coronavirus-cases-relaxing-lockdown-pandemic-fatigue-2020-10">steadily risen since August</a>.</p><p class="insider-raw-embed"></p><p>At a town hall event last week, President Donald Trump pointed to European case surges as evidence that the US is handling its outbreak well by comparison.</p><p>"Look at what's going on in Europe: massive spikes," Trump said. "They've done a very good job, but now you take a look today at the UK, you take a look at Spain and France and Italy, there's tremendous spikes."</p><h2>As cases climb, deaths will likely follow</h2><p>On average, coronavirus deaths tend to lag at least two weeks behind infections. So researchers expect to see US deaths climb in the coming weeks, especially if the virus starts spreading more easily as people congregate indoors during the winter and ignore safety recommendations about masks and social distancing.</p>
+<p id="gpt-post-science-mobile_in_post_ad-fluid-5" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-science-desktop_in_post_ad-fluid-5" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Already, the US ranks second in the world in terms of its weekly average of new daily deaths, behind India.</p><p class="insider-raw-embed"></p><p>The US is lower when ranking new daily deaths per capita, however. On average, the country is seeing around two daily deaths for every 1 million people.</p><p class="insider-raw-embed"></p><p>The University of Washington's Institute for Health Metrics and Evaluation predicts that around 170,000 more people in the US could die of the coronavirus from now through February 1. That would make this third surge of infections the deadliest yet.</p><h2>Testing doesn't fully account for the recent surge</h2><p>Trump has repeatedly insisted that the US's high case count is the result of increased testing. Indeed, the US leads the world in terms of total tests administered: around 127 million so far.</p><p class="insider-raw-embed"></p><p>But several countries are administering more tests relative to their population size. Luxembourg, for instance, is testing more than 1,300 out of every 100,000 people each day, on average.</p>
+<p id="gpt-post-science-mobile_in_post_ad-fluid-6" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-science-desktop_in_post_ad-fluid-6" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>The US ranks 10th in testing per capita.</p><p class="insider-raw-embed"></p><p>Experts say testing doesn't fully account for the rising number of coronavirus infections in the US. If that were the case, the nation's test-positivity rate &#8212; the share of coronavirus tests that come back positive &#8212; would be flat or going down. Instead, the test-positivity rate rose from 4.6% on October 1 to around 5.5% on Wednesday.</p><p>When comparing how nations are spending money to address the economic consequences of the pandemic, Japan leads the rest. It has spent around 20% of its GDP on a COVID-19 stimulus package, according to data from the International Monetary Fund.</p><p>The US, meanwhile, ranks fourth among G20 countries in terms of stimulus spending. The Trump administration has delivered <a href="https://www.reuters.com/article/us-usa-election-economy-factbox/trump-biden-offer-clashing-visions-on-reopening-economy-idUSKBN2681FW">$3.4 trillion in coronavirus aid</a> so far.</p><p class="insider-raw-embed"></p><p>Trump has <a href="https://www.businessinsider.com/how-biden-coronavirus-plan-compares-to-trump-strategy-economy-testing-2020-10">gone back and forth</a> on whether a second round of relief checks will arrive before the November election. On October 8, the president said <a href="https://www.businessinsider.com/trump-stimulus-negotiations-back-on-checks-pelosi-mnuchin-economy-restart-2020-10">stimulus negotiations were back on</a>, just two days after&#160;<a href="https://www.businessinsider.com/trump-ends-stimulus-negotiations-until-after-presidential-election-economic-recovery-2020-10">pulling the plug on those talks</a>. Even so, Senate Republicans are <a href="https://www.businessinsider.com/senate-republicans-stimulus-deal-democrats-trump-pelosi-economy-oppose-bigger-2020-10">skeptical that a bill would be approved</a> before Election Day.</p>
+  <p class="js-loader">
+  Loading
+  Something is loading.
+  
+    
+  
+</p>
+
+  <p class="js-expanded-coverage-autofill-content-area"></p>
+
+                  </div>

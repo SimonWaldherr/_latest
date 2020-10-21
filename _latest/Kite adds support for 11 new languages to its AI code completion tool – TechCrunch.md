@@ -1,0 +1,19 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-910668806.jpg?w=602 
+title: > 
+  Kite adds support for 11 new languages to its AI code completion tool – TechCrunch 
+description: > 
+  When Kite, the well-funded AI-driven code completion tool, launched in 2019, its technology looked very impressive, but it only supported Python at the time.Earlier this year, it also added JavaScript and today, it is launching support for 11 new languages at once.To build its models, Kite fed its algorithms code from GitHub .The paid version also includes support for multi-line code completion, while the free version only supports line-of-code completions.Kite notes that in addition to adding new languages, Kite also spent the last year focusing on the user experience, which should now be less distracting and, of course, offer more relevant completions. 
+keywords: > 
+  kite, techcrunch, code, support, free, models, version, languages, paid, 11, completion, tool, developers, including, ai, adds 
+date: 1603304678.075573 
+--- 
+<div><p id="speakable-summary">When <a href="https://www.kite.com/">Kite</a>, the <a href="https://techcrunch.com/2019/01/28/kite-raises-17m-for-its-ai-driven-code-completion-tool/">well-funded</a> AI-driven code completion tool, launched in 2019, its technology looked very impressive, but it only supported Python at the time. Earlier this year, it also added JavaScript and today, it is launching support for 11 new languages at once.</p>
+<p>The new languages are Java, <a class="crunchbase-link" href="https://crunchbase.com/organization/kotlin" target="_blank">Kotlin, </a> <a class="crunchbase-link" href="https://crunchbase.com/organization/scala" target="_blank">Scala, </a> C/C++, Objective C, C#, Go, Typescript, HTML/CSS and <a href="http://lesscss.org/">Less</a>. Kite works in most popular development environments, including the likes of VS Code, JupyterLab, Vim, Sublime and Atom, as well as all Jetbrains IntelliJ-based IDEs, including Android Studio.</p>
+<p><a href="https://techcrunch.com/wp-content/uploads/2020/10/all_lang_blog@2x.png"><img class="aligncenter size-full wp-image-2064130" src="https://techcrunch.com/wp-content/uploads/2020/10/all_lang_blog@2x.png" alt="" width="1024" height="576"></a></p><p class="piano-inline-promo"></p>
+<p>This will make <a class="crunchbase-link" href="https://crunchbase.com/organization/kite-com" target="_blank">Kite </a> a far more attractive solution for a lot of developers. Currently, the company says, it saves its most active developers from writing about 175 &#8220;words&#8221; of code every day. One thing that always made Kite stand out is that it ranks its suggestions by relevance &#8212; not alphabetically as some of its non-AI driven competitors do. To build its models, Kite fed its algorithms code from <a class="crunchbase-link" href="https://crunchbase.com/organization/github" target="_blank">GitHub </a>.</p>
+<p>The service is available as a free download for Windows users and as a server-powered paid <a href="https://www.kite.com/pricing/?loc=top_nav">enterprise version</a> with a larger deep learning model that consequently offers more AI smarts, as well as the ability to create custom models. The paid version also includes support for multi-line code completion, while the free version only supports line-of-code completions.</p>
+<p>Kite notes that in addition to adding new languages, Kite also spent the last year focusing on the user experience, which should now be less distracting and, of course, offer more relevant completions.</p>
+<p></p></div>

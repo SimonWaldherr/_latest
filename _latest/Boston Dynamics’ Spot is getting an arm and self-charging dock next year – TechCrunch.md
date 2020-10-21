@@ -1,0 +1,20 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/BOSTON-DYNAMICS-ARM-CLIP-CONSOLIDATED.2020-10-21-13_04_24.gif?w=711 
+title: > 
+  Boston Dynamics’ Spot is getting an arm and self-charging dock next year – TechCrunch 
+description: > 
+  Boston Dynamics’ new CEO Rob Playter told TechCrunch that the company has now sold around 260 of its sophisticated Spot robot as of his appearance at Disrupt last month.But Boston Dynamics is also actively developing its own accessories to help diversify Spot’s applications.“Like the base robot,” the company writes, “there’s much more to the arm than just hardware.Boston Dynamics is also announcing an Enterprise-focused version of the robot that features a self-charging dock.Like a big, sophisticated Roomba, Spot will be able to return unguided to the dock for a recharge. 
+keywords: > 
+  sophisticated, arm, techcrunch, selfcharging, operate, spot, dock, opening, boston, spots, dynamics, company, getting, set, robot 
+date: 1603304677.9664106 
+--- 
+<div><p class="p1"><a class="crunchbase-link" href="https://crunchbase.com/organization/boston-dynamics" target="_blank">Boston Dynamics&#8217; </a> new CEO Rob Playter told TechCrunch that the company has now sold around 260 of its sophisticated Spot robot as of his appearance at Disrupt last month. While the company faced some questions about the commercial appeal of the $75,000 robot, it&#8217;s clear that a number of verticals are interested in finding ways to deploy the tech.</p>
+<p class="p1">Among Spot&#8217;s many appeals is its positioning as a kind of platform for developers and third-parties who can build their own accessories for a range of different applications, from construction to telemedicine. But Boston Dynamics is also actively developing its own accessories to help diversify Spot&#8217;s applications.</p>
+<p class="p1">The company recently announced that it would be offering an arm add-on capable of performing a wide variety of tasks, including opening doors and picking up objects. The addition is a no-brainer, given that the arm was featured in the first Spot/Spot Mini videos from years back. In fact, I was honestly a little disappointed when the accessory was left out of the initial launch of the company&#8217;s first commercial product.</p>
+<p></p><img class="size-full wp-image-2064176" src="https://techcrunch.com/wp-content/uploads/2020/10/BOSTON-DYNAMICS-ARM-CLIP-CONSOLIDATED.2020-10-21-13_05_56.gif" alt="" width="1024" height="576"><p class="p1">The arm is set to arrive at some point early next near. It has six degrees of freedom and is designed to move along with the robot. &#8220;Like the base robot,&#8221; the company writes, &#8220;there&#8217;s much more to the arm than just hardware. It will ship with an intuitive UI, and be equipped to operate through both telemanipulation and supervised autonomous behaviors via the tablet.&#8221;</p>
+<p class="p4">The arm/gripper will also be accessible to developers via an API. Applications like opening doors, and grasping and dragging objects, will be automated and offered as beta features when the arm ships.</p>
+<p></p><img class="size-full wp-image-2064179" src="https://techcrunch.com/wp-content/uploads/2020/10/BOSTON-DYNAMICS-DOCK-CLIP.2020-10-21-13_35_31.gif" alt="" width="1024" height="576"><p class="p4">Boston Dynamics is also announcing an Enterprise-focused version of the robot that features a self-charging dock. Like a big, sophisticated Roomba, Spot will be able to return unguided to the dock for a recharge. The setup is designed for environments like oil rigs and radiation danger zones where the robot can ideally operate without humans present.</p>
+<p class="p4">That&#8217;s also set to arrive early next year. Pricing for the above is still TBD.</p>
+			</div>

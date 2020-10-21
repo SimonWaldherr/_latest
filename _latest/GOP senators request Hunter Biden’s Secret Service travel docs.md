@@ -1,0 +1,26 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/hunter-joe-biden-2.jpg?quality=90&strip=all&w=1200 
+title: > 
+  GOP senators request Hunter Biden’s Secret Service travel docs 
+description: > 
+  WASHINGTON — Two Republican lawmakers leading the Congressional probe into Hunter Biden’s overseas business dealings have asked the Secret Service to provide more records of his travel while his father was vice president.Charles Grassley (R-Iowa) and Ron Johnson (R-Wi) said bombshell Hunter Biden emails revealed by The Post last week “aligned” with the scandal-scarred son’s previous Secret Service travel logs.”Recent reports have published emails allegedly belonging to Hunter Biden, some of which include references to Mr. Biden’s travel,” the letter read.“As the Committees continue to assess the validity of these emails, Committee staff have found that several of the references to Mr. Biden’s travel align with the travel records USSS produced to the Committees,” it went on.Secret Service records show a travel entry for Biden to Lake Como between April 3-6, 2014. 
+keywords: > 
+  records, service, ukrainian, travel, hunter, gop, pozharskyi, biden, secret, mr, docs, emails, bidens, senators, request 
+date: 1603304653.190257 
+--- 
+<div><p>WASHINGTON &#8212; Two Republican lawmakers leading the <a href="https://nypost.com/2020/10/21/biden-sen-johnson-should-be-ashamed-for-alleged-corruption-probe/" rel="noopener noreferrer" target="_blank">Congressional probe</a> into Hunter Biden&#8217;s overseas business dealings have asked the Secret Service to provide more records of his travel while his father was vice president.</p>
+<p>In a letter <a href="https://www.grassley.senate.gov/sites/default/files/2020-10-20%20CEG%20RHJ%20to%20Secret%20Service%20%28Hunter%20Biden%20Travel%20Records%20Follow-Up%29%20.pdf" target="_blank" rel="noopener noreferrer">sent to the agency&#8217;s director</a> on Wednesday, GOP Sens. Charles Grassley (R-Iowa) and Ron Johnson (R-Wi) said bombshell Hunter Biden emails <a href="https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/">revealed by The Post last week</a> &#8220;aligned&#8221; with the scandal-scarred son&#8217;s previous Secret Service travel logs.</p>
+<p>&#8221;Recent reports have published emails allegedly belonging to Hunter Biden, some of which include references to Mr. Biden&#8217;s travel,&#8221; the letter read.</p>
+<p>&#8220;As the Committees continue to assess the validity of these emails, Committee staff have found that several of the references to Mr. Biden&#8217;s travel align with the travel records USSS produced to the Committees,&#8221; it went on.</p>
+<p>Johnson and Grassley, the respective chairs of the Senate Homeland Security Committee and the Senate Finance Committee, noted two emails from Hunter Biden&#8217;s recovered hard drive matched with logs they obtained earlier this year.</p>
+<p>In one email from Biden to his business partner Devon Archer on April 13, 2014, the then-VP&#8217;s son referenced traveling to Houston &#8220;tmrw.&#8221;</p>
+<p>&#8220;Secret Service records show a travel entry for Mr. Biden from April 13, 2014 &#8211; April 14, 2014, to Houston, TX,&#8221; the letter read.</p>
+<p>In a May 12 email from the same year, Vadim Pozharskyi, a top advisor to Ukrainian energy company Burisma, mentioned a trip he had taken to Lake Como in Italy with Biden and Archer.</p>
+<p>&#8220;Following our talks during the visit to the Como Lake&#160;and our further discussions, I would like to bring the following situation to your attention,&#8221; Pozharskyi wrote.</p>
+<p>Secret Service records show a travel entry for Biden to Lake Como between April 3-6, 2014.</p>
+<p>Pozharskyi is the same Ukrainian businessman who Biden allegedly <a href="https://nypost.com/2020/10/14/email-reveals-how-hunter-biden-introduced-ukrainian-biz-man-to-dad/" rel="noopener noreferrer" target="_blank">introduced to his father</a>, then-Vice President Joe Biden, less than a year before the elder Biden pressured Ukrainian officials to fire the prosecutor who was investigating Burisma, according to the emails obtained by The Post.</p>
+<p>The tranche of documents reveal how Hunter Biden sought to leverage his father&#8217;s influence to conduct lucrative deals with overseas executives and <a href="https://nypost.com/2020/10/14/hunter-biden-emails-show-leveraging-connections-with-dad-to-boost-burisma-pay/" rel="noopener noreferrer" target="_blank">sought to boost his pay</a> as a member of the Burisma board, despite having no experience in Ukraine or the energy sector.</p>
+<p>In a carefully-worded statement, the Biden campaign denied the Democratic nominee has ever had an <a href="https://nypost.com/2020/10/14/biden-campaign-says-burisma-meeting-not-on-official-schedule/" rel="noopener noreferrer" target="_blank">&#8220;official&#8221; meeting</a> with Pozharskyi, but later admitted they couldn&#8217;t rule-out whether the two men had ever met.</p>
+			</div>
