@@ -1,0 +1,20 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cdn.vox-cdn.com/thumbor/yOcIwEu-kieNPwMn73wiq7jjEkM=/0x79:1100x655/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15740200/rousimar_palhares.0.1458663822.jpg 
+title: > 
+  Three fights off of Taura MMA 10 due to COVID-related issues, including Rousimar Palhares’ MMA return 
+description: > 
+  Taura MMA 10 goes down Friday night in Rio de Janeiro, Brazil, but three bouts were removed from the lineup due to COVID-19-related issues, promotion officials told MMA Fighting.Palhares is now expected to make his Taura MMA debut against a yet-to-be-defined opponent at the Dec. 6 show in Rio de Janeiro.Taura MMA is requesting all fighters to undergo COVID-19 testing before leaving for Rio de Janeiro, and then subjecting athletes and corners to two more tests before fight night.The card features two championship bouts and the debut of UFC veterans Sergio Moraes and Wendell Oliveira.Felipe Gheno vs. Bruno Mesquita — for flyweight titleAry Farias vs. Johnny Campbell — for interim bantamweight titleSerginho Moraes vs. Jared RevelWendell Oliveira vs. Rene PessoaNilton Gaviao vs. Manoel dos SantosThiago Oliveira vs. Andrey AugustoDenis Silva vs. Kaue RodriguesThaiane Souza vs. Simoni SantosPedro Finger vs. Tiago Souza 
+keywords: > 
+  mma, return, issues, fights, janeiro, including, rio, souza, palhares, vs, tests, wsof, taura, covidrelated, rousimar, opponent, card 
+date: 1603312608.2888107 
+--- 
+<div><p id="UFrJ53">Taura MMA 10 goes down Friday night in Rio de Janeiro, Brazil, but three bouts were removed from the lineup due to COVID-19-related issues, promotion officials told MMA Fighting.</p>
+<p id="lD6mdB"><a href="https://www.mmafighting.com/fighter/97/rousimar-palhares">Rousimar Palhares</a>, one of the most popular names on the card, was left without an opponent after <a href="https://www.mmafighting.com/2020/10/15/21518091/rousimar-palhares-gets-new-opponent-for-taura-mma-10">short-notice replacement</a> Antonio Gordillo couldn&#8217;t leave his hometown of Catamarca to Buenos Aires on Wednesday. Catamarca, located 700 miles away from the capital of Argentina, started another lockdown to stop the spread of the coronavirus, and the MMA fighter wasn&#8217;t allowed to go to Buenos Aires and embark on a flight to Brazil.</p>
+<p id="NkLmSz">Palhares is now expected to make his Taura MMA debut against a yet-to-be-defined opponent at the Dec. 6 show in Rio de Janeiro. The former WSOF welterweight champion will be competing for the first time since Dec. 2018. &#8220;Toquinho&#8221; is 1-4-1 since leaving WSOF in 2015.</p>
+<p id="3iqsd3">Two matchups fell through due to positive COVID-19 tests. Bellator veteran <a href="https://www.mmafighting.com/fighter/3774/bruna-vargas">Bruna Vargas</a> was the first to withdraw from the card due to the infection, and also featherweight champion Isaque Moura. They were scheduled to fight Maria Laura Alves and Gian Sarturi, respectively.</p>
+<p id="GOWtZz">Taura MMA is requesting all fighters to undergo COVID-19 testing before leaving for Rio de Janeiro, and then subjecting athletes and corners to two more tests before fight night. The card features two championship bouts and the debut of UFC veterans <a href="https://www.mmafighting.com/fighter/1673/sergio-moraes">Sergio Moraes</a> and Wendell Oliveira.</p>
+<p id="sv8N8t">Felipe Gheno vs. Bruno Mesquita &#8212; for flyweight title<br>Ary Farias vs. <a href="https://www.mmafighting.com/fighter/3249/johnny-campbell">Johnny Campbell</a> &#8212; for interim bantamweight title<br>Serginho Moraes vs. Jared Revel<br>Wendell Oliveira vs. Rene Pessoa<br>Nilton Gaviao vs. Manoel dos Santos<br><a href="https://www.mmafighting.com/fighter/5171/thiago-oliveira">Thiago Oliveira</a> vs. Andrey Augusto<br>Denis Silva vs. Kaue Rodrigues<br>Thaiane Souza vs. Simoni Santos<br>Pedro Finger vs. Tiago Souza</p>
+  
+</div>

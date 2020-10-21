@@ -1,0 +1,28 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cdn.vox-cdn.com/thumbor/VYvaI7uUmQ67MF5lQGWh7pRXkiM=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9953271/075_Khabib_Nurmagomedov_vs_Edson_Barboza.jpg 
+title: > 
+  Khabib Nurmagomedov prepared to take Justin Gaethje down ‘100 times’ if necessary: ‘I’m going to go all night’ 
+description: > 
+  Since arriving in the UFC, Nurmagomedov has scored 57 takedowns — second most all time behind Gleison Tibau — along with the second most control time in the history of the lightweight division.“But between me and D.C. big difference, if I’m going to try to take [Gaethje] down once and his defense is good, I’m going to go all night.He’s going to be a little bit hard.“First round, he’s very dangerous,” Nurmagomedov said.But if we talk about second round, third round, they become a little bit like regular fighters.” 
+keywords: > 
+  night, justin, knows, good, times, nurmagomedov, wrestling, khabib, necessary, think, prepared, hes, ufc, gaethje, fight, going, im, round 
+date: 1603312607.895528 
+--- 
+<div><p id="4loyeJ">A huge part of the narrative leading into the <a href="https://www.mmafighting.com/fight-card/1140/ufc-254">UFC 254</a> main event has been <a href="https://www.mmafighting.com/fighter/1480/khabib-nurmagomedov">Khabib Nurmagomedov</a>&#8217;s relentless takedowns going up against a former NCAA All-American wrestler like <a href="https://www.mmafighting.com/fighter/1526/justin-gaethje">Justin Gaethje</a>.</p>
+<p id="cg8Idb">Since arriving in the UFC, Nurmagomedov has scored 57 takedowns &#8212; second most all time behind <a href="https://www.mmafighting.com/fighter/176/gleison-tibau">Gleison Tibau</a> &#8212; along with the second most control time in the history of the lightweight division. In that time, however, Nurmagomedov has not gone up against many notable wrestlers in his UFC career, although he did manage a stunning 21 takedowns &#8212; the most ever in a single fight &#8212; against <a href="https://www.mmafighting.com/fighter/1818/abel-trujillo">Abel Trujillo</a>, who was a four-time NAIA All-American in college. </p>
+<p id="Icyy2o">Gaethje&#8217;s seventh place finish at the NCAA Division I wrestling championships in 2010 during his junior year at the University of Northern Colorado gives him better credentials than nearly every other opponent Nurmagomedov has faced in the UFC.</p>
+<p id="Fm17sv">That said, the undefeated Russian knows there&#8217;s a vast difference between his style of grappling compared to everyone else &#8212; including fighters coming from an American wrestling background.</p>
+<p id="WW1FPw">&#8220;I think it&#8217;s a big difference,&#8221; Nurmagomedov said when comparing &#8216;Dagestan&#8217; wrestling against American wrestling during the UFC 254 pre-fight press conference. &#8220;I know he knows how to wrestle but what about wrestling for 25 minutes? It&#8217;s going to be like I told [<a href="https://www.mmafighting.com/fighter/373/daniel-cormier">Daniel Cormier</a>] today &#8212; when you fight with <a href="https://www.mmafighting.com/fighter/775/stipe-miocic">Stipe Miocic</a> last time, you grabbed his leg one time and took him down and get up very quickly and that&#8217;s it, you finished. Other minutes all going stand up.</p>
+<p id="FQotHN">&#8220;But between me and D.C. big difference, if I&#8217;m going to try to take [Gaethje] down once and his defense is good, I&#8217;m going to go all night. I&#8217;m going to go all night. This is the big difference between U.S. wrestling and Dagestan wrestling.&#8221;</p>
+<p id="CmjtI9">Of course the fight on Saturday in Abu Dhabi isn&#8217;t a wrestling competition.</p>
+<p id="PDBywl">Gaethje has spoken often about the kind of damage he&#8217;s able to inflict on his opponents even in defeat and he doesn&#8217;t expect anyone to walk away from a fight with him unscathed.</p>
+<p id="wQVpPq">For his part, Nurmagomedov is well aware of Gaethje&#8217;s ability to deliver brutal kicks and powerful punches on the feet but he believes it will be much harder for any of those shots to land while he&#8217;s planted with his back on the canvas.</p>
+<p id="rAIpyi">&#8220;I think he has dinner meat on his hands. Very good kicks. He has very good kicks. They all good when they stand up,&#8221; Nurmagomedov said about Gaethje&#8217;s striking. &#8220;But when I grab them, it changes a little bit. I think that more than Dustin [Poirier], Conor [McGregor] and other guys, he knows how to wrestle. He&#8217;s going to be a little bit hard.</p>
+<p id="vHnj8m">&#8220;But I prepare myself to try to take him down 100 times. It&#8217;s going to be very interesting Saturday night.&#8221;</p>
+<p id="uwCCal">While Gaethje did manage to score a fifth-round finish against <a href="https://www.mmafighting.com/fighter/538/anthony-ferguson">Tony Ferguson</a> in his most recent performance, Nurmagomedov knows his opponent at UFC 254 will be at his deadliest at the start of the fight.</p>
+<p id="cbLBO1">After weathering an early storm, he plans to dish out the same kind of grueling and punishing pace that has conquered 28 foes previously with plans to make Gaethje No. 29 on his resume.</p>
+<p id="MLSG5N">&#8220;First round, he&#8217;s very dangerous,&#8221; Nurmagomedov said. &#8220;I think he and Conor are two most dangerous guys in the first round. But if we talk about second round, third round, they become a little bit like regular fighters.&#8221;</p>
+  
+</div>

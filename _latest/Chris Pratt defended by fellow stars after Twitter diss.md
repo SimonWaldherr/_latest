@@ -1,0 +1,15 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cdn.cnn.com/cnnnext/dam/assets/201021080130-chris-pratt-0218-super-tease.jpg 
+title: > 
+  Chris Pratt defended by fellow stars after Twitter diss 
+description: > 
+  (CNN) Twitter may not be loving Chris Pratt these days, but he gets by with a little help from his friends.Some celebs did not appreciate the response after a tweet appeared over the weekend saying "One has to go," along with pictures of Pratt, Chris Hemsworth, Chris Pine and Chris Evans resulted in many saying Pratt could be tossed from the group known as the four famous Chrises.Some of his Marvel co-stars stepped up to defend him, including Mark Ruffalo, who tweeted that Pratt "is as solid a man there is."He is just not overtly political as a rule."He is just not overtly political as a rule. 
+keywords: > 
+  twitter, fellow, pratt, stars, chris, political, prize, ruffalo, solid, saying, defended, overtly, diss, rule, personally 
+date: 1603312573.7369795 
+--- 
+<div><p class="zn-body__paragraph speakable"> (CNN)Twitter may not be loving Chris Pratt these days, but he gets by with a little help from his friends. </p><a></a><p>Some celebs did not appreciate the response after a tweet appeared over the weekend saying "One has to go," along with pictures of Pratt, Chris Hemsworth, Chris Pine and Chris Evans resulted in <a href="https://www.cnn.com/2020/10/19/entertainment/chris-pratt-twitter-trnd/index.html" target="_blank">many saying Pratt could be tossed from the group known as the four famous Chrises. </a> </p><a></a><p>The complaints about Pratt cited everything from his allegedly being a Trump supporter to a claim last year that Pratt supported a church with anti-LGBTQ views, the <a href="https://www.cnn.com/2019/02/12/entertainment/chris-pratt-ellen-page-church/index.html" target="_blank">latter of which Pratt has denied. </a> </p><p class="zn-body__paragraph">Some of his Marvel co-stars stepped up to defend him, including Mark Ruffalo, who tweeted that Pratt "is as solid a man there is."</p><p id="ad_rect_atf_02" class="ad-ad_rect_atf_02 ad-refresh-default"></p><p></p><p></p><ul class="cn cn-list-hierarchical-xs cn--idx-5 cn-zoneAdContainer"></ul><blockquote class="twitter-tweet"><p lang="en" dir="ltr">You all, <a href="https://twitter.com/prattprattpratt?ref_src=twsrc%5Etfw">@prattprattpratt</a> is as solid a man there is. I know him personally, and instead of casting aspersions, look at how he lives his life. He is just not overtly political as a rule. This is a distraction. Let's keep our eyes on the prize, friends. We are so close now.</p>&#8212; Mark Ruffalo (@MarkRuffalo) <a href="https://twitter.com/MarkRuffalo/status/1318646841324560385?ref_src=twsrc%5Etfw">October 20, 2020</a></blockquote>
+ 
+<p class="zn-body__paragraph">"I know him personally, and instead of casting aspersions, look at how he lives his life," Ruffalo wrote. "He is just not overtly political as a rule. This is a distraction. Let's keep our eyes on the prize, friends. We are so close now."</p><p class="read-more-gradient"></p><p class="read-more-link" id="js-body-read-more">Read More</p></div>

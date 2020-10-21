@@ -1,0 +1,30 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/201021-katie-hill.jpg?quality=90&strip=all&w=1200 
+title: > 
+  ‘Throuple’ ex-pol Katie Hill seems to be cashing in on scandal via HER Time PAC 
+description: > 
+  WASHINGTON — “Throuple” ex-Congresswoman Katie Hill appears to be enriching herself with consulting fees through a new political action committee that she said would support long-shot female political candidates.Filings with the Federal Election Commission also show Hill’s PAC has spent far more on consultants and media companies than it has on women trying to flip seats in Congress.But FEC filings show that the committee paid a company solely registered to Hill — HER Time, Inc. — $25,000 for political consulting between July and September 2020.Since its inception, HER Time has also paid media firm Saguaro Strategies $216,161 worth of fees for consulting and advertising.In a statement, a HER Time spokeswoman did not refute allegations that Hill was paying herself consulting fees, but defended the group’s work. 
+keywords: > 
+  scandal, women, pac, consulting, consultants, political, fees, expol, throuple, hill, cashing, katie, hills, media, paid 
+date: 1603312630.5222154 
+--- 
+<div><p>WASHINGTON &#8212; &#8220;Throuple&#8221; ex-Congresswoman Katie Hill appears to be enriching herself with consulting fees through a new political action committee that she said would support long-shot female political candidates.</p>
+<p>Filings with the Federal Election Commission also show Hill&#8217;s PAC has spent far more on consultants and media companies than it has on women trying to flip seats in Congress.</p>
+<p>The California Democrat &#8212; who was forced to resign from Congress last year in the <a href="https://nypost.com/2019/10/22/freshman-congresswomans-throuple-uncovered-amid-bitter-divorce/">wake of a staffer-involved sex scandal</a> &#8212; announced in March that she was launching HER Time, a PAC which Hill said would provide financial support and mentorship to women running for office.</p>
+<p>But <a href="https://www.fec.gov/data/disbursements/?data_type=processed&amp;committee_id=C00634212&amp;recipient_name=Her+Time%2C+Inc&amp;two_year_transaction_period=2020" rel="noopener noreferrer" target="_blank">FEC filings</a> show that the committee paid a company solely registered to Hill &#8212; HER Time, Inc. &#8212; $25,000 for political consulting between July and September 2020.</p>
+<p>HER Time also paid another $47,850 to consultants and bookstores following the August release of her memoir, &#8220;<a href="https://www.amazon.com/She-Will-Rise-Becoming-Equality/dp/1538737000?tag=nypost-20" rel="nofollow noopener noreferrer" target="_blank">She Will Rise: Becoming a Warrior in the Battle for True Equality</a>.&#8221;</p>
+<p>Hill, 33, has been on a publicity blitz since she stepped down from Congress in October when it emerged that she and then-husband Kenny Heslep were in a <a href="https://nypost.com/2019/10/27/rep-katie-hill-resigning-amid-snowballing-throuple-scandal/">long-term &#8220;throuple&#8221; relationship</a> with campaign worker Morgan Desjardins.</p>
+<p>Nude photos of the openly bisexual lawmaker were <a href="https://nypost.com/2019/10/24/leaked-nude-photo-of-rep-katie-hill-show-bong-apparent-iron-cross-tattoo/" rel="noopener noreferrer" target="_blank">published online</a> and she was also accused of having an affair with her legislative director, Graham Kelly.</p>
+<p>Earlier this month, it was announced her memoir will be turned into <a href="https://nypost.com/2020/10/06/elisabeth-moss-to-play-katie-hill-in-she-will-rise-adaptation/">a Hollywood film</a> with Elisabeth Moss playing the fallen congresswoman, and this week she released a new podcast, &#8220;Naked Politics.&#8221;</p>
+<p>Hill has described herself as a victim of revenge porn, an abusive husband, and &#8220;a coordinated cyber-attack by Republican political operatives&#8221; &#8212; even as former staff accused Hill of being a predator herself and <a href="https://nypost.com/2020/10/07/former-rep-katie-hill-says-former-twitter-account-hacked-by-ex-staffers/">&#8220;not a hero for women.&#8221;</a></p>
+<p>But most coverage of Hill&#8217;s new political action effort has failed to scrutinize HER Time PAC&#8217;s big spending on consultants instead of female political candidates.</p>
+<p>According to FEC filings, HER Time PAC contributed $44,000 to political candidates while it spent $72,850 on consultants, including Hill&#8217;s company, between June and September.</p>
+<p>Between April and June, the PAC dispersed just $18,000 to political campaigns while it shelled out $75,000 to AL Media, a Chicago-based video production company.</p>
+<p>Since its inception, HER Time has also paid media firm Saguaro Strategies $216,161 worth of fees for consulting and advertising.</p>
+<p>Leadership PACs have been derided as <a href="https://www.issueone.org/congressional-leadership-pacs-continue-to-subsidize-lavish-lifestyles/" target="_blank" rel="noopener noreferrer">slush funds for lawmakers</a> who regularly use the loosely regulated accounts to pay discretionary expenses as well as a means of distributing cash to political allies.</p>
+<p>In a statement, a HER Time spokeswoman did not refute allegations that Hill was paying herself consulting fees, but defended the group&#8217;s work.</p>
+<p>&#8220;Since its inception, HER Time has endorsed 31 women, many of whom are first-time candidates running in swing seats &#8212; of which 27 won their primaries and are on the November ballot &#8212; and has contributed $82,000 directly to candidates,&#8221; she said.</p>
+<p>&#8220;All payments to consultants were for bona fide work for the PAC and all payments to bookstores were for donor gifts,&#8221; she went on.</p>
+			</div>

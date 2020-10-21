@@ -1,0 +1,18 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/quibi-glitch-02.jpg?w=711 
+title: > 
+  Quibi is dead – TechCrunch 
+description: > 
+  Plagued with growth issues, Quibi, a short-form mobile-native video platform, is shutting down, according to multiple reports.The startup, co-founded by Jeffrey Katzenberg and Meg Whitman, had raised nearly $2 billion in its lifetime as a private company.Quibi did not respond to requests for comment from TechCrunch.For the YouTube’s and Snap’s of the world producing mainstream content on a shoestring budget, Quibi wanted to be an HBO for smartphones.Rumors that Quibi was shutting down began early this week. 
+keywords: > 
+  past, video, techcrunch, content, week, private, shutting, katzenberg, company, dead, quibi, numbers 
+date: 1603312651.6636078 
+--- 
+<div><p id="speakable-summary">Plagued with growth issues, Quibi, a short-form mobile-native video platform, is shutting down, according to <a href="https://www.theinformation.com/articles/quibi-to-shutter">multiple</a> <a href="https://www.wsj.com/articles/quibi-weighs-shutting-down-as-problems-mount-11603301946?mod=breakingnews">reports</a>. The startup, co-founded by Jeffrey Katzenberg and Meg Whitman, had raised nearly $2 billion in its lifetime as a private company. Quibi did not respond to requests for comment from TechCrunch.</p>
+<p>The company&#8217;s prolific fundraising efforts spanned prominent institutions in private equity, venture capital and Hollywood, all betting on Katzenberg&#8217;s ability to deliver another hit. The startup&#8217;s backers included Alibaba, Madrone Capital Partners, Goldman Sachs and JPMorgan as well as Disney, Sony Pictures, Viacom, WarnerMedia and MGM, among others.</p>
+<p>Their pitch was highly produced bite-sized content, packed with Hollywood star power, and designed to be &#8220;mobile-first&#8221; entertainment. For the YouTube&#8217;s and Snap&#8217;s of the world producing mainstream content on a shoestring budget, <a class="crunchbase-link" href="https://crunchbase.com/organization/quibi" target="_blank">Quibi </a> wanted to be an HBO for smartphones. Investors and pundits questioned the firm&#8217;s ability to monetize this vision, and it became clear soon after launch that the company had miscalculated.</p><p class="piano-inline-promo"></p>
+<p>Rumors that Quibi was shutting down began early this week. <a href="https://www.theinformation.com/articles/katzenberg-tried-to-sell-quibi-content-raising-questions-about-services-future">The Information</a> wrote that Katzenberg has told people within the industry that the company might need to shut down, after unsuccessfully pitching itself as an acquisition to Apple, Facebook, and Warner Media.</p>
+<p>Netflix earnings from earlier this week suggest that the pandemic entertainment boom<a href="https://techcrunch.com/2020/10/20/netflix-growth-q3/"> is slowing</a>. The consumer video service disappointed on new paying customer numbers, and shares were down sharply yesterday after it released its <a href="https://techcrunch.com/2020/10/20/heres-why-netflix-shares-are-off-after-reporting-earnings/">earnings report</a>. Those numbers also potentially showcase just how crowded the market for subscription video content has gotten in the past 12 months, with players like Apple, Disney, HBO and NBC each launching new services and collectively spending billions to acquire rights to past television hits.</p>
+			</div>

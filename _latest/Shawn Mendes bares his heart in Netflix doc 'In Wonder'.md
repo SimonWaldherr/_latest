@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cdn.cnn.com/cnnnext/dam/assets/200126195209-40-grammys-red-carpet-super-tease.jpg 
+title: > 
+  Shawn Mendes bares his heart in Netflix doc 'In Wonder' 
+description: > 
+  (CNN) Shawn Mendes is just a regular guy.According to the streaming giant the doc "follows Shawn Mendes' journey toward self-discovery, after the physical and emotional demands of his rise, and his last world tour, pushed him towards a personal and musical reckoning."In the trailer Mendes says, "This isn't a story about a famous musician.This is a story about a guy growing up."And yet the 22-year-old former You Tube star is very aware that the world sees him as a musical superstar. 
+keywords: > 
+  streaming, shawn, world, musical, trailer, mendes, netflix, doc, bares, superstarread, upand, tube, heart, tour, wonder 
+date: 1603312573.2345045 
+--- 
+<div><p class="zn-body__paragraph speakable"> (CNN)Shawn Mendes is just a regular guy.</p><p class="zn-body__paragraph speakable">According to the streaming giant the doc "follows Shawn Mendes' journey toward self-discovery, after the physical and emotional demands of his rise, and his last world tour, pushed him towards a personal and musical reckoning."</p><p class="zn-body__paragraph">In the trailer Mendes says, "This isn't a story about a famous musician. This is a story about a guy growing up."</p><p id="ad_rect_atf_02" class="ad-ad_rect_atf_02 ad-refresh-default"></p><p></p><p></p><ul class="cn cn-list-hierarchical-xs cn--idx-5 cn-zoneAdContainer"></ul><p class="el-embed-youtube"></p><p class="zn-body__paragraph">And yet the 22-year-old former You Tube star is very aware that the world sees him as a musical superstar.</p><p class="read-more-gradient"></p><p class="read-more-link" id="js-body-read-more">Read More</p><p class="zn-body__paragraph">"If I tell the world I'm just a normal human, will they stop coming to my shows?" Mendes asks. "Maybe I should pretend I'm Superman for a little bit longer."</p><p class="zn-body__paragraph">We also appear to learn a bit about his love affair with fellow singer Camila Cabello, who he's been dating for over a year.</p><p></p><ul class="cn cn-list-hierarchical-xs cn--idx-11 cn-zoneAdContainer"></ul><p class="zn-body__paragraph">"My song comes on the radio or something and I'm like, 'Everything's about you. They're all, they have always been about you,'" he says as we see a shot of Cabello. "She goes, 'What do you mean?' Like, they're all about you. Like every song I've ever wrote."</p><p class="zn-body__paragraph">The debut feature length documentary will be released on Netflix on November 23. </p></div>

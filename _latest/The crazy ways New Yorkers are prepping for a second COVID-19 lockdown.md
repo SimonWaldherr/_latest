@@ -1,0 +1,32 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/magdalena-black-second-wave-coronavirus-2.jpg?quality=90&strip=all&w=1200 
+title: > 
+  The crazy ways New Yorkers are prepping for a second COVID-19 lockdown 
+description: > 
+  Luckily, this time they have the know-how of what they actually need to survive months indoors — and toilet paper isn’t the only hot item in town.Upper West Sider Jacqueline Patchen buys toilet paper and paper towels in bulk at Costco, only scooping up as much as the store allows and that can fit in her small apartment.“That’s how you maximize the freezer space,” she said.“Good” toilet paper, such as Charmin, is also still difficult to come by, she said.“When I saw pictures of old people going grocery shopping and there was nothing on the shelves, that broke my heart,” she said. 
+keywords: > 
+  store, supplies, freezer, yorkers, paper, ways, old, crazy, space, son, toilet, second, lockdown, going, prepping, covid19, sure 
+date: 1603312630.071575 
+--- 
+<div><p>They say hindsight is 20/20, right?</p>
+<p>As <a href="https://nypost.com/2020/10/12/de-blasio-says-nyc-entering-crucial-week-in-coronavirus-fight/" target="_blank" rel="noopener noreferrer">COVID-19 cases in New York</a> and around the country rise, city dwellers are fearing a repeat of the March and April coronavirus lockdowns. Luckily, this time they have the know-how of what they actually need to survive months indoors &#8212; and <a href="https://nypost.com/2020/04/09/how-a-global-pandemic-lead-to-a-toilet-paper-shortage/" rel="noopener noreferrer" target="_blank">toilet paper</a> isn&#8217;t the only hot item in town.</p>
+<p>Upper West Sider Jacqueline Patchen buys toilet paper and paper towels in bulk at Costco, only scooping up as much as the store allows and that can fit in her small apartment. She tries to stay &#8220;conscious&#8221; about not buying more than she needs, so as to not contribute to the vicious shortages that are still plaguing some local markets.</p>
+<p>&#8220;I buy enough that it&#8217;s going to last us and also enough to share with my neighbors,&#8221; said the 31-year-old.</p>
+<p>Another lockdown necessity is homemade stock that Patchen, who works in production, stores according to a space-saving system she&#8217;s perfected: She fills Ziploc freezer bags about 70 percent of the way with soup, makes sure it&#8217;s secure and clean, then lays the bag flat in her freezer to chill. &#8220;That&#8217;s how you maximize the freezer space,&#8221; she said.</p>
+<p>StuyTown resident Diany Levy purchased a new compact freezer when talks recently began about <a href="https://nypost.com/2020/10/04/here-are-the-nyc-zip-codes-targeted-for-new-covid-19-lockdown/" target="_blank" rel="noopener noreferrer">closing certain city zip codes</a>. &#8220;If I don&#8217;t do it now, it&#8217;s going to be sold out, because we tried to do it mid-pandemic and they were sold out for a while,&#8221; the 30-year-old told The Post of her $200 purchase.</p>
+ 
+<p>Her newborn son&#8217;s milk takes up most of the room in her fridge, so she needs extra space to be able to store food. &#8220;We eat kosher at home,&#8221; Levy explained. During the height of the pandemic, her Brooklyn grocery store upped their minimum purchase for delivery to $150. &#8220;Now I have the space to order in bulk,&#8221; she said.</p>
+<p>Because she plans on being stuck indoors, Rachel Silverman is finally redoing her bedroom after delaying the project for years. The color was stressful, the furniture was over 20 years old. With a new baby, she needed a calm space.</p>
+<p>At one point in the spring, &#8220;I got so sick of looking at it that I never even turned the lights on in the bedroom,&#8221; said Silverman, 35. She and her husband are working on replacing the furniture and repainting as fast as they can, before winter and a possible second wave hits. The family of four also finally replaced their old futon with a new sofa.</p>
+<p>&#8220;We&#8217;re going to take control of the things we can and make ourselves as comfortable as possible in our apartment, which we&#8217;re sure to be seeing a lot of this winter,&#8221; she said. The genealogist is still on the hunt for Clorox wipes, which she buys one package at a time whenever she finds them on the shelves of Target, so as not to deplete stock and deprive others who might be in need.</p>
+<p>Because her 16-month-old son has learned to walk since the last lockdown, Magdalena Black and her partner moved to a much larger apartment so he can run around indoors, in case they&#8217;re stuck inside again. <a href="https://nypost.com/2020/08/14/manhattan-sees-record-number-of-vacant-apartments-amid-coronavirus/" target="_blank" rel="noopener noreferrer">Declining rent costs</a> in Manhattan allowed them to move from Brooklyn to Columbus Circle.</p>
+ 
+<p>&#8220;If there is another lockdown, Central Park is huge, so we can ideally keep ourselves occupied through being out,&#8221; the stay-at-home mom told The Post. &#8220;But we&#8217;re so limited with places we can bring the child other than that.&#8221;</p>
+<p>To help, her son&#8217;s grandparents outfitted their new home with an indoor playset, complete with a swing and a slide. &#8220;Now that it&#8217;s starting to get cold again, we&#8217;re sort of prepping for the worst,&#8221; Black said.</p>
+<p>While some are working on staying occupied, Christina Morales is fighting to make sure her immunocompromised son has the supplies to stay healthy. &#8220;My son was diagnosed with severe brain cancer last year,&#8221; Morales said.</p>
+<p>The 31-year-old mom of two tries to buy paper towels, Clorox wipes and cleaning supplies once a week, on the chance they&#8217;re available. &#8220;Antibacterial soap is definitely hard to find right now. That&#8217;s very important. I&#8217;m like, &#8216;What do I do?,&#8217; &#8221; she worried. &#8220;Good&#8221; toilet paper, such as Charmin, is also still difficult to come by, she said.</p>
+<p>It&#8217;s a struggle between providing for her family and taking away from others. &#8220;I don&#8217;t go crazy. I don&#8217;t want to buy three or four of each product and have someone else need something,&#8221; said Morales.</p>
+<p>&#8220;When I saw pictures of old people going grocery shopping and there was nothing on the shelves, that broke my heart,&#8221; she said. &#8220;I hope [we all] can get the supplies we need.&#8221;</p>
+			</div>
