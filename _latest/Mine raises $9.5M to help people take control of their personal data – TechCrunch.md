@@ -1,0 +1,28 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1093349178.jpg?w=480 
+title: > 
+  Mine raises $9.5M to help people take control of their personal data – TechCrunch 
+description: > 
+  TechCrunch readers probably know that privacy regulations like Europe’s GDPR and California’s CCPA give them additional rights around their personal data — like the ability to request that companies delete your data.Ringel explained that Mine scans users’ inboxes to help them understand who has access to their personal data.Mine then cross-references that information with the data collection and privacy policies of the relevant companies, determining what data they’re likely to possess.Ringel argued that this is a very different approach to data privacy and data ownership.Ringel noted that the average Mine user has a personal data footprint across 350 countries — and the number is more like 550 in the United States. 
+keywords: > 
+  ventures, startup, control, users, personal, 95m, email, raises, company, ringel, companies, privacy, techcrunch, help, data 
+date: 1603297468.558048 
+--- 
+<div><p id="speakable-summary">TechCrunch readers probably know that privacy regulations like Europe&#8217;s <a href="https://techcrunch.com/2018/01/20/wtf-is-gdpr/">GDPR</a> and California&#8217;s <a href="https://techcrunch.com/tag/ccpa/">CCPA</a> give them additional rights around their personal data &#8212; like the ability to request that companies delete your data. But how many of you have actually exercised that right?</p>
+<p>An Israeli startup called <a href="https://saymine.com/">Mine</a> is working to make that process much simpler, and it announced this morning that it has raised $9.5 million in Series A funding.</p>
+<p>The startup was founded CEO Gal Ringel, CTO Gal Golan and CPO Kobi Nissan. Ringel and Golan are both veterans of Unit 8200, the cybersecurity unit of the Israeli Defense Forces.</p><p class="piano-inline-promo"></p>
+<p>Ringel explained that Mine scans users&#8217; inboxes to help them understand who has access to their personal data.</p>
+<p>&#8220;Every time that you do an online interaction, such as you sign up for a service or purchase a flight ticket, those companies, those services leave some clues or traces within your inbox,&#8221; he said.</p>
+<p></p><img class="size-large wp-image-2064045" src="https://techcrunch.com/wp-content/uploads/2020/10/Footprint-both.jpg?w=680" alt="Mine" width="680" height="535"><p>Mine then cross-references that information with the data collection and privacy policies of the relevant companies, determining what data they&#8217;re likely to possess. It calculates a risk score for each company &#8212; and if the user decides they want a company to delete their data, Mine can send an automated email request from the user&#8217;s own account.</p>
+<p>Ringel argued that this is a very different approach to data privacy and data ownership. Instead of building &#8220;fences&#8221; around your data, Mine makes you more comfortable sharing that data, knowing that you can take control when necessary.</p>
+<p>&#8220;The product gives [consumers] the freedom to use the internet feeling more secure, because they know they can exercise their right to be forgotten,&#8221; he said.</p>
+<p>Ringel noted that the average Mine user has a personal data footprint across 350 countries &#8212; and the number is more like 550 in the United States. I ran a Mine audit for myself and, within a few minutes, found that I&#8217;m pretty close to the U.S. average. (Ringel said the number doesn&#8217;t include email newsletters.)</p>
+<p>Mine launched in Europe earlier this year and says it has already been used by more than 100,000 people to send 1.3 million data deletion requests.</p>
+<p>The legal force behind those requests will differ depending on where you live and which company you are emailing, but Ringel said that most companies will comply even when they&#8217;re not legally required to do so, because it&#8217;s part of creating a better privacy experience that helps them &#8220;earn trust and credibility from consumers.&#8221; Plus, &#8220;Most of them understand that if you want to go, they&#8217;ve already lost you.&#8221;</p>
+<p>The startup&#8217;s core service is available for free. Ringel said the company will make money with premium consumer offerings, like the ability to offload the entire conversation with a company when you want your data deleted. It will also work with businesses to create a standard interface around privacy and data deletion.</p>
+<p>As for whether giving Mine access to your inbox creates new privacy risks, Ringel said that the startup collects the &#8220;bare minimum&#8221; of data &#8212; usually just your email address and your full name. Otherwise, it knows &#8220;the type of data, but not the actual data&#8221; that other companies have obtained.</p>
+<p>&#8220;We would never share or sell your data,&#8221; he added.</p>
+<p>The Series A was led by Google&#8217;s AI-focused venture fund <a class="crunchbase-link" href="https://crunchbase.com/organization/gradient-ventures" target="_blank">Gradient Ventures, </a> with participation from e.ventures, MassMutual Ventures, as well as existing investors Battery Ventures and Saban Ventures. Among other things, Ringel said the money will fund Mine&#8217;s launch in the United States.</p>
+</div>

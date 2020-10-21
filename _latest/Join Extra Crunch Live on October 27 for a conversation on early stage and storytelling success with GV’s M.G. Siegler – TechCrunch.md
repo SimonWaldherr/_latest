@@ -1,0 +1,21 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/extra-crunch-live-siegler.jpg?w=711 
+title: > 
+  Join Extra Crunch Live on October 27 for a conversation on early stage and storytelling success with GV’s M.G. Siegler – TechCrunch 
+description: > 
+  If anyone knows early stage investing and startups, it’s M.G.As a General Partner at GV, he’s personally invested in his fair share of rocket ship companies early on in their lifecycles, including Anchor, Slack, Medium and Stripe.He later reported on startups at both VentureBeat and later TechCrunch, before becoming a founded partner at CrunchFund and then eventually joining GV (then Google Ventures) to focus on early stage companies.In addition to the companies listed above, Siegler has led investment in other successful early stage companies including Universe, Giphy, The Players’ Tribune, CTRL-Labs and AltspaceVR.More broadly, Siegler also has a unique perspective, and ample experience, when it comes to early stage startups and storytelling. 
+keywords: > 
+  working, startup, extra, stage, siegler, live, early, investment, startups, hes, success, mg, companies, join, storytelling, theyre, techcrunch, gvs 
+date: 1603297468.5879514 
+--- 
+<div><p id="speakable-summary">If anyone knows early stage investing and startups, it&#8217;s M.G. Siegler. As a General Partner at GV, he&#8217;s personally invested in his fair share of rocket ship companies early on in their lifecycles, including Anchor, Slack, Medium and Stripe. He&#8217;s also a TechCrunch alum, and a former startup operator himself as a web dev. We&#8217;re thrilled to have Siegler joining us to talk about his investment experience, and how his early career as a writer influenced his thinking about startup success on <strong><a href="https://techcrunch.com/2020/04/16/announcing-the-extra-crunch-live-event-series/">Extra Crunch Live</a> on October 27 at 2 p.m. EDT/11 a.m. PDT.</strong></p>
+<p>Siegler&#8217;s career in startups began in 2005, working in web development at a startup agency focused on tech clients. He later reported on startups at both VentureBeat and later TechCrunch, before becoming a founded partner at CrunchFund and then eventually joining GV (then Google Ventures) to focus on early stage companies. In addition to the companies listed above, Siegler has led investment in other successful early stage companies including Universe, Giphy, The Players&#8217; Tribune, CTRL-Labs and AltspaceVR.</p>
+<p>At the outset of the current global pandemic, Siegler chatted with our own Lucas Matney about GV&#8217;s investment in mobile website-builder Universe, and about how managing a portfolio changes in light of travel and social distancing restrictions. We&#8217;ll find out from Siegler what the ensuing months of living and working in the context of COVID-19 have changed about his perspective, and about the early stage companies he&#8217;s working with and scouting for potential investment.</p><p class="piano-inline-promo"></p>
+<p>More broadly, Siegler also has a unique perspective, and ample experience, when it comes to early stage startups and storytelling. His work as a journalist focused specifically on looking at new and emerging technology companies and assessing their ability to communicate their ambitions, the problems they&#8217;re solving, and the technology they&#8217;re building to do. He brings that experience to his assessment of the investment potentials of startups and their founders, and their ability to tell good and compelling story about what they&#8217;re doing, and why.</p>
+<p>All these topics, plus more questions from you, our audience. So join us if you&#8217;re an Extra Crunch member and get caught up on all the fintech goodness going on. And if you aren&#8217;t an Extra Crunch member, be <a href="https://techcrunch.com/subscribe/?tpcc=mgsieglerpost">sure to check out subscription options</a> before we get started.</p>
+<p>Meeting details are below the paywall.</p>
+<h2>Meeting Details</h2>
+ 
+			</div>

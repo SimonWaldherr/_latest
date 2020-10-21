@@ -1,0 +1,41 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ca-times.brightspotcdn.com/dims4/default/398f91e/2147483647/strip/true/crop/2038x1070+0+38/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7e%2F43%2Fbb08bcc590534472d9b612800f4a%2Fla-1555059345-meagadhyhe-snap-image 
+title: > 
+  Two more men accuse Garcetti advisor Rick Jacobs of sexual misconduct 
+description: > 
+  Facing two new accusations of sexual misconduct, Rick Jacobs, a top political advisor to Mayor Eric Garcetti, said Tuesday night he will “take a leave” from his work amid increasing questions about the allegations.The officer alleged that Garcetti witnessed inappropriate behavior by Jacobs toward him, but did not stop it.Others who were interviewed said they feared that talking about Jacobs would hurt Garcetti’s political career.“If you and your boyfriend go south, give me a call,” Jacobs told the man, according to his account.AdvertisementAnother man who was at the event confirmed Jacobs’ behavior towards the man. 
+keywords: > 
+  men, garcettis, mayor, man, times, accuse, sexual, told, rick, misconduct, advisor, jacobs, political, behavior, garcetti, chief 
+date: 1603297443.4778206 
+--- 
+<div><p>Facing two new accusations of sexual misconduct, Rick Jacobs, a top political advisor to Mayor Eric Garcetti, said Tuesday night he will &#8220;take a leave&#8221; from his work amid increasing questions about the allegations. </p><p>Jacobs had previously served as Garcetti&#8217;s deputy chief of staff. He is currently on the board of the nonprofit Mayor&#8217;s Fund for Los Angeles and serves as its treasurer, and is chief executive  of a nonprofit he founded with Garcetti focused on spurring economic development.</p><p>Jacobs said in an emailed statement that he had dedicated himself to advocacy and public service for 17 years. He didn&#8217;t address the allegations against him, saying, &#8220;I don&#8217;t want this to be a distraction. Therefore, I will take a leave from my non-profit work and my volunteer political work with the mayor.&#8221;</p><p>Jacobs in the past has denied any wrongdoing, and Garcetti has publicly stood by his longtime advisor. On Tuesday, the mayor released a statement saying he takes &#8220;seriously all allegations of harassment.&#8221;</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad988abdc0-5e3d-4e7d-866f-d93b6aa19bf8" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>The accusations could become a political issue for the mayor, who is national co-chair of Joe Biden&#8217;s campaign and has been mentioned as a possible Cabinet appointee if Biden wins the presidency.</p><p>The first sexual harassment allegation against Jacobs came this summer in a lawsuit filed by a <a class="link" href="https://www.latimes.com/california/story/2020-07-14/lapd-officer-accuses-top-garcetti-advisor-of-sexual-harassment" target="_blank">Los Angeles police officer</a> who worked as a bodyguard for Garcetti. The officer alleged that Garcetti witnessed inappropriate behavior by Jacobs toward him, but did not stop it. Garcetti has denied seeing any inappropriate behavior. </p><p>On Monday, in a first-person article posted online, <a class="link" href="https://www.latimes.com/california/story/2020-10-19/journalist-yashar-ali-alleges-sexual-misconduct-by-garcetti-aide" target="_blank">journalist Yashar Ali</a> accused Jacobs of sexual misconduct. </p><p>Since the lawsuit was filed, The Times has interviewed people who know Jacobs. Some said they were surprised by the lawsuit and said they never witnessed misconduct by Jacobs.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adb9eaa496-d6ae-4088-9d7e-ba5efeac5f44" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p></p><p id="nativo_1"></p><p>But two individuals have told The Times they have been the targets of unwanted touching or harassing by Jacobs. </p><p>Neither man would agree to allow his name to be published, citing fears of retaliation. Others who were interviewed said they feared that talking about Jacobs would hurt Garcetti&#8217;s political career.</p><p>Neither Garcetti&#8217;s office nor Jacobs responded to written questions sent by The Times about the two men&#8217;s allegations.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad7df04567-843e-44ce-bf10-8076e72bce83" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>One man said Jacobs groped him when he was leaving a party at Jacobs&#8217; house in 2012.</p><p>The man, who was 30 years old at the time, said he hadn&#8217;t met Jacobs before that day, and went to the party with his boyfriend. As he was leaving, he stopped to say goodbye to Jacobs.</p><p>&#8220;If you and your boyfriend go south, give me a call,&#8221; Jacobs told the man, according to his account.</p><p>He said Jacobs grabbed his buttock with a full palm and squeezed, and then lifted it.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adfc874b19-411d-47a1-b6e1-c2b035419f2e" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>The man said he had only recently come out as gay, and said he felt stunned and objectified. Jacobs &#8220;was this prominent figure, and it caught me off guard,&#8221; the man said. &#8220;It was so out of the ordinary.&#8221;</p><p>Another guest at the party confirmed the man&#8217;s account. The guest told The Times that the man told him, &#8220;That guy just grabbed my ass.&#8221;</p><p>Another man &#8212; a longtime Democratic strategist &#8212; told The Times he was talking to friends at an event in Los Angeles last year when Jacobs strode over. &#8220;He tried to hug and kiss me forcibly,&#8221; the man recounted in an interview.</p><p>The strategist used both hands to push Jacobs away, but Jacobs persisted, trying to force an embrace, the man said. One of the strategist&#8217;s friends stepped in and asked the man if he needed help.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad97a55326-1ff1-4379-9778-431e2abf64f6" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>Another man who was at the event confirmed Jacobs&#8217; behavior towards the man. &#8220;It was grossly uncomfortable,&#8221; the man said.</p><p>The strategist showed The Times communications showing him complaining about Jacobs&#8217; behavior following the event.</p><p>Jacobs is both a political consultant to the mayor and longtime friends with Garcetti and his wife, Amy Wakeland.</p><p>He headed the California operation of Howard Dean&#8217;s 2004 presidential bid, a campaign that Wakeland also worked on.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad35b05bba-4add-4ff0-bb98-94124ffabe3e" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>A native of Tennessee, Jacobs worked as an Occidental Petroleum Corp. vice president and founded the liberal advocacy group Courage Campaign.</p><p>He earned a top spot in City Hall &#8212; deputy chief of staff &#8212; after raising money to support Garcetti&#8217;s 2013 mayoral  run before stepping down in 2016.</p><p>Weingart Foundation Chief Executive  Fred Ali, who serves on the board of the Mayor&#8217;s Fund with Jacobs, said he didn&#8217;t witness any behavior that made him uncomfortable or that he deemed inappropriate.</p><p>&#8220;With allegations like these,&#8221; Ali said, &#8220;I think they need to be investigated to the fullest possible extent, and then have the outcomes fall where they fall.&#8221;</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-add4850df7-4198-4ba1-8324-30f3530ecdf2" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p><i>Times staff writer David Zahniser contributed to this report.</i><br></p></div>

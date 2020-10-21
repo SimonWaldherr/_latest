@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/images/photos/003/889/344/hi-res-ca28150c39a1810a68b7ceccef723702_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  Browns' Baker Mayfield on Media Criticism: 'I Don't Give a Damn What They Say' 
+description: > 
+  Don Wright/Associated PressAfter an ugly two-interception performance in Week 6's loss to the Pittsburgh Steelers, Baker Mayfield again is facing a firestorm of criticism.The Cleveland Browns quarterback is apparently immune to outside talk."I don't give a damn what they say," Mayfield told reporters of his critics in the national media.This article will be updated to provide more information soon.Get the best sports content from the web and social in the new B/R app. 
+keywords: > 
+  updated, twointerception, dont, baker, app, week, told, wrightassociated, criticism, talki, browns, media, web, mayfield, damn, say, ugly 
+date: 1603297421.1652215 
+--- 
+<div><p></p><img alt="Cleveland Browns quarterback Baker Mayfield (6) strands on the sideline after being replaced by Case Keenum during the second half of an NFL football game against the Pittsburgh Steelers, Sunday, Oct. 18, 2020, in Pittsburgh. (AP Photo/Don Wright)" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Don Wright/Associated Press</p><p class="">After an ugly two-interception performance in Week 6's loss to the <a href="http://bleacherreport.com/pittsburgh-steelers">Pittsburgh Steelers</a>, <a href="http://bleacherreport.com/baker-mayfield">Baker Mayfield</a> again is facing a firestorm of criticism.</p><p class="">The <a href="http://bleacherreport.com/cleveland-browns">Cleveland Browns</a> quarterback is apparently immune to outside talk.</p><p class="">"I don't give a damn what they say," Mayfield <a href="https://twitter.com/MaryKayCabot/status/1318936226217390081" target="_blank" rel="noopener noreferrer">told reporters</a> of his critics in the national media.</p><p class="">&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;</p><p class="">This article will be updated to provide more information soon.</p><p class="">Get the best sports content from the web and social in the&#160;<a href="http://www.bleacherreport.com/mobile?_branch_match_id=223297926359744871" target="_blank" rel="noopener noreferrer">new B/R app</a>. Get the app and get the game.</p></div>

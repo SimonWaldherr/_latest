@@ -1,0 +1,36 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f3bc330a3eafa001de06a7d?format=jpeg 
+title: > 
+  Bitcoin leaps to highest since July 2019 after PayPal opens service to cryptocurrencies 
+description: > 
+  The leap pushed bitcoin to an intraday peak of $12,817.17, its highest level since July 2019.Billionaire investor and bitcoin bull Michael Novogratz deemed PayPal's move "the biggest news of the year in crypto."Bitcoin soared as much as 8% on Wednesday after PayPal announced it would open its service to cryptocurrency purchases and sales.The Wednesday peak marks bitcoin's highest level since July 2019.Bitcoin broke through the key $12,000 level on Tuesday, and the PayPal news adds more fuel to the upswing. 
+keywords: > 
+  cryptocurrency, markets, peak, 2019, service, opens, paypals, profit, level, investment, bitcoin, cryptocurrencies, leaps, marks, highest, paypal 
+date: 1603297425.7206812 
+--- 
+<div>&#13;
+	<img alt="FILE PHOTO: Representation of the virtual currency Bitcoin is seen on a motherboard in this picture illustration taken April 24, 2020. REUTERS/Dado Ruvic /Illustration/File Photo" height="400" width="800" charset="" class="img-responsive imported-news-entry-img" src="https://i.insider.com/5f3bc330a3eafa001de06a7d?format=jpeg">&#13;
+&#13;
+<p class="copyright">Reuters</p>&#13;
+&#13;
+<ul><li><strong><a href="https://markets.businessinsider.com/currencies/btc-usd?utm_source=markets&amp;utm_medium=ingest" target="_blank">Bitcoin</a> spiked as much as 8% higher on Wednesday after <a href="https://markets.businessinsider.com/stocks/pypl-stock?utm_source=markets&amp;utm_medium=ingest" target="_blank">PayPal</a> revealed it will soon allow users to buy, sell, and hold the popular cryptocurrency.</strong></li><li><strong>The leap pushed bitcoin to an intraday peak of $12,817.17, its highest level since July 2019.</strong></li><li><strong>PayPal's Wednesday announcement marks the latest move by a financial-services giant to accept cryptocurrencies.</strong></li><li><strong>Billionaire investor and bitcoin bull Michael Novogratz deemed PayPal's move "the biggest news of the year in crypto."</strong></li><li><strong><a href="https://markets.businessinsider.com/currencies/btc-usd?utm_source=markets&amp;utm_medium=ingest" target="_blank">Watch bitcoin trade live here</a>.</strong></li></ul><p><a href="https://markets.businessinsider.com/currencies/btc-usd?utm_source=markets&amp;utm_medium=ingest" target="_blank">Bitcoin</a> soared as much as 8% on Wednesday after <a href="https://markets.businessinsider.com/stocks/pypl-stock?utm_source=markets&amp;utm_medium=ingest" target="_blank">PayPal</a> announced it would open its service to cryptocurrency purchases and sales.</p><p>The rally placed bitcoin at an intraday high of $12,817.17, well above its previous 2020 record of $12,473. The Wednesday peak marks bitcoin's highest level since July 2019.</p><p>The world's largest cryptocurrency is up more than 11% this week alone. Bitcoin broke through the key $12,000 level on Tuesday, and the PayPal news adds more fuel to the upswing.</p><p>PayPal said Wednesday it will allow its users to buy, hold, and sell cryptocurrencies from their accounts starting in a few weeks. More than 26 million merchants using the platform will also be able to accept cryptocurrencies as a funding source, according to a <a href="https://newsroom.paypal-corp.com/2020-10-21-PayPal-Launches-New-Service-Enabling-Users-to-Buy-Hold-and-Sell-Cryptocurrency" target="_blank">press release</a>. &#13;
+    </p><p class="htl-ad ">&#13;
+    </p>&#13;
+&#13;
+    <p class="htl-ad ">&#13;
+    </p>&#13;
+<p>PayPal plans to expand the features to its Venmo app and international markets through the first half of next year.</p><p><strong>Read more:</strong> <a href="https://www.businessinsider.com/investing-strategy-profit-margin-us-sports-betting-igaming-bofa-2020-10?utm_source=markets&amp;utm_medium=ingest" target="_blank">US sports betting is losing money now, but Bank of America explains how long-term investors could see 30% profit margins</a></p><p>The company's acceptance of cryptocurrencies comes after other mainstream financial names adopt the previously ignored asset class. <a href="https://www.businessinsider.com/bitcoin-price-square-buys-million-ubiquitious-potential-currency-digital-tech-2020-10?utm_source=markets&amp;utm_medium=ingest" target="_blank">Square scooped up 4,709 bitcoins for $50 million</a> earlier in October, saying bitcoin can become "a more ubiquitous currency" in the future. Fidelity rolled out its first bitcoin-focused fund back in August, allowing its wealthier clients to back the volatile tokens.</p><p>Billionaire investor Mike Novogratz praised PayPal's move on Wednesday, deeming it "the biggest news of the year in crypto." The former hedge fund manager serves as chief executive for Galaxy Investment Partners, a crypto-focused investment firm.</p><p>Novogratz has long pushed for widespread adoption of digital currencies, and said in a&#160;<a href="https://twitter.com/novogratz/status/1318882730118139904?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1318882730118139904%7Ctwgr%5Eshare_3%2Ccontainerclick_1&amp;ref_url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2020-10-21%2Fbitcoin-on-the-brink-of-fresh-year-high-following-paypal-embracerace" target="_blank">tweet</a> that PayPal's action marks an "exciting day" for cryptocurrency advocates. &#13;
+    </p><p class="htl-ad ">&#13;
+    </p>&#13;
+&#13;
+    <p class="htl-ad ">&#13;
+    </p>&#13;
+<p>"All banks will now be on a race to service crypto. We have crossed the rubicon people," he said.</p><p>The coin still has a long climb before retaking its 2017 peak of nearly $20,000. Bitcoin traded at $12,714 as of 11:05 a.m. ET Wednesday, up 76% year-to-date.</p><p><strong>Now read more markets coverage from Markets Insider and Business Insider:</strong></p><p><strong><a href="https://markets.businessinsider.com/news/stocks/netflix-stock-price-q3-earnings-subscriber-growth-miss-analyst-estimates-2020-10-1029704603?utm_source=markets&amp;utm_medium=ingest" target="_blank">Netflix sees $14 billion of market value erased after missing 3rd-quarter subscriber growth and profit targets</a></strong></p><p><strong><a href="https://markets.businessinsider.com/news/stocks/stock-market-news-today-spx-dow-stimulus-negotiations-earnings-results-2020-10-1029705371?utm_source=markets&amp;utm_medium=ingest" target="_blank">US stocks climb as investors await signs of stimulus progress</a></strong> &#13;
+    </p><p class="htl-ad ">&#13;
+    </p>&#13;
+&#13;
+    <p class="htl-ad ">&#13;
+    </p>&#13;
+<p><strong><a href="https://www.businessinsider.com/election-investing-strategy-tips-recommendations-risks-dws-cio-david-bianco-2020-10?utm_source=markets&amp;utm_medium=ingest" target="_blank">An investment chief overseeing $229 billion breaks down 2 critical election-linked risks facing the market - and shares the smartest way to turn them both into profit opportunities</a></strong></p><a></a><p>Read the original article on <a href="https://www.businessinsider.com/bitcoin-price-highest-paypal-cryptocurrency-adoption-novogratz-btc-rally-2020-10" target="_blank">Business Insider</a> </p></div>

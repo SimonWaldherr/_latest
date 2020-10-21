@@ -1,0 +1,15 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5da8a3bc4af9096fd832d873?width=1200&format=jpeg 
+title: > 
+  The best pre-lit artificial Christmas trees 
+description: > 
+  Pre-lit artificial Christmas trees come in an array of sizes, colors, themes, and levels of quality.The best overall pre-lit artificial tree we've found is the Balsam Hill Classic Blue Spruce Pre-Lit LED Artificial Tree, which is full and lush, easy to assemble, and made to last for more than one season.After a few years of attempting to wrangle lights onto my artificial tree, I opted for a pre-lit tree.After several years of owning a pre-lit artificial tree I've done the research to know what to look for.Here are the best pre-lit artificial Christmas trees:Updated 10/21/20. 
+keywords: > 
+  christmas, ive, blue, best, tree, consider, prelit, artificial, trees, gotten 
+date: 1603297426.0148408 
+--- 
+<div><ul class="summary-list"><li><strong>Pre-lit artificial Christmas trees come in an array of sizes, colors, themes, and levels of quality. </strong></li><li><strong>When choosing which tree is best for your home, it's important to consider your budget, space, and other holiday decor.</strong></li><li><strong>The best overall pre-lit artificial tree we've found is the <a href="https://www.amazon.com/gp/product/B073Q85K4Q/ref=as_li_tl?ie=UTF8&amp;tag=biipgf_101719_best-pre-lit-artificial-christmas-trees-20&amp;camp=1789&amp;creative=9325&amp;linkCode=as2&amp;creativeASIN=B073Q85K4Q&amp;linkId=7f6fda43657fb44c74f7c4d3a02e394e" target="_blank" rel="nofollow noopener sponsored">Balsam Hill Classic Blue Spruce Pre-Lit LED Artificial Tree</a>, which is full and lush, easy to assemble, and made to last for more than one season.</strong></li></ul><p>Growing up on a farm in the Blue Ridge Mountains, our Christmas tree came straight from our woods.&#160;</p><p>That magical experience waned when I moved farther south where the weather could be 80 degrees as I picked out a semi-live tree from a lot and tried to secure it to the top of a compact car. The final death knell rang the year I could not get the tree into the stand and ended up trying to whittle the trunk with a screwdriver and a hammer. It was time to move to an artificial tree I could manage.</p><p>My first artificial tree looked fake from even 3 miles away. Fortunately, tree designers and manufacturers have gotten better at producing more realistic branches and needles and I've gotten savvier at selecting trees that fit my space.&#160;</p><p>After a few years of attempting to wrangle lights onto my artificial tree, I opted for a pre-lit tree. After several years of owning a pre-lit artificial tree I've done the research to know what to look for. For a full rundown of what to consider when buying an artificial tree, jump to the <a href="https://www.businessinsider.com/best-pre-lit-artificial-christmas-tree#what-to-consider-when-buying-an-artificial-tree-6">bottom of this guide</a>.</p><h2>Here are the best pre-lit artificial Christmas trees:</h2><p>Updated 10/21/20. We updated prices, links, and formatting.</p>
+
+                    </div>
