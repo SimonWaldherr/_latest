@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i2-prod.mirror.co.uk/incoming/article22871683.ece/ALTERNATES/s1200/1_Coronavirus-in-Britain-London-United-Kingdom-14-Oct-2020.jpg 
+title: > 
+  Coronavirus UPDATES: Watch live as Boris Johnson and Keir Starmer square off at PMQs 
+description: > 
+  Boris Johnson faces a PMQs grilling this lunchtime with questions expected to be focus on England's three-tier lockdown system.The Government's funding for areas under the highest restrictions has come under intense scrutiny after talks with Greater Manchester collapsed and Tier 3 was imposed yesterday.Meanwhile, South Yorkshire will be the latest region placed into Tier 3 coronavirus restrictions, taking the total in England up to roughly 7m from this weekend.Regional Dan Jarvis said: "Following extensive discussions with ministers, local council leaders and I have agreed with Government that South Yorkshire will move into Tier 3, the 'very high' alert level for coronavirus restrictions."Get all the updates on coronavirus in the UK and across the world throughout the day below 
+keywords: > 
+  starmer, keir, greater, updates, johnson, tier, package, ministers, pmqs, coronavirus, yorkshire, south, restrictions, square, watch, manchester, support, live, boris 
+date: 1603278989.0503895 
+--- 
+<div><p>Boris Johnson faces a PMQs grilling this lunchtime with questions expected to be focus on England's three-tier lockdown system. </p> <p>The Government's funding for areas under the highest restrictions has come under intense scrutiny after talks with Greater Manchester collapsed and Tier 3 was imposed yesterday.</p> <p>Meanwhile, South Yorkshire will be the latest region placed into Tier 3 coronavirus restrictions, taking the total in England up to roughly 7m from this weekend.</p> <p>Regional Dan Jarvis said: "Following extensive discussions with ministers, local council leaders and I have agreed with Government that South Yorkshire will move into Tier 3, the 'very high' alert level for coronavirus restrictions."</p> <p>He said the restrictions, which will cover around 1.4 million people in Barnsley, Doncaster, Rotherham and Sheffield, will come into force on Saturday morning after a &#163;41m support package from the Government was agreed.</p> <p>The row over funding for Greater Manchester continues with a &#163;60m package "still on the table", ministers insist, after Mayor Andy Burnham had demanded a minimum &#163;65m support fund.&#160;</p> <p><strong> Get all the updates on coronavirus in the UK and across the world throughout the day below </strong></p></div>
