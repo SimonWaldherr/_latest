@@ -1,0 +1,14 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static.independent.co.uk/2020/10/20/08/PRI169296927.jpg 
+title: > 
+  Trump news live: President blames Hillary Clinton after mic stops working at rally 
+description: > 
+  US president Donald Trump in Arizona on MondayDonald Trump went to battle with 60 Minutes after walking out on an interview with reporter Lesley Stahl.The president later threatened to release the interview footage before the 60 Minutes airing so people could see what he called a "terrible electoral intrusion".To round out day of attacks, the president also went after Joe Biden and warned that Thursday’s presidential debate on NBC will go against him because he’s facing “a stacked deck” and a biased moderator.The statement comes after Melania Trump said she recovered from the novel virus last week.Check out The Independent’s live coverage and updates below: 
+keywords: > 
+  weekcheck, 60, walking, president, rally, virus, warned, trump, minutes, blames, hillary, stops, went, working, clinton, mic, interview, live 
+date: 1603242610.0621758 
+--- 
+<div><p class="sc-pHJJA iocNwz above-article-prompt-donations"></p>US president Donald Trump in Arizona on Monday<p><a href="/topic/donald-trump">Donald Trump</a> went to battle with 60 Minutes after walking out on an interview with reporter Lesley Stahl. The president later threatened to release the interview footage before the 60 Minutes airing so people could see what he called a "terrible electoral intrusion".
+</p><p>To round out day of attacks, the president also went after <a href="/topic/joe-biden">Joe Biden</a> and warned that Thursday&#8217;s presidential debate on NBC will go against him because he&#8217;s facing &#8220;a stacked deck&#8221; and a biased moderator.</p><p></p><p id="article-im-prompt"></p><p>Meanwhile, the first lady cancelled her plans to travel with the president as part of his re-election bid after her spokesperson said she had a &#8220;lingering cough&#8221; remaining from her Covid-19 diagnosis. The statement comes after Melania Trump said she recovered from the novel virus last week. &#160;</p><p></p><p></p><p><i><strong>Check out The Independent&#8217;s live coverage and updates below:</strong></i></p><p class="sc-ptCms fzKffT"></p><p class="sc-pIUCW jVhHsN">Your daily US politics newsletter</p><p class="sc-pQrCd hptqUu"><h4 class="sc-pYMCY iMNmXR"></h4><h4 class="sc-pYMCY sc-oUPCf hOgeNa"></h4></p><a class="nsc-register-btn" href="/register?noframe&amp;rid=READER_ID&amp;url=SOURCE_URL&amp;return=RETURN_URL&amp;regSourceSection=US%20Election%202020&amp;regSourceMethod=Article%2BSignpost&amp;newsletter=receiveInsideWashingtonNews">Sign up</a><p class="sc-pdkDa hKpBFR">Already have an account? </p><a href="/independent-premium#newsletters">Update preferences</a></div>
