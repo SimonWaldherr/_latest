@@ -1,0 +1,31 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/Travel/2020/October/GettyImages-1203187750.jpg?impolicy=logo-overlay 
+title: > 
+  A half-term lockdown would punish families for problems they haven't caused 
+description: > 
+  Why pick half-term – our only light in this gloomy tunnel – to fix a mess that has been made by others?Yes, yes, a holiday isn’t everything.Why pick half-term – the one chance families have of some relaxation before Christmas – to fix a mess that has most likely been made by others?A two-week lockdown would also result in events that are much-loved by children being cancelled.It is true that implementing a lockdown at half-term would save a week of lessons from disruption but where will it end? 
+keywords: > 
+  yes, parents, havent, cancelled, lockdown, week, rules, punish, halfterm, families, problems, caused, children, school 
+date: 1603323234.4547172 
+--- 
+<div><blockquote>
+<b>Why pick half-term &#8211; our only light in this gloomy tunnel &#8211; to fix a mess that has been made by others?</b>
+</blockquote>
+<p>We are coming to the end of the first term for schools and, by all accounts, it has been a challenging time. While it has been great to have children back learning and playing with friends, parts of daily school life have yet to return.</p>
+<p>Teachers have worked hard and done incredibly well to minimise the spread of Covid. Children file around school grounds in class-size &#8220;bubbles&#8221;, unable to talk to friends in other years. There is no assembly, no older buddy system and no clubs or trips. Parents cannot set foot in classrooms and some schools don&#8217;t even allow children their own pencil case.</p>
+<p>Introducing a two-week lockdown at half-term &#8211; a &#8220;circuit-breaker&#8221; &#8211; might slow down national infection rates but the timing of it would be greatly unfair to families who are already trying to keep children positive in this strange, new world. With half-term for most due to start next week, working parents will, not for the first time, be forced to scrabble around for last-minute childcare thanks to a Government whim.&#160;</p>
+<p>And then there are the half-term holidays that would have to be cancelled. England&#8217;s travel industry, as well as its hospitality industry, desperately needs us to not lock ourselves away this autumn. Yes, yes, a holiday isn&#8217;t everything. But then those without school-age offspring can say that, having popped off to Italy a month ago or Devon last week. Why pick half-term &#8211; the one chance families have of some relaxation before Christmas &#8211; to fix a mess that has most likely been made by others?</p>
+<p>Would a circuit-breaker at half-term put a stop to the illegal gatherings of those who have been flouting the rules behind closed doors? Probably not. Why should families be made to suffer for the sins of those who found the rules too tricky to adhere to? If you think about it, the Rule of Six is harder for families to comply with than it is for others &#8211; a family of five, for example, can only meet up with one other.&#160;</p>
+<p>Despite this, I am confident that families have been doing a grand job of sticking to the rules. I know this because, as a mother of young children &#8211; and I say this with a twinge of regret &#8211; I rarely get the chance to party until I become oblivious to my responsibilities. For many families, this restricted way of living is very much our &#8216;new normal&#8217;, and standards have not slipped since the academic year began.&#160;</p>
+<p>You will not find us among the lairy crowds that gather on the high street at closing time &#8211; be that at 10pm or 11pm. You will also not find us obsessing over air corridors, because we have been chained to the school gates since September.</p>
+<p>For many parents, booking a holiday this summer was unfeasible. Trips that had been planned in advance were cancelled, perhaps a second attempt at a break went the same way. Some families managed to slip in a few days of a staycation before September but this was only the more persistent of us. Children are anxious after seeing their daily lives disrupted by an unknown force and need something to look forward to &#8211; some fresh air, a new space to explore, a pool to splash about in.</p>
+<p>We parents, nerves still jangling from the homeschooling we juggled earlier in the year, need a break too.</p>
+<p>My family&#8217;s plans for next week are modest and involve a short stay at a hotel that is an hour&#8217;s drive from our house. I don&#8217;t like having to admit to my daughter, who is excited about a change of scene, that I have no control over whether we go or not.</p>
+<p>A two-week lockdown would also result in events that are much-loved by children being cancelled. We could just about cope with October&#8217;s Harvest Festival being reduced to a video-link of the vicar joyfully waving some carrots, but no halloween? No bonfire night?&#160;</p>
+<p>Schools &#8211; including ours &#8211; are more strapped for cash than ever before and many are facing a year of unforeseen hardship as they would normally rely on organised events to drum up money. At the moment, plans include pumpkin trails and firework displays that can be viewed within family bubbles &#8211; but a lockdown would mean that these fundraisers would be cancelled in their entirety. Children who have been living in fear of the virus since March would also, once again, be separated from the love and reassurance of grandparents they were quite possibly due to visit.&#160;</p>
+<p>It is true that implementing a lockdown at half-term would save a week of lessons from disruption but where will it end? With the effects of locking down not becoming apparent until weeks down the line, who can really be confident that a fortnight will be deemed long enough?&#160;</p>
+<p>Singapore&#8217;s lockdown was supposed to last a month but ended up being three. If we are given an order to lock down over half-term I hope it would at least come with an assurance that, in doing so, we are saving Christmas.</p>
+<p></p>
+</div>

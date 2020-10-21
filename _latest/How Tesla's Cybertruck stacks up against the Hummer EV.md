@@ -1,0 +1,20 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f907eac212113001873ff87?width=1200&format=jpeg 
+title: > 
+  How Tesla's Cybertruck stacks up against the Hummer EV 
+description: > 
+  GMC finally unveiled the Hummer EV.While it has some similar specs to the Cybertruck, the Hummer EV offers plenty of features to set it apart.The Hummer EV will come with a three-year subscription to Super Cruise, GM's own autonomous-driving technology.The base Hummer EV will start at $79,995, compared to the Cybertruck starting at $39,900.The Hummer EV Edition 1 will have a starting price of $112,595 and should be available in fall 2021. 
+keywords: > 
+  teslas, electric, cybertruck, car, gmc, hummer, features, ev, massive, miles, unveiled, stacks 
+date: 1603323205.7863295 
+--- 
+<div><ul class="summary-list">
+<li>GMC finally unveiled the <a href="https://www.businessinsider.com/electric-pickup-truck-comparison-tesla-cybertruck-rivian-r1t-2020-2">Hummer EV.</a></li>
+<li>It has massive 35-inch tires and 350 miles of range.</li>
+<li>While it has some similar specs to the <a href="https://www.businessinsider.com/elon-musk-smaller-tesla-cybertruck-highly-likely-2020-8">Cybertruck</a>, the Hummer EV offers plenty of features to set it apart.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul><p>The following is a transcript of the video.</p><p><strong>Narrator:</strong> GMC just unveiled its electric Hummer, the company's first all-electric car. And it's packed with features, which shouldn't be surprising since the Hummer EV is massive. But how does GMC's supertruck stack up against Tesla's Cybertruck?</p><p>Both EVs are engineered to go off-road. The Hummer EV is specially equipped for this task. A host of new features give drivers more control in tough situations. It has four-wheel steering, it can climb stairs and verticals up to 18 inches tall, has a unique CrabWalk feature that drives the car diagonally, and cameras underneath the truck help drivers avoid obstacles.&#160;</p><p>Both EVs have huge 35-inch all-terrain tires, adaptive suspensions that can be adjusted for ground clearance, and make use of four-wheel drive. They're massive and will more than likely handle like a Ford Raptor or Jeep Gladiator Rubicon. We'll just have to wait until both cars are out to test them for ourselves.</p><p>As far as autonomous driving goes, the Cybertruck comes equipped with Autopilot. The Hummer EV will come with a three-year subscription to Super Cruise, GM's own autonomous-driving technology. Though Super Cruise is only hands-free on compatible roads.</p><p>The new Hummer uses three electric motors to produce 1,000 horsepower and 11,500 pound-feet of torque. While Tesla hasn't released the Cybertruck's specs, Motor Trend estimates it's around 690 horsepower and 824 pound-feet of torque. Both cars boast a zero to 60 in about three seconds. But you'll need to be in Hummer's Watts to Freedom mode, similar to Ludicrous mode in a Tesla.</p><p>Range is one of the most important metrics of any EV. GMC estimated the Hummer EV will do 350-plus miles on a full charge. That's on the high end for an EV but actually fares on the lower end compared to other electric trucks. The R1T, the Ford-backed EV, and Cybertruck boast 400 and 500 miles respectively, though both offer smaller battery packs that produce about half that. The Hummer EV will be the first car compatible with 350-kilowatt public chargers, which will allow it to charge 100 miles in 10 minutes.</p><p>The price difference between the two is pretty substantial, which is expected. The base Hummer EV will start at $79,995, compared to the Cybertruck starting at $39,900. But don't expect to see either of those models on the street anytime soon. The Hummer EV Edition 1 will have a starting price of $112,595 and should be available in fall 2021.</p>
+
+                    </div>

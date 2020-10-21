@@ -1,0 +1,15 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f905bbb2e0e6f0018dd7b51?width=1200&format=jpeg 
+title: > 
+  Renting an RV for 2 nights cost my family less than a flight and hotel, but I wish I'd shopped around a little more 
+description: > 
+  I've always wanted to take an RV trip, so the pandemic seemed like a good time since it's a safer form of travel.It was worth it, but I wish I'd shopped around for other rentals instead of looking only on RVshare.See Business Insider's picks for the best RV loans of 2020 »I've always wanted to rent an RV.We split the cost with my dad and his girlfriend, so the trip cost my husband and I less than $400 total.This is far less than we'd spend on a flight and typical accommodations, along with the cost of dining out. 
+keywords: > 
+  shopped, id, trip, wish, hotel, total, renting, rent, northern, girlfriend, wanted, split, little, nights, cost, rv, family, flight, dad 
+date: 1603323206.1873884 
+--- 
+<div><p class="financial-disclaimer"><i>Personal Finance Insider writes about products, strategies, and tips to help you make smart decisions with your money. We may receive a small commission from our partners, like American Express, but our reporting and recommendations are always independent and objective.</i></p><ul class="summary-list"><li>I've always wanted to take an RV trip, so the pandemic seemed like a good time since it's a safer form of travel.</li><li>My family of three paired up with my dad and his girlfriend to rent a pull-along trailer and camp out in northern Kentucky.</li><li>We split the costs and my share was about $400 total. It was worth it, but I wish I'd shopped around for other rentals instead of looking only on <a href="https://go.skimresources.com?id=35871X943606&amp;xs=1&amp;url=https%3A%2F%2Frvshare.com%2F" target="_blank" rel="nofollow noopener sponsored nofollow sponsored nofollow sponsored">RVshare</a>.</li><li><a href="https://www.businessinsider.com/personal-finance/best-rv-loans" target="_blank" rel="noopener">See Business Insider's picks for the best RV loans of 2020 &#187;</a></li></ul><p>I've always wanted to rent an RV. Yes, they can be a little costly to rent long term, but I figured it would be the perfect way to have a fun mini-trip with my family and still follow social distancing guidelines.&#160;</p><p>Plus, I wanted to see if we'd actually like RV travel in the first place. My dad has been wanting to take a trip for the longest, so we set out to drive from Illinois and camp out in northern Kentucky for a few days.&#160;</p><p>We split the cost with my dad and his girlfriend, so the trip cost my husband and I less than $400 total. This is far less than we'd spend on a flight and typical accommodations, along with the cost of dining out.</p><p id="div-gpt-ad-1579713650634-0">
+            
+         </p></div>
