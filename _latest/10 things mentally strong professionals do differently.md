@@ -1,0 +1,36 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f5f8e527ed0ee001e25f1ad?width=1200&format=jpeg 
+title: > 
+  10 things mentally strong professionals do differently 
+description: > 
+  On my podcast, "Mentally Strong People," I ask famous authors, experts, entrepreneurs, actors, musicians, athletes, and the like about their favorite strategies for building mental strength.Through all the interviews I've conducted with mentally strong people over the years (in both settings), I've learned several things about what they have in common.They feel scared tooYou might think mentally strong people are fearless.But mentally strong people know they can't trust everything they think.They give credit where it's dueYou won't catch a mentally strong person ripping off someone else's ideas. 
+keywords: > 
+  dont, uncomfortable, podcast, ask, acknowledge, mental, mentally, professionals, differently, arent, strong, things, theyre 
+date: 1603290336.901375 
+--- 
+<div><ul class="summary-list">
+<li><a href="https://www.businessinsider.com/author/amy-morin">Amy Morin</a>&#160;is a psychotherapist, licensed clinical social worker, mental strength coach, and international bestselling author.</li>
+<li>On her podcast, she interviews successful professionals from all walks of life, from business people and entrepreneurs to athletes and musicians, to ask about how they build mental strength.</li>
+<li>There are misconceptions that successful people are fearless &#8212; they're not, Morin says. They're just more willing to push themselves to face their fears.&#160;</li>
+<li>Morin says mental strong professionals embrace uncomfortable situations, aren't afraid to ask questions and admit they don't have all the answer, and always keep learning.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-careers-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-careers-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>On my podcast, "<a href="https://amymorinlcsw.com/mentally-strong-people-podcast/">Mentally Strong People</a>," I ask famous authors, experts, entrepreneurs, actors, musicians, athletes, and the like about their favorite strategies for building mental strength.&#160;</p><p>Yet while most of the guests on my show have reached the pinnacle of success, these aren't the first mentally strong people I have come across during my career.</p><p>Long before I became an author and a podcaster, I worked as a therapist. Most of the people who stepped into my therapy office in rural Maine weren't famous, they weren't bestselling authors or multi-millionaires, and they didn't have Olympic gold medals or Grammys.&#160;</p><p>They were single parents raising kids with special needs, hardworking people who were battling depression, and military veterans who were living with PTSD. However, many of them possessed the same sort of incredible mental strength I have discovered among my podcast guests.</p>
+<p id="gpt-post-careers-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-careers-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Through all the interviews I've conducted with mentally strong people over the years (in both settings), I've learned several things about what they have in common.</p><h2><strong>1. They feel scared too</strong></h2><p>You might think mentally strong people are fearless. But they're not. They're just more willing to face their fears. Whether they're nervous about public speaking or terrified of their business failing, they still push themselves to do scary things.</p><h2><strong>2. They still experience self-doubt</strong></h2><p>Big mental muscle doesn't eliminate all self-doubt. But mentally strong people know they can't trust everything they think. When they catch themselves questioning whether they can succeed, they respond to their self-doubt with some more helpful thoughts.</p><h2><strong>3. They have insecurities&#160;</strong></h2><p>Whether they're embarrassed by a physical feature or a little insecure about their skills, they can be vulnerable too. But they choose to acknowledge insecurities rather than try to hide them.</p>
+<p id="gpt-post-careers-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-careers-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<h2><strong>4. They learn more from the hard times than the good times</strong></h2><p>When you ask a strong person how they developed so much strength, they almost always share stories about their darkest days. Their pain becomes a powerful teacher that helps turn those struggles into strength.</p><h2><strong>5. They keep learning</strong></h2><p>Mentally strong people don't insist on being completely self-reliant all the time. They frequently talk about having a therapist. Or they eagerly acknowledge the friends and family members who inspire them. They walk into every situation expecting to learn something.</p><h2><strong>6. They admit when they don't have all the answers</strong></h2><p>Mentally strong people aren't ashamed to acknowledge when they don't know an answer. They don't put themselves down, and they don't pretend to have information. Instead, they are up front when it comes to saying things like, "That's not my area of expertise."</p><h2><strong>7. They embrace discomfort</strong></h2><p>Whether they're scared to ask for a raise or nervous about being the head of a committee, they know uncomfortable feelings are tolerable. Rather than numb or escape them, they allow themselves to feel uncomfortable. They use healthy coping skills to get through discomfort rather than try to find ways around it.</p>
+<p id="gpt-post-careers-mobile_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-careers-desktop_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<h2><strong>8. They are humble</strong></h2><p>Almost everyone I invite to be on the <a href="https://amymorinlcsw.com/mentally-strong-people-podcast/">Mentally Strong People</a> podcast says something like, "I won't be the strongest person you've ever had. I still have some areas that need improvement." They aren't self-deprecating though. They are humble.</p><h2><strong>9. They are good listeners</strong></h2><p>Mentally strong people are exceptional listeners. They are able to focus on what other people are saying (rather than being preoccupied with what to say next). They seek to understand others' points of view by really hearing what is being said.</p><h2><strong>10. They give credit where it's due</strong></h2><p>You won't catch a mentally strong person ripping off someone else's ideas. Instead, they give credit when sharing other people's ideas, and they acknowledge those who support their efforts &#8212; whether it's a team member or a family member.</p>
+                  </div>

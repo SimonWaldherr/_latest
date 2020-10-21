@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/images/photos/003/889/120/8d1771825e8cc09148270bc1c18aed7e_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  Fantasy Football Big Board: Complete PPR Player Rankings for Week 7 
+description: > 
+  0 of 6Adrian Kraus/Associated PressIt has been an eventful fantasy football season.We figured New Orleans Saints running back Alvin Kamara, Arizona Cardinals wide receiver DeAndre Hopkins and Kansas City Chiefs tight end Travis Kelce would make a fantasy impact.Patrick Mahomes of the Kansas City Chiefs and Lamar Jackson of the Baltimore Ravens have been solid, but not the fantasy forces we expected.Matt Ryan of the Atlanta Falcons spent the first month of the season on a milk carton before exploding in Week 6.Wouldn't you know it, that's just what we have here—detailed position-by-position rankings and analysis for PPR fantasy leagues in Week 7. 
+keywords: > 
+  player, fantasy, city, know, week, ppr, football, kansas, rankings, complete, big, board, chiefs, wide, weekly, travis, true 
+date: 1603290333.8978763 
+--- 
+<ol><p class="slideData">0 of 6</p><p></p><img alt="" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Adrian Kraus/Associated Press</p><p class="">It has been an eventful fantasy football season.</p><p class="">It seems like on a weekly basis, what we thought we knew about the game in 2020 is being put both to the test and through a meat grinder.</p><p class="">Some things are proving to be true. We figured New Orleans Saints running back Alvin Kamara, Arizona Cardinals wide receiver DeAndre Hopkins and Kansas City Chiefs tight end Travis Kelce would make a fantasy impact.</p><p class="">Sure enough, they have.</p><p class="">But the quarterback position is a microcosm for all that we don't know. Patrick Mahomes of the Kansas City Chiefs and Lamar Jackson of the Baltimore Ravens have been solid, but not the fantasy forces we expected. The Buffalo Bills' Josh Allen and Green Bay Packers' <a href="http://bleacherreport.com/aaron-rodgers">Aaron Rodgers</a> started red-hot but have cooled of late. <a href="http://bleacherreport.com/matt-ryan">Matt Ryan</a> of the Atlanta Falcons spent the first month of the season on a milk carton before exploding in Week 6.</p><p class="">It's dizzying. You need a program to keep all the comings and goings straight. A guide to keep your fantasy campaign from becoming derailed.</p><p class="">Wouldn't you know it, that's just what we have here&#8212;detailed position-by-position rankings and analysis for PPR fantasy leagues in Week 7.</p><p class="">I love it when a plan comes together.</p></ol>

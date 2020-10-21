@@ -1,0 +1,32 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://pagesix.com/wp-content/uploads/sites/3/2020/10/thundercat.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Thundercat’s quarantine has been mostly MMA training, Wayne Shorter and therapy 
+description: > 
+  Then, when the pandemic forced the country — and live music — to a halt, Bruner found an unexpected upside to all his newfound free time.“Right before quarantine hit, it was a bit of a weird nexus where everything unfolded into … Mac’s death, and the person I was with,” Bruner recently told Page Six.To that end, “I’ve spent more time on things like therapy and kickboxing and boxing lately,” Bruner explained.“Everything about this moment was telling me it just wasn’t the time for me to be playing as much.This was right before UFC 15, and it was really, really brutal. 
+keywords: > 
+  music, shorter, right, quarantine, bruner, thundercats, therapy, weird, really, playing, ufc, training, wasnt, mma, wayne, trying 
+date: 1603290360.5729902 
+--- 
+<div><p>Like most of us, Stephen &#8220;Thundercat&#8221; Bruner has had a weird 2020.</p>
+<p>The 36-year-old bass virtuoso and singer dropped his latest record, <a href="https://ninjatune.net/release/thundercat/it-is-what-it-is" rel="noopener noreferrer" target="_blank">&#8220;It Is What It Is,&#8221;</a> in April. The conversation around the record was dominated by how Bruner was coping with the death of his friend Mac Miller by getting sober, going vegan, losing weight and seeking therapy. Then, when the pandemic forced the country &#8212; and live music &#8212; to a halt, Bruner found an unexpected upside to all his newfound free time.</p>
+<p>&#8220;Right before quarantine hit, it was a bit of a weird nexus where everything unfolded into &#8230; Mac&#8217;s death, and the person I was with,&#8221; Bruner recently told Page Six. &#8220;The last couple years moved very quickly. And I realized I wasn&#8217;t taking care of myself, I was just like, in it. After Mac passed and certain things happened with the person I was with &#8230; it kinda destroyed me emotionally. It weighed on me a lot. I&#8217;m just working on getting back to a place of normality. And ironically, when I was trying to get to a place that&#8217;s better for me, the whole country shut down.&#8221;</p>
+<p>&#8220;For the first time in any life, I couldn&#8217;t run to music to help me through the moment,&#8221; he added.</p>
+<p>To that end, &#8220;I&#8217;ve spent more time on things like therapy and kickboxing and boxing lately,&#8221; Bruner explained. &#8220;Everything about this moment was telling me it just wasn&#8217;t the time for me to be playing as much. I&#8217;m more focused on being okay and just trying to breathe through this really weird moment.&#8221;</p>
+<p></p>
+<p>Bruner also told us his martial arts training is a long-deferred goal, having always taken a backseat to music before.</p>
+<p>&#8220;I wasn&#8217;t very athletic as a kid, I spent a lot of my time playing my instrument and illustrating. So this always was an interest of mine, I just never pursued it because I was worried about my hands.&#8221;</p>
+<p>&#8220;I remember the first time I saw UFC, it was at this store that used to be by the 32nd street market, and they had it playing. This was right before UFC 15, and it was really, really brutal. Me and my cousin always said, one day, when we had enough money, we were gonna go sit in the front row at UFC and get splattered with blood.&#8221;</p>
+<p>And as far as his quarantine binge-watches, avowed anime and comic book fan Bruner name-checks &#8220;Naruto&#8221; and &#8220;The Boys.&#8221;</p>
+<p>&#8220;And of course &#8216;Lovecraft Country&#8217; has been amazing,&#8221; he added. &#8220;The new &#8216;Inuyasha&#8217; just started so I&#8217;m real excited about that, too.&#8221;</p>
+<p>Meanwhile, for a bass virtuoso, Bruner has been listening to the music of two golden-age tenor sax jazzers: Joe Henderson and Wayne Shorter. He&#8217;s hoping to parlay his friendship with Shorter&#8217;s Miles Davis Quintet bandmate Herbie Hancock into a meeting with fellow comic-book aficionado Shorter soon, just to &#8220;Say hi. He&#8217;s one of the greats. I&#8217;d like to thank him for everything he&#8217;s done, pick his brain and talk about comics and stuff.&#8221;</p>
+<p></p>
+<p>And as far as his love life while in quarantine? &#8220;I imagine myself to be quite undateable,&#8221; Bruner said with a laugh. &#8220;I have &#8216;friends.&#8217; Everybody loves being &#8216;friends&#8217; in LA. I don&#8217;t know what to call anything. &#8216;Dating&#8217; &#8212; that&#8217;s gonna be like the n-word in another 10 years. No one&#8217;s gonna say that.&#8221;</p>
+<p>This week, Bruner is preparing for <a href="https://rosebowlstadium.com/events/details/108/thundercat-and-hannibal-buress" rel="noopener noreferrer" target="_blank">a drive-in concert with pal Hannibal Buress at LA&#8217;s Rose Bowl on Oct. 24.</a></p>
+<p>&#8220;It&#8217;s very dope that there&#8217;s an option to do something like this because it&#8217;s a very American experience; driving&#8217;s been a part of our culture forever,&#8221; he said. &#8220;I think [drive-in concerts] will be kind of like vinyl records and stick around after this moment because people will realize there is something special about them.&#8221;</p>
+<p>Asked if he would consider going the Flaming Lips route for a concert &#8212; with audience members <a href="https://nypost.com/2020/10/15/the-flaming-lips-perform-for-audience-inside-plastic-bubbles/?_ga=2.268698614.620586509.1603132926-1787833842.1590516714" rel="noopener noreferrer" target="_blank">encased in their own bubbles</a> &#8212; Bruner demurred. &#8220;That seems fun up until that third or fourth tequila, when you start smelling like a hot dog inside your bubble.&#8221;</p>
+<p>Fittingly for a guy with a song called simply <a href="https://open.spotify.com/track/2JwFuyHAm2iahd89lCks0J?si=EHE8AVIKRZ6ars7QfP5XGg" rel="noopener noreferrer" target="_blank">&#8220;Existential Dread,&#8221;</a> Bruner is philosophical about his mental health right now.</p>
+<p>&#8220;Every day feels different. Some days you wake up really happy, some days you wake up and you feel &#8230; overtaken, and there&#8217;s just trying to find a balance to it. The worst can come out in these moments, it can eat you up emotionally. Trying to preserve and reserve yourself is a special and important thing right now.&#8221;</p>
+			</div>

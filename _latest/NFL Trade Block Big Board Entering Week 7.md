@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/slides/photos/004/415/847/5939cd620706e0c70a024a88d655bc78_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  NFL Trade Block Big Board Entering Week 7 
+description: > 
+  0 of 11Kamil Krzaczynski/Associated PressInjuries continue to pile up around the NFL, with Philadelphia Eagles star tight end Zach Ertz the latest to suffer a long-term ailment.Injuries often prompt contenders to make moves ahead of the trade deadline, while irrelevance often leads rebuilding teams to do the same.With several playoff-caliber teams missing key personnel and 10 teams sitting at one win of fewer, this year's deadline could be as active as it's ever been.With the Nov. 3 deadline fast approaching, the flurry of activity should soon be upon us.That's what we'll determine here, using factors such as roster makeup, cap space and the likelihood of player movement to guide us. 
+keywords: > 
+  uswho, teams, block, tight, win, deadline, entering, trade, week, big, board, nfl, suffer, using, thats, zach 
+date: 1603290333.7335882 
+--- 
+<ol><p class="slideData">0 of 11</p><p></p><img alt="" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Kamil Krzaczynski/Associated Press</p><p class="">Injuries continue to pile up around the <a href="http://bleacherreport.com/nfl">NFL</a>, with Philadelphia Eagles star tight end Zach Ertz the latest to suffer a <a href="https://www.espn.com/nfl/story/_/id/30148349/philadelphia-eagles-te-zach-ertz-expected-3-4-weeks-rb-miles-sanders-likely-vs-giants" target="_blank" rel="noopener noreferrer">long-term ailment</a>.</p><p class="">Injuries often prompt contenders to make moves ahead of the trade deadline, while irrelevance often leads rebuilding teams to do the same. With several playoff-caliber teams missing key personnel and 10 teams sitting at one win of fewer, this year's deadline could be as active as it's ever been.</p><p class="">With the Nov. 3 deadline fast approaching, the flurry of activity should soon be upon us.</p><p class="">Who are the top players likely to be available at the deadline? That's what we'll determine here, using factors such as roster makeup, <a href="https://www.spotrac.com/nfl/cap/" target="_blank" rel="noopener noreferrer">cap space</a> and the likelihood of player movement to guide us.&#160; &#160; &#160;&#160;&#160;</p></ol>
