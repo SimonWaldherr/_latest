@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.usnews.com/dims4/USNEWS/ae46fb7/2147483647/crop/2000x1336%2B0%2B0/resize/1200x1200%3E/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F91%2Fe5%2F2b8a98d448379fadcc67a5a98ee6%2F201021-biotechresearch-stock.jpg 
+title: > 
+  The 7 Best Biotech Stocks to Buy Today 
+description: > 
+  Gilead Sciences (ticker: GILD)Most of the top biotech stocks on this list have perhaps one or two drugs in the pipeline, and no matter how impressive each medicine's potential may be, that isn't much diversification.Gilead is different – the multibillion-dollar biotech behemoth provides investors with exposure to treatments for a wide range of ailments, from rheumatoid arthritis to cancer.While Gilead has long been known for its immensely profitable cure for hepatitis C, this year, its antiviral remdesivir has taken center stage as the world looks to find a way to end the pandemic.Yet the future for Gilead is in its HIV treatment Biktarvy, which continues to see growing demand despite the pandemic.The diverse range of treatments in Gilead's portfolio couldn't prevent the company from posting a 10% decline in sales during the second quarter, but the future remains bright for one of the biggest names in biotech. 
+keywords: > 
+  range, stocks, today, pandemic, treatment, way, world, best, gilead, wide, biotech, treatments, buy, future 
+date: 1603328408.2482347 
+--- 
+<div><p size="3" class="Heading__HeadingStyled-sc-1w5xk2o-0-p jlErET Heading-sc-1w5xk2o-1 jFucEe">Gilead Sciences (ticker: <a href="https://money.usnews.com/investing/stocks/gild-gilead-sciences-inc">GILD</a>)</p><p>Most of the top biotech stocks on this list have perhaps one or two drugs in the pipeline, and no matter how impressive each medicine's potential may be, that isn't much diversification. Gilead is different &#8211; the multibillion-dollar biotech behemoth provides investors with exposure to treatments for a wide range of ailments, from rheumatoid arthritis to cancer. While Gilead has long been known for its immensely profitable cure for hepatitis C, this year, its antiviral <a href="https://money.usnews.com/investing/stock-market-news/articles/2020-04-23/after-the-bell-conflated-gilead-drug-news-sends-market-on-ride">remdesivir</a> has taken center stage as the world looks to find a way to end the pandemic. Yet the future for Gilead is in its HIV treatment Biktarvy, which continues to see growing demand despite the pandemic. The diverse range of treatments in Gilead's portfolio couldn't prevent the company from posting a 10% decline in sales during the second quarter, but the future remains bright for one of the biggest names in biotech.</p></div>
