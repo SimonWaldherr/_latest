@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.dailymail.co.uk/1s/2020/10/21/22/34681176-0-image-a-3_1603314953539.jpg 
+title: > 
+  BUSINESS LIVE: Strong growth at Unilever; IAG to operate at 30% capacity 
+description: > 
+  Chancellor Rishi Sunak is expected to announce a new support package for businesses affected by Tier 2 restrictions, according to reports.Unilever saw a stronger-than-expected return to sales growth in the third quarter thanks to higher demand across markets like North America.Underlying sales rose 4.4 per cent, driven by strong growth in emerging markets.British Airways' parent company IAG will operate no more than 30 per cent of its flights for the rest of 2020.Total revenue fell only 3.4 per cent in the three months to September 30 after a first half decline of 20.2 per cent. 
+keywords: > 
+  business, package, tier, capacity, growth, restrictions, sales, demand, unilever, strong, live, 30, markets, operate, quarter, iag, cent 
+date: 1603375085.114078 
+--- 
+<div><p class="mol-para-with-font">The FTSE retreated this morning as the chances of a pre-election stimulus package from Washington dimmed, and despite optimistic signs that the UK and the EU will agree a trade deal in November.</p><p class="mol-para-with-font">Chancellor Rishi Sunak is expected to announce a new support package for businesses affected by Tier 2 restrictions, according to reports. Firms in Tier 2 areas cannot access the same public aid as those in Tier 3, including business grants.</p><p class="mol-para-with-font">Unilever saw a stronger-than-expected return to sales growth in the third quarter thanks to higher demand across markets like North America. Underlying sales rose 4.4 per cent, driven by strong growth in emerging markets.</p><p class="mol-para-with-font">British Airways' parent company IAG will operate no more than 30 per cent of its flights for the rest of 2020. It said the increase in travel restrictions and quarantine requirements had continued to suppress demand for air travel.&#160;</p><p class="mol-para-with-font">Travis Perkins reported improved trading in its latest quarter as its markets recovered following the impact of the Covid-19 lockdown. Total revenue fell only 3.4 per cent in the three months to September 30 after a first half decline of 20.2 per cent.</p><img id="i-1c45a6ab26f97d52" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" height="423" width="634" alt="" class="blkBorder img-share">  <img id="i-1c45a6ab26f97d52" src="https://i.dailymail.co.uk/1s/2020/10/21/22/34681176-0-image-a-1_1603314948082.jpg" height="423" width="634" alt="" class="blkBorder img-share">  <p class="imageCaption"></p></div>
