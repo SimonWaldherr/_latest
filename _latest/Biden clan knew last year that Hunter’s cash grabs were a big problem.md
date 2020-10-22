@@ -1,0 +1,34 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/hunter-joe-biden-3.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Biden clan knew last year that Hunter’s cash grabs were a big problem 
+description: > 
+  And insofar as it’s true, it just shows Joe Biden is a great dad.That’s how the media have responded to the Hunter Biden disclosures at the New York Post.But we didn’t need the Post revelations or sordid photos of Hunter Biden to know this story had the potential to derail the Joe Biden campaign.Joe Biden would do the industry’s bidding in the Senate, and an MBNA executive helped arrange the senior Biden acquire his multimillion-dollar spread in ­Delaware.He would go on to work for Eudora Global, an investment firm founded by another big cash bundler for Joe Biden. 
+keywords: > 
+  biden, told, clan, big, didnt, grabs, joe, hunter, bidens, knew, hunters, cash, yorker, son, problem, state, trump 
+date: 1603336917.8640115 
+--- 
+<div><p>It&#8217;s debunked.</p>
+<p>It&#8217;s disinformation.</p>
+<p>And insofar as it&#8217;s true, it just shows Joe Biden is a great dad.</p>
+<p>You should be <a href="https://nypost.com/2020/10/21/posts-reports-on-hunter-biden-emails-thrive-amid-blocking/">prevented from sharing it on social media</a>; maybe you should be punished for trying to share it. Because it&#8217;s debunked.</p>
+<p>A Washington Post story, quoting other people who were in on this thing that didn&#8217;t happen, says it&#8217;s fake news. You&#8217;re doing &#173;Putin&#8217;s work for him. We&#8217;re going to have truth and reconciliation commissions after this election to deal with this kind of thing.</p>
+<p>Listen, maybe it looks bad, but it&#8217;s not illegal.</p>
+<p>That&#8217;s how the media have responded to the <a href="https://nypost.com/2020/10/14/hunter-biden-emails-show-leveraging-connections-with-dad-to-boost-burisma-pay/">Hunter Biden disclosures at the New York Post</a>. They can probably keep it up through Election Day and even inauguration. Though as I write, Steve Bannon and Rudy Giuliani seem to be preparing the conservative mediaplex to feast on revelations of some kind of East Asian bathhouse bacchanal, with a heaping side of <a href="https://nypost.com/2020/10/15/emails-reveal-how-hunter-biden-tried-to-cash-in-big-with-chinese-firm/">financial subornation to the Chicoms</a>.</p>
+<p>But we didn&#8217;t need the Post revelations or sordid photos of Hunter Biden to know this story had the potential to derail the Joe Biden campaign.</p>
+<p>You know who knew it was a problem? The Joe Biden campaign, which tried to handle the story last year by releasing details to The New Yorker in a piece titled, <a href="https://www.newyorker.com/magazine/2019/07/08/will-hunter-biden-jeopardize-his-fathers-campaign">&#8220;Will Hunter Biden Jeopardize His Father&#8217;s Campaign?&#8221;</a></p>
+<p>Who else knew it was a problem? The State Department in 2015. Deputy Assistant Secretary of State George Kent explained that because Ukraine was under Joe Biden&#8217;s portfolio in the &#173;Obama administration, &#8220;it looks terrible&#8221; that his son Hunter Biden was taking a board seat on a&#160;Ukrainian government-connected energy company that had serious ethical and legal problems, especially with Joe Biden bragging about his own interventions in the legal landscape of the country. Biden&#8217;s office reportedly told Kent that Vice President Biden didn&#8217;t have the &#8220;bandwidth&#8221; to deal with Hunter.</p>
+<p>The New Yorker attempt at extinguishing the Hunter Biden story told us, based on an interview with him, that &#8220;Hunter saw himself as a provider for the Biden family.&#8221;</p>
+<p>This is pretty astounding. Hunter Biden&#8217;s first job was at MBNA, the credit-card conglomerate that was a huge Joe Biden bundler. Joe Biden would do the industry&#8217;s bidding in the Senate, and an MBNA executive helped arrange the senior Biden acquire his multimillion-dollar spread in &#173;Delaware.</p>
+<p>Hunter Biden would move into the Clinton administration and back to MBNA as a &#8220;consultant&#8221; &#8212; which is often enough a code word for &#8220;guy who knows powerful people.&#8221; Cash for access. He would go on to work for Eudora Global, an investment firm founded by another big cash bundler for Joe Biden. And even for a hedge fund founded by his uncle, Joe Biden&#8217;s brother. Later he had a high-pay, little-work job at Amtrak. Which Biden was &#8220;providing&#8221; for the other?</p>
+<p>The New Yorker quoted a State Department spokesperson saying that the State Department was not concerned about perceived conflicts of interest when Hunter took the Burisma job in Ukraine &#8220;because Hunter was a &#8216;private citizen.&#8217;&#8221; But the decades-long relation between father and son is mutually reinforcing. One Biden has the power, or at least the appearance of it. And the other Biden can be paid by those seeking favor with power because he is merely a &#8220;private citizen.&#8221; Can Joe and Hunter Biden really each flatter themselves that one has nothing to do with the other? They know we can see the flight logs to China, right?</p>
+<p>That Joe Biden says movingly loving things <a href="https://nypost.com/2020/10/16/texts-show-raw-intimate-exchange-between-joe-and-hunter-biden/">to his poor, demon-haunted son</a> is beyond doubt. The question is whether Joe Biden ever had the decency and yes, the love, to say, &#8220;Stop trading on my name.&#8221; Or was he out of bandwidth?</p>
+<p>Donald Trump and his political henchmen have not made the most effective use of these documents and this story.</p>
+<p>And Trump is not particularly well positioned to do so, given the jobs, advantages and positions of authority he has given to his own children and in-laws. But make no mistake, it was precisely the Biden combination of policy incompetence, cronyism, nepotism and personal enrichment that destroyed Hilary Clinton&#8217;s bid for the presidency in 2016.</p>
+<p>Your brother was told to &#8220;retrain in computers,&#8221; when a trade deal she favored destroyed his industry; she got to be on Walmart&#8217;s corporate board. She gets a million bucks to speak to Goldman Sachs, because they expected her to be president. Your town got an opioid epidemic. She got everything handed to her. Everything you worked for can be taken away in an instant. And she had the nerve to call you &#8220;deplorable.&#8221;</p>
+<p>That was part of the voter psychology that drove Donald Trump into the White House in 2016. And it could have been part of the 2020 story.</p>
+<p>We didn&#8217;t even need the e-mails. It&#8217;s all there in the public record.</p>
+<p>From National Review.&#160;</p>
+			</div>
