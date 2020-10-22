@@ -1,0 +1,22 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/Screenshot-2020-10-22-at-12.32.49.png?w=734 
+title: > 
+  Here integrates what3words’ super simple address system into its in-car API – TechCrunch 
+description: > 
+  Geocoding startup what3words — which chunks the world into 3mx3m squares, giving each a unique three-word label to simplify location sharing — has nabbed another in-vehicle integration, via a partnership with Here Technologies.Existing users of the platform will be able to be given access to what3word’s addressing tech via an update.It’s by no means the first such integration for what3words which has found cars to be a natural fit for its simplified, ‘rolls-off-the-tongue’ addressing system.In recent years the novel addressing system has also found favor with Airbnb as a way of simplifying location sharing for less traditional types of stays.Commenting on its latest partnership in a statement, what3words CEO and co-founder, Chris Sheldrick, said: “We are seeing increasing demand from automakers and mobility services. 
+keywords: > 
+  what3words, api, tech, super, system, simple, location, partnership, statement, incar, startup, techcrunch, integrates, specific, addressing, address 
+date: 1603365231.0101547 
+--- 
+<div><p id="speakable-summary">Geocoding startup <a href="https://www.crunchbase.com/organization/what3words">what3words</a> &#8212; which chunks the world into 3mx3m squares, giving each a unique three-word label to simplify location sharing &#8212; has nabbed another in-vehicle integration, via a partnership with <a href="https://www.crunchbase.com/organization/here-technologies">Here Technologies</a>.</p>
+<p>The pair said today that OEMs using Here&#8217;s navigation platform can include <a class="crunchbase-link" href="https://crunchbase.com/organization/what3words" target="_blank">what3words </a> as an in-car nav feature directly through the Here Search API, instead of needing to integrate itself. Existing users of the platform will be able to be given access to what3word&#8217;s addressing tech via an update.</p>
+<p>Here says its map data services can be found in 150 million vehicles worldwide at this point.</p><p class="piano-inline-promo"></p>
+<p>It&#8217;s by no means the first such integration for what3words which has found cars to be a natural fit for its simplified, &#8216;rolls-off-the-tongue&#8217; addressing system. The <a href="https://techcrunch.com/2013/11/06/what3words-2/">2013</a>-founded startup inked a partnership with Ford <a href="https://techcrunch.com/2019/02/25/ford-partners-with-geocoding-startup-what3words/">last year</a>, for example. It also counts <a href="https://what3words.com/news/general/daimler-announces-investment-what3words/">Daimler as an investor</a>.</p>
+<p>Letting drivers speak or type three words to input a location into their car&#8217;s GPS system has clear benefits vs requiring they correctly specify a full address. what3words also pinpoints a more specific location than a typical postcode &#8212; and works for destinations that don&#8217;t have a street address (the start of a hiking trial or specific lay-by; a particular entrance for a campus etc).</p>
+<p>what3words further notes that its tech has been adopted by global car companies, logistics providers and mobility apps, including Mercedes-Benz, Tata Motors, DB Schenker, Hermes and Cabify.</p>
+<p>In recent years the novel addressing system has also found favor with Airbnb as a way of simplifying location sharing for <a href="https://techcrunch.com/2018/11/19/airbnb-is-using-what3words-to-list-stays-with-mongolian-nomads/">less traditional types of stays</a>.</p>
+<p>Commenting on its latest partnership in a statement, what3words CEO and co-founder, Chris Sheldrick, said: &#8220;We are seeing increasing demand from automakers and mobility services. Now that we are embedded in Here, we can enable our address system simply and easily in both new and legacy vehicles.&#8221;</p>
+<p>&#8220;Automotive OEMs and Tier 1 suppliers can now provide the what3words service to their customers through the Here Search API instead of having to integrate it themselves,&#8221; added J&#248;rgen Behrens, SVP and chief product officer at Here Technologies in another supporting statement. &#8220;This will allow drivers to navigate easily in dense, urban environments with non-standard addressing schemes or seamlessly get to any location, be it a local pub or a trailhead.&#8221;</p>
+			</div>
