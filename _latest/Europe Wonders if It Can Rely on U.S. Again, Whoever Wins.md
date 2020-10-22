@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/22/world/22biden-europe-promo/merlin_177818919_af96a5b4-7b77-451c-a411-88e3a4c6c5dd-facebookJumbo.jpg 
+title: > 
+  Europe Wonders if It Can Rely on U.S. Again, Whoever Wins 
+description: > 
+  BRUSSELS — Treated with contempt by President Trump, who considers them rivals and deadbeats instead of allies, many European leaders look forward to the possibility of a Biden presidency.But they are painfully aware that four years of Mr. Trump have changed the world — and the United States — in ways that will not be easily reversed.Even if civility can be restored, a fundamental trust has been broken, and many European diplomats and experts believe that U.S. foreign policy is no longer bipartisan, so is no longer reliable.“The shining city on the hill is not as shining as it used to be,” Reinhard Bütikofer, a prominent German member of the European Parliament, put it bluntly.For the first time, said Ivan Krastev, director of the Center for Liberal Strategies, “Europeans are afraid that there is no longer a foreign-policy consensus in the United States. 
+keywords: > 
+  mr, wonders, biden, states, world, longer, united, european, policy, europe, shining, trump, rely, wins 
+date: 1603384930.353337 
+--- 
+<div><p class="css-158dogj evys1bk0">BRUSSELS &#8212; Treated with contempt by President Trump, who considers them rivals and deadbeats instead of allies, many European leaders look forward to the possibility of a Biden presidency. But they are painfully aware that four years of Mr. Trump have changed the world &#8212; and the United States &#8212; in ways that will not be easily reversed.</p><p class="css-158dogj evys1bk0">Even if civility can be restored, a fundamental trust has been broken, and many European diplomats and experts believe that U.S. foreign policy is no longer bipartisan, so is no longer reliable. &#8220;The shining city on the hill is not as shining as it used to be,&#8221; Reinhard B&#252;tikofer, a prominent German member of the European Parliament, put it bluntly.</p><p class="css-158dogj evys1bk0">For the first time, said Ivan Krastev, director of the Center for Liberal Strategies, &#8220;Europeans are afraid that there is no longer a foreign-policy consensus in the United States. Every new administration can mean a totally new policy, and for them this is a nightmare.&#8221;</p><p class="css-158dogj evys1bk0">The ideological divide will be on display on Thursday, when Mr. Trump and <a class="css-1g7m0tk" href="https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html" title="">Joseph R. Biden Jr.</a> are scheduled to hold their final presidential debate.</p></div>

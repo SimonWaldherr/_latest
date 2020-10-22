@@ -1,0 +1,18 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/women/2020/10/22/TELEMMGLPICT000236761110_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay 
+title: > 
+  My respect for Marcus Rashford grows deeper by the day 
+description: > 
+  Clearly, the Manchester United and England striker can be as tactical outside a stadium as in it.But then Marcus Rashford has been unusually grounded from the start.My church-going mum also worked insane hours as a tenant publican to keep a roof over her five children’s heads.The Pelling and Rashford broods are all now hard-working, tax-paying members of society, so I’d hazard the suggestion a few year’s support was worthwhile.In short, Marcus Rashford is a thumping good role model who teaches our children respect and the fact there are far greater goals than being rich and famous. 
+keywords: > 
+  player, hard, worked, manchester, rashford, respect, grows, day, say, children, support, mum, deeper, marcus 
+date: 1603384990.1609712 
+--- 
+<div><p>Clearly, the Manchester United and England striker can be as tactical outside a stadium as in it. But then Marcus Rashford has been unusually grounded from the start. His campaigning zeal comes from his own experience of childhood privation, when his devout Christian mum Melanie worked 14-hour days, struggling to make ends meet for five children, and often cried herself to sleep. She pushed for her talented son to be accepted by Manchester United&#8217;s youth academy a year early, aged 11, so he could have the support, including nutrition, that was so hard for her to guarantee. No wonder Rashford said, when awarded his MBE:&#160;&#8220;This is a very special moment for myself and my family, but particularly for my mum who is the real deserving recipient of the honour.&#8221;</p>
+<p>Odd though it may sound, his sentiments chimed with me. My church-going mum also worked insane hours as a tenant publican to keep a roof over her five children&#8217;s heads. During the hardest years she confessed she wouldn&#8217;t have been able to feed us without child benefit payments and I remember her intense relief when I was given an &#8220;assisted place&#8221; to a girls&#8217; private school, meaning I got free meals and a uniform allowance. Yes, many will say: &#8216;Don&#8217;t have so many children if you can&#8217;t pay for them!&#8217;&#160;but it&#8217;s hard to predict future hardship &#8211; such as my late father&#8217;s failing eyesight and battles with TB and then lung cancer. The Pelling and Rashford broods are all now hard-working, tax-paying members of society, so I&#8217;d hazard the suggestion a few year&#8217;s support was worthwhile.</p>
+<p>Needless to say, I couldn&#8217;t be happier in my football-obsessed son&#8217;s choice of icon.&#160;</p>
+<p>Whenever I see a headline that screams &#8220;Man U player arrested in Greece!&#8221; or &#8220;found with girl in hotel room&#8221; I know the culprit won&#8217;t be a smart, well-adjusted, unflashy player, who cherishes family above all (Rashford&#8217;s two brothers are his agents and run his brand; he&#8217;s been in a steady, low-profile relationship with PR account executive Lucia Loi for some while).&#160;</p>
+<p>In short, Marcus Rashford is a thumping good role model who teaches our children respect and the fact there are far greater goals than being rich and famous. I sincerely hope No 10 heeds his call to come to the table.</p>
+</div>
