@@ -1,0 +1,24 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2020/10/yolanda-diaz-ministra-trabajo-2102093.jpg?itok=LgbnK24o 
+title: > 
+  Trabajo combatirá los falsos autónomos de todas las plataformas digitales 
+description: > 
+  Esta nueva ley, que se prevé que esté lista a finales de año, pretende es combatir la presencia de falsos autónomos en las plataformas digitales.El Ministerio de Trabajo abre la puerta a abordar la relación laboral de los trabajadores del conjunto de plataformas digitales, no sólo la de los mensajeros.El Ministerio de Trabajo pretendía regular la relación laboral de los riders antes de finales de año.Su finalidad es combatir la presencia de falsos autónomos en las plataformas digitales.Sindicatos y empresarios han propuesto negociar las relaciones laborales que se establecen en el grueso de plataformas digitales, no sólo las de delivery. 
+keywords: > 
+  trabajo, la, las, digitales, en, autónomos, los, combatirá, se, y, falsos, todas, que, laboral, plataformas 
+date: 1603378326.0285819 
+--- 
+<div><p>Esta nueva ley, que se prev&#233; que est&#233; lista a finales de a&#241;o, pretende es combatir la presencia de falsos aut&#243;nomos en las plataformas digitales.</p><p>El Ministerio de Trabajo abre la puerta a abordar la relaci&#243;n laboral de los trabajadores del conjunto de plataformas digitales, no s&#243;lo la de los mensajeros.</p><p>El Ministerio de Trabajo pretend&#237;a regular la relaci&#243;n laboral de los riders antes de finales de a&#241;o. Pero, tras una primera reuni&#243;n con sindicatos y empresarios, el Gobierno rectifica y<strong> abre la puerta a abordar la relaci&#243;n laboral de los trabajadores del conjunto de plataformas digitales</strong>, no s&#243;lo la de los mensajeros.</p>
+
+<p>Se llamar&#225; Ley para la protecci&#243;n laboral de las personas trabajadoras que llevan a cabo actividades de distribuci&#243;n a terceras personas haciendo uso de medios digitales y est&#225; previsto que est&#233; lista a finales de 2020. Su finalidad es<strong> combatir la presencia de falsos aut&#243;nomos en las plataformas digitales</strong>.</p>
+
+<p>La mesa de debate sectorial, planteada en un inicio con sindicatos y empresarios, valora si&#160;contar tambi&#233;n <strong>con la participaci&#243;n de las patronales de empresas de delivery como Glovo o Just Eat,</strong> as&#237; como a las plataformas que agrupan a los trabajadores, avanza&#160;<a href="https://www.eleconomista.es/economia/noticias/10839980/10/20/Trabajo-accede-a-ampliar-la-negociacion-sobre-riders-a-todas-las-plataformas-digitales.html" rel="nofollow" target="_blank">El Economista.</a></p>
+
+ 
+
+<p>Sindicatos y empresarios han propuesto negociar&#160;las relaciones laborales que se establecen en el grueso de plataformas digitales, no s&#243;lo las de delivery. Las <a href="https://www.businessinsider.es/relacion-glovo-riders-no-requiere-contrato-laboral-681839" title="La relaci&#243;n con los 'riders' no tiene que pasar por un contrato laboral, seg&#250;n el cofundador de Glovo, que advierte de las consecuencias econ&#243;micas de limitarla">condiciones de estas empresas</a> no se ajustan a la de los negocios tradicionales y <a href="https://www.businessinsider.es/glovo-aprovecha-resto-startups-crecer-toda-costa-737601" title='"Glovo se est&#225; aprovechando del emprendimiento y del ecosistema de las startups para crecer a toda costa", seg&#250;n un empresario infiltrado en la compa&#241;&#237;a'>generan pol&#233;mica</a> por si es competencia desleal en <a href="https://www.businessinsider.es/riders-glovo-deliveroo-uber-eats-empleados-falsos-autonomos-europa-723321" title="El varapalo judicial a Glovo en Espa&#241;a por los falsos aut&#243;nomos estrecha el cerco sobre el modelo laboral de los riders en toda Europa">materia laboral</a>, de <a href="https://www.businessinsider.es/derechos-como-rider-sentencia-tribunal-supremo-glovo-736203" title="&#191;Eres 'rider' como (falso) aut&#243;nomo? La sentencia del Supremo sobre los repartidores de Glovo te otorga &#233;stos derechos">impuestos y otras regulaciones</a>.</p><p class="ad-container"></p>
+
+<p>Ejemplo de esta competencia es ya habitual conflicto entre taxistas y <a href="https://www.businessinsider.es/tags/uber" title="Uber ultimas noticias">Uber</a> o <a href="https://www.businessinsider.es/tags/cabify" title="Cabify ultimas noticias">Cabify</a> o entre los alquileres tur&#237;sticos y modelos de plataformas como <a href="https://www.businessinsider.es/tags/Airbnb" title="airbnb ultimas noticias">Airbnb</a>, La primera reuni&#243;n que se planteaba para hablar solo de los repartidores ha servido para acercar posturas con los agentes sociales y ha abierto el debate a todas las plataformas digitales.&#160;</p>
+</div>

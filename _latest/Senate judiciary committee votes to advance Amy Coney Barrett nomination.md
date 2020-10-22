@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.guim.co.uk/img/media/23741038a2d9396a41d5a1e697d7e89391b00986/0_133_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=00a98349bda01241c021489e74873b57 
+title: > 
+  Senate judiciary committee votes to advance Amy Coney Barrett nomination 
+description: > 
+  The Senate judiciary committee voted Thursday to advance Amy Coney Barrett’s supreme court nomination to the full Senate as Republicans powered past Democrats’ boycott of the session.Never has the Senate confirmed a supreme court nominee so close to a presidential election.The Republicans, who hold the majority, voted in favor of Barrett, a conservative judge.“Barrett deserves to be on the supreme court and she will be confirmed,” said the South Carolina senator Lindsey Graham, the committee chairman.The 48-year-old federal judge’s ascent to the high court would lock a 6-3 conservative majority on the court for the foreseeable future. 
+keywords: > 
+  senators, supreme, committee, democrats, senate, court, advance, nomination, conservative, amy, coney, republicans, voted, nominee, majority, votes, judiciary, barrett 
+date: 1603378334.761216 
+--- 
+<div><p class="css-38z03z">The Senate judiciary committee voted Thursday to advance Amy Coney Barrett&#8217;s supreme court nomination to the full Senate as Republicans powered past Democrats&#8217; boycott of the session.</p><p class="css-38z03z">Democratic senators refused to show up in protest of the GOP&#8217;s rush to install Donald Trump&#8217;s nominee to replace the late justice Ruth Bader Ginsburg. Never has the Senate confirmed a supreme court nominee so close to a presidential election.</p><p id="sign-in-gate"></p><p class="css-38z03z">The Republicans, who hold the majority, voted in favor of Barrett, a conservative judge. Senators plan to convene a rare weekend session for procedural actions ahead of a final confirmation vote expected Monday.</p><p class="css-38z03z">&#8220;Barrett deserves to be on the supreme court and she will be confirmed,&#8221; said the South Carolina senator Lindsey Graham, the committee chairman. Democrats, he said, &#8220;made a choice not to participate&#8221;.</p><p class="css-38z03z">Instead, Democrats arranged for posters to be placed at their spots of constituents they said had been helped by the Affordable Care Act. </p><p class="css-38z03z">The 48-year-old federal judge&#8217;s ascent to the high court would lock a 6-3 conservative majority on the court for the foreseeable future.</p><p class="css-38z03z">More details  soon &#8230;<br></p></div>
