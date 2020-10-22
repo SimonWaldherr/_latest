@@ -1,0 +1,47 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f700d1074fe5b0018a8da9e?width=1200&format=jpeg 
+title: > 
+  Senate Judiciary Committee votes to advance Amy Coney Barrett's nomination amid a Democratic boycott 
+description: > 
+  The Senate Judiciary Committee on Thursday voted to advance Amy Comey Barrett's Supreme Court nomination to the full Senate.The Senate is set to hold a final confirmation vote on the Supreme Court nominee on Monday.The Senate Judiciary Committee voted Thursday to advance Amy Coney Barrett's Supreme Court nomination to the full Senate as Republicans powered past Democrats' boycott of the session.Never has the Senate confirmed a Supreme Court nominee so close to a presidential election."Barrett deserves to be on the Supreme Court and she will be confirmed," said Sen. Lindsey Graham, R-S.C., the committee chairman. 
+keywords: > 
+  amy, nomination, votes, republicans, supreme, senators, committee, judiciary, democrats, care, panel, boycott, nominee, barretts, democratic, coney, court, senate 
+date: 1603376775.3540096 
+--- 
+<div><ul class="summary-list">
+<li>The Senate Judiciary Committee on Thursday voted to advance Amy Comey Barrett's Supreme Court nomination to the full Senate.&#160;</li>
+<li>Democratic senators refused to show up for Thursday's vote, and instead arranged for posters to be placed at their spots showing constituents they said had been helped by the Affordable Care Act.</li>
+<li>The Senate is set to hold a final confirmation vote on the Supreme Court nominee on Monday.&#160;</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>The Senate Judiciary Committee voted Thursday to advance Amy Coney Barrett's Supreme Court nomination to the full Senate as Republicans powered past Democrats' boycott of the session.</p><p>Democratic senators refused to show up in protest of the GOP's rush to install President Donald Trump's nominee to replace the late&#160;<a href="https://apnews.com/hub/ruth-bader-ginsburg">Justice Ruth Bader Ginsburg</a>. Never has the Senate confirmed a&#160;<a href="https://apnews.com/hub/us-supreme-court">Supreme Court</a>&#160;nominee so close to a&#160;<a href="https://apnews.com/hub/election-2020">presidential election</a>.</p><p>The Republicans, who hold the majority, voted in favor of Barrett, a conservative judge. Senators plan to convene a rare weekend session for procedural actions ahead of a final confirmation vote expected Monday.</p><p>"Barrett deserves to be on the Supreme Court and she will be confirmed," said Sen. Lindsey Graham, R-S.C., the committee chairman. Democrats, he said, "made a choice not to participate."</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Instead, Democrats arranged for posters to be placed at their spots of constituents they said had been helped by the Affordable Care Act.</p><p>The 48-year-old federal judge's ascent to the high court would lock a 6-3 conservative majority on the court for the foreseeable future.</p><p>Trump's Republican allies in the Senate are counting on Barrett's ascent to improve their standing with voters. The court could open a new era of rulings on the Affordable Care Act, abortion access and even the results of the presidential election.</p><p>Senate Democratic Leader Chuck Schumer announced the planned boycott in a speech late Wednesday on the Senate floor.</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>"We should not be moving forward on this nomination," Schumer said, calling Barrett's views "so far out of the mainstream."</p><p>Unable stop the confirmation, Democrats have been trying unsuccessfully to stall the process until after the Nov. 3 election, so the winner of the presidency could name the new nominee. "These are all such violations of American norms, values, decency and honor," Schumer said.</p><p>With Republicans holding a 53-47 majority in the Senate, Trump's pick for the court is almost certain to be confirmed. All Democrats are expected to oppose Barrett's confirmation.</p><p>Boycotting Thursday's Judiciary panel session was forcing Republicans on the panel to change its rules to keep the confirmation on track. Those rules say at least two members of the minority party, Democrats, would need to be present to constitute a quorum for doing business.</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-4" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Mike Davis, a former top aide on the panel who now advises Senate Republicans, said the committee was well within its normal practice to hold the vote, even with Democrats skipping it. He said the longstanding practice has been to allow business to go forward if all members of the majority, Republicans, attend.</p><p>Countering that view, a Democratic aide granted anonymity to discuss the proceedings said never before have the rules been brushed past for a Supreme Court confirmation.</p><p>Barrett, an appellate court judge from Indiana, appeared for three days before the panel last week, batting back Democrats' questions. She was asked about her approach to legal questions surrounding abortion access, gay marriage and the nation's tradition of a peaceful transfer of presidential power.</p><p>Trump has said he wants a judge seated in time to hear any potential disputes arising from the Nov. 3 election, and Barrett declined to say if she would recuse herself from such cases.</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-5" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-5" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Many judicial nominees decline to discuss their views on various issues, saying they will consider the cases as they come. Barrett took a similar approach, drawing deep skepticism from Democrats because she had previously spoken out against abortion and past rulings on the Affordable Care Act.</p><p>The court is set to hear a challenge to the health care law on Nov. 10, one week after the presidential election, and Trump has said he wants a justice who won't rule as others have to uphold the Obama-era Affordable Care Act.</p><p>Barrett released dozens of answers this week to additional questions senators had posed, but her responses were similar as she declined to weigh in on whether the landmark Roe v. Wade abortion ruling is a so-called "super precedent" of the court or whether the president could unilaterally change the date set in law for the election.</p><p>Two Republican senators on the panel, Mike Lee and Thom Tillis, tested positive for&#160;<a href="https://apnews.com/hub/virus-outbreak">COVID-19&#160;</a>after attending the Rose Garden event where Trump announced Barrett as his nominee. The panel established remote operations during the coronavirus pandemic. Those two senators have since returned to in-person sessions, saying their doctors cleared them from quarantine.</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-6" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-6" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Two other Republicans, Sens. Susan Collins and Lisa Murkowski, have objected to the quick vote, but they are not on the panel.</p><p>Senate Majority Leader McConnell has defended Barrett as "exceptionally qualified" as well as his own decision to push her nomination forward, even after he refused to consider Barack Obama's nominee in February 2016 saying it was too close to a presidential election, with Obama in his second and final term.</p><p>On Wednesday, McConnell criticized a&#160;<a href="https://apnews.com/article/south-bend-only-on-ap-amy-coney-barrett-minnesota-virginia-a8bbabea9ee4d2fb13c6079c09f2f075">story&#160;</a>from The Associated Press that delved into Barrett's role on the board of trustees of a Christian school with anti-gay policies toward student families and staff.</p><p>McConnell noted that Barrett had already disclosed her work with the school to the Senate and "has taken the same oath of impartiality as every other federal judge, and has affirmed over and over that her legal judgment is independent from her private opinions."</p>
+<p id="gpt-post-politics-mobile_in_post_ad-fluid-7" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-politics-desktop_in_post_ad-fluid-7" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Republicans have focused on Barrett's Catholic faith, calling her a role model for conservative and religious women.</p>
+                  </div>

@@ -1,0 +1,31 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.insider.com/5f9090c8abcd0c0018d68e75?width=1200&format=jpeg 
+title: > 
+  Shonda Rhimes said she left ABC after an exec told her she was asking for too much 
+description: > 
+  Shonda Rhimes told The Hollywood Reporter she decided to leave ABC after an executive asked her, "Don't you have enough?"Rhimes left ABC in 2018 and went on to ink a $150 million TV deal with Netflix, one of the biggest contracts in TV history.Rhimes' revelation comes at a time when companies are acknowledging their lack of representation of and inclusivity towards Black talent.Rhimes recently told The Hollywood Reporter that after she asked an unnamed ABC executive for an extra Disneyland pass for her daughter, the he replied, "Don't you have enough?"Rhimes stayed on with ABC for 15 years before signing a multi-year deal with Netflix in 2017. 
+keywords: > 
+  rhimes, shonda, exec, tv, netflix, million, companies, left, executive, abc, told, black, asking, deal 
+date: 1603376777.0148015 
+--- 
+<div><ul class="summary-list">
+<li>Shonda Rhimes told <a href="https://www.hollywoodreporter.com/features/shonda-rhimes-is-ready-to-own-her-s-the-game-changing-showrunner-on-leaving-abc-culture-shock-at-netflix-and-overcoming-her-fears">The Hollywood Reporter</a> she decided to leave ABC after an executive asked her, "Don't you have enough?" after she asked for an extra ticket to Disneyland.</li>
+<li>Rhimes left ABC in 2018 and went on to ink a $150 million TV deal with Netflix, one of the <a href="https://www.businessinsider.com/biggest-deals-netflix-hbo-jj-abrams-shonda-rhimes-ryan-murphy-2019-11">biggest contracts in TV history</a>.</li>
+<li>Rhimes' revelation comes at a time when companies are <a href="https://www.businessinsider.com/reddit-cofounder-alexis-ohanian-steps-down-2020-6">acknowledging</a> their lack of representation of and inclusivity towards Black talent.</li>
+<li><a href="https://www.businessinsider.com/?hprecirc-bullet">Visit Business Insider's homepage for more stories</a>.</li>
+</ul>
+<p id="gpt-post-media-mobile_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-media-desktop_in_post_ad-fluid-1" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Record breaking TV producer and screenwriter Shonda Rhimes made a splash after she left ABC and signed a multimillion deal with Netflix in 2018 &#8212; and she recently revealed her decision came after a negative experience with an executive at her old company.&#160;</p><p>Rhimes recently told <a href="https://www.hollywoodreporter.com/features/shonda-rhimes-is-ready-to-own-her-s-the-game-changing-showrunner-on-leaving-abc-culture-shock-at-netflix-and-overcoming-her-fears">The Hollywood Reporter</a> that after she asked an unnamed ABC executive for an extra Disneyland pass for her daughter, the he <a href="https://www.hollywoodreporter.com/features/shonda-rhimes-is-ready-to-own-her-s-the-game-changing-showrunner-on-leaving-abc-culture-shock-at-netflix-and-overcoming-her-fears">replied,&#160;"Don't you have enough?"</a></p><p>Rhimes stayed on with ABC for 15 years before signing a <a href="https://www.businessinsider.com/netflix-lures-shonda-rhimes-away-from-abc-studios-2017-8">multi-year deal with Netflix in 2017</a>. The deal was worth $150 million, <a href="https://www.businessinsider.com/biggest-deals-netflix-hbo-jj-abrams-shonda-rhimes-ryan-murphy-2019-11">one of the most lucrative TV streaming deals in history</a>.</p><p><strong>Read more:</strong> <a href="https://www.businessinsider.com/diversity-inclusion-strategy-chiefs-twitter-netflix-salesforce-2020-2?r=aa-sub">10 diversity leaders who are fighting inequality in corporate America</a></p>
+<p id="gpt-post-media-mobile_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-media-desktop_in_post_ad-fluid-2" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>Rhimes left behind a $10 million a year contract with ABC, but has not disclosed how much she made for the company. The showrunner's net worth is <a href="https://www.businessinsider.com/shonda-rhimes-net-worth-fortune-spending-greys-anatomy-2020-9#with-an-estimated-net-worth-of-135-million-shonda-rhimes-is-one-of-the-wealthiest-women-in-tv-1">upwards of $135 million</a>.&#160;</p><p>Rhimes revelation comes during a moment when many companies are grappling with racism and underrepresentation of non-white people in their workforces. Black workers and employees of color at <a href="https://www.businessinsider.com/black-nike-employees-allege-racism-at-company-in-instagram-account-2020-7">Nike</a>, <a href="https://www.businessinsider.com/two-black-women-publicly-explain-why-they-resigned-from-pinterest-2020-6">Pinterest</a>, <a href="https://www.businessinsider.com/bon-appetit-adam-rapoport-toxic-racism-culture-2020-6">Cond&#233; Nast</a>, and other companies spoke out about harassment they said they faced at work, and many firms made <a href="https://www.businessinsider.com/companies-hiring-more-diversity-and-inclusion-executives-2020-7">public promises to support and hire diverse talent</a>.</p><p>Rhimes made history after she became the first Black woman to showrun a primetime TV show on a broadcast network, and has broken down stereotypes by <a href="https://www.orlandosentinel.com/zap-8-shonda-rhimes-characters-who-arent-just-angry-black-women-photos-photogallery.html">casting women of color in powerful roles on her shows</a>.</p><p>But she told THR her role as a Black woman with "a giant platform" had become complicated with the recent calls for more racial justice: "I keep trying to find things to do and I keep discovering that it doesn't matter what you do," she said.&#160;</p>
+<p id="gpt-post-media-mobile_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-mobile"></p>
+
+<p id="gpt-post-media-desktop_in_post_ad-fluid-3" class="ad ad-wrapper fluid in-post only-desktop"></p>
+<p>ABC did not immediately respond to Business Insider's request for comment.&#160;</p><p><strong>Are you an insider with information to share?</strong> Email aakhtar@businessinsider.com on a nonwork device.</p>
+                  </div>

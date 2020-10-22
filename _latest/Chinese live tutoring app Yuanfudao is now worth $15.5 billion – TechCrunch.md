@@ -1,0 +1,21 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-925988314.jpg?w=400 
+title: > 
+  Chinese live tutoring app Yuanfudao is now worth $15.5 billion – TechCrunch 
+description: > 
+  The Beijing-based company is now worth $15.5 billion dollars, almost double its valuation set in March.The G1 round was led by Tencent with participation from Hillhouse Capital, Boyu Capital and IDG Capital.Today’s funding suggests that it will push more live, online coursework and broaden out its closed loop system of learning.Currently, Yuanfudao offers a variety of products: live tutoring, online Q&A arm, and math problem checking arm.Asia more broadly has a stronger education market because of consumer spending and a cultural focus on outcomes in education. 
+keywords: > 
+  capital, tutoring, techcrunch, 155, worth, company, yuanfudao, online, learning, education, live, app, billion, market, chinese, china 
+date: 1603376826.3726292 
+--- 
+<div><p id="speakable-summary"><a href="https://www.crunchbase.com/organization/yuanfudao">Yuanfudao</a>, a homework tutoring-app founded in 2012, <a href="https://finance.yahoo.com/finance/news/yuanfudao-raises-us-2-2-113600015.html">has raised $2.2 billion</a> from investors, surpassing <a href="https://byjus.com/us/">Byju&#8217;s</a> as the most valuable edtech company in the world. The Beijing-based company is now worth $15.5 billion dollars, almost double its valuation set in March.</p>
+<p>The company views the new capital as two separate extension rounds of its March raise, a $1 billion Series G financing event. The G1 round was led by Tencent with participation from Hillhouse Capital, Boyu Capital and IDG Capital. The G2 financing was led by DST Global, with participation from CITICPE, GIC, Temasek, TBP, DCP, Ocean Link, Greenwoods and Danhe Capital.</p>
+<p>The money will be used to develop curriculum and expand <a class="crunchbase-link" href="https://crunchbase.com/organization/yuanfudao" target="_blank">Yuanfudao&#8217;s </a> online educational service, amid a larger boom in remote learning. <a href="https://techcrunch.com/2018/12/26/yuanfudao-raises-300-million/">In 2018</a>, the company told TechCrunch that a majority of its revenue came from selling live courses. Its goal then was to fund and bring more AI into its products, and improve its user experience.</p>
+<p>In the two years since, Yuanfudao has doubled its total users to 400 million students across China. Today&#8217;s funding suggests that it will push more live, online coursework and broaden out its closed loop system of learning.</p>
+<p>Currently, Yuanfudao offers a variety of products: live tutoring, online Q&amp;A arm, and math problem checking arm.</p>
+<p>Yuanfudao&#8217;s physical footprint, which includes 30,000 employees in teaching centers across China, could fuel its online services. In 2014, it set up an AI Research Institute and technology laboratory with elite schools including Tsinghua University, Peking University, Chinese Academy of Sciences and Microsoft. The goal? To bring insights from that institute directly into the app. The company sees AI as an opportunity to see what student weaknesses look like, which it can then address in teacher curriculum and product design.</p>
+<p>Asia more broadly has a stronger education market because of consumer spending and a cultural focus on outcomes in education. Thus, the shift to digital learning has poured fuel on an already<a href="https://techcrunch.com/2020/02/23/china-roundup-tech-companies-coronavirus/"> booming education market</a>. One report says that the education economy in China alone could be worth <a href="https://techcrunch.com/2020/06/29/chinese-online-learning-app-zuoyebang-raises-750m/">$81 billion in two years.</a></p>
+<p>As my colleague<a href="https://techcrunch.com/2018/12/26/yuanfudao-raises-300-million/"> Rita Liao pointed out</a>, Yuanfudao is nowhere near alone in the race to win the tutoring market. Other well-funded companies include Zuoyebang, a Beijing-based startup that focuses on online learning and <a href="https://techcrunch.com/2020/06/29/chinese-online-learning-app-zuoyebang-raises-750m/">last raised $750 million in June</a>; and Yiqizuoye, which has Singapore sovereign fund Temasek as an investor.</p>
+</div>
