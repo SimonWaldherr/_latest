@@ -1,0 +1,32 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/oladipo.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Knicks’ road to respectability starts with Victor Oladipo 
+description: > 
+  • The Knicks have not traded any franchise cornerstones for questionable returns (although this happy news can be mitigated by asking: What franchise cornerstones?).• No sell-the-team-chanting Knicks fans have been ejected from the Garden (although this happy news can be mitigated by the fact the last Knicks game there was March 8).There is a player that makes perfect sense for the Knicks: Indiana’s Victor Oladipo.Oladipo is precisely the kind of dynamic player that’s been mostly absent for the Knicks — with the exception of Anthony’s outlier 2012-13 season — for too long.Knicks fans are tired of the slapstick. 
+keywords: > 
+  garden, knicks, respectability, fact, times, starts, points, fans, player, road, oladipo, victor, happy, thats, way 
+date: 1603330000.5896208 
+--- 
+<div><p>The Knicks are, in relation to their recent history &#8212; and by &#8220;recent&#8221; we mean &#8220;multiple-decades-long&#8221; &#8212; on quite a roll. They last lost a basketball game on March 10, a 122-115 eyesore at Washington &#8212; that&#8217;s 226 days ago! They are, in fact, on a one-game winning streak that has lasted for 225 days. Things are looking way up in Knicksland!</p>
+<p>(So please remember that paragraph the next time you think the media simply gangs up on the Knicks, lines up to gash them and bash them and trash them. Some of us are all about silver linings!)</p>
+<p>Other hopeful things that have happened to the Knicks since Julius Randle scored 33 points with 11 rebounds, RJ Barrett had 26 points and Elfrid Payton 12 assists to offset 42 points and 11 dimes from Trae Young in a 136-131 overtime victory over the Hawks at Atlanta&#8217;s State Farm Arena on March 11:</p>
+<p>&#8226; <a href="https://nypost.com/2020/09/25/knicks-young-point-guards-entering-critical-time-with-tom-thibodeau/">Tom Thibodeau was hired</a> &#8212; and has yet to either lose a game or hear his name taken in vain by the weary Garden faithful.</p>
+<p>&#8226; The Knicks have not traded any franchise cornerstones for questionable returns (although this happy news can be mitigated by asking: What franchise cornerstones?).</p>
+<p>&#8226; They have not been slandered by their own fans for making a foolish draft-day decision (although this happy news can be mitigated by the fact the draft won&#8217;t actually be held until Nov. 18).</p>
+<p>&#8226; &#8202;No sell-the-team-chanting Knicks fans have been ejected from the Garden (although this happy news can be mitigated by the fact the last Knicks game there was March 8).</p>
+<p>As we said: Way up!</p>
+<p>OK. We&#8217;ve had our fun. The fact is, in normal times, we would be a day or two away from seeing the arrival of a brand-new season. Friday, in fact, will mark a year since the 2019-20 Knicks started their 21-45 slog with a 120-111 loss at San Antonio that, at the time, actually felt like a positive (before we realized just how sloggy the &#8217;19-&#8217;20 Spurs were, too).</p>
+<p>But even in these crazy times, we are approaching a place at which we must consider what the Knicks will do to improve in the now. Thibodeau was a good start. But that was also the easiest task for Leon Rose. He needs to maximize the No. 8 pick he&#8217;ll make in 27 days (for kicks: the Knicks have picked eighth five times since 1960; the results were Frank Ntilikina, Jordan Hill, Channing Frye, Tom Riker and Willis Reed. So figure that&#8217;s a 20 percent chance of really &#8220;maximizing&#8221; the pick).</p>
+<p>But at some point the Knicks also need to identify a player who at the moment plays for someone else, import that player, start to build a foundation. There will be the usual fever dreams involving Giannis Antetokounmpo, whose contract with Milwaukee is up in a year.</p>
+<p>There have been chirps about Oklahoma City&#8217;s 35-year-old Chris Paul (whose acquisition might mean the, um, happy addition of old friend Carmelo Anthony, too) and Houston&#8217;s soon-to-be 32-year-old Russell Westbrook (who would bring a cap-mutilating average salary of $43.8 million over the next three years with him).</p>
+<p>Both seem like old plays from a wretched and failed Knicks playbook: hoping and wishing for a free agent to take a blind leap of faith where few have ever gone; or paying the reward money for the prime years a fading star left in his past in some other city.</p>
+<p>There is a player that makes perfect sense for the Knicks: Indiana&#8217;s Victor Oladipo. He has a year and $21 million left on his contract, and will seek a max deal. At 28, he also brings a history of knee issues with him. So he isn&#8217;t without risk, and so the Knicks would have to be certain that a) he would be willing to commit long-term to them and b) his medicals aren&#8217;t loitering somewhere in Stoudemireville.</p>
+ 
+<p>But if they can satisfy both issues, this is what needs to be the prime goal. Oladipo is precisely the kind of dynamic player that&#8217;s been mostly absent for the Knicks &#8212; with the exception of Anthony&#8217;s outlier 2012-13 season &#8212; for too long. He is young enough to build around, talents enough that he&#8217;d foster immediate improvement, and is a major building block toward establishing a credible foundation. New York would love him. The Garden will adore him.</p>
+<p>Julius Randle and two of the Knicks&#8217; raft of No. 1 picks the next few years (assuming one of them is one of the Dallas picks that exiled Kristaps Porzingis) ought to get it done, and they could seek to bring back, say, useful point guard T.J. McConnell and make it work. It&#8217;s a starting point, anyway, for both a deal and real future on 33rd Street.</p>
+<p>We started this column looking for a few laughs because lately, that&#8217;s the only way to deal with the brutality that has been Knicks basketball these past 20 years. But it really is no laughing matter, certainly not for fans who pay serious money to watch (and, surely, will be ready to report for duty whenever the Garden allows them back in).</p>
+<p>It&#8217;s time for the Knicks to be serious again. Knicks fans are tired of the slapstick. That&#8217;s what the Jets are for.</p>
+			</div>
