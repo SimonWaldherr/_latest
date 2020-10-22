@@ -1,0 +1,20 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F10%2Fair-jordan-35-dynasties-dd3044-700-release-date-info-tw.jpg?w=960&cbr=1&q=90&fit=max 
+title: > 
+  Air Jordan 35 "Dynasties" Is Inspired by Beijing's Forbidden City 
+description: > 
+  In its short time on the market Jordan Brand‘s Air Jordan 35 has already proved itself an apt canvas for storytelling, and now a new “Dynasties” makeup is telling the tale of Beijing’s Forbidden City.Yellow takes prime position on the upper, covering the swooping Air Jordan 12-esque lateral and medial overlays, midfoot’s Flightwire netting and the heel piece.Meanwhile, iridescent pieces connect the aforementioned forefoot and heel overlays, while black is used for contrast on the toebox, under the Flightwire and on the Air Jordan 5-inspired tongue and collar.This isn’t the first time Jordan Brand has paid homage to the Forbidden City either: August saw the release of an Air Jordan 7 “China” that was swathed in traditional Chinese artwork.The Air Jordan 35 “Dynasties” will release exclusively on Nike SNKRS China come October 22, and is priced at ¥1,499 CNY (approximately $225 USD). 
+keywords: > 
+  beijings, inspired, overlays, nike, heel, kyrie, tongue, forbidden, city, jordan, release, dynasties, air, 35, red 
+date: 1603345123.1107924 
+--- 
+<div><p>In its short time on the market <a href="https://hypebeast.com/tags/jordan-brand">Jordan Brand</a>&#8216;s <a href="https://hypebeast.com/tags/air-jordan-35">Air Jordan 35</a> has already proved itself an apt canvas for storytelling, and now a new &#8220;Dynasties&#8221; makeup is telling the tale of Beijing&#8217;s Forbidden City. Crafted in tribute to the 600th anniversary of the Ming Dynasty landmark&#8217;s completion, the &#8220;Dynasties&#8221; combines a bold color scheme with intricate detailing.</p><p class="adunit in-content lazy-load no-init"></p>
+                <p>Yellow takes prime position on the upper, covering the swooping <a href="https://hypebeast.com/tags/air-jordan-12">Air Jordan 12</a>-esque lateral and medial overlays, midfoot&#8217;s Flightwire netting and the heel piece. This warm tone and the tiled patterns that accompany it are an acknowledgement of the palace&#8217;s roofs. Meanwhile, iridescent pieces connect the aforementioned forefoot and heel overlays, while black is used for contrast on the toebox, under the Flightwire and on the <a href="https://hypebeast.com/tags/air-jordan-5">Air Jordan 5</a>-inspired tongue and collar. </p>
+<p>Chinese characters appear behind the red Jumpman on the tongue, with further pops of red appearing on the top two eyestays, tongue/heel tabs and forefoot branding. A black Eclipse Plate 2.0 splits the yellow midsole, working with the heel and forefoot&#8217;s Zoom Air cushioning setup to provide explosive on-court performance. Icy jade outsoles with a final Jumpman graphic complete the look. This isn&#8217;t the first time Jordan Brand has paid homage to the Forbidden City either: August saw the release of an <a href="https://hypebeast.com/2020/8/air-jordan-7-china-cw2805-160-official-release-date-info">Air Jordan 7 &#8220;China&#8221;</a> that was swathed in traditional Chinese artwork.
+</p><p>The Air Jordan 35 &#8220;Dynasties&#8221; will release exclusively on <a href="https://www.nike.com/cn/launch/t/air-jordan-35-dynasties" rel="noopener noreferrer" target="_blank">Nike SNKRS China</a> come October 22, and is priced at &#165;1,499 CNY (approximately $225 USD).
+</p><p>For more footwear news, check out <a href="https://hypebeast.com/2020/10/sneaker-room-nike-kyrie-6-mom-collection-release-date">Sneaker Room, Kyrie Irving and Nike Basketball&#8217;s charity-focused Kyrie 6 &#8220;Mom&#8221; collection</a>.
+
+
+                                                                                                    </p></div>

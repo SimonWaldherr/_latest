@@ -1,0 +1,24 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/news/2020/10/21/TELEMMGLPICT000242363047_trans_NvBQzQNjv4Bq2e3FJ1OVzFvPzYjnoxYb3li7MfDOwsPbpe__luoSexQ.jpeg?impolicy=logo-overlay 
+title: > 
+  Airport testing could catch six in 10 Covid carriers, research suggests 
+description: > 
+  "If detectable asymptomatic passengers are included in estimating the effectiveness of a testing scheme, the seven per cent figure becomes approximately 33 per cent," the research paper said."Third, it is important to consider the effectiveness of airport testing schemes in the context of an understanding of the level of acceptable risk for travellers and how this would change with testing," the researchers concluded.The research is to be submitted to the Government's taskforce, which is expected to report to the Prime Minister early next month.Heathrow airport has already built testing facilities at Terminals Two and Five, but they have stood idle for two months as the Government has refused to back a trial of airport testing.The industry has already shown it can deliver passenger-funded, rapid, on site tests that do not divert vital NHS resources. 
+keywords: > 
+  testing, suggests, evidence, travellers, uk, covid, airport, seven, catch, research, papers, quarantine, passengers, carriers 
+date: 1603345158.990488 
+--- 
+<div><p>The new research, by the respected Oxera and Edge Health, said the seven per cent figure was "significantly understated" because it excluded not only travellers who might have symptoms but also those whose viral load could be detected.</p>
+<p>"If detectable asymptomatic passengers are included in estimating the effectiveness of a testing scheme, the seven per cent figure becomes approximately 33 per cent," the research paper said.</p>
+<p>"If all infected passengers (including detectable symptomatic passengers) who attempted to enter the UK population but were prevented from doing so were to be included in the estimate, this estimate would be 63 per cent."</p>
+<p>The researchers also claimed the PHE and two other papers supporting it are flawed because there are assumptions that not based on the most recent empirical evidence but instead are simply theoretical modelling exercises.&#160;</p>
+<p>They said none of the papers took account of the actual virus prevalence rates among travellers or "real-world"&#160;evidence from established airport testing regimes such as that in Jersey, where only a tiny fraction of arrivals on the island&#160;tested positive without any onward community transmission.&#160;</p>
+<p>"Third, it is important to consider the effectiveness of airport testing schemes in the context of an understanding of the level of acceptable risk for travellers and how this would change with testing," the researchers concluded.&#160;</p>
+<p>"All three papers assume that the risk of travellers spreading the virus is reduced to close to zero with a mandatory 14-day quarantine requirement.&#160;However, this is unlikely to be the case given that returning travellers are currently permitted to quarantine with other individuals (who do not have to quarantine) and there is evidence to show that compliance with quarantine may be as low as 20 per cent."</p>
+<p>The research is to be submitted to the Government's taskforce, which is expected to report to the Prime Minister early next month. Earlier this week, Mr Shapps indicated that&#160;a single test seven days after arrival&#160;<a href="https://www.telegraph.co.uk/travel/advice/how-the-new-travel-testing-plans-could-work/">could be in place by December 1</a>, halving the time arrivals to the UK spent in quarantine.</p>
+<p>Heathrow airport has already built testing facilities at Terminals Two and Five, but they have stood idle for two months as the Government has <a href="https://www.telegraph.co.uk/politics/2020/10/07/boris-johnson-accused-dithering-airport-testing/">refused to back a trial of airport testing</a>.</p>
+<p>Shai Weiss, chief executive of Virgin Atlantic, said: &#8220;We urgently need the introduction of a passenger testing regime here in the UK to safely replace quarantine and support the UK&#8217;s economic recovery, which relies on free flowing trade and tourism.</p>
+<p>"Half a million UK jobs depend on a fully functioning aviation industry, therefore it&#8217;s vital that policy decisions are based on the latest possible evidence. The Government&#8217;s Global Travel Taskforce should consider this new analysis closely and act on findings to swiftly implement a testing regime which opens up the skies safely and removes 14-day quarantine. The industry has already shown it can deliver passenger-funded, rapid, on site tests that do not divert vital NHS resources. We are ready to work together, but time is of the essence.&#8221;</p>
+</div>
