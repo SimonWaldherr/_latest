@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.usnews.com/dims4/USNEWS/1d45243/2147483647/crop/2000x1333%2B0%2B0/resize/1200x1200%3E/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F08%2F4c%2Fedf3be5c476c91b25c58f99d44f3%2F200804-stock.jpg 
+title: > 
+  10 Types of Credentials You Can Earn Online 
+description: > 
+  Postsecondary degreesWhether students want to pursue an associate degree or Ph.D., there are plenty of options online.Many reputable universities now offer online and blended, or partially online, programs across disciplines – from the liberal arts to nursing to engineering.The quality of different online degree programs varies widely regardless of level, so students should research thoroughly beforehand, experts say, considering factors such as accreditation, flexibility, convenience and cost."There's going to be a lot of marketing of new opportunities, new credentials, new delivery methods that are better, faster, cheaper, more effective.And a lot of that is just going to be marketing." 
+keywords: > 
+  earn, programs, marketing, varies, degree, credentials, students, types, going, online, lot, universities, widely 
+date: 1603371747.8962305 
+--- 
+<div><p size="3" class="Heading__HeadingStyled-sc-1w5xk2o-0-p gPPEYz Heading-sc-1w5xk2o-1 jFucEe">Postsecondary degrees</p><p>Whether students want to pursue an associate degree or Ph.D., there are plenty of options online. Many reputable universities now offer online and <a href="https://www.usnews.com/education/online-education/articles/2015/03/04/decide-between-online-blended-courses">blended, or partially online</a>, programs across disciplines &#8211; from the liberal arts to nursing to engineering. The quality of different online degree programs varies widely regardless of level, so students should <a href="https://www.usnews.com/education/online-education/articles/2015/06/09/7-warning-signs-an-online-degree-is-a-scam">research thoroughly</a> beforehand, experts say, considering factors such as <a href="//www.usnews.com/higher-education/online-education/articles/2017-06-12/how-to-check-if-an-online-program-is-accredited-follow-5-steps">accreditation</a>, flexibility, convenience and cost. "I would encourage everyone to get as much objective information as they possibly can," Cheney says. "There's going to be a lot of marketing of new opportunities, new credentials, new delivery methods that are better, faster, cheaper, more effective. And a lot of that is just going to be marketing."</p></div>

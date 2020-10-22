@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VWN5RNEX5YI6PAXE6EDW63LBKI.jpg&w=1440 
+title: > 
+  Democrats to boycott committee vote on Barrett nomination to the Supreme Court 
+description: > 
+  President Trump has nominated federal appellate judge Amy Coney Barrett to the Supreme Court.Barrett testified before the Senate Judiciary Committee this week.The committee has formally set a panel to vote on her nomination for Oct. 22.Who is Amy Coney Barrett?A disciple of Justice Antonin Scalia is poised to push the Supreme Court further rightWhat happens next: Here’s how the confirmation process for Barrett will unfoldWhip count: Where GOP senators stand on quickly filling Ginsburg’s Supreme Court seatShow More 
+keywords: > 
+  boycott, barrett, week, coney, unfoldwhip, vote, trump, supreme, court, nomination, democrats, committee, amy 
+date: 1603371703.0835812 
+--- 
+<div><p class="font-xs gray-darkest lh3 ma-0 ml-sm pb-md link-box-content-item">President Trump has nominated federal appellate judge <b>Amy Coney Barrett</b> to the Supreme Court. Barrett testified before the Senate Judiciary Committee this week. The committee has <a href="https://www.washingtonpost.com/politics/2020/10/15/amy-coney-barrett-confirmation-hearing-live-updates/" target="_blank">formally set a panel to vote on her nomination for Oct. 22.</a></p><p class="font-xs gray-darkest lh3 ma-0 ml-sm pb-md link-box-content-item"><b>Who is Amy Coney Barrett? </b><a href="https://www.washingtonpost.com/politics/barrett-supreme-court-trump/2020/09/26/20863794-feac-11ea-830c-a160b331ca62_story.html" target="_blank">A disciple of Justice Antonin Scalia is poised to push the Supreme Court further right</a></p><p class="font-xs gray-darkest lh3 ma-0 ml-sm pb-md link-box-content-item"><b>What happens next: </b><a href="https://www.washingtonpost.com/politics/2020/09/26/amy-coney-barrett-supreme-court-confirmation/?arc404=true" target="_blank">Here&#8217;s how the confirmation process for Barrett will unfold</a></p><p class="font-xs gray-darkest lh3 ma-0 ml-sm pb-md link-box-content-item"><b>Whip count: </b><a href="https://www.washingtonpost.com/graphics/2020/politics/whip-count-ginsburg-supreme-court-vacancy/">Where GOP senators stand on quickly filling Ginsburg&#8217;s Supreme Court seat</a></p><p tabindex="0" class="absolute w-100 center font-xs underline blue bold pointer ">Show More</p><p class="mb-xs w-100 center font-xs underline blue bold pointer hidden"><p tabindex="0">Show Less</p></p></div>

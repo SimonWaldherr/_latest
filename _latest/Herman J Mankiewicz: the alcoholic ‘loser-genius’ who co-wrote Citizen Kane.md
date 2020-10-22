@@ -1,0 +1,20 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/films/2020/10/21/TELEMMGLPICT000242481715_trans_NvBQzQNjv4BqVHzyo7OuTI5InyeNX_T1jKmY6LjSS3Pl_XZaxu-919I.jpeg?impolicy=logo-overlay 
+title: > 
+  Herman J Mankiewicz: the alcoholic ‘loser-genius’ who co-wrote Citizen Kane 
+description: > 
+  If you love cinema, between the finger of man and God you find Citizen Kane.It is called Mank – for Herman J Mankiewicz, the co-writer with Orson Welles of Kane, who is played by Gary Oldman.Film lovers have the same hopes for Mank as they had for Citizen Kane: will Mank save cinema, even if it is released by Netflix, which encourages viewers to stay in their homes?Or will it, like Citizen Kane, merely show us the potential of the form and float away, leaving us with the ordinary dross they feed us: for profit, but not for insight?In 1940, Orson Welles was the most exciting theatre director in America, “the boy wonder”. 
+keywords: > 
+  herman, welles, tell, losergenius, citizen, film, orson, alcoholic, j, cowrote, cinema, released, america, mank, mankiewicz, kane 
+date: 1603371744.0101004 
+--- 
+<div><p>What is Rosebud? That is the riddle at the heart of the legendary 1941 film Citizen Kane, the dark fairy-tale which is often called the most important American film: a film that showed America &#8211; and cinema was the only art form America created, so it mattered &#8211; its character and its tragedy. A better question &#8211; in fact, the same question &#8211; is, &#8220;What is Citizen Kane?&#8221;</p>
+<p>It was made by Orson Welles at 25; was almost repressed by the press baron William Randolph Hearst, who feared it was a parody of his life; died at the box office; and was then resurrected as the closest popular cinema ever came to high art. If you love cinema, between the finger of man and God you find Citizen Kane.</p>
+<p>Now, with ironic timing &#8211; as cinemas close because profit-addicted studios will not release movies, as we learnt earlier this month with the latest delay of Bond &#8211; a film about the making of Citizen Kane is being released by Netflix. It is called Mank&#160;&#8211; for Herman J Mankiewicz, the co-writer with Orson Welles of Kane, who is played by Gary Oldman. (Welles, meanwhile, is played by<a href="https://www.telegraph.co.uk/tv/0/tom-burke-holliday-grainger-interview-slow-burn-mystery-strike/"> Tom Burke</a>, lately of the BBC&#8217;s Strike.)</p>
+<p>It is from a fine director too: David Fincher of Seven, The Social Network and Zodiac. Film lovers have the same hopes for Mank as they had for Citizen Kane: will Mank save cinema, even if it is released by Netflix, which encourages viewers to stay in their homes? Or will it, like Citizen Kane, merely show us the potential of the form and float away, leaving us with the ordinary dross they feed us: for profit, but not for insight?</p>
+<p>In 1940, Orson Welles was the most exciting theatre director in America, &#8220;the boy wonder&#8221;. His radio play of H&#8201;G Wells&#8217;s The War of the Worlds &#8211; broadcast as a series of news bulletins &#8211; had been so convincing people fled their homes with heads under wet towels, fearing Martian attacks and more likely Nazis; his all African-American Macbeth was likewise revolutionary.</p>
+<p>RKO Pictures enticed him to Hollywood with the promise of full artistic control, but that is Hollywood&#8217;s way: tell the genius anything, and then break them later.</p>
+<p>Initially, he floundered amid jealousy and his own potential. He was there to amaze. Could he? His first two ideas were rejected by the studio; then, with Mank, a former journalist, wit and chronic alcoholic who had been fired from every job he had ever had, he decided to tell the story of a great American.</p>
+</div>

@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.usnews.com/dims4/USNEWS/470b381/2147483647/crop/2120x1415%2B0%2B0/resize/1200x1200%3E/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F0a%2Fda%2F438105af48bfafd9ae949e07cc0f%2F201019-psychologist-stock.jpg 
+title: > 
+  Explore the 10 Best Graduate Clinical Psychology Programs 
+description: > 
+  University of Colorado—BoulderLocation: Boulder, ColoradoPeer reputation score (scale of 1-5): 4.3Key facts about the program: The university's clinical psychology Ph.D. students are encouraged to work on interdisciplinary projects, according to the university website, which notes that the school has several interdisciplinary academic institutes that relate to clinical psychology.These include the Institute for Behavioral Genetics, the Institute of Behavioral Science and the Institute of Cognitive Science.The clinical psychology graduate program also operates several clinics, such as The Raimy Psychology Clinic, Sutherland Center for Bipolar Disorder, The Attention Behavior and Learning Clinic, and Brain Behavior Clinic.Learn more about the University of Colorado—Boulder. 
+keywords: > 
+  programs, university, behavior, clinic, clinical, interdisciplinary, best, behavioral, explore, institute, graduate, program, psychology, science 
+date: 1603371746.9309525 
+--- 
+<div><p size="3" class="Heading__HeadingStyled-sc-1w5xk2o-0-p gPPEYz Heading-sc-1w5xk2o-1 jFucEe">10 (tie). University of Colorado&#8212;Boulder</p><p><b>Location:</b> Boulder, Colorado</p><p><b>Peer reputation score (scale of 1-5)</b>: 4.3</p><p><b>Key facts about the program: </b>The university's clinical psychology Ph.D. students are encouraged to work on interdisciplinary projects, according to the university website, which notes that the school has several interdisciplinary academic institutes that relate to clinical psychology. These include the Institute for Behavioral Genetics, the Institute of Behavioral Science and the Institute of Cognitive Science. The clinical psychology graduate program also operates several clinics, such as The Raimy Psychology Clinic, Sutherland Center for Bipolar Disorder, The Attention Behavior and Learning Clinic, and Brain Behavior Clinic.</p><p>Learn more about the <a href="https://www.usnews.com/best-graduate-schools/top-health-schools/university-of-colorado-at-boulder-126614">University of Colorado&#8212;Boulder</a>.</p></div>
