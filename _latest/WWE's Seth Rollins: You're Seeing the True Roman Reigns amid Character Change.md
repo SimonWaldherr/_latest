@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/images/photos/003/889/394/6e067bf22e031ae8f5d473486d91f03d_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  WWE's Seth Rollins: You're Seeing the True Roman Reigns amid Character Change 
+description: > 
+  Photo credit: WWE.comA cliche is that wrestlers are always at their best when they dial their personalities up to 11.Apparently that's happening with Roman Reigns.Seth Rollins said on WWE's The Bump that fans are "seeing the true Roman Reigns" as he embraces a more heel-ish persona:To be clear, there's probably a level of kayfabe involved when Rollins, one of WWE's foremost villains at the moment, talks about a colleague embracing his true self while turning into a bad guy.But this is the version of Reigns many fans have wanted to see for years—the one he initially teased after beating The Undertaker at WrestleMania 33 three years ago.Only minor tweaks to his character were required to make him the hottest heel in the company. 
+keywords: > 
+  youre, wwes, fans, yearsthe, seeing, wrestling, wwecoma, true, roman, character, rollins, change, reigns, wrestlers, seth 
+date: 1603343674.7134812 
+--- 
+<div><p></p><img alt="" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Photo credit: WWE.com</p><p class="">A cliche is that wrestlers are always at their best when they dial their personalities up to 11. Apparently that's happening with <a href="http://bleacherreport.com/roman-reigns">Roman Reigns</a>.</p><p class="">Seth Rollins said on <a href="http://bleacherreport.com/wwe">WWE</a>'s The Bump that fans are "seeing the true Roman Reigns" as he embraces a more heel-ish persona:</p><p class="">To be clear, there's probably a level of kayfabe involved when Rollins, one of WWE's foremost villains at the moment, talks about a colleague embracing his true self while turning into a bad guy.</p><p class="">But this is the version of Reigns many fans have wanted to see for years&#8212;the one he <a href="https://www.youtube.com/watch?v=o8s6PZ1Iwp4" target="_blank" rel="noopener noreferrer">initially teased</a> after beating The Undertaker at WrestleMania 33 three years ago. He's a five-time world champion powerhouse who's <a href="https://www.wwe.com/inside/anoai-family-photos#fid-27204101" target="_blank" rel="noopener noreferrer">tied to</a> wrestling royalty. Only minor tweaks to his character were required to make him the hottest heel in the company.</p></div>

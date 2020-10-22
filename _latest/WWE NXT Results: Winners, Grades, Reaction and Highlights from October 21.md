@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/slides/photos/004/412/998/4720eb2504c1859ccfe3a5b8ca6a7f02_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  WWE NXT Results: Winners, Grades, Reaction and Highlights from October 21 
+description: > 
+  0 of 8Credit: WWE.comThe October 21 edition of WWE NXT had a promising foundation as a lead-in edition for NXT Halloween Havoc.No match on the card was bigger than the NXT Tag Team Championships clash between Breezango and Undisputed Era.After ruining their match, Velveteen Dream was set to face the wrath of both Kushida and Tommaso Ciampa.These two dangerous men had a score to settle, knowing a win would push them toward NXT Championship contention.This was a night to watch as NXT promised huge matches as well as hinted at bigger stories to come. 
+keywords: > 
+  week, results, wwe, winners, nxt, reaction, grades, 21, match, bigger, work, wwecomthe, highlights, tag, wrath, edition 
+date: 1603343674.3591485 
+--- 
+<ol><p class="slideData">0 of 8</p><p></p><img alt="" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Credit: WWE.com</p><p class="">The October 21 edition of <a href="http://bleacherreport.com/wwe-nxt">WWE NXT</a> had a promising foundation as a lead-in edition for NXT Halloween Havoc.</p><p class="">No match on the card was bigger than the NXT Tag Team Championships clash between Breezango and Undisputed Era. Tyler Breeze and Fandango have wanted to prove themselves against the best, and few are better than <a href="http://bleacherreport.com/roderick-strong">Roderick Strong</a> and Bobby Fish.</p><p class="">After ruining their match, Velveteen Dream was set to face the wrath of both Kushida and Tommaso Ciampa. These two dangerous men had a score to settle, knowing a win would push them toward NXT Championship contention.</p><p class="">Legado del Fantasma has walked around NXT and 205 Live with pure arrogance, and only Isaiah "Swerve" Scott has been able to step up to them. That was until this week as Jake Atlas and Ashante "Thee" Adonis joined him in a six-man tag to fight Santos Escobar, Raul Mendoza and Joaquin Wilde.</p><p class="">The black-and-gold brand also had plenty of work to do building toward next week. This was a night to watch as NXT promised huge matches as well as hinted at bigger stories to come.</p></ol>
