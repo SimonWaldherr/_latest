@@ -1,0 +1,43 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cnnespanol.cnn.com/wp-content/uploads/2020/10/interferencia-hackers-elecciones-https___cdn.cnn_.com_cnnnext_dam_assets_200910142347-20200910-hackers-2020-gfx.jpg?quality=100&strip=info 
+title: > 
+  Inteligencia: Rusia e Irán han interferido en elecciones 
+description: > 
+  La cuenta de Twitter para los demócratas en el Comité de Seguridad Nacional de la Cámara de Representantes respondió al comentario de Ratcliffe diciendo: «NO escuches a Ratcliffe.Ratcliffe ha sido acusado por los demócratas de trabajar para promover los objetivos políticos de Trump al desclasificar la inteligencia no verificada.La fuente dijo que los agentes les dijeron que estos correos electrónicos «no eran obra de un tipo de Florida en su sótano».«Estamos preparados para la posibilidad de acciones de aquellos que son hostiles a la democracia», dijo Ratcliffe.Los esfuerzos de Irán en este sentido probablemente se centrarán en la influencia en línea, como la difusión de desinformación en las redes sociales y la recirculación contenido antiestadounidense», decía la declaración, emitida en nombre de toda la comunidad de inteligencia. 
+keywords: > 
+  elecciones, para, en, las, han, por, interferido, irán, la, los, inteligencia, una, rusia, y, el, que 
+date: 1603356215.918415 
+--- 
+<div><p class="share follow flush-left invisible">
+	</p>
+																	
+					<img class="image" src="https://cnnespanol.cnn.com/wp-content/plugins/lazy-load-0.7/images/1x1.trans.gif" alt="elecciones interferencia rusia"><img class="image" src="https://cnnespanol.cnn.com/wp-content/uploads/2020/10/interferencia-hackers-elecciones-https___cdn.cnn_.com_cnnnext_dam_assets_200910142347-20200910-hackers-2020-gfx.jpg?quality=100&amp;strip=info&amp;w=940&amp;h=530&amp;crop=1" alt="elecciones interferencia rusia">		
+			
+									<p><strong>(CNN) &#8212;</strong> El director de Inteligencia Nacional, John Ratcliffe, dijo el mi&#233;rcoles que tanto Ir&#225;n como Rusia obtuvieron informaci&#243;n de registro de votantes de Estados Unidos en un esfuerzo por interferir en las elecciones, incluido Ir&#225;n haci&#233;ndose pasar por el grupo de extrema derecha Proud Boys para enviar correos electr&#243;nicos intimidantes a los votantes.</p>
+<p>&#171;Estos datos pueden ser utilizados por actores extranjeros para intentar comunicar informaci&#243;n falsa a los votantes registrados que esperan que cause confusi&#243;n, siembre el caos y socave su confianza en la democracia estadounidense&#187;, dijo Ratcliffe.</p>
+<p>Los iran&#237;es son responsables de una campa&#241;a de correo electr&#243;nico de intimidaci&#243;n de votantes que se hizo para que pareciera que proven&#237;a de los Proud Boys y que tambi&#233;n difund&#237;a desinformaci&#243;n sobre el fraude electoral a trav&#233;s de un video vinculado en algunos de los correos electr&#243;nicos.</p><p id="ad_nat_btf_01" class="cnn_adtag cnn_adtag--dfp"></p><p>&#171;Ya hemos visto a Ir&#225;n enviando correos electr&#243;nicos falsos dise&#241;ados para intimidar a los votantes, incitar el malestar social y afectar al presidente (Donald) Trump&#187;, agreg&#243; Ratcliffe. &#171;Es posible que haya visto algunos informes sobre esto en las &#250;ltimas 24 horas, o puede que incluso haya sido uno de los destinatarios de esos correos electr&#243;nicos&#187;.</p>
+ 
+<p>Ratcliffe no explic&#243; lo que quiso decir con su declaraci&#243;n de que los correos electr&#243;nicos &#8212;que se enviaron a los votantes registrados desde &#171;info@proudboys.com&#187; y advirtieron a los destinatarios &#171;&#161;Voten por Trump o si no!&#187;&#8212; estaban destinados a afectar al presidente. <a href="https://twitter.com/HomelandDems/status/1319063440686796800">La cuenta de Twitter</a> para los dem&#243;cratas en el Comit&#233; de Seguridad Nacional de la C&#225;mara de Representantes respondi&#243; al comentario de Ratcliffe diciendo: &#171;NO escuches a Ratcliffe. Es un hack partidista&#187;. Ratcliffe ha sido acusado por los dem&#243;cratas de trabajar para promover los objetivos pol&#237;ticos de Trump al desclasificar la inteligencia no verificada.</p>
+<img src="https://cnnespanol.cnn.com/wp-content/plugins/lazy-load-0.7/images/1x1.trans.gif" alt width="1100" height="619"><img src="https://cdn.cnn.com/cnnnext/dam/assets/200528134604-01-john-ratcliffe-0505-super-tease.jpg" alt="" width="1100" height="619"><p>Una fuente en una oficina electoral de Florida le dijo a CNN que durante una sesi&#243;n informativa del FBI el mi&#233;rcoles, los agentes les dijeron que las amenazas por correo electr&#243;nico de Proud Boys sobre votar por Trump proven&#237;an de un estado nacional, y que las est&#225;n viendo en todo el pa&#237;s. La fuente dijo que los agentes les dijeron que estos correos electr&#243;nicos &#171;no eran obra de un tipo de Florida en su s&#243;tano&#187;.</p><p class="ad-heading-text">publicidad</p><p id="ad_out_vid_01" class="ad"></p><p>Rusia no ha tomado las mismas acciones, dijo Ratcliffe, pero ha obtenido cierta informaci&#243;n de los votantes, tal como lo hizo Mosc&#250; en 2016.</p>
+<p>Ratcliffe habl&#243; junto al director del FBI, Chris Wray, en una conferencia de prensa organizada apresuradamente el mi&#233;rcoles por la noche para anunciar la interferencia electoral extranjera.</p>
+<p>&#171;Estamos preparados para la posibilidad de acciones de aquellos que son hostiles a la democracia&#187;, dijo Ratcliffe.</p>
+<p>Justo antes de que comenzara la conferencia de prensa, los dos miembros principales del Comit&#233; Selecto de Inteligencia del Senado, los senadores Marco Rubio, un republicano de Florida, y Mark Warner, un dem&#243;crata de Virginia, emitieron una declaraci&#243;n conjunta advirtiendo sobre la interferencia extranjera en las elecciones.</p>
+<p>&#171;Al entrar en las &#250;ltimas semanas antes de las elecciones, instamos a todos los estadounidenses, incluidos los miembros de los medios de comunicaci&#243;n, a ser cautelosos a la hora de creer o difundir afirmaciones sensacionales y no verificadas relacionadas con los votos&#187;, se lee en el comunicado. &#171;Los funcionarios electorales estatales y locales est&#225;n en contacto regular con los profesionales de la seguridad cibern&#233;tica y la aplicaci&#243;n de la ley federal, y todos est&#225;n trabajando las 24 horas del d&#237;a para garantizar que las Elecciones 2020 sean seguras y libres de interferencias externas&#187;.</p>
+<p>Junto con Rusia y China, Ir&#225;n fue nombrado como uno de los tres adversarios extranjeros que buscan interferir en la carrera de 2020 <a href="https://cnnespanol.cnn.com/2020/08/07/china-e-iran-no-quieren-que-trump-gane-la-reeleccion-rusia-trabaja-contra-biden-dice-maximo-funcionario-electoral-de-la-comunidad-de-inteligencia/">en una declaraci&#243;n sin precedentes del principal funcionario de seguridad electoral de la comunidad de inteligencia</a>, Bill Evanina, el 7 de agosto.</p>
+<p>&#171;Evaluamos que Ir&#225;n busca socavar las instituciones democr&#225;ticas de Estados Unidos, el presidente Trump, y dividir al pa&#237;s antes de las elecciones de 2020. Los esfuerzos de Ir&#225;n en este sentido probablemente se centrar&#225;n en la influencia en l&#237;nea, como la difusi&#243;n de desinformaci&#243;n en las redes sociales y la recirculaci&#243;n contenido antiestadounidense&#187;, dec&#237;a la declaraci&#243;n, emitida en nombre de toda la comunidad de inteligencia.</p>
+<p>&#171;La motivaci&#243;n de Teher&#225;n para llevar a cabo tales actividades es, en parte, impulsada por la percepci&#243;n de que la reelecci&#243;n del presidente Trump resultar&#237;a en una continuaci&#243;n de la presi&#243;n de Estados Unidos sobre Ir&#225;n en un esfuerzo por fomentar un cambio de r&#233;gimen&#187;, agreg&#243;.</p>
+<p>La misma declaraci&#243;n dijo que la comunidad de inteligencia de Estados Unidos eval&#250;a que &#171;Rusia est&#225; utilizando una serie de medidas para denigrar principalmente al exvicepresidente Biden y lo que ve como un &#8216;establishment&#8217; anti-Rusia&#187;.</p>
+<p>&#171;Esto es consistente con las cr&#237;ticas p&#250;blicas de Mosc&#250; hacia &#233;l cuando era vicepresidente por su papel en las pol&#237;ticas de la administraci&#243;n Obama sobre Ucrania y su apoyo a la oposici&#243;n anti-Putin dentro de Rusia&#8230; Algunos actores vinculados al Kremlin tambi&#233;n buscan impulsar la candidatura de Trump en las redes sociales y la televisi&#243;n rusa&#187;, agreg&#243;.</p>
+<p>Jeff Zeleny, Donie O&#8217;Sullivan y Evan Perez de CNN contribuyeron a este art&#237;culo.
+									
+									
+
+									
+									
+	</p> 
+
+									
+									<p class="OUTBRAIN"></p>
+											</div>

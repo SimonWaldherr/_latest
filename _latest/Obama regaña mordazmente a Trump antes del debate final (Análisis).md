@@ -1,0 +1,71 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cnnespanol.cnn.com/wp-content/uploads/2020/10/201022001740-obama-filadelfia-evento-campana-joe-biden-voto-latino-lkl-maria-santana-00010427-full-169.jpg?quality=100&strip=info 
+title: > 
+  Obama regaña mordazmente a Trump antes del debate final (Análisis) 
+description: > 
+  La aparición de Obama en vísperas de un debate en el que se pondrá a prueba el temperamento de Trump, probablemente no fue una coincidencia.Advirtió que «este presidente quiere todo el crédito por la economía que heredó y cero culpa por la pandemia que ignoró».Y advirtió que la retórica de Trump había envalentonado la crueldad y el racismo de otros.En la Florida, otro estado de Trump en 2016, la contienda está dentro del margen de error con Biden hasta un 4% entre los votantes probables.«No voté por el presidente», dijo Romney el miércoles, aunque se negó a revelar si había votado por Biden o por otra persona. 
+keywords: > 
+  análisis, en, por, trump, debate, del, su, final, la, los, obama, antes, y, regaña, el, una, mordazmente, que 
+date: 1603356215.8091137 
+--- 
+<div><p class="share follow flush-left invisible">
+	</p>
+																	<p id="fave-video1" class="first"></p>
+					 
+			Obama hace campa&#241;a para Joe Biden en Filadelfia <p class="caption--duration">3:27</p>
+											<p><strong>(CNN) &#8212; </strong>Barack Obama, en un momento de catarsis que se redobl&#243; como una advertencia contra la complacencia dem&#243;crata, critic&#243; al presidente Donald Trump en un discurso lleno de burlas antes del debate crucial del jueves, tal vez la &#250;ltima oportunidad del presidente para cambiar su campa&#241;a.</p>
+<p>El mi&#233;rcoles, el expresidente liber&#243; cuatro a&#241;os de frustraci&#243;n reprimida en una aparici&#243;n mordaz en Filadelfia que probablemente moleste a&#250;n m&#225;s a un comandante en jefe ya irritable antes de su enfrentamiento con el candidato dem&#243;crata Joe Biden. El debate en Nashville, Tennessee, llega en un momento fat&#237;dico en la carrera por la Casa Blanca, ya que nuevas encuestas enfatizan la tarea que enfrenta Trump para lograr otro triunfo electoral sorprendente en 12 d&#237;as.</p>
+<p>En una nueva <a href="https://www.cnn.com/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html">encuesta de CNN/SSRS</a>, Biden lidera c&#243;modamente en Pensilvania, potencialmente el estado cambiante decisivo, con un camino claro a 270 votos electorales si convierte las pistas de Wisconsin y Michigan en victorias.</p><p id="ad_nat_btf_01" class="cnn_adtag cnn_adtag--dfp"></p><p>Eso hace que Trump necesite el tipo de aumento tard&#237;o que lo llev&#243; a una sorprendente victoria en 2016 sobre la dem&#243;crata Hillary Clinton. Tambi&#233;n significa que su choque con Biden, ya crucial dado que su segundo debate fue cancelado despu&#233;s de su diagn&#243;stico de covid-19, podr&#237;a ser una &#250;ltima oportunidad para sacudir la carrera.</p>
+<p>Pero con la asombrosa cantidad de 40 millones de votos anticipados emitidos, la capacidad de cualquiera de los candidatos para cambiar la din&#225;mica de las elecciones es cada vez m&#225;s limitada.</p>
+<p>Mientras se preparaba para el debate, Trump critic&#243; todo el ejercicio como injusto, resentido por un plan para silenciar peri&#243;dicamente los micr&#243;fonos de los candidatos, dise&#241;ado para limitar sus interrupciones beligerantes y sus acusaciones sin fundamento de parcialidad a la moderadora Kristen Welker de NBC.</p><p class="ad-heading-text">publicidad</p><p id="ad_out_vid_01" class="ad"></p><p><strong>LEE</strong>: <a href="https://cnnespanol.cnn.com/2020/10/20/los-numeros-de-votacion-anticipada-estan-batiendo-records-esto-es-lo-que-aun-no-sabemos/">Los n&#250;meros de votaci&#243;n anticipada est&#225;n batiendo r&#233;cords. Esto es lo que a&#250;n no sabemos</a></p>
+<p>Es probable que &#233;l se haya enfurecido especialmente por las burlas de Obama y la desestimaci&#243;n forense de su historial, dado su desprecio, y obsesi&#243;n, por el expresidente. La aparici&#243;n de Obama en v&#237;speras de un debate en el que se pondr&#225; a prueba el temperamento de Trump, probablemente no fue una coincidencia.</p>
+<p>En otro acontecimiento el mi&#233;rcoles, los funcionarios federales dijeron que tanto Ir&#225;n como Rusia han obtenido informaci&#243;n de registro de votantes de Estados Unidos en un esfuerzo por interferir en las elecciones. Dijeron que los operativos de la Rep&#250;blica Isl&#225;mica se hicieron pasar por los <a href="https://cnnespanol.cnn.com/2020/10/01/proud-boys-quienes-forman-este-grupo-de-ultraderecha-y-que-dijo-trump-sobre-ellos-en-el-debate/">Proud Boys de extrema derecha, un grupo que Trump se neg&#243; a repudiar por completo durante el &#250;ltimo debate</a>, para enviar correos electr&#243;nicos intimidantes a los votantes.</p>
+<p>El director de Inteligencia Nacional, John Ratcliffe, dijo que la intenci&#243;n de Ir&#225;n era hacerle da&#241;o al presidente. Los dem&#243;cratas y exfuncionarios ver&#225;n su declaraci&#243;n a trav&#233;s de una lente pol&#237;tica, dado que no proporcion&#243; pruebas de inmediato y sus esfuerzos anteriores por politizar la inteligencia para ayudar a Trump.</p>
+<h2>&#8216;Me habr&#237;an llamado Beijing Barry&#8217;</h2>
+<p>El 44 presidente se abalanz&#243; sobre la afirmaci&#243;n de Trump de que &#171;no hay mucho&#187; que cambiar&#237;a en uno de los intentos menos exitosos del mundo para sofocar un virus que ha matado a m&#225;s de 221.000 estadounidenses y devastado la econom&#237;a.</p>
+<p>&#171;&#191;En serio? &#191;No mucho? &#191;Nada en lo que puedas pensar que podr&#237;a haber ayudado a algunas personas a mantener con vida a sus seres queridos?&#187;, dijo Obama, que subi&#243; al escenario con una mascarilla con la palabra &#171;Vota&#187;.</p>
+<p>&#171;Joe no va a estropear las pruebas. No va a llamar idiotas a los cient&#237;ficos. No va a organizar un evento de superpropagaci&#243;n en la Casa Blanca. Joe controlar&#225; esta pandemia&#187;, dijo Obama sobre el hombre que eligi&#243; ser su vicepresidente hace 12 a&#241;os.</p>
+<p>Su intervenci&#243;n, una reprimenda extraordinariamente mordaz de un presidente en funciones por parte de un expresidente, fue un recordatorio en s&#237; mismo de c&#243;mo la era Trump ha destrozado los protocolos de la Casa Blanca.</p>
+<p>En t&#233;rminos m&#225;s generales, esta enfatiz&#243; c&#243;mo la pol&#237;tica de los &#250;ltimos 12 a&#241;os es una competencia no resuelta entre las filosof&#237;as y el comportamiento del primer presidente negro y un sucesor que construy&#243; su marca sobre una teor&#237;a racista de la conspiraci&#243;n sobre el lugar de nacimiento de su predecesor.</p>
+<p>A Obama sabore&#243; especialmente explotar un <a href="https://www.nytimes.com/2020/10/20/us/trump-taxes-china.html">informe de The New York Times </a>basado en los registros financieros de Trump. En el que se inform&#243; que el presidente tiene una cuenta bancaria en China, incluso cuando critica a Biden por ser blando con el gigante comunista.</p>
+<p>&#171;Escuchen, &#191;se imaginan si yo hubiera tenido una cuenta secreta en un banco chino cuando me postul&#233; para la reelecci&#243;n?&#187;, dijo Obama. &#171;&#191;Creen que Fox News podr&#237;a haber estado un poco preocupado por eso? Me habr&#237;an llamado Beijing Barry&#187;.</p>
+<p><strong>LEE</strong>: <a href="https://cnnespanol.cnn.com/2020/10/21/new-york-times-registros-fiscales-muestran-que-trump-mantiene-una-cuenta-bancaria-en-china/">The New York Times: Registros fiscales muestran que Trump mantiene una cuenta bancaria en China</a></p>
+<p>Obama hizo llover un ataque tras otro contra Trump y su car&#225;cter. Lo menospreci&#243; por &#171;tuitear a la televisi&#243;n&#187;. Advirti&#243; que &#171;este presidente quiere todo el cr&#233;dito por la econom&#237;a que hered&#243; y cero culpa por la pandemia que ignor&#243;&#187;.</p>
+<p>Obama dijo que Biden y su compa&#241;era de f&#243;rmula, la senadora de California Kamala Harris, tienen un plan para sacar a Estados Unidos de su actual &#171;l&#237;o&#187;. Y advirti&#243; que la ret&#243;rica de Trump hab&#237;a envalentonado la crueldad y el racismo de otros.</p>
+<p>Critic&#243; las promesas incumplidas del presidente de proponer un reemplazo para Obamacare, aunque su administraci&#243;n abogar&#225; por su erradicaci&#243;n en la Corte Suprema una semana despu&#233;s de las elecciones.</p>
+<p>&#171;Ha estado llegando en dos semanas durante los &#250;ltimos 10 a&#241;os. &#191;D&#243;nde est&#225;?&#187;.</p>
+<p>Y describi&#243; la posibilidad de una administraci&#243;n Biden-Harris como una oportunidad de paz y tranquilidad despu&#233;s de cuatro a&#241;os tumultuosos.</p>
+<p>&#171;Con Joe y Kamala al mando, no tendr&#225;s que pensar en las locuras que dijeron todos los d&#237;as&#8230; No ser&#225; tan agotador. Es posible que puedas tener una cena de Acci&#243;n de Gracias sin tener una discusi&#243;n.&#187;</p>
+<h2>Trump intenta burlarse de Obama</h2>
+<p>En un escenario de campa&#241;a, el discurso de Obama fue incluso m&#225;s visceral que sus acusaciones m&#225;s espirituales y legales sobre Trump pronunciadas en el funeral del difunto representante John Lewis y en la virtual Convenci&#243;n Nacional Dem&#243;crata.</p>
+<p>Fue un recordatorio del talento de Obama como orador y su habilidad para enmarcar argumentos pol&#237;ticos globales que le valieron dos mandatos en la Casa Blanca.</p>
+<p><strong>MIRA</strong>: <a href="https://cnnespanol.cnn.com/video/barack-obama-hillary-clinton-billie-eilish-tercera-noche-convencion-nacional-democrata-dig-original-pkg/">Barack Obama, Hillary Clinton y Billie Eilish, entre los protagonistas de la tercera noche de la Convenci&#243;n Dem&#243;crata</a></p>
+<p>Pero el expresidente tambi&#233;n fue una figura singular que a menudo luchaba por transferir su aura a otros candidatos dem&#243;cratas. Mientras hablaba era imposible no recordar que tambi&#233;n fue en Filadelfia hace cuatro a&#241;os donde pronunci&#243; un discurso instando a los estadounidenses a elegir a Hillary Clinton en la v&#237;spera de las elecciones en el que tambi&#233;n apunt&#243; a las pol&#237;ticas y el temperamento de Trump.</p>
+<p>Al d&#237;a siguiente, Trump desafi&#243; las encuestas y logr&#243; una sorprendente victoria en Pensilvania en camino a una victoria nacional que fue en esencia una reacci&#243;n contra los ocho a&#241;os de Obama en el cargo.</p>
+<p>Obama se refiri&#243; indirectamente a ese momento el mi&#233;rcoles, cuando suplic&#243; a los votantes dem&#243;cratas que presentaran cifras m&#225;s altas que en 2016.</p>
+<p>&#171;No me importan las encuestas. Hubo un mont&#243;n de encuestas la &#250;ltima vez. No funcion&#243; porque un mont&#243;n de gente se qued&#243; en casa. Y se volvi&#243; perezosa y complaciente. No esta vez. No en esta elecci&#243;n, no esta vez&#187;, dijo.</p>
+<p>Mientras Obama criticaba su presidencia, Trump viaj&#243; a Carolina del Norte, un estado indeciso que necesita retener para mantener viable su camino hacia un segundo mandato, y sugiri&#243; que el resurgimiento del expresidente era una buena noticia.</p>
+<p>&#171;No hubo nadie que hiciera una campa&#241;a m&#225;s dura por la corrupta Hillary Clinton que Obama, &#191;verdad? Estaba por todos lados&#187;, dijo Trump en un mitin en Gastonia. &#171;El &#250;nico que fue m&#225;s infeliz que la corrupta Hillary esa noche fue Barack Hussein Obama&#187;.</p>
+<p>Harris tambi&#233;n estuvo en Carolina del Norte el mi&#233;rcoles y apunt&#243; algunas de las ret&#243;ricas m&#225;s punzantes de la campa&#241;a electoral dem&#243;crata hasta ahora.</p>
+<p>&#171;La gente me ha estado preguntando, los periodistas, bueno, ya sabes, &#191;crees que es racista? S&#237;. S&#237;, lo creo&#187;, dijo Harris.</p>
+<p>&#171;Y hay un patr&#243;n aqu&#237;&#8230; No lo digo a la ligera. Uno nunca debe decir eso a la ligera. Pero hay un patr&#243;n aqu&#237;&#187;.</p>
+<h2>Trump necesita un regreso</h2>
+<p>La presencia de Trump en otro estado que estaba en su columna en 2016 fue solo el &#250;ltimo intento del presidente de defender un territorio que a su campa&#241;a le hubiera gustado considerar seguro a estas alturas.</p>
+<p>El presidente entra en los &#250;ltimos 12 d&#237;as de la campa&#241;a, en los que est&#225; planeando un bombardear con m&#237;tines en estados cambiantes que ignoran la amenaza de que las multitudes pueden transmitir el covid-19, necesitando uno de los regresos m&#225;s impresionantes de la pol&#237;tica moderna.</p>
+<p>Dos nuevas encuestas de estado oscilante para <a href="http://www.cnn.com/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html">CNN por SSRS</a> explican la magnitud de su tarea. Biden lidera entre un 53% y un 43% en Pensilvania, que tiene 20 votos electorales y que no puede permitirse perder. En la Florida, otro estado de Trump en 2016, la contienda est&#225; dentro del margen de error con Biden hasta un 4% entre los votantes probables.</p>
+<p>Las encuestas fueron consistentes con otras encuestas recientes en los dos estados. La campa&#241;a de Trump insiste en que las encuestas p&#250;blicas son inexactas ya que no modelan adecuadamente el tama&#241;o del apoyo del presidente. Y predice que una gran afluencia de nuevos votantes de Trump volver&#225; a confundir las encuestas y lo llevar&#225; a la victoria.</p>
+<p>A medida que millones de estadounidenses emiten votos anticipados y en ausencia, una opci&#243;n atractiva a medida que la pandemia empeora, ya est&#225; claro que Trump ha perdido un voto republicano: el del candidato de su partido en 2012, el senador de Utah Mitt Romney.</p>
+<p>&#171;No vot&#233; por el presidente&#187;, dijo Romney el mi&#233;rcoles, aunque se neg&#243; a revelar si hab&#237;a votado por Biden o por otra persona.</p>
+<p>Manu Raju de CNN contribuy&#243; a encabezar esta historia.</p>
+									
+									
+
+									
+									
+	 
+
+									
+									<p class="OUTBRAIN"></p>
+											</div>
