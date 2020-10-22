@@ -1,0 +1,25 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/family/2020/06/12/TELEMMGLPICT000168447123_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay 
+title: > 
+  How Russian spies 'targeted the lab investigating the Salisbury Novichok attack' 
+description: > 
+  But the reality of Russian intelligence unit 74455's alleged four-year rampage is billions of pounds in damage and thousands of real-world victims.The Olympics became a target after Russian athletes were banned from participating under their nation’s flag because of a doping scandal.Kovalev, an alleged GRU agent, used the address to send several emails to employees at the Porton Down laboratory with the subject line “Salisbury Spy Poisoning Investigation”.The emails claimed to have critical evidence for the investigation and the sender needed the names of the officials who were investigating.Kovalev allegedly tried this method three times, pretending to be two different British and German reporters. 
+keywords: > 
+  gru, tried, salisbury, novichok, russian, spies, olympics, lab, emails, british, investigating, organisation, alleged, attack, email, targeted, kovalev 
+date: 1603342076.4477353 
+--- 
+<div><p>Fake journalists, hospital outages and a plot to bring down the 2020 Olympics: <a href="https://www.telegraph.co.uk/news/2020/10/19/russian-unit-behind-novichok-attack-targeted-olympics-british/">the major hacking operation uncovered by a joint British and US counter-espionage operation</a> has all the elements of a gripping spy novel.&#160;</p>
+<p>But the reality of Russian intelligence unit 74455's alleged&#160;four-year rampage is billions of&#160; pounds&#160;in damage&#160;and thousands of real-world victims.</p>
+<p>The US Department of Justice said on Monday that it was charging six GRU (Main Intelligence Directorate) officers&#160;with plotting against the 2018 South Korean Winter Olympics, Ukraine, Georgia and the 2017 French election.&#160;</p>
+<p>In a parallel press conference, the&#160;UK government&#160;accused the GRU for launching &#8220;cyber reconnaissance&#8221; operations on both the 2020 Olympic and Paralympic Games due to be held in Tokyo before they were postponed because of the Covid-19 pandemic.</p>
+<p>In each case, the conspirators worked to&#160;undermine or retaliate against nations - or organisations - which tried to bring Russia to heel, both governments said.</p>
+<p>The Olympics became a target after Russian athletes were <a href="https://www.telegraph.co.uk/sport/2019/12/09/russia-escapes-complete-sporting-exile-despite-four-year-ban/">banned from participating under their nation&#8217;s flag because of a doping scandal</a>. Electricity was switched off for hundreds of thousands of customers after a power grid attack in Ukraine, which it is in war with over disputed territory.&#160;</p>
+<h4>'They will take on any persona they need'</h4>
+<p>Perhaps most remarkable is the brazen attempt&#160;to intervene in investigations by the Organisation for the Prohibition of Chemical Weapons (OPCW) and the UK&#8217;s Defence Science and Technology Laboratory into the Russian unit&#8217;s own attempted assassination <a href="https://www.telegraph.co.uk/news/2019/01/06/uk-joined-dots-salisbury-novichok-attack-vladimir-putin/">of double agent Sergei Skripal</a>.&#160;&#160;</p>
+<p>On April 6 2018, just three days after officials announced that Skripal and his daughter had been poisoned with Russian nerve agent Novichok, a 29-year-old Anatoliy Sergeyevich Kovalev allegedly looked up a respected British journalist and created a fake email account that mimicked his name and the organisation he worked for.&#160;&#160;Kovalev, an alleged GRU agent, used the address to send several emails to employees at the Porton Down laboratory with the subject line &#8220;Salisbury Spy Poisoning Investigation&#8221;.&#160;&#160;</p>
+<p>The emails claimed to have critical evidence for the investigation and the sender&#160;needed the names of the officials who were investigating. Kovalev allegedly tried this method three times, pretending to be two different British and&#160;German reporters. He later tried the same trick on the independent Organisation for the Prohibition of Chemical Weapons (OPCW) which told him which UK government agencies he needed to speak to and their email addresses, the US Justice Department's indictment claims.&#160;&#160;</p>
+<p>Armed with a list of targets, unit 74455 created an email account that appeared to come from inside the Ministry of Defence and&#160;sent&#160;dozens of emails which were boobytrapped with &#8220;destructive&#8221; malicious software.</p>
+<p>This "spearfishing campaign", which became a hallmark throughout the entirety of the alleged plot, is commonly used to target businesses too. Typically,&#160;criminals sift&#160;through Linkedin profiles to guess corporate email addresses (like name.surname@companythatwillpayaransom.co.uk).</p>
+</div>
