@@ -1,0 +1,49 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ca-times.brightspotcdn.com/dims4/default/dfd900b/2147483647/strip/true/crop/2400x1260+0+170/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0b%2Fad%2Fb35456504d809e6e6672e8b7e462%2Fla-photos-1staff-530871-me-0425-covid-19-patient-012.IK.jpg 
+title: > 
+  Column: I’m a ‘no’ on dialysis measure Prop. 23 and ‘yes’ on the property tax breaks in Prop. 19. Here’s why 
+description: > 
+  Proposition 19 is simple: either aging homeowners get a big new property tax break or their offspring heirs keep an old one.A labor union is sponsoring the ballot initiative largely to pressure the clinics into accepting unionization of its employees.Under Proposition 19, they wouldn’t get the tax break unless they moved into the house and it became their primary residence.A definite “yes.”Proposition 23 would require California’s roughly 600 dialysis clinics to employ at least one doctor to be on-site when patients receive treatment.“We probably would have to close 35% to 45% of our facilities,” says Rick Barnett, president and CEO of Satellite Healthcare, which operates 65 dialysis clinics in California. 
+keywords: > 
+  breaks, heres, prop, ballot, property, column, 19, initiative, dialysis, yes, state, im, tax, house, clinics, measure, homeowners, proposition 
+date: 1603352304.9190478 
+--- 
+<div><p>Proposition 19 is simple: either aging homeowners get a big new property tax break or their offspring heirs keep an old one.</p><p>Either the parents benefit, or their children do.</p><p>Most of these state propositions can be annoyingly complicated if you let them.</p><p>State Atty. Gen. Xavier Becerra sometimes doesn&#8217;t help by writing ballot titles and summaries that attempt to lead voters toward the position of his Democratic Party. His two predecessors &#8212; Kamala Harris and Jerry Brown &#8212; did the same. More on that another day.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-addf86caa0-785c-46de-b123-1b13ad17964b" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p><a class="link" href="https://www.latimes.com/california/story/2020-10-20/california-dialysis-center-regulations-proposition-23" target="_blank">Proposition 23</a> also might seem complicated, but really boils down to a simple question: Should kidney dialysis clinics be required to hire an extra doctor to be on hand while patients are undergoing treatment? Never mind that the doctor probably isn&#8217;t needed.</p><p>That&#8217;s the official public narrative of Proposition 23. There&#8217;s another behind-the-scenes truth about the measure.</p><p>A labor union is sponsoring the ballot initiative largely to pressure the clinics into accepting unionization of its employees. It&#8217;s the continuation of a tactic the union also tried unsuccessfully in 2018. It&#8217;s sort of an extortion strategy.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad94570015-25f3-4c0a-a061-aacee8c0e891" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p></p><p id="nativo_1"></p><p>The message: unionize or spend $100 million every election fighting off our ballot measures.</p><p>Proposition 18, however, truly is a simple measure &#8212; probably the simplest on the ballot. Should 17-year-olds be allowed to vote in presidential primaries, and in state and local elections if they&#8217;ll turn 18 by the November election?</p><p>Or should their voting remain relegated to high school class president?</p><p>That&#8217;s an easy answer: It&#8217;s &#8220;no&#8221; on 18. These kids still are living off their parents, paying miniscule taxes and aren&#8217;t legal adults. They can wait a few months before being allowed to vote as adults on such things as tax increases.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad1931701d-d90b-4d18-a9e6-f39da6b3419c" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>A new statewide poll by the nonpartisan Public Policy Institute of California asked likely voters whether they agreed or disagreed with this statement: &#8220;The ballot wording for citizens&#8217; initiatives is often too complicated and confusing for voters to understand what happens if the initiative passes.&#8221;</p><p>The answer was practically the same regardless of the person&#8217;s political party or age: 82% agreed and only 16% disagreed.</p><p>Also, 55% said there are too many propositions on the state ballot. And 63% asserted that the initiative process is controlled &#8220;a lot&#8221; by special interests.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ada54cd62b-2b88-4c7d-be46-c69725b4af84" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>Those cynical poll respondents are correct.</p><p><a class="link" href="https://www.latimes.com/homeless-housing/story/2020-10-19/proposition-19-property-tax-ballot-measure-explained-california" target="_blank">Proposition 19</a> is one of two property tax measures on the ballot. They both would change Proposition 13, the popular 1978 initiative that lowered property taxes and ignited a nationwide anti-tax revolt.</p><p>But the two measures are unrelated and shouldn&#8217;t be confused with each other. Proposition 15 would significantly raise taxes on commercial and industrial property.</p><p>Proposition 19 would substantially increase tax breaks for homeowners who are over 55. It would do the same for people of any age who are severely disabled or had their house destroyed by natural disaster, such as wildfire.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adfb601799-a97a-40f0-b20e-0ca3dab4bd4e" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p></p><p>Under current law, homeowners over 55 can sell their house and buy a new one, taking with them the old Proposition 13 tax break. The new home won&#8217;t be reassessed to market value, avoiding a major tax hike. But they can only do that if the cost of the new house doesn&#8217;t exceed the old one&#8217;s sale price &#8212; and if the home is in a county that allows such a tax transfer. They&#8217;re permitted to do this only once in a lifetime.</p><p>Proposition 19 would allow the homeowners to transfer their Proposition 13 tax break to any new purchase anywhere in the state, regardless of the house&#8217;s cost. And they could do that three times.</p><p>But their children would pay for it. Now the heirs inherit their parents&#8217; tax benefit as well as the house. Under Proposition 19, they wouldn&#8217;t get the tax break unless they moved into the house and it became their primary residence.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-adf01639fb-7526-4449-af84-0dfa2b57eea0" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>Disabled homeowners and disaster victims also could carry their tax breaks with them to any new purchase in the state, regardless of its cost.</p><p>The proposition is sponsored by the California Assn. of Realtors, which clearly hopes home sales will increase and boost agents&#8217; commissions.</p><p>Virtually the only organized opposition comes from the Howard Jarvis Taxpayers Assn., named for the author of Proposition 13. It dislikes eliminating the heirs&#8217; tax breaks.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-added83b8d-e8c0-451e-bd56-0ac6dec26994" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>The California Budget and Policy Center, which is neutral on 19, estimates that 4.2 million homeowners over 55 would benefit.</p><p>Makes sense to me. It gives older folks an incentive to move out of their empty-nest homes and downsize into more practical dwellings.</p><p>A good tradeoff &#8212; I benefit, my daughters someday pay. A definite &#8220;yes.&#8221; </p><p>Proposition 23 would require California&#8217;s roughly 600 dialysis clinics to employ at least one doctor to be on-site when patients receive treatment. But they&#8217;re already required to have a staff doctor who&#8217;s a kidney specialist, although the physician doesn&#8217;t always have to be at the clinic. Trained nurses operate the dialysis machines.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad4ebf2c40-9e55-408a-83f0-d78bdeaae283" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>The dialysis industry has raised more than $100 million to fight the initiative &#8212; just as it did two years ago to defeat another union-backed measure. Sponsors have spent only about $7 million.</p><p>Opponents say the measure would cost the clinics $350 million.</p><p>&#8220;We probably would have to close 35% to 45% of our facilities,&#8221; says Rick Barnett, president and CEO of Satellite Healthcare, which operates 65 dialysis clinics in California. &#8220;We can&#8217;t sustain anything that operates in the red long term.&#8221;</p><p>The initiative&#8217;s sponsor is Service Employees International Union-United Healthcare Workers West. It has a history of forcing healthcare companies to spend big bucks on election campaigns if they refuse to unionize.</p><p class="google-dfp-ad-caption">Advertisement</p>
+    <p id="google-ad9c15dbaf-4b15-4b3d-9a26-bca2b83ce0fa" class="google-dfp-ad injected">
+        <p class="google-dfp-ad-placeholder"></p>
+    </p>
+<p>I&#8217;m a &#8220;no&#8221; &#8212; against Proposition 23 and union bullying.</p></div>

@@ -1,0 +1,28 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/Jean-Charles-Samuelian-Werve-Voyez-Vous-Vinciane-Lebrun-0622.jpg?w=500 
+title: > 
+  Health insurance startup Alan lets you chat with a doctor – TechCrunch 
+description: > 
+  French startup Alan is building health insurance products.Alan has obtained its own health insurance license and is a proper insurance company.It doesn’t partner with existing insurance companies.In France, employees are covered by both the national health care system and private insurance companies.“We’ve hired a full-time doctor and we’re working with a bit under 10 doctors on a part-time basis,” Samuelian-Werve told me. 
+keywords: > 
+  startup, alan, chat, lets, techcrunch, companies, insurance, company, health, told, samuelianwerve, doctor, product, employees 
+date: 1603352330.284843 
+--- 
+<div><p id="speakable-summary">French startup <a href="https://alan.com">Alan</a> is building health insurance products. And 100,000 people are now covered through <a class="crunchbase-link" href="https://crunchbase.com/organization/alan-3" target="_blank">Alan </a>. I caught up with the company&#8217;s co-founder and CEO Jean-Charles Samuelian-Werve so that he could give us an update on the product.</p>
+<p>Alan has obtained its own health insurance license and is a proper insurance company. It doesn&#8217;t partner with existing insurance companies. The company primarily sells its insurance product to other companies.</p>
+<p>In France, employees are covered by both the national health care system and private insurance companies. So Alan convinces other companies to use its product for all employees.</p><p class="piano-inline-promo"></p>
+<p>Over the years, Alan has diversified its offering with <a href="https://techcrunch.com/2018/07/11/alan-introduces-alan-blue-a-high-end-health-insurance-product/">high-end coverage</a>, partnerships with <a href="https://techcrunch.com/2017/07/15/health-insurance-startup-alan-adds-life-insurance/">CNP Assurances</a>, <a href="https://techcrunch.com/2018/10/03/alan-partners-with-krys-livi-for-telemedicine-appointments/">Livi</a> and <a href="https://techcrunch.com/2018/10/17/health-insurance-startup-alan-covers-meditation-app-subscription/">Petit Bambou</a>, a focus on <a href="https://techcrunch.com/2019/08/27/health-insurance-startup-alan-launches-four-new-verticals/">new verticals</a>, such as companies in the hospitality industry or retired individuals.</p>
+<p>&#8220;We&#8217;ve kept shipping, and I even think that our pace has increased. We&#8217;ve released some exciting stuff in recent months, for our members, for companies and for us internally,&#8221; Samuelian-Werve told me.</p>
+<p>The biggest change isn&#8217;t visible to the end user. The company has built a service that lets them generate a new insurance package on demand. It uses historical data to figure out pricing on the fly. And it opens up some market opportunities as big companies want a custom insurance product depending on their needs.</p>
+<p>The biggest Alan customer is a company with 1,000 to 1,500 employees. But the startup is currently selling its product to bigger companies. The idea is that companies above 100 employees can get a custom insurance package.</p>
+<p>For the customer, pricing remains transparent as Alan shows you how much it costs to cover your medical needs depending on what you&#8217;re asking for. Alan adds a membership fee on top of that to access the platform and related services.</p>
+<p>Alan is also introducing a new messaging feature. You can start a text discussion with a doctor whenever you have a question about your health &#8212; it&#8217;s included in your insurance package. Alan doesn&#8217;t want to replace your general practitioner. But having a doctor that you can text is always helpful when you&#8217;re not sure what to do next.</p>
+<p>On the other side of the screen, there are actual doctors answering your questions. &#8220;We&#8217;ve hired a full-time doctor and we&#8217;re working with a bit under 10 doctors on a part-time basis,&#8221; Samuelian-Werve told me.</p>
+<p>Alan&#8217;s app has been redesigned with a bigger emphasis on your health instead of your insurance. The company shows you all your interactions with health professionals. You can add documents and notes to consolidate information in the same place.</p>
+<p>It sounds a bit like France&#8217;s <a href="https://www.dmp.fr">DMP</a>, which acts as a personal repository for all your health-related documents. And Alan doesn&#8217;t want to replace the public initiative. The startup would like to take advantage of the service to upload and download data at some point down the road.</p>
+<p>If you give your consent, Alan can also proactively nudge you about your health. For instance, given your child&#8217;s age, Alan can notify you when they&#8217;re supposed to get vaccinated. Or if you haven&#8217;t been to the dentist in a year, Alan can tell you that it&#8217;s time to get a routine checkup.</p>
+<p>Finally, the company has improved efficiency when it comes to reimbursements. &#8220;74% of reimbursements are issued within an hour. And we&#8217;re using instant transfers to send money to your bank account,&#8221; Samuelian-Werve told me.</p>
+<p>As you can see, Alan is releasing incremental updates. They slowly add up and change the product. In the coming years, the company plans to offer its product in multiple European countries.</p>
+			</div>
