@@ -1,0 +1,22 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1206514293.jpg?w=600 
+title: > 
+  Google Maps launches a new developer solution for on-demand ride and delivery companies – TechCrunch 
+description: > 
+  The Google Maps Platform, the developer side of Google Maps, is launching a new service for on-demand rides and delivery companies today that ties together some of the platform’s existing capabilities with new features for finding nearby drivers and sharing trip and order progress information with customers.This isn’t Google Maps Platform’s first foray into this business.The other new feature of this platform is to enable developers to quickly build an experience that helps users find nearby drivers.Imaginatively called ‘Nearby Drivers,’ the idea here is about as straightforward as you can imagine and allows developers to find the closest driver with a single API call.The technology behind it is not, though, and a lot of delivery companies have set up large tech operations to build out exactly these features. 
+keywords: > 
+  maps, google, delivery, launches, platform, trip, right, nearby, ride, developer, ondemand, service, thats, drivers, techcrunch, solution, companies 
+date: 1603381630.4294176 
+--- 
+<div><p id="speakable-summary">The <a class="crunchbase-link" href="https://crunchbase.com/organization/google" target="_blank">Google </a> Maps Platform, the developer side of Google Maps, is launching a new service for on-demand rides and delivery companies today that ties together some of the platform&#8217;s existing capabilities with new features for finding nearby drivers and sharing trip and order progress information with customers.</p>
+<p>This isn&#8217;t Google Maps Platform&#8217;s first foray into this business. Back in 2018, the company launched a solution for in-app navigation for ridesharing companies, for example. At the time, the team didn&#8217;t really focus on delivery solutions, though, but that&#8217;s obviously one of the few booming markets right now, thanks to the COVID-19 pandemic.</p>
+<p>&#8220;Building on 15 years of experience mapping the world, the On-demand Rides &amp; Deliveries solution helps businesses improve operations as well as transform the driver and customer journey from booking to arrival or delivery&#8211;all with predictable pricing per completed trip,&#8221; Google senior product manager Eli Danziger writes in today&#8217;s announcement.&#8221;</p><p class="piano-inline-promo"></p>
+<p>At the core of the service is the Google Maps <a href="https://cloud.google.com/maps-platform/routes">routing service</a>, which developers can tweak for deliveries by bike or motorcycle, for example, and to find optimized routes with the shortest or fastest path. The team notes that this so-called &#8216;Routes Preferred&#8217; feature also enables arrival time predictions for time-sensitive deliveries and pricing estimates.</p>
+<p>The other new feature of this platform is to enable developers to quickly build an experience that helps users find nearby drivers. Imaginatively called &#8216;Nearby Drivers,&#8217; the idea here is about as straightforward as you can imagine and allows developers to find the closest driver with a single API call. They can also add custom rankings, based on their specific needs, to ensure the right driver is matched to the right route.</p>
+<p>Unsurprisingly, the platform also features support for in-app navigation, and that&#8217;s tied in closely with the rest of the feature set.</p>
+<p>Developers can also easily integrate Google&#8217;s real-time trip and order progress capabilities to &#8220;keep customers informed from pickup to drop-off or delivery, with a real-time view of a driver&#8217;s current position, route, and ETA.&#8221;</p>
+<p>All of this is pretty much what any user would expect from a modern ride-sharing or delivery app, so for the most part, that&#8217;s table stakes. The technology behind it is not, though, and a lot of delivery companies have set up large tech operations to build out exactly these features. They aren&#8217;t likely to switch to Google&#8217;s platform, but the platform may give smaller players a chance to operate more efficiently or enter new markets without the added expense of having to build this tech stack from the ground up &#8212; or cobble it together from multiple vendors.</p>
+<p>&#160;</p>
+			</div>

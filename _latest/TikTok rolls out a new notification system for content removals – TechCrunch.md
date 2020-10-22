@@ -1,0 +1,25 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1227925807.jpeg?w=601 
+title: > 
+  TikTok rolls out a new notification system for content removals – TechCrunch 
+description: > 
+  TikTok says it has rolled out a new notification system to users worldwide that will offer more clarity around content removals.In the past, TikTok users have often complained about their videos disappearing without notice.As more users joined TikTok, video removals have grown, too.Regardless of timing, TikTok’s stronger policy enforcements may have led to even more confusion over video removals, due to its lack of a clear notification system.TikTok says it believes the new notification system for video removals will help to reduce repeat violations, as it did during tests. 
+keywords: > 
+  videos, removals, community, video, tiktok, removed, users, rolls, notification, system, content, techcrunch, policy 
+date: 1603381630.4627452 
+--- 
+<div><p id="speakable-summary">TikTok says it has rolled out a new notification system to users worldwide that will offer more clarity around content removals. The system, which had been in testing for a few months ahead of its global release, informs a TikTok user when their video had been removed and which policy it violated. It will also offer the user the ability to appeal the decision, if they choose.</p>
+<p>Now, when a video is removed over content violations, users will be notified in-app, with the date of the post and the specific policy it violated, along with a link to read the Community Guidelines.</p>
+<p></p><img class="size-large wp-image-2064631" src="https://techcrunch.com/wp-content/uploads/2020/10/670f727203f35146ed9dcad538a79752.png?w=680" alt="" width="680" height="680"><p class="piano-inline-promo"></p>
+<p>And if the video&#8217;s content was flagged as self-harm or suicide related, TikTok will also direct users to expert resources through an additional notification, including nonprofit befrienders.org. However, it doesn&#8217;t appear to include numbers for suicide hotlines, instead directing users or friends of users to call &#8220;local law enforcement.&#8221;</p>
+<p><a href="https://www.facebook.com/fbsafety/posts/817724748265365">Facebook</a> and <a href="https://techcrunch.com/2016/10/19/instagram-tackles-self-harm-and-suicide-with-new-reporting-tools-support-options/">Instagram</a>, by comparison, have a more robust system and wider array of partners offering support in cases like this.</p>
+<p></p><img class="size-large wp-image-2064632" src="https://techcrunch.com/wp-content/uploads/2020/10/6e9a34688dcb42beab3242f56a76bf5c.png?w=680" alt="" width="680" height="680"><p>In the past, TikTok users have often complained about their videos disappearing without notice. Some of these stories have gone viral, as when <a href="https://www.buzzfeed.com/stephenlaconte/lizzo-calls-out-tiktok-bathing-suit-takedowns-charli-damelio">Lizzo called out TikTok</a> for taking down videos of her in a bathing suit, for example.</p>
+<p>As more users joined TikTok, video removals have grown, too. In the first half of 2020, <a href="https://techcrunch.com/2020/09/22/tiktok-says-it-removed-104m-videos-in-h1-2020-proposes-harmful-content-coalition-with-other-social-apps/">TikTok said it removed 104.5 million videos</a> for policy violations, up from the <a href="https://www.cnbc.com/2020/07/09/tiktok-transparency-report.html">49+ million it removed</a> during the second half of 2019.</p>
+<p>The new notification system&#8217;s global launch also follows a recent expansion of TikTok&#8217;s enforcement actions around hate speech and other hateful ideologies.</p>
+<p>The company <a href="https://techcrunch.com/2020/10/21/tiktok-details-how-its-taking-further-action-against-hateful-ideologies/">only yesterday published an explanation of those changes</a> for its European community. That update was mistakenly reported by some news sites as if were a brand-new policy, but the majority of the changes had been <a href="https://newsroom.tiktok.com/en-us/countering-hate-on-tiktok">first announced in the U.S. in August</a>.</p>
+<p>Regardless of timing, TikTok&#8217;s stronger policy enforcements may have led to even more confusion over video removals, due to its lack of a clear notification system.</p>
+<p>TikTok says it believes the new notification system for video removals will help to reduce repeat violations, as it did during tests. It also saw visits to its Community Guidelines nearly triple, as a result of the new notifications, as well as a 14% reduction in requests for an appeal.</p>
+<p>&#8220;Being transparent with our community is key to continuing to earn and maintain trust,&#8221; said TikTok in an <a href="https://newsroom.tiktok.com/en-us/adding-clarity-to-content-removals">announcement</a>. &#8220;We&#8217;re glad to be able to bring this new notification system to all our users, and we&#8217;ll keep working to improve the ways we help our community understand our policies as we continue to build a safe and supportive platform.&#8221;</p>
+			</div>
