@@ -1,0 +1,28 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/toobin.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Limp excuses shouldn’t save Jeffrey Toobin 
+description: > 
+  If there’s one thing our culture still — depressingly — abides, it’s sexually inappropriate behavior by prominent white guys.Or even worse, they think women have become too hysterical, too reflexively offended, a little too loud, a little too angry, a little too powerful.Let’s consider the fallout had this been a prominent white conservative.And a woman who did such a thing — well, there would be no doubt of her intent, would there?We need Jeffrey Toobin’s self-important musings on CNN so badly — more than Chris Cuomo’s, even — that we should let this sticky little situation slide. 
+keywords: > 
+  limp, thing, white, excuses, worse, shouldnt, prominent, save, toobins, women, toobin, jeffrey, yorker, little, cnn 
+date: 1603325032.9042888 
+--- 
+<div><p>If there&#8217;s one thing our culture still &#8212; depressingly &#8212; abides, it&#8217;s sexually inappropriate behavior by prominent white guys.</p>
+<p>The <a href="https://nypost.com/2020/10/19/jeffrey-toobin-was-masturbating-in-front-of-new-yorker-bigs-report/">Jeffrey Toobin scandal</a>, with its pleas for sympathy from, among others, <a href="https://nypost.com/2020/10/20/cnns-brian-stelter-ripped-over-tweet-about-jeffrey-toobin/">Brian Stelter at CNN</a>, Conor Friedersdorf at The Atlantic and Kevin D. Williamson at The National Review, makes one thing resoundingly clear: Men such as these, who surely identify as erudite, sophisticated truth-tellers to power and on the right side of women&#8217;s issues, have learned nothing from #MeToo.</p>
+<p>Or worse, they <a href="https://pagesix.com/2020/10/21/rose-mcgowan-slams-jeffrey-toobin-defenders-amid-scandal/?_ga=2.170543904.1665013228.1603047796-727644098.1565021498" rel="noopener noreferrer" target="_blank">don&#8217;t really care</a>.</p>
+<p>Or even worse, they think women have become too hysterical, too reflexively offended, a little too loud, a little too angry, a little too powerful.</p>
+<p>How else to explain why Toobin &#8212; brilliant legal mind, contributor at The New Yorker and CNN, best-selling author, a 60-year-old Harvard alum who boasts of his longtime friendship with Supreme Court Justice Elena Kagan &#8212; decided to masturbate during a Zoom meeting, with the New Yorker&#8217;s best-known writers, during the day?</p>
+<p>&#8220;I made an embarrassingly stupid mistake, believing I was off-camera,&#8221; Toobin said, before invoking the refrain of our new cultural archetype, The Otherwise Respectable Sexual Deviant: &#8220;I apologize to my wife, family, friends and coworkers.&#8221;</p>
+<p>How else to explain why New Yorker editor David Remnick announced a suspension followed by an internal investigation? And oh, to be a fly on that wall, time-lining the emergence of Toobin&#8217;s penis from his underwear, how it came to be resting in his hand, how said hand began manipulating his member, the Zoom footage a regular Zapruder film, the august New Yorker parsing the traumas of those assaulted by Toobin&#8217;s O-face?</p>
+<p>In a great column for The Week back in 2017, Lili Loofbourow wrote about &#8220;the myth of the male bumbler,&#8221; asking us to reconcile the notion that men who have risen to the top of their hyper-competitive fields, be it politics or journalism or entertainment, somehow don&#8217;t know they&#8217;ve been sexually inappropriate, deviant or assaultive. She cited Woody Allen&#8217;s astonishment at having married his stepdaughter &#8212; Whoops! No idea how that happened &#8212; and self-identified feminist Louis C.K., who proclaimed he had no idea that locking women in his hotel rooms over decades, then forcing them to watch him masturbate, was wrong.</p>
+<p>&#8220;Now I&#8217;m aware of the extent of the impact of my actions,&#8221; he wrote.</p>
+<p>Let&#8217;s consider the fallout had this been a prominent white conservative. He&#8217;d have been toast by cocktail hour, woketivists on fire. And a woman who did such a thing &#8212; well, there would be no doubt of her intent, would there? Both cases would be considered acts of clear-cut sexual harassment and deviance, committed by a toxic and dangerous colleague.</p>
+<p>So why the double standard?</p>
+<p>Toobin&#8217;s <a href="https://nypost.com/2020/10/20/accused-zoom-masturbator-jeffrey-toobin-has-sordid-sex-history/">loathsome treatment of women</a> is on the record: The longtime mistress, daughter of a friend and colleague no less, who he got pregnant and then tried to bribe into an abortion (it gets worse, Google it); the prominent woman who claimed Toobin <a href="https://www.nydailynews.com/entertainment/gossip/cnn-jeffrey-toobin-made-shockingly-sexual-proposition-well-known-media-figure-claims-article-1.198127" rel="noopener noreferrer" target="_blank">followed her back to her hotel room</a>, saying &#8220;You know you want it,&#8221; then leaving her several disgusting voicemails.</p>
+<p>But no, in Toobin&#8217;s case we need an internal investigation. We need Jeffrey Toobin&#8217;s self-important musings on CNN so badly &#8212; more than Chris Cuomo&#8217;s, even &#8212; that we should let this sticky little situation slide.</p>
+<p>The October 5 edition of the New Yorker ran its most poignant cover in recent memory: Ruth Bader Ginsburg&#8217;s signature white collar against a black backdrop, in mourning and remembrance.</p>
+<p>Here&#8217;s hoping the magazine lives up to her standards.</p>
+			</div>

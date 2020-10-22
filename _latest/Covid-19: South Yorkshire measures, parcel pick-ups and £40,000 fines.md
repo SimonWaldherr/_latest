@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ichef.bbci.co.uk/news/1024/branded_news/CC94/production/_111527325_index_daily_update_version02_cv_976new.png 
+title: > 
+  Covid-19: South Yorkshire measures, parcel pick-ups and £40,000 fines 
+description: > 
+  It's been another day focused on local coronavirus restrictions in England.South Yorkshire will face the toughest Covid rules from Saturday, with tier three measures for all four of the local authority areas - Barnsley, Doncaster, Rotherham and Sheffield.Meanwhile, ministers have offered a £60m package to support businesses and employees in Greater Manchester, which is to move into tier three from Friday.And gyms and leisure centres will be able to reopen across Liverpool after the government bowed to pressure to bring it in line with other areas under tier three measures.Labour leader Sir Keir Starmer has said large parts of England face "months of prolonged agony" with no route out of Covid restrictions and inadequate support, but PM Boris Johnson has insisted his regionalised approach to restrictions is working. 
+keywords: > 
+  local, restrictions, parcel, areas, covid19, measures, support, england, covid, 40000, face, fines, pickups, yorkshire, tier, south 
+date: 1603325015.506125 
+--- 
+<div><p>It's been another day focused on local coronavirus restrictions in England. South Yorkshire will <a href="https://www.bbc.co.uk/news/uk-54627017" class="css-yidnqd-InlineLink e1no5rhv0">face the toughest Covid rules from Saturday</a>, with tier three measures for all four of the local authority areas - Barnsley, Doncaster, Rotherham and Sheffield. Meanwhile, ministers <a href="https://www.bbc.co.uk/news/uk-england-manchester-54628770" class="css-yidnqd-InlineLink e1no5rhv0">have offered a &#163;60m package </a>to support businesses and employees in Greater Manchester, which is to move into tier three from Friday. And gyms and leisure centres <a href="https://www.bbc.co.uk/news/uk-england-merseyside-54627352" class="css-yidnqd-InlineLink e1no5rhv0">will be able to reopen across Liverpool </a>after the government bowed to pressure to bring it in line with other areas under tier three measures. Labour leader Sir Keir Starmer has said large parts of England face <a href="https://www.bbc.co.uk/news/uk-politics-54627330" class="css-yidnqd-InlineLink e1no5rhv0">"months of prolonged agony"</a> with no route out of Covid restrictions and inadequate support, but PM Boris Johnson has insisted his regionalised approach to restrictions is working.</p></div>
