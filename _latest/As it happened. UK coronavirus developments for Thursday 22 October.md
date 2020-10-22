@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.3/bbc_news_logo.png 
+title: > 
+  As it happened. UK coronavirus developments for Thursday 22 October 
+description: > 
+  Lastly, Jane Kirby of the Press Association asked Sir Patrick Vallance if a decent level of roll-out of a potential vaccine is achieved by next spring, how soon people might be able to stop social distancing and wearing face coverings.She asked the PM if he would reconsider his opposition to a national circuit break - a short, sharp lockdown - if those in Northern Ireland and Wales are shown to be more effective than tier three restrictions in England.Sir Patrick replies first, insisting he will not speculate on how effective the vaccines are going to be, but says once we know how effective they are, it could be determined "how to use them best".The PM said a national circuit break would be "very damaging" economically, socially and mentally for the country."We do think the local measures are right, and I repeat my gratitude to local leadership across the country, people who are helping to get the R rate down across their neighbourhoods... and that's what we're going to continue with." 
+keywords: > 
+  coronavirus, vaccine, measures, uk, national, effective, 22, patrick, happened, break, circuit, developments, going, local, thats 
+date: 1603388662.2648137 
+--- 
+<div><p>Lastly, Jane Kirby of the Press Association asked Sir Patrick Vallance if a decent level of roll-out of a potential vaccine is achieved by next spring, how soon people might be able to stop social distancing and wearing face coverings.</p><p>She asked the PM if he would reconsider his opposition to a national circuit break - a short, sharp lockdown - if those in Northern Ireland and Wales are shown to be more effective than tier three restrictions in England.</p><p>Sir Patrick replies first, insisting he will not speculate on how effective the vaccines are going to be, but says once we know how effective they are, it could be determined "how to use them best".</p><p>"Clearly the aim of vaccination is to try to take most of the load of the infection spread onto the vaccine in order to be able to relieve other measures and that's got to be an aim we would all wish for," he adds.</p><p>The PM said a national circuit break would be "very damaging" economically, socially and mentally for the country. </p><p>"We do think the local measures are right, and I repeat my gratitude to local leadership across the country, people who are helping to get the R rate down across their neighbourhoods... and that's what we're going to continue with."</p></div>

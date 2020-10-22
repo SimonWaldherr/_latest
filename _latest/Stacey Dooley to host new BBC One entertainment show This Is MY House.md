@@ -1,0 +1,22 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://ichef.bbc.co.uk/corporate2/images/width/live/p0/5f/7g/p05f7gd0.jpg/624 
+title: > 
+  Stacey Dooley to host new BBC One entertainment show This Is MY House 
+description: > 
+  Richard Bacon, Creator and Executive Producer says: “This Is MY House is a game show with only one contestant - the homeowner.Can’t wait!”Tom Whitrow, Executive Producer Expectation says: “We’re delighted to be working with Richard to transform his format into this six-part series for BBC One.This Is MY House is an Expectation production for BBC One and has been commissioned by Kate Phillips, Acting Controller BBC One and Jo Wallace, Acting Controller Entertainment Commissioning.The format was created by Richard Bacon and US-based TV producer Nick Weidenfeld.The Executive Producers for Expectation are Tom Whitrow and Richard Bacon. 
+keywords: > 
+  richard, truth, entertainment, format, expectation, host, bbc, peoples, houses, bacon, producer, dooley, stacey, house 
+date: 1603388666.3194366 
+--- 
+<div><p>Feel so excited to be fronting this new entertainment show! I love to see inside people's houses so I'm made up to be involved in a gig that allows us to do that in a format that will bring some fun, humour and warmth at a time when we are all so craving escapism. Can&#8217;t wait!</p><p>This Is MY House (6x60) is an addictive guessing game format created by Richard Bacon and Nick Weidenfeld, and produced by Expectation, in which four people walk into a home and say, &#8220;This Is MY House&#8221;. The catch, only one of them is telling the truth.</p>
+<p>Stacey Dooley will host the hour-long programmes which will see a team of celebrity judges work together to figure out who is the honest homeowner and who are the imposters.</p>
+<p>A fresh modern show like no other, with a guessing game that will keep everyone playing along from their own homes. This Is MY House promises plenty of laugh out loud moments as each of the four opponents tries to prove that they are the real deal. It&#8217;s a fun show that challenges our prejudices and asks a simple question. Can the truth win?</p>
+<p>Richard Bacon, Creator and Executive Producer says: &#8220;This Is MY House is a game show with only one contestant - the homeowner. To win all they have to do is prove 'This is MY house!'. But it&#8217;s not that simple. Three actors will turn up, steal the contestant&#8217;s name and claim that the house and everything in it belongs to them. They all have competing stories. Our judges have one job. To uncover the truth. It couldn&#8217;t be easier. Right?&#8221;</p>
+<p>Kate Phillips, Acting Controller BBC One says: &#8220;This terrific new format will give everyone the ability to join in alongside our celebrity sleuths, navigating red herrings and surprises throughout!&#8221;</p>
+<p>Stacey Dooley says: &#8220;Feel so excited to be fronting this new entertainment show! I love to see inside people's houses so I'm made up to be involved in a gig that allows us to do that in a format that will bring some fun, humour and warmth at a time when we are all so craving escapism. Can&#8217;t wait!&#8221;</p>
+<p>Tom Whitrow, Executive Producer Expectation says: &#8220;We&#8217;re delighted to be working with Richard to transform his format into this six-part series for BBC One. It has so many elements that make it compelling - it&#8217;s funny, you get to snoop round people&#8217;s houses while trying to work out who is telling the truth and who is spinning some of the most convincing lies you&#8217;ve ever heard! Stacey is the dream host - and we can&#8217;t wait to share the intrigue with viewers.&#8221;</p>
+<p>This Is MY House is set to be broadcast on BBC One and BBC iPlayer in 2021 and further information will be announced in due course.</p>
+<p>This Is MY House is an Expectation production for BBC One and has been commissioned by Kate Phillips, Acting Controller BBC One and Jo Wallace, Acting Controller Entertainment Commissioning. The format was created by Richard Bacon and US-based TV producer Nick Weidenfeld. The Executive Producers for Expectation are Tom Whitrow and Richard Bacon. The Commissioning Editor for the BBC is Sarah Clay.</p>
+<p><strong>CM2</strong></p></div>

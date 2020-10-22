@@ -1,0 +1,20 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://techcrunch.com/wp-content/uploads/2020/10/TheGetUp_3C.jpg?w=400 
+title: > 
+  Spotify takes on radio with its own daily morning show – TechCrunch 
+description: > 
+  Spotify’s streaming music service is starting to resemble terrestrial radio with today’s launch of the company’s first daily morning show, “The Get Up.” Like other morning shows designed for commuters, the new program will be led by hosts and will combine news, pop culture, entertainment and music.But in Spotify’s case, the music is personalized to the listener,The show is not a live program, however.Unlike radio morning shows where content is broadcast live and often also involves interactions with listeners — like call-ins or contests — Spotify’s show is pre-recorded and made available as a playlist.Another key thing that makes Spotify’s programming different from a radio show is that the music is personalized to the listener.If you prefer to listen to new music during your commute, but have had been busy streaming oldies on Spotify’s service, your morning show will reflect those trends. 
+keywords: > 
+  techcrunch, program, shows, weekday, service, music, morning, radio, streaming, takes, daily, spotify, spotifys 
+date: 1603388705.3368773 
+--- 
+<div><p id="speakable-summary"><a class="crunchbase-link" href="https://crunchbase.com/organization/spotify" target="_blank">Spotify&#8217;s </a> streaming music service is starting to resemble terrestrial radio with <a href="https://newsroom.spotify.com/2020-10-22/say-hello-to-the-hosts-of-the-get-up-spotifys-new-daily-morning-show/">today&#8217;s launch</a> of the company&#8217;s first daily morning show, &#8220;<a href="http://www.spotify.com/thegetup">The Get Up</a>.&#8221; Like other morning shows designed for commuters, the new program will be led by hosts and will combine news, pop culture, entertainment and music. But in Spotify&#8217;s case, the music is personalized to the listener,</p>
+<p>The show is not a live program, however. Unlike radio morning shows where content is broadcast live and often also involves interactions with listeners &#8212; like call-ins or contests &#8212; Spotify&#8217;s show is pre-recorded and made available as a playlist.</p>
+<p>That means you can listen at any time after its 7 AM ET release on weekday mornings.</p><p class="piano-inline-promo"></p>
+<p>You can also opt to skip portions of the programming &#8212; like the music or some of the chatter &#8212; if you prefer. (Spotify, to be clear, refers to the show as a podcast, but the format actually splits the hosts&#8217; talk radio-like content from the individual music tracks. In other words, it&#8217;s more like a mixed-media playlist than a traditional podcast.)</p>
+<p>Another key thing that makes Spotify&#8217;s programming different from a radio show is that the music is personalized to the listener. Of course, that&#8217;s not always ideal. If you prefer to listen to new music during your commute, but have had been busy streaming oldies on Spotify&#8217;s service, your morning show will reflect those trends. There&#8217;s currently no way to program the show more directly by genre, either.</p>
+<p>The show itself is hosted by three people:&#160;journalist <a href="https://www.instagram.com/speedymorman/?hl=en">Speedy Morman</a>, previously of Complex; YouTuber <a href="https://www.instagram.com/itskatlazo/?hl=en">Kat Lazo</a>, known for her series &#8220;The Kat Call;&#8221; and Spotify&#8217;s own <a href="https://www.instagram.com/xavierjernigan/?hl=en">Xavier &#8216;X&#8217; Jernigan</a>, Head of Cultural Partnerships and In-House Talent.</p>
+<p>The new playlist will be made available on weekday mornings in the Made for You and Driving hubs on Spotify for both free and premium subscribers in the U.S. You can also access the show directly from <a href="http://www.spotify.com/thegetup">http://www.spotify.com/thegetup</a>.</p>
+			</div>
