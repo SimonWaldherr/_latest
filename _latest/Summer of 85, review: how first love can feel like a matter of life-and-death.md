@@ -1,0 +1,21 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/films/2020/10/22/summer-of-85_trans_NvBQzQNjv4BqMkNVuEiQYtpaGCtNshjkEJLAxLLycZ-qe6MU3mQadQI.jpg?impolicy=logo-overlay 
+title: > 
+  Summer of 85, review: how first love can feel like a matter of life-and-death 
+description: > 
+  Dir: François Ozon.Cast: Félix Lefebvre, Benjamin Voisin, Valeria Bruni Tedeschi, Philippine Velge, Melvil Poupaud, Isabelle Nanty, Laurent Fernandez.15 cert, 101 minsThe French director François Ozon can turn his hand to any genre going, but the result is always stippled with his distinctive fingerprints.The talented newcomer Félix Lefebvre stars as Alex, a 16-year-old boy who begins the film in police custody for what appears to be a very serious crime.Even the ever-present switchblade comb he uses to tame his caramel locks unsheathes itself with the steely ching of a flick-knife. 
+keywords: > 
+  turn, alex, summer, feel, valeria, david, ozon, voisin, davids, review, lifeanddeath, 85, matter, takes, love, tedeschi 
+date: 1603370120.2795653 
+--- 
+<div><ul>
+<li><strong>Dir: Fran&#231;ois Ozon.&#160;Cast: F&#233;lix Lefebvre, Benjamin Voisin, Valeria Bruni Tedeschi, Philippine Velge, Melvil Poupaud, Isabelle Nanty, Laurent Fernandez. 15 cert, 101 mins</strong></li>
+</ul>
+<p>The French director Fran&#231;ois Ozon can turn his hand to any genre going, but the result is always stippled with <a href="https://www.telegraph.co.uk/films/2018/06/03/francois-ozon-directing-steamiest-arthouse-movie-year/">his distinctive fingerprints</a>. His 19th feature, which opens in cinemas and on Curzon Home Cinema tomorrow, is an enthralling coming-of-age melodrama set in the Calais of 35 years ago &#8211; yet it&#8217;s clearly the product of the same playful gaze and frisky intellect as his dreamy erotic thriller Swimming Pool, his wily romantic wartime mystery Frantz, and his larksome retro comedy Potiche.</p>
+<p>Freely adapted from the 1982 novel Dance on My Grave by the British writer Aidan Chambers, Summer of 85 is a sweet&#160;gay romance that gradually morphs into something more suspenseful and macabre &#8211; with a note of cross-dressing farce, perhaps borrowed from his 1996 short A Summer Dress, which wittily undercuts all the teenage ardour and earnestness that comes with the turf.</p>
+<p>The talented newcomer F&#233;lix Lefebvre stars as Alex, a 16-year-old boy who begins the film in police custody for what appears to be a very serious crime. In a voiceover that initially sounds like a cold-hearted confession, he recalls the summer he met his close friend and, ominously, &#8220;future corpse&#8221; David Gorman (Benjamin Voisin) &#8211; whom we meet as he comes scudding to the rescue when Alex&#8217;s small boat capsizes on a solo sailing excursion in the Dover Strait.</p>
+<p>A kind of buff, Gallic, 18-year-old version of Rik Mayall with a permanently insinuating grin, David pulls Alex to safety, and the two soon strike up an amicable chemistry &#8211; which, after they go home to meet David&#8217;s coquettish mother (Valeria Bruni Tedeschi), starts to acquire a more overtly sensual charge. She insists on a hot bath for their shivering guest, and even takes the liberty of undressing him herself &#8211; a scene that sends a dual frisson of embarrassment and eroticism coursing through the film which all but screams &#8220;formative experience&#8221;.</p>
+<p>It also transpires that David&#8217;s father died just over a year ago, and his mother is counting on this new connection to bring some much-needed stability to her son&#8217;s unsettled life. To an extent, it does: the pair see Footloose at the local cinema together, and take sunset rides on David&#8217;s motorcycle, Alex clutching his friend&#8217;s waist as he daringly weaves through the oncoming cars. But even as their relationship takes a more intimate turn, such flirtations with danger suggest to Alex that there is a darker side to David, of which he has yet to become fully apprised. Even the ever-present switchblade comb he uses to tame his caramel locks unsheathes itself with the steely <i>ching</i>&#160;of a flick-knife.&#160;</p>
+</div>

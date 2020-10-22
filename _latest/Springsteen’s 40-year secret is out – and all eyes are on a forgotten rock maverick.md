@@ -1,0 +1,16 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://www.telegraph.co.uk/content/dam/music/2020/10/22/TELEMMGLPICT000242554406_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg?impolicy=logo-overlay 
+title: > 
+  Springsteen’s 40-year secret is out – and all eyes are on a forgotten rock maverick 
+description: > 
+  The original demo was a solo piano ballad, very dark and Dylanesque.It didn’t make the cut for Springsteen’s debut, but he continued to tinker with it over the next six years, changing lyrics, melody and arrangements.There’s a brooding, stripped-back solo acoustic version, and a full blast E Street Band rock arrangement worked up but rejected for Darkness on the Edge of Town in 1978.Janey was performed live a couple of times before being consigned to the archive, only to be brought out again for these sessions.Zevon was a musical contemporary of Springsteen’s, though much less famous, a rocky singer-songwriter with an acerbic streak and biting wit. 
+keywords: > 
+  needs, springsteens, eyes, maverick, worked, style, song, secret, 40year, zevon, lyrics, rock, solo, forgotten, debut, contemporary 
+date: 1603370119.915107 
+--- 
+<div><p>There have been unofficial bootlegs of Janey Needs a Shooter over the years. The original demo was a solo piano ballad, very dark and Dylanesque. It didn&#8217;t make the cut for Springsteen&#8217;s debut, but he continued to tinker with it over the next six years, changing lyrics, melody and arrangements. There&#8217;s a brooding, stripped-back solo acoustic version, and a full blast E Street Band rock arrangement worked up but rejected for Darkness on the Edge of Town in 1978. The song may have been deemed too close in spirit to the scintillating Candy&#8217;s Room, another track about a young buck protecting a lover who is also a sex worker.</p>
+<p>Janey was performed live a couple of times before being consigned to the archive, only to be brought out again for these sessions. Some of the more violent and sexual aspects of the lyrics have been tamed down, perhaps in light of more contemporary sensibilities &#8211; &#8220;His big gun was fun but Janey&#8217;s small&#8221; is a line no one will miss &#8211; but the song is a powerhouse, one of the standout tracks on the album. It&#8217;s thrilling to&#160;hear Springsteen tenderly sing&#160;&#8220;She needs a man who knows her style, like I know her style&#8221; with his gruff, soulful, older voice over the coda. This is&#160;such a dramatic and compelling piece, it&#8217;s&#160;hard to imagine many other songwriters having so much great material they could leave it gathering dust for 48 years.</p>
+<p>Which is where Warren Zevon comes in. Zevon was a musical contemporary of Springsteen&#8217;s, though much less famous, a rocky singer-songwriter with an acerbic streak and biting wit. He started out as a Dylan influenced folk singer releasing an unsuccessful debut album in 1969, and worked as a session musician (he toured with the Everly Brothers) and jingle writer in the 1970s, sharing an apartment with Stevie Nicks and Lyndsey Buckingham in Los Angeles around the time they joined Fleetwood Mac, and collaborating with Jackson Browne.</p>
+</div>
