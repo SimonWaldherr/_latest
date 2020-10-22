@@ -1,0 +1,23 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://nypost.com/wp-content/uploads/sites/2/2020/10/Singapore-Airlines-01.jpg?quality=90&strip=all&w=1200 
+title: > 
+  Singapore Airlines resumes world’s longest direct flight from New York City 
+description: > 
+  One of the world’s longest flights will be taking off soon, months after it was grounded by the coronavirus.On Tuesday, Singapore Airlines announced that it will be resuming its nonstop flight between Singapore and the New York City area starting on Nov. 9.According to the announcement, the flight from Singapore Changi Airport to John F. Kennedy International Airport will last 18 hours and 5 minutes, while the flight from JFK to Singapore will last 18 hours and 40 minutes.Previously, Singapore Airlines had a direct flight between Singapore and Newark Liberty International Airport.“Operating these flights between Singapore and New York’s JFK International Airport represent an important step in the rebuilding of our global network,” Lee Lik Hsin, a Singapore Airlines executive vice president said in a statement. 
+keywords: > 
+  airline, longest, resumes, direct, airport, city, airlines, nov, flight, jfk, services, york, starting, worlds, singapore 
+date: 1603353546.1809456 
+--- 
+<div><p>Sign up for our special edition newsletter to get a daily update on the coronavirus pandemic.</p><p>One of the world&#8217;s longest flights will be taking off soon, months after it was grounded by the coronavirus.</p>
+<p>On Tuesday, <a href="https://www.singaporeair.com/en_UK/gb/media-centre/press-release/article/?q=en_UK/2020/October-December/ne1720-201020" target="_blank" rel="noopener noreferrer">Singapore Airlines announced</a> that it will be resuming its nonstop flight between Singapore and the New York City area starting on Nov. 9.</p>
+<p>According to the announcement, the flight from Singapore Changi Airport to John F. Kennedy International Airport will last 18 hours and 5 minutes, while the flight from JFK to Singapore will last 18 hours and 40 minutes.</p>
+<p>Previously, Singapore Airlines had a direct flight between Singapore and Newark Liberty International Airport. According to a report <a href="https://www.insider.com/longest-flight-routes-in-the-world#singapore-airlines-direct-flight-from-singapore-to-newark-new-jersey-is-currently-the-longest-flight-in-the-world-lasting-around-18-hours-and-30-minutes-and-traveling-9534-miles-11" target="_blank" rel="noopener noreferrer">from Business Insider</a> earlier this year, that flight lasted 18 hours and 30 minutes.</p>
+<p>That flight was suspended in March, as part of the airline&#8217;s decision to cut 96 percent of its capacity, <a href="https://thepointsguy.com/news/singapore-airlines-slashes-capacity-including-worlds-longest-flight/" target="_blank" rel="noopener noreferrer">The Points Guy reported</a> at the time.</p>
+<p>According to Singapore Airlines&#8217; recent announcement, the airline decided to switch its direct flight from Newark to JFK because the Queens-based airport &#8220;would allow Singapore Airlines to better accommodate a mix of passengers and cargo traffic on its services to New York in the current operating climate.&#8221;</p>
+<p>The airline has continued to offer a direct flight to and from Los Angeles, but only certain people &#8212; including citizens and people with long-term passes &#8212; have been allowed to enter Singapore, <a href="https://www.usatoday.com/story/travel/airline-news/2020/10/20/air-travel-one-worlds-longest-flights-return/5983321002/" target="_blank" rel="noopener noreferrer">USA Today reported.</a></p>
+<p>Before the airline resumes operations at other U.S. airports, the airline said it would continue to evaluate the demand for travel and the country&#8217;s recovery from the pandemic.</p>
+<p>&#8220;Operating these flights between Singapore and New York&#8217;s JFK International Airport represent an important step in the rebuilding of our global network,&#8221; Lee Lik Hsin, a Singapore Airlines executive vice president said in a statement. &#8220;Non-stop ultra-long services are the bedrock of our services to the key U.S. market. We will continue to ramp up existing services and reinstate other points as the demand for both passenger and cargo services return.&#8221;</p>
+<p>According to the announcement, the direct flight from Singapore to JFK will operate three times a week starting on Nov. 9 and the flight from JFK to Singapore will also operate three times a week starting on Nov. 11.</p>
+			</div>
