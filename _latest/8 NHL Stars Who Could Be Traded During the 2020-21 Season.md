@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://img.bleacherreport.net/img/slides/photos/004/416/129/hi-res-6db9f2f12d215ddd39bce29b04e2d7d4_crop_exact.jpg?w=1200&h=1200&q=75 
+title: > 
+  8 NHL Stars Who Could Be Traded During the 2020-21 Season 
+description: > 
+  0 of 8Joe Buglewicz/Associated PressThe NHL trade market has been busy since the offseason began on Oct. 1.That activity could be an indication of a busy trade market during the 2020-21 season.Several stars, including Vegas Golden Knights goaltender Marc-Andre Fleury, Calgary Flames winger Johnny Gaudreau and Winnipeg Jets winger Patrik Laine, have featured prominently in media trade speculation.However, the flattened salary cap and the pressure for general managers to address ongoing roster issues could see some of them change addresses before next season's NHL trade deadline.Here's a look at eight NHL stars who could be traded during 2020-21. 
+keywords: > 
+  trade, offseason, zadorov, traded, winger, players, season, nhl, market, stars, busy, 202021 
+date: 1603383311.7366006 
+--- 
+<ol><p class="slideData">0 of 8</p><p></p><img alt="" src="https://static-assets.bleacherreport.net/img/atoms/lazyImage/logo.png"><p class="credit">Joe Buglewicz/Associated Press</p><p class="">The NHL trade market has been busy since the offseason began on Oct. 1. The 18 trades thus far&#160;<a href="https://www.nhl.com/news/2020-21-nhl-trades/c-289968698" target="_blank" rel="noopener noreferrer">involving established players</a>&#160;include the Montreal Canadiens shipping Max Domi to the Columbus Blue Jackets for Josh Anderson, the Chicago Blackhawks dealing Brandon Saad to the Colorado Avalanche for Nikita Zadorov in a multi-player swap and the Ottawa Senators acquiring Matt Murray from the Pittsburgh Penguins.</p><p class="">That activity could be an indication of a busy trade market during the 2020-21 season. Several stars, including Vegas Golden Knights goaltender Marc-Andre Fleury, Calgary Flames winger Johnny Gaudreau and Winnipeg Jets winger Patrik Laine, have featured prominently in media trade speculation.</p><p class="">Those players might not be moved during the offseason. However, the flattened salary cap and the pressure for general managers to address ongoing roster issues could see some of them change addresses before next season's NHL trade deadline.</p><p class="">Here's a look at eight NHL stars who could be traded during 2020-21.</p></ol>
