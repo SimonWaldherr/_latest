@@ -1,0 +1,40 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/15/abf60771-43d3-4ca1-8d25-cc173c0d21e7/thumbnail/1200x630/b523fe2ced99ec4b709b10b14efddb96/gettyimages-1267244335.jpg 
+title: > 
+  Obama slams President Trump at campaign event for Biden 
+description: > 
+  Former President Barack Obama blasted President Donald Trump's handling of the coronavirus pandemic and his response to racial unrest in his first in-person campaign pitch Wednesday for Joe Biden, his former vice president.The roundtable was a personalized version of the same message, with the nation's first Black president urging Black men especially not to give into apathy.Mr. Obama, 59, said he understood young voters' skepticism and disinterest, recalling his own attitude decades ago.Mr. Obama has already been helpful to the Biden campaign, adapting to the shift to virtual events by focusing much of his work on getting younger Americans to vote.A grassroots virtual fundraiser Mr. Obama headlined with Biden in June brought in $7.6 million. 
+keywords: > 
+  mr, young, obama, voters, event, slams, president, trump, campaign, black, men, biden 
+date: 1603366721.3017151 
+--- 
+<div><p>Former President Barack Obama blasted President Donald Trump's handling of the coronavirus pandemic and his response to racial unrest in his first in-person campaign pitch Wednesday for Joe Biden, his former vice president.</p>
+
+    
+<p id="mpu-plus-top-right-rail" class="ad-mpu-plus-top-right-rail ad-wrapper ">
+    </p>
+<p>With less than two weeks until <a href="/race-to-2020/">Election</a> Day, Mr. Obama delivered a sweeping condemnation of Trump while urging voters not to sit out the November 3 election. He cast Trump as uninterested in leading America through the unprecedented challenges the country is facing.</p><p>"He hasn't shown any interest in doing the work or helping anybody but himself and his friends," Mr. Obama said at a drive-in rally of about 300 cars. "This is not a reality show. This is reality, and the rest of us have had to live with the consequences of him proving himself incapable of taking the job seriously."</p>
+
+  
+  
+<span class="img item__thumb item__thumb--crop-0"><img src="https://cbsnews1.cbsistatic.com/hub/i/r/2019/11/19/186936ea-2db7-4a48-b750-74f38f653dc6/thumbnail/130x130/3b7d3f89bd089e1d4a2376e43d0f0efa/newsletter-breakingnews.jpg#" alt=" " height="130" width="130" class=" lazyload"></span><h4 class="item__dek">Get Breaking News Delivered to Your Inbox</h4>
+
+<p class="embed__resizer"></p>
+    
+  
+
+<p>Mr. Obama's visit to Philadelphia underscores the significance of Pennsylvania, the swing state that Biden himself has visited the most this campaign season. Trump has prioritized the state as well, and his aides acknowledge that his path to victory would narrow considerably without the state's 20 electoral votes. The president on Wednesday was in Erie, one of a handful of Pennsylvania counties that Obama won twice before it flipped to Trump.</p><p>Specifically targeting voters who might be disillusioned, Mr. Obama offered a defense of the nation's decency and personal validation that Biden and his running mate, California Senator Kamala Harris, can live up to it.</p><p>"America is a good and decent place, but we've just seen so much nonsense and noise that sometimes it's hard to remember," he said. "I'm asking you to remember what this country can be. ... I'm asking you to believe in Joe's ability and Kamala's ability to lead this country out of these dark times and help us build it back better."</p> 
+<p>During his speech and at an earlier roundtable with Black men, Obama talked up the Democrats' plans to confront the coronavirus while dealing with the country's social and economic tensions, including disparities deeply rooted in racism.</p><p>"I am so confident in Joe Biden and Kamala Harris surrounding themselves with people who are serious, who know what they're doing, who are representative of all people &#8212; not just some people &#8212; and us being able to then dig ourselves out of this hole," Mr. Obama said.</p><p>"We can't be complacent," Mr. Obama warned. "I don't care about the polls. There were a whole bunch of polls last time. Didn't work out because a whole bunch of folks stayed at home and got lazy and complacent. Not this time. Not this election."</p><p>The roundtable was a personalized version of the same message, with the nation's first Black president urging Black men especially not to give into apathy. The host city, Philadelphia, is among the Democratic bastions in key battleground states where Black turnout four years ago fell off from Obama's 2012 reelection in large numbers.&#160;</p>
+
+    
+<p id="leader-middle-plus-content" class="ad-leader-middle-plus-content ad-wrapper ">
+    </p>
+<p>Mr. Obama, 59, said he understood young voters' skepticism and disinterest, recalling his own attitude decades ago. "I'll confess, when I was 20 years old, I wasn't all that woke," he said at the roundtable, adding that young Black men are "not involved because they're young and they're distracted."</p><p>But he said not <a href="/live-updates/how-to-vote-2020-election/">voting</a> gives away power.</p><p>"The answer for young people when I talk to them is not that voting makes everything perfect," he said. "It's that it makes things better" because politicians respond to and reflect the citizens who cast votes.</p><p>"One of the biggest tricks that's perpetrated on the American people is this idea that the government is separate from you," Mr. Obama said. "The government's us. Of, by and for the people. It wasn't always for all of us, but the way it's designed, it works based on who's at the table."</p><p>Despite the smaller scale, Democrats say that as one of the men who knows Biden best, both as his former partner in the White House and personally, Mr. Obama remains one of the party's greatest assets in the final stretch of the campaign.</p><p>Four years ago, Mr. Obama delivered Hillary Clinton's closing argument in Philadelphia &#8212; at a rally for thousands the night before Election Day on Independence Mall. Now, with the coronavirus pandemic upending campaigning, far fewer voters saw the former president in person. But he used the spotlight he had to remind voters of 2016, when Trump upset Clinton narrowly in Pennsylvania, Michigan and Wisconsin to forge an Electoral College majority despite losing the popular vote nationally.</p><p>Mr. Obama has already been helpful to the Biden campaign, adapting to the shift to virtual events by focusing much of his work on getting younger Americans to vote. He's appeared on Twitch, the video game streaming platform, pushed a voter registration message on Snapchat and recorded a video for the Shade Room, a Black-owned Instagram page and media company with 21 million followers.</p>
+
+    
+    
+<p id="mpu-flex-middle-content-right-rail5" class="ad-mpu-flex-middle-content-right-rail ad-wrapper ">
+    </p>
+<p>Mr. Obama has appeared on two podcasts run by some of his former aides and has lent his name to texts and emails encouraging supporters to register to vote and donate money to the campaign. Mr. Obama has also been a big money draw for the campaign &#8212; he appeared at two virtual fundraisers with Harris this month and a handful prior to that. A grassroots virtual fundraiser Mr. Obama headlined with Biden in June brought in $7.6 million.</p><p>The former president has also been active for down-ballot Democrats, raising money for House Democrats and appearing in ads for some of the party's top candidates, like Sara Gideon, running for the Senate in Maine, and for vulnerable incumbents, like Michigan Senator Gary Peters. He also filmed a series of digital videos for the Democratic National Committee emphasizing the need for voters to make plans for casting their ballot.</p><p></p></div>
