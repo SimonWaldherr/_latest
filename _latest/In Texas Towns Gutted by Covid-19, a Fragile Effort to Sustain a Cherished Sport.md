@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://static01.nyt.com/images/2020/10/22/sports/22virus-riogrande-1/22virus-riogrande-1-facebookJumbo.jpg 
+title: > 
+  In Texas Towns Gutted by Covid-19, a Fragile Effort to Sustain a Cherished Sport 
+description: > 
+  “Every player tested neg.”The text message seemed full of relief as much as hope.A day later, Lerma sent an ominous update.“Big left tackle tested positive.”This was what everyone had feared as the fall sports season approached.During such a crisis, Palmview High School’s fragile effort to hold a football season might seem inconsequential.But the game is perhaps more urgent and galvanizing in Texas than anywhere else. 
+keywords: > 
+  covid19, sustain, high, lerma, left, valley, towns, texas, cherished, palmview, tested, season, rio, sent, gutted, effort, fragile, sport 
+date: 1603361936.7553334 
+--- 
+<div><p class="css-158dogj evys1bk0">&#8220;Every player tested neg.&#8221;</p><p class="css-158dogj evys1bk0">The text message seemed full of relief as much as hope.</p><p class="css-158dogj evys1bk0">It was sent Oct. 13 by Ernesto Lerma, a 78-year-old assistant coach for the Palmview High School football team in the Rio Grande Valley, where the southern tip of Texas forms the toe of a cowboy boot along the border with Mexico.</p><p class="css-158dogj evys1bk0">A day later, Lerma sent an ominous update.</p><p class="css-158dogj evys1bk0">&#8220;Big left tackle tested positive.&#8221;</p><p class="css-158dogj evys1bk0">This was what everyone had feared as the fall sports season approached.</p><p class="css-158dogj evys1bk0">The coronavirus pandemic had ravaged the valley in summer. In July, <a class="css-1g7m0tk" href="https://www.nytimes.com/2020/07/19/us/coronavirus-texas-rio-grande-valley.html" title="">ambulances lined up in a grim parade</a>, waiting to drop patients at emergency rooms. Some <a class="css-1g7m0tk" href="https://www.nytimes.com/2020/07/28/us/coronavirus-texas-funeral-homes.html" title="">funeral homes ordered refrigerated trucks</a> to store bodies.</p><p class="css-158dogj evys1bk0">During such a crisis, Palmview High School&#8217;s fragile effort to hold a football season might seem inconsequential. But the game is perhaps more urgent and galvanizing in Texas than anywhere else. As towns along or near the Rio Grande &#8212; like La Joya, Palmview, Mission, Progreso, Weslaco, Rio Hondo &#8212; have shut off their Friday night lights, or left them flickering in uncertainty, there has been a sense of cultural casualty.</p></div>
