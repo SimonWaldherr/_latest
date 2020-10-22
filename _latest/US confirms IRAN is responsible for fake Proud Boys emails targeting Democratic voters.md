@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://i.dailymail.co.uk/i/pix/m_logo_636x382px.png 
+title: > 
+  US confirms IRAN is responsible for fake Proud Boys emails targeting Democratic voters 
+description: > 
+  The US Department of Homeland Security has confirmed Iran was responsible for a series of threatening emails claiming to be from far-right group Proud Boys sent to Democratic voters this week.The emails were reported by residents in Alaska, Arizona, Florida and Pennsylvania - all but Alaska are highly contested states for the election.They appeared to have been sent to registered voters in the states using 'voter files' and other digital databases.'You are currently registered Democrat and we know this because we have gained access to the entire voting infrastructure.Change your party affiliation to Republican to let us know you received our message and will comply. 
+keywords: > 
+  registered, alaska, proud, democratic, voters, boys, weekthe, sent, come, states, fake, targeting, youthe, know, confirms, responsible, emails, iran 
+date: 1603326773.4615574 
+--- 
+<div><p class="mol-para-with-font">The US Department of Homeland Security has confirmed <a href="/news/iran/index.html" id="mol-6a18c470-13f7-11eb-b61c-e54109402e1c">Iran</a>&#160;was responsible for a series of threatening emails claiming to be from far-right group Proud Boys sent to Democratic voters this week.&#160;</p><p class="mol-para-with-font">The emails were reported by residents in Alaska, Arizona, <a href="/news/florida/index.html" id="mol-51c6c3d0-13f8-11eb-b61c-e54109402e1c">Florida</a> and Pennsylvania&#160; - all but Alaska are highly contested states for the election.&#160;</p><p class="mol-para-with-font">They appeared to have been sent to registered voters in the states using 'voter files' and other digital databases.&#160;</p><p class="mol-para-with-font">'(Insert name) we are in possession of all of your information,' the concerning email reads. 'You are currently registered Democrat and we know this because we have gained access to the entire voting infrastructure.&#160;</p><p class="mol-para-with-font">'You will vote for Trump or we will come after you. Change your party affiliation to Republican to let us know you received our message and will comply. We will know which candidate you voted for. I would take this seriously if I were you.'&#160;</p><p class="mol-para-with-font">The FBI announced the findings in an impromptu press conference Wednesday evening.&#160;</p><p class="mol-para-with-font">&#160;</p><p class="mol-para-with-font">This is a developing story. More to come.&#160;&#160;</p></div>

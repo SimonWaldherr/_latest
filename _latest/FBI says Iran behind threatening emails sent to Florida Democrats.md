@@ -1,0 +1,13 @@
+--- 
+extends: _layouts.post 
+section: content 
+image: https://media4.s-nbcnews.com/j/newscms/2019_01/2705191/nbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.nbcnews-fp-1200-630.png 
+title: > 
+  FBI says Iran behind threatening emails sent to Florida Democrats 
+description: > 
+  Iranian intelligence was responsible for a recent campaign of emails sent to intimidate Florida voters, the FBI announced Wednesday night, adding that Russia was also working to influence the election.But the emails were actually "spoofed" and designed "to incite social unrest and damage President Trump," announced John Ratcliffe, director of national intelligence.Many states, including Florida, make voter information, including voters’ names and party affiliations, easily accessible to members of the public who request it.Both Iran and Russia had obtained some Americans’ voter registration information, Ratcliffe said.In the same press conference, FBI Director Chris Wray said there was still no way for Iranian or Russian intelligence to change Americans’ votes. 
+keywords: > 
+  fbi, iranian, voters, voter, sent, russia, ratcliffe, florida, party, wray, trump, democrats, threatening, emails, iran 
+date: 1603326746.6179616 
+--- 
+<div><p class="endmarkEnabled">Iranian intelligence was responsible for a recent campaign of emails sent to intimidate Florida voters, the FBI announced Wednesday night, adding that Russia was also working to influence the election.</p><p class="endmarkEnabled">The emails ominously <a href="https://twitter.com/Nicoleeem73/status/1318570763738370049/photo/1">instructed</a> Democratic voters in Florida to switch to the Republican Party and purported to come from the Proud Boys, the right-wing group of Trump supporters that became a flashpoint during the first presidential debate.</p><p></p><p id="taboolaReadMoreBelow"></p><p class="endmarkEnabled">But the emails were actually "spoofed" and designed "to incite social unrest and damage President Trump," announced John Ratcliffe, director of national intelligence.</p><p class="endmarkEnabled">Many states, including Florida, make voter information, including voters&#8217; names and party affiliations, easily accessible to members of the public who request it.</p><p class="endmarkEnabled">Both Iran and Russia had obtained some Americans&#8217; voter registration information, Ratcliffe said.</p><p class="endmarkEnabled">In the same press conference, FBI Director Chris Wray said there was still no way for Iranian or Russian intelligence to change Americans&#8217; votes.</p><p></p><p class="endmarkEnabled">&#8220;You should be confident that your vote counts,&#8221; Wray said.</p></div>
